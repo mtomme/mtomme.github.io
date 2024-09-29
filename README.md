@@ -10,7 +10,7 @@ Our AI, powered by a comprehensive car database, offers a personalized experienc
 
 <div style="text-align: center;">
     <a href="quiz.html">
-        <button style="background-color: #ff4c4c; color: white; padding: 15px 30px; font-size: 1.2em; border: none; border-radius: 10px; cursor: pointer;">
+        <button style="background-color: #ff4c4c; color: white; padding: 15px 30px; font-size: 1.2em; border: none; border-radius: 10px; cursor: pointer; transition: all 0.3s ease;">
             Get Started
         </button>
     </a>
@@ -55,8 +55,10 @@ Stay tuned for updates as we continue to improve the AI experience.
       border: none;
       border-radius: 10px;
       cursor: pointer;
+      transition: all 0.3s ease;
   }
   button:hover {
-      background-color: #e60000;
+      background-color: #ff6666;
+      transform: scale(1.1);
   }
 </style>
