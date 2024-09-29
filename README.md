@@ -44,11 +44,11 @@ We are the team behind the **Find Your Perfect Car** project. Meet the people ma
         <p style="color: #ffffff;">Ean Shi</p>
     </div>
     <div>
-        <img src="images/zachimage.jpg" alt="Zachary Kao" style="border-radius: 50%; width: 150px; height: 150px;">
+        <img src="Images/zachimage.jpg" alt="Zachary Kao" style="border-radius: 50%; width: 150px; height: 150px;">
         <p style="color: #ffffff;">Zachary Kao</p>
     </div>
     <div>
-        <img src="matimage.png" alt="Matthew Tomme" style="border-radius: 50%; width: 150px; height: 150px;">
+        <img src="Images/matimage.png" alt="Matthew Tomme" style="border-radius: 50%; width: 150px; height: 150px;">
         <p style="color: #ffffff;">Matthew Tomme</p>
     </div>
 </div>
