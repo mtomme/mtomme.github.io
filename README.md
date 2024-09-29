@@ -26,6 +26,35 @@ Our AI, powered by a comprehensive car database, offers a personalized experienc
 
 ---
 
+## <span style="color: #ff4c4c;">Meet the Team</span>
+
+We are the team behind the **Find Your Perfect Car** project. Meet the people making it all happen!
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; text-align: center; margin-top: 20px;">
+    <div>
+        <img src="path_to_david_image.jpg" alt="David Del Moral" style="border-radius: 50%; width: 150px; height: 150px;">
+        <p style="color: #ffffff;">David Del Moral</p>
+    </div>
+    <div>
+        <img src="path_to_ricky_image.jpg" alt="Ricky Godsey" style="border-radius: 50%; width: 150px; height: 150px;">
+        <p style="color: #ffffff;">Ricky Godsey</p>
+    </div>
+    <div>
+        <img src="path_to_ean_image.jpg" alt="Ean Shi" style="border-radius: 50%; width: 150px; height: 150px;">
+        <p style="color: #ffffff;">Ean Shi</p>
+    </div>
+    <div>
+        <img src="path_to_zachary_image.jpg" alt="Zachary Kao" style="border-radius: 50%; width: 150px; height: 150px;">
+        <p style="color: #ffffff;">Zachary Kao</p>
+    </div>
+    <div>
+        <img src="path_to_matthew_image.jpg" alt="Matthew Tomme" style="border-radius: 50%; width: 150px; height: 150px;">
+        <p style="color: #ffffff;">Matthew Tomme</p>
+    </div>
+</div>
+
+---
+
 ## <span style="color: #ff4c4c;">Proposal and Policy</span>
 
 We are committed to building a user-centric experience through this AI-driven platform. Our development process is outlined in the project proposal below. Please take a moment to review it.
