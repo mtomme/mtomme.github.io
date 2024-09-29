@@ -26,6 +26,14 @@ Our AI, powered by a comprehensive car database, offers a personalized experienc
 
 ---
 
+## <span style="color: #ff4c4c;">Proposal and Policy</span>
+
+We are committed to building a user-centric experience through this AI-driven platform. Our development process is outlined in the project proposal below. Please take a moment to review it.
+
+<iframe src="./COSC4330_ProgrammingBros_ProjectProposal.pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+---
+
 ## <span style="color: #ff4c4c;">Powered by CarAPI & AI</span>
 
 Stay tuned for updates as we continue to improve the AI experience.
