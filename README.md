@@ -1,7 +1,6 @@
 # Find Your Perfect Car
 
-<img src="![image](https://github.com/user-attachments/assets/880e489e-ec16-4350-b33a-7e1d3f1dfaf1)
-" alt="Car Banner" width="100%" />
+<img src="[![image](https://github.com/user-attachments/assets/880e489e-ec16-4350-b33a-7e1d3f1dfaf1)](https://www.motortrend.com/uploads/sites/5/2017/06/2018-Chevrolet-Camaro-ZL1-1LE-front-three-quarter-in-motion-03-2.jpg)" alt="Car Banner" width="100%" />
 
 Welcome to **Find Your Perfect Car**—an **Akinator-style AI** designed to help you discover the car that best suits your needs! Powered by the **CarAPI** database, our AI will guide you through a series of questions to match you with your ideal vehicle.
 
