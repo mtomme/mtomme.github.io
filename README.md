@@ -32,11 +32,11 @@ We are the team behind the **Find Your Perfect Car** project. Meet the people ma
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; text-align: center; margin-top: 20px;">
     <div>
-        <img src="path_to_david_image.jpg" alt="David Del Moral" style="border-radius: 50%; width: 150px; height: 150px;">
+        <img src="Images/ddmimage.jpg" alt="David Del Moral" style="border-radius: 50%; width: 150px; height: 150px;">
         <p style="color: #ffffff;">David Del Moral</p>
     </div>
     <div>
-        <img src="path_to_ricky_image.jpg" alt="Ricky Godsey" style="border-radius: 50%; width: 150px; height: 150px;">
+        <img src="Images/rickyimage.jpg" alt="Ricky Godsey" style="border-radius: 50%; width: 150px; height: 150px;">
         <p style="color: #ffffff;">Ricky Godsey</p>
     </div>
     <div>
