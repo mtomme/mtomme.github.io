@@ -40,7 +40,7 @@ We are the team behind the **Find Your Perfect Car** project. Meet the people ma
         <p style="color: #ffffff;">Ricky Godsey</p>
     </div>
     <div>
-        <img src="path_to_ean_image.jpg" alt="Ean Shi" style="border-radius: 50%; width: 150px; height: 150px;">
+        <img src="Images/Eanimage.jpg" alt="Ean Shi" style="border-radius: 50%; width: 150px; height: 150px;">
         <p style="color: #ffffff;">Ean Shi</p>
     </div>
     <div>
