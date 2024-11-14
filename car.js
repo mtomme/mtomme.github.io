@@ -1,4 +1,14 @@
-// script.js
+document.addEventListener("DOMContentLoaded", () => {
+    const startQuizBtn = document.getElementById("startQuizBtn");
+    const quizSection = document.getElementById("quiz");
+
+    startQuizBtn.addEventListener("click", () => {
+        // Hide the Start button and reveal the quiz form
+        startQuizBtn.style.display = "none";
+        quizSection.style.display = "block";
+    });
+});
+
 async function getRecommendation() {
     const make = document.getElementById('make').value;
     const model = document.getElementById('model').value;
@@ -7,33 +17,12 @@ async function getRecommendation() {
     const fuel = document.getElementById('fuel').value;
     const drive = document.getElementById('drive').value;
 
-    const response = await fetch('/api/recommend', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ make, model, year, price, fuel, drive })
-    });
+    // Example of result handling
+    const resultsDiv = document.getElementById("results");
+    resultsDiv.innerHTML = "<p>Finding your perfect car...</p>";
 
-    const data = await response.json();
-    displayResults(data);
-}
-
-function displayResults(cars) {
-    const results = document.getElementById('results');
-    results.innerHTML = '';
-    if (cars.length > 0) {
-        cars.forEach(car => {
-            const carElement = document.createElement('div');
-            carElement.classList.add('car');
-            carElement.innerHTML = `
-                <strong>${car['Make Name']} ${car['Model Name']}</strong><br>
-                Year: ${car['Trim Year']}<br>
-                Type: ${car['Body Type']}<br>
-                Fuel: ${car['Engine Fuel Type']}<br>
-                Price: $${car['Trim Msrp']}<br>
-            `;
-            results.appendChild(carElement);
-        });
-    } else {
-        results.innerHTML = '<p>No cars matched your preferences.</p>';
-    }
+    // Simulate API request and update results
+    setTimeout(() => {
+        resultsDiv.innerHTML = "<p>Car recommendations are now displayed here.</p>";
+    }, 1000);
 }
