@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Your Perfect Car</title>
+    <link rel="stylesheet" href="car.css"> <!-- Link to external CSS if using separate files -->
+    <script src="car.js" defer></script> <!-- Link to JavaScript file -->
+</head>
+<body>
+
+<h1 style="color: #ff4c4c;">Find Your Perfect Car</h1>
+<p>Welcome to <strong>Find Your Perfect Car</strong>—an <strong>Akinator-style AI</strong> designed to help you discover the car that best suits your needs! Powered by the <strong>CarAPI</strong> database, our AI will guide you through a series of questions to match you with your ideal vehicle.</p>
+
+<div style="text-align: center;">
+    <a href="#quiz">
+        <button style="background-color: #ff4c4c; color: white; padding: 15px 30px; font-size: 1.2em; border: none; border-radius: 10px; cursor: pointer; transition: all 0.3s ease;">
+            Get Started
+        </button>
+    </a>
+</div>
+
+<h2 style="color: #ff4c4c;">Discover the Car Made for You</h2>
+<p>Our AI, powered by a comprehensive car database, offers a personalized experience to find your perfect car based on your preferences. Whether you’re looking for speed, style, or efficiency, we’ve got you covered.</p>
+
+<!-- Quiz Form Section -->
+<section id="quiz">
+    <form id="carForm">
+        <label for="make">Preferred Car Brand:</label>
+        <input type="text" id="make" name="make" placeholder="e.g., Toyota, Ford">
+        
+        <label for="model">Specific Model:</label>
+        <input type="text" id="model" name="model" placeholder="Optional">
+
+        <label for="year">Model Year:</label>
+        <input type="number" id="year" name="year" placeholder="Optional">
+
+        <label for="price">Maximum Budget ($):</label>
+        <input type="number" id="price" name="price" placeholder="Optional">
+
+        <label for="fuel">Fuel Type:</label>
+        <select id="fuel" name="fuel">
+            <option value="">Any</option>
+            <option value="regular unleaded">Regular Unleaded</option>
+            <option value="premium unleaded">Premium Unleaded</option>
+            <option value="diesel fuel">Diesel</option>
+            <option value="electric">Electric</option>
+        </select>
+
+        <label for="drive">Drive Type:</label>
+        <select id="drive" name="drive">
+            <option value="">Any</option>
+            <option value="front wheel drive">Front Wheel Drive</option>
+            <option value="all wheel drive">All Wheel Drive</option>
+            <option value="rear wheel drive">Rear Wheel Drive</option>
+        </select>
+
+        <button type="button" onclick="getRecommendation()">Get Recommendation</button>
+    </form>
+
+    <div id="results" class="results"></div>
+</section>
+
+<h2 style="color: #ff4c4c;">How It Works</h2>
+<p>1. Answer simple questions about your car preferences.<br>
+2. Our AI analyzes the data.<br>
+3. Get matched with the perfect car tailored to your needs!</p>
+
+<h2 style="color: #ff4c4c;">Meet the Team</h2>
+<!-- Team members section -->
+
+<h2 style="color: #ff4c4c;">Proposal and Policy</h2>
+<iframe src="./COSC4330_ProgrammingBros_ProjectProposal.pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+<h2 style="color: #ff4c4c;">Powered by CarAPI & AI</h2>
+<p>Stay tuned for updates as we continue to improve the AI experience.</p>
+
+</body>
+</html>
