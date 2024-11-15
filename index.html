@@ -4,22 +4,142 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Find Your Perfect Car</title>
-    <link rel="stylesheet" href="car.css">
-    <script src="car.js" defer></script>
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1, h2, h3 {
+            color: #ff4c4c;
+        }
+        a {
+            color: #ff4c4c;
+        }
+        p {
+            color: #ffffff;
+        }
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        button {
+            background-color: #ff4c4c;
+            color: white;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        button:hover {
+            background-color: #ff6666;
+            transform: scale(1.1);
+        }
+        .section-divider {
+            border-top: 2px solid #ff4c4c;
+            margin: 30px 0;
+        }
+        .team-section {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .team-member img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+        .team-member p {
+            color: #ffffff;
+        }
+        #quiz {
+            display: none;
+            margin-top: 20px;
+            text-align: left;
+            max-width: 600px;
+            margin: auto;
+        }
+        form label, form input, form select, form button {
+            display: block;
+            width: 100%;
+            margin-bottom: 10px;
+            color: #ffffff;
+            background-color: #222;
+            border: none;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+    <script src="script.js" defer></script>
 </head>
 <body>
 
-<h1 style="color: #ff4c4c;">Find Your Perfect Car</h1>
+<h1>Find Your Perfect Car</h1>
 <p>Welcome to <strong>Find Your Perfect Car</strong>—an <strong>Akinator-style AI</strong> designed to help you discover the car that best suits your needs! Powered by the <strong>CarAPI</strong> database, our AI will guide you through a series of questions to match you with your ideal vehicle.</p>
 
-<div style="text-align: center;">
-    <button id="startQuizBtn" style="background-color: #ff4c4c; color: white; padding: 15px 30px; font-size: 1.2em; border: none; border-radius: 10px; cursor: pointer; transition: all 0.3s ease;">
-        Start Quiz
-    </button>
+<div class="section-divider"></div>
+
+<h2>Discover the Car Made for You</h2>
+<p>Our AI, powered by a comprehensive car database, offers a personalized experience to find your perfect car based on your preferences. Whether you’re looking for speed, style, or efficiency, we’ve got you covered.</p>
+
+<div class="button-container">
+    <button id="startQuizBtn">Get Started</button>
 </div>
 
+<div class="section-divider"></div>
+
+<h2>How It Works</h2>
+<ol>
+    <li><strong>Answer simple questions</strong> about your car preferences (e.g., fuel efficiency, size, budget).</li>
+    <li>Our <strong>AI analyzes</strong> the data and cross-references it with the <strong>CarAPI database</strong>.</li>
+    <li><strong>Get matched</strong> with the perfect car tailored to your needs!</li>
+</ol>
+
+<div class="section-divider"></div>
+
+<h2>Meet the Team</h2>
+<div class="team-section">
+    <div class="team-member">
+        <img src="Images/ddmimage.jpg" alt="David Del Moral">
+        <p>David Del Moral</p>
+    </div>
+    <div class="team-member">
+        <img src="Images/rickyimage.jpg" alt="Ricky Godsey">
+        <p>Ricky Godsey</p>
+    </div>
+    <div class="team-member">
+        <img src="Images/Eanimage.jpg" alt="Ean Shi">
+        <p>Ean Shi</p>
+    </div>
+    <div class="team-member">
+        <img src="Images/zachimage.jpg" alt="Zachary Kao">
+        <p>Zachary Kao</p>
+    </div>
+    <div class="team-member">
+        <img src="Images/matimage.png" alt="Matthew Tomme">
+        <p>Matthew Tomme</p>
+    </div>
+</div>
+
+<div class="section-divider"></div>
+
+<h2>Proposal and Policy</h2>
+<p>We are committed to building a user-centric experience through this AI-driven platform. Our development process is outlined in the project proposal below. Please take a moment to review it.</p>
+<iframe src="./COSC4330_ProgrammingBros_ProjectProposal.pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+<div class="section-divider"></div>
+
+<h2>Powered by CarAPI & AI</h2>
+<p>Stay tuned for updates as we continue to improve the AI experience.</p>
+
 <!-- Hidden Quiz Form Section -->
-<section id="quiz" style="display: none; margin-top: 20px;">
+<section id="quiz">
     <form id="carForm">
         <label for="make">Preferred Car Brand:</label>
         <input type="text" id="make" name="make" placeholder="e.g., Toyota, Ford">
@@ -55,32 +175,6 @@
 
     <div id="results" class="results"></div>
 </section>
-
-<h2 style="color: #ff4c4c;">Meet the Team</h2>
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; text-align: center; margin-top: 20px;">
-    <div>
-        <img src="Images/ddmimage.jpg" alt="David Del Moral" style="border-radius: 50%; width: 150px; height: 150px;">
-        <p style="color: #ffffff;">David Del Moral</p>
-    </div>
-    <div>
-        <img src="Images/rickyimage.jpg" alt="Ricky Godsey" style="border-radius: 50%; width: 150px; height: 150px;">
-        <p style="color: #ffffff;">Ricky Godsey</p>
-    </div>
-    <div>
-        <img src="Images/Eanimage.jpg" alt="Ean Shi" style="border-radius: 50%; width: 150px; height: 150px;">
-        <p style="color: #ffffff;">Ean Shi</p>
-    </div>
-    <div>
-        <img src="Images/zachimage.jpg" alt="Zachary Kao" style="border-radius: 50%; width: 150px; height: 150px;">
-        <p style="color: #ffffff;">Zachary Kao</p>
-    </div>
-    <div>
-        <img src="Images/matimage.png" alt="Matthew Tomme" style="border-radius: 50%; width: 150px; height: 150px;">
-        <p style="color: #ffffff;">Matthew Tomme</p>
-    </div>
-</div>
-
-<!-- Additional sections as needed -->
 
 </body>
 </html>
