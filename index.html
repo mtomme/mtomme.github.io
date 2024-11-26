@@ -88,8 +88,26 @@
 <h2>Discover the Car Made for You</h2>
 <p>Our AI, powered by a comprehensive car database, offers a personalized experience to find your perfect car based on your preferences. Whether you’re looking for speed, style, or efficiency, we’ve got you covered.</p>
 
-<div class="button-container">
-    <button id="startQuizBtn">Get Started</button>
+<div id="quiz-container" style="display: none;">
+    <h2 id="question">Welcome to your magical car hunt! What car brand shall we start with?</h2>
+    <div id="answers">
+        <input type="text" id="brand-input" placeholder="Enter a brand (or leave blank)">
+        <div class="button-container">
+            <button onclick="nextQuestion('brand')">Submit</button>
+        </div>
+    </div>
+    <div class="button-container">
+        <button onclick="goBack()">Go Back</button>
+        <button onclick="startOver()">Start Over</button>
+    </div>
+</div>
+
+<div id="result-container" style="display: none;">
+    <h2>Your Perfect Car is:</h2>
+    <p id="result-text"></p>
+    <div class="button-container">
+        <button onclick="startOver()">Start Over</button>
+    </div>
 </div>
 
 <div class="section-divider"></div>
