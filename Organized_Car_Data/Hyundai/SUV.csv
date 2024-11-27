@@ -1,0 +1,193 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Kona,2020,Limited,27500,gas,I4,27.0,5,5
+Kona,2020,Limited,26100,gas,I4,30.0,5,5
+Kona,2020,SE,20300,gas,I4,30.0,5,5
+Kona,2020,SE,21700,gas,I4,28.0,5,5
+Kona,2020,SEL,22100,gas,I4,30.0,5,5
+Kona,2020,SEL,23500,gas,I4,28.0,5,5
+Kona,2020,SEL Plus,23950,gas,I4,30.0,5,5
+Kona,2020,SEL Plus,25350,gas,I4,28.0,5,5
+Kona,2020,Ultimate,29350,gas,I4,27.0,5,5
+Kona,2020,Ultimate,27950,gas,I4,30.0,5,5
+Kona Electric,2020,Limited,41800,electric,,,5,5
+Kona Electric,2020,SEL,37190,electric,,,5,5
+Kona Electric,2020,Ultimate,45400,electric,,,5,5
+NEXO,2020,Blue,58735,electric (fuel cell),,,5,5
+NEXO,2020,Limited,62185,electric (fuel cell),,,5,5
+Palisade,2020,Limited,46825,gas,V6,21.0,5,7
+Palisade,2020,Limited,45125,gas,V6,22.0,5,7
+Palisade,2020,SE,31975,gas,V6,22.0,5,8
+Palisade,2020,SE,33675,gas,V6,21.0,5,8
+Palisade,2020,SEL,33925,gas,V6,22.0,5,7
+Palisade,2020,SEL,35625,gas,V6,21.0,5,7
+Santa Fe,2020,Limited,37725,gas,I4,24.0,5,5
+Santa Fe,2020,Limited,36025,gas,I4,25.0,5,5
+Santa Fe,2020,Limited 2.0T,39575,gas,I4,22.0,5,5
+Santa Fe,2020,Limited 2.0T,37875,gas,I4,23.0,5,5
+Santa Fe,2020,SE,26275,gas,I4,25.0,5,5
+Santa Fe,2020,SE,27975,gas,I4,24.0,5,5
+Santa Fe,2020,SEL,28025,gas,I4,25.0,5,5
+Santa Fe,2020,SEL,29725,gas,I4,24.0,5,5
+Santa Fe,2020,SEL 2.0T,36575,gas,I4,22.0,5,5
+Santa Fe,2020,SEL 2.0T,34875,gas,I4,23.0,5,5
+Tucson,2020,Limited,30650,gas,I4,23.0,5,5
+Tucson,2020,Limited,29250,gas,I4,25.0,5,5
+Tucson,2020,SE,24950,gas,I4,23.0,5,5
+Tucson,2020,SE,23550,gas,I4,25.0,5,5
+Tucson,2020,SEL,25950,gas,I4,25.0,5,5
+Tucson,2020,SEL,27350,gas,I4,23.0,5,5
+Tucson,2020,Sport,29500,gas,I4,23.0,5,5
+Tucson,2020,Sport,28100,gas,I4,25.0,5,5
+Tucson,2020,Ultimate,33300,gas,I4,23.0,5,5
+Tucson,2020,Ultimate,31900,gas,I4,25.0,5,5
+Tucson,2020,Value,26400,gas,I4,23.0,5,5
+Tucson,2020,Value,25000,gas,I4,25.0,5,5
+Kona,2019,Iron Man,30550,gas,I4,30.0,5,5
+Kona,2019,Iron Man,31950,gas,I4,27.0,5,5
+Kona,2019,Limited,26950,gas,I4,27.0,5,5
+Kona,2019,Limited,25550,gas,I4,30.0,5,5
+Kona,2019,SE,19990,gas,I4,30.0,5,5
+Kona,2019,SE,21390,gas,I4,27.0,5,5
+Kona,2019,SEL,21800,gas,I4,30.0,5,5
+Kona,2019,SEL,23200,gas,I4,27.0,5,5
+Kona,2019,Ultimate,27500,gas,I4,30.0,5,5
+Kona,2019,Ultimate,28900,gas,I4,27.0,5,5
+Kona Electric,2019,Limited,41400,electric,,,5,5
+Kona Electric,2019,SEL,36950,electric,,,5,5
+Kona Electric,2019,Ultimate,44900,electric,,,5,5
+NEXO,2019,Blue,58300,electric (fuel cell),,,5,5
+NEXO,2019,Limited,61800,electric (fuel cell),,,5,5
+Santa Fe,2019,Limited 2.0T,35900,gas,I4,21.0,5,5
+Santa Fe,2019,Limited 2.0T,34200,gas,I4,22.0,5,5
+Santa Fe,2019,Limited 2.4,34300,gas,I4,23.0,5,5
+Santa Fe,2019,Limited 2.4,32600,gas,I4,25.0,5,5
+Santa Fe,2019,SE 2.4,25750,gas,I4,25.0,5,5
+Santa Fe,2019,SE 2.4,27450,gas,I4,23.0,5,5
+Santa Fe,2019,SEL 2.4,29300,gas,I4,23.0,5,5
+Santa Fe,2019,SEL 2.4,27600,gas,I4,25.0,5,5
+Santa Fe,2019,SEL Plus 2.4,29800,gas,I4,25.0,5,5
+Santa Fe,2019,SEL Plus 2.4,31500,gas,I4,23.0,5,5
+Santa Fe,2019,Ultimate 2.0T,37100,gas,I4,22.0,5,5
+Santa Fe,2019,Ultimate 2.0T,38800,gas,I4,21.0,5,5
+Santa Fe,2019,Ultimate 2.4,37150,gas,I4,23.0,5,5
+Santa Fe,2019,Ultimate 2.4,35450,gas,I4,25.0,5,5
+Santa Fe XL,2019,Limited Ultimate,39650,gas,V6,20.0,5,6
+Santa Fe XL,2019,Limited Ultimate,41400,gas,V6,19.0,5,6
+Santa Fe XL,2019,SE,30950,gas,V6,21.0,5,7
+Santa Fe XL,2019,SE,32700,gas,V6,20.0,5,7
+Tucson,2019,Limited,30300,gas,I4,23.0,5,5
+Tucson,2019,Limited,28900,gas,I4,25.0,5,5
+Tucson,2019,Night,32050,gas,I4,23.0,5,5
+Tucson,2019,Night,30650,gas,I4,25.0,5,5
+Tucson,2019,SE,23200,gas,I4,26.0,5,5
+Tucson,2019,SE,24600,gas,I4,23.0,5,5
+Tucson,2019,SEL,25600,gas,I4,25.0,5,5
+Tucson,2019,SEL,27000,gas,I4,23.0,5,5
+Tucson,2019,Sport,27700,gas,I4,25.0,5,5
+Tucson,2019,Sport,29100,gas,I4,23.0,5,5
+Tucson,2019,Ultimate,32950,gas,I4,23.0,5,5
+Tucson,2019,Ultimate,31550,gas,I4,25.0,5,5
+Tucson,2019,Value,24650,gas,I4,26.0,5,5
+Tucson,2019,Value,26050,gas,I4,23.0,5,5
+Kona,2018,Limited,24700,gas,I4,30.0,5,5
+Kona,2018,Limited,26000,gas,I4,27.0,5,5
+Kona,2018,Limited w/Lime Accent,24700,gas,I4,30.0,5,5
+Kona,2018,Limited w/Lime Accent,26000,gas,I4,27.0,5,5
+Kona,2018,SE,19500,gas,I4,30.0,5,5
+Kona,2018,SE,20800,gas,I4,27.0,5,5
+Kona,2018,SEL,21150,gas,I4,30.0,5,5
+Kona,2018,SEL,22450,gas,I4,27.0,5,5
+Kona,2018,SEL w/Contrast Roof,21300,gas,I4,30.0,5,5
+Kona,2018,SEL w/Contrast Roof,22600,gas,I4,27.0,5,5
+Kona,2018,Ultimate,27400,gas,I4,30.0,5,5
+Kona,2018,Ultimate,28700,gas,I4,27.0,5,5
+Kona,2018,Ultimate w/Lime Accent,28700,gas,I4,27.0,5,5
+Kona,2018,Ultimate w/Lime Accent,27400,gas,I4,30.0,5,5
+Santa Fe,2018,Limited Ultimate,41300,gas,V6,19.0,5,6
+Santa Fe,2018,Limited Ultimate,39550,gas,V6,20.0,5,6
+Santa Fe,2018,SE,30850,gas,V6,21.0,5,7
+Santa Fe,2018,SE,32600,gas,V6,20.0,5,7
+Santa Fe,2018,SE Ultimate,40600,gas,V6,19.0,5,7
+Santa Fe,2018,SE Ultimate,38850,gas,V6,20.0,5,7
+Santa Fe Sport,2018,2.0T,32900,gas,I4,22.0,5,5
+Santa Fe Sport,2018,2.0T,31350,gas,I4,23.0,5,5
+Santa Fe Sport,2018,2.0T Ultimate,35650,gas,I4,23.0,5,5
+Santa Fe Sport,2018,2.0T Ultimate,37200,gas,I4,21.0,5,5
+Santa Fe Sport,2018,Base,24950,gas,I4,24.0,5,5
+Santa Fe Sport,2018,Base,26500,gas,I4,22.0,5,5
+Tucson,2018,Limited,30825,gas,I4,25.0,5,5
+Tucson,2018,Limited,29425,gas,I4,27.0,5,5
+Tucson,2018,SE,22550,gas,I4,26.0,5,5
+Tucson,2018,SE,23950,gas,I4,23.0,5,5
+Tucson,2018,SEL,25200,gas,I4,23.0,5,5
+Tucson,2018,SEL,23800,gas,I4,26.0,5,5
+Tucson,2018,SEL Plus,28100,gas,I4,23.0,5,5
+Tucson,2018,SEL Plus,26700,gas,I4,26.0,5,5
+Tucson,2018,Sport,26550,gas,I4,22.0,5,5
+Tucson,2018,Sport,25150,gas,I4,24.0,5,5
+Tucson,2018,Value,27950,gas,I4,25.0,5,5
+Tucson,2018,Value,26550,gas,I4,27.0,5,5
+Santa Fe,2017,Limited,34950,gas,V6,20.0,5,6
+Santa Fe,2017,Limited,36700,gas,V6,19.0,5,6
+Santa Fe,2017,Limited Ultimate,39400,gas,V6,20.0,5,6
+Santa Fe,2017,Limited Ultimate,41150,gas,V6,19.0,5,6
+Santa Fe,2017,SE,30800,gas,V6,21.0,5,7
+Santa Fe,2017,SE,32550,gas,V6,20.0,5,7
+Santa Fe,2017,Ultimate,40450,gas,V6,19.0,5,7
+Santa Fe,2017,Ultimate,38700,gas,V6,20.0,5,7
+Santa Fe Sport,2017,2.0T,33450,gas,I4,22.0,5,5
+Santa Fe Sport,2017,2.0T,31700,gas,I4,23.0,5,5
+Santa Fe Sport,2017,2.0T Ultimate,38250,gas,I4,21.0,5,5
+Santa Fe Sport,2017,2.0T Ultimate,36500,gas,I4,23.0,5,5
+Santa Fe Sport,2017,Base,25350,gas,I4,24.0,5,5
+Santa Fe Sport,2017,Base,27100,gas,I4,22.0,5,5
+Tucson,2017,Eco,24150,gas,I4,28.0,5,5
+Tucson,2017,Eco,25550,gas,I4,27.0,5,5
+Tucson,2017,Limited,31175,gas,I4,25.0,5,5
+Tucson,2017,Limited,29775,gas,I4,27.0,5,5
+Tucson,2017,Night,29200,gas,I4,25.0,5,5
+Tucson,2017,Night,27800,gas,I4,27.0,5,5
+Tucson,2017,SE,24100,gas,I4,23.0,5,5
+Tucson,2017,SE,22700,gas,I4,26.0,5,5
+Tucson,2017,SE Plus,28150,gas,I4,23.0,5,5
+Tucson,2017,SE Plus,26750,gas,I4,26.0,5,5
+Tucson,2017,Sport,27300,gas,I4,25.0,5,5
+Tucson,2017,Sport,25900,gas,I4,27.0,5,5
+Tucson,2017,Value,27950,gas,I4,25.0,5,5
+Tucson,2017,Value,26550,gas,I4,27.0,5,5
+Santa Fe,2016,Limited,34500,gas,V6,21.0,5,6
+Santa Fe,2016,Limited,36250,gas,V6,20.0,5,6
+Santa Fe,2016,SE,32150,gas,V6,20.0,5,7
+Santa Fe,2016,SE,30400,gas,V6,21.0,5,7
+Santa Fe Sport,2016,2.0T,33000,gas,I4,21.0,5,5
+Santa Fe Sport,2016,2.0T,31250,gas,I4,22.0,5,5
+Santa Fe Sport,2016,Base,24950,gas,I4,23.0,5,5
+Santa Fe Sport,2016,Base,26700,gas,I4,21.0,5,5
+Tucson,2016,Eco,24150,gas,I4,29.0,5,5
+Tucson,2016,Eco,25550,gas,I4,27.0,5,5
+Tucson,2016,Limited,31300,gas,I4,26.0,5,5
+Tucson,2016,Limited,29900,gas,I4,27.0,5,5
+Tucson,2016,SE,22700,gas,I4,26.0,5,5
+Tucson,2016,SE,24100,gas,I4,23.0,5,5
+Tucson,2016,Sport,27550,gas,I4,26.0,5,5
+Tucson,2016,Sport,26150,gas,I4,27.0,5,5
+Santa Fe,2015,GLS,31900,gas,V6,20.0,5,7
+Santa Fe,2015,GLS,30150,gas,V6,21.0,5,7
+Santa Fe,2015,Limited,36000,gas,V6,20.0,5,6
+Santa Fe,2015,Limited,34250,gas,V6,21.0,5,6
+Santa Fe,2015,Limited w/Saddle Interior,36000,gas,V6,20.0,5,6
+Santa Fe,2015,Limited w/Saddle Interior,34250,gas,V6,21.0,5,6
+Santa Fe Sport,2015,2.0T,31250,gas,I4,22.0,5,5
+Santa Fe Sport,2015,2.0T,31250,gas,I4,22.0,5,5
+Santa Fe Sport,2015,2.0T,33000,gas,I4,21.0,5,5
+Santa Fe Sport,2015,2.0T,33000,gas,I4,21.0,5,5
+Santa Fe Sport,2015,Base,24950,gas,I4,23.0,5,5
+Santa Fe Sport,2015,Base,26700,gas,I4,21.0,5,5
+Tucson,2015,GLS,21650,gas,I4,25.0,5,5
+Tucson,2015,GLS,23150,gas,I4,23.0,5,5
+Tucson,2015,Limited,27950,gas,I4,22.0,5,5
+Tucson,2015,Limited,26450,gas,I4,24.0,5,5
+Tucson,2015,Limited PZEV,27950,gas,I4,22.0,5,5
+Tucson,2015,SE,23700,gas,I4,24.0,5,5
+Tucson,2015,SE,25200,gas,I4,22.0,5,5
+Tucson,2015,SE PZEV,25200,gas,I4,22.0,5,5

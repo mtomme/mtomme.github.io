@@ -1,0 +1,113 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+1500,2020,Big Horn,36690,mild hybrid,V6,22.0,4,6
+1500,2020,Big Horn,40190,mild hybrid,V6,21.0,4,6
+1500,2020,HFE,34095,mild hybrid,V6,23.0,4,5
+1500,2020,Laramie,44290,mild hybrid,V6,21.0,4,6
+1500,2020,Laramie,40790,mild hybrid,V6,22.0,4,6
+1500,2020,Lone Star,36690,mild hybrid,V6,22.0,4,6
+1500,2020,Lone Star,40190,mild hybrid,V6,21.0,4,6
+1500,2020,Rebel,45440,mild hybrid,V6,21.0,4,5
+1500,2020,Tradesman,35645,mild hybrid,V6,21.0,4,6
+1500,2020,Tradesman,32145,mild hybrid,V6,22.0,4,6
+1500 Classic,2020,Express,34305,gas,V6,20.0,4,6
+1500 Classic,2020,Express,37805,gas,V6,19.0,4,6
+1500 Classic,2020,SLT Fleet,36145,gas,V6,20.0,4,6
+1500 Classic,2020,SLT Fleet,39745,gas,V6,19.0,4,6
+1500 Classic,2020,Tradesman,35605,gas,V6,19.0,4,6
+1500 Classic,2020,Tradesman,32105,gas,V6,20.0,4,6
+1500 Classic,2020,Warlock,39745,gas,V6,19.0,4,6
+1500 Classic,2020,Warlock,36145,gas,V6,20.0,4,6
+1500,2019,Big Horn/Lone Star,36040,mild hybrid,V6,22.0,4,6
+1500,2019,Big Horn/Lone Star,39540,mild hybrid,V6,21.0,4,6
+1500,2019,HFE,34245,mild hybrid,V6,22.0,4,5
+1500,2019,Laramie,39940,mild hybrid,V6,22.0,4,6
+1500,2019,Laramie,43440,mild hybrid,V6,21.0,4,6
+1500,2019,Rebel,44940,mild hybrid,V6,21.0,4,5
+1500,2019,Tradesman,31795,mild hybrid,V6,22.0,4,6
+1500,2019,Tradesman,35295,mild hybrid,V6,21.0,4,6
+1500 Classic,2019,Big Horn,43945,gas,V8,17.0,4,6
+1500 Classic,2019,Big Horn,40245,gas,V8,17.0,4,6
+1500 Classic,2019,Express,33745,gas,V6,20.0,4,6
+1500 Classic,2019,Express,37245,gas,V6,19.0,4,6
+1500 Classic,2019,Lone Star,41945,gas,V8,17.0,4,6
+1500 Classic,2019,Lone Star,38245,gas,V8,17.0,4,6
+1500 Classic,2019,SLT Fleet,39295,gas,V6,19.0,4,6
+1500 Classic,2019,SLT Fleet,35595,gas,V6,20.0,4,6
+1500 Classic,2019,Tradesman,35045,gas,V6,19.0,4,6
+1500 Classic,2019,Tradesman,31545,gas,V6,20.0,4,6
+1500 Classic,2019,Warlock,35595,gas,V6,20.0,4,6
+1500 Classic,2019,Warlock,39295,gas,V6,19.0,4,6
+1500,2018,Big Horn,37645,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,Big Horn,41345,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,Express,32895,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,Express,36495,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,Harvest,37210,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,Harvest,40910,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,HFE,37895,diesel,V6,23.0,4,6
+1500,2018,Laramie,40145,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,Laramie,43645,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,Lone Star,39345,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,Lone Star,35645,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,Night,38990,flex-fuel (FFV),V6,20.0,4,5
+1500,2018,Night,42590,flex-fuel (FFV),V6,19.0,4,5
+1500,2018,SLT Fleet,38645,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,SLT Fleet,34945,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,Sport,42195,flex-fuel (FFV),V6,19.0,4,5
+1500,2018,Sport,38595,flex-fuel (FFV),V6,20.0,4,5
+1500,2018,Tradesman,34495,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,Tradesman,30895,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Big Horn,41195,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Big Horn,37495,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Express,35895,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Express,32295,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Laramie,43495,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Laramie,39995,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Lone Star,39195,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Lone Star,35495,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Night,38690,flex-fuel (FFV),V6,20.0,4,5
+1500,2017,Night,42290,flex-fuel (FFV),V6,19.0,4,5
+1500,2017,SLT,38495,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,SLT,34795,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Sport,41895,flex-fuel (FFV),V6,19.0,4,5
+1500,2017,Sport,38295,flex-fuel (FFV),V6,20.0,4,5
+1500,2017,Tradesman,30595,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Tradesman,34195,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Tradesman HFE,37895,diesel,V6,21.0,4,6
+1500,2016,Big Horn,41270,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Big Horn,39160,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Big Horn,37565,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Big Horn,35455,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Express,35730,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Express,32025,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Express HFE,38380,diesel,V6,21.0,4,6
+1500,2016,Laramie,43135,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Laramie,39555,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Lone Star,39160,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Lone Star,35455,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Lone Star,37565,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Lone Star,41270,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Outdoorsman,39630,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Outdoorsman,35540,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,SLT,35000,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,SLT,38705,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Sport,39370,gas,V8,17.0,4,5
+1500,2016,Sport,42950,gas,V8,17.0,4,5
+1500,2016,Tradesman,34085,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Tradesman,30380,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Tradesman HFE,37685,diesel,V6,21.0,4,6
+1500,2015,Big Horn,38700,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,Big Horn,34995,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,Express,35145,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,Express,31440,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,HFE,37200,diesel,V6,24.0,4,6
+1500,2015,Laramie,39275,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,Laramie,42780,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,Lone Star,38700,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,Lone Star,34995,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,Outdoorsman,39040,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,SLT,37495,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,SLT,33790,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,Sport,39090,gas,V8,17.0,4,5
+1500,2015,Sport,42670,gas,V8,17.0,4,5
+1500,2015,Tradesman,33600,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,Tradesman,29895,flex-fuel (FFV),V6,20.0,4,6

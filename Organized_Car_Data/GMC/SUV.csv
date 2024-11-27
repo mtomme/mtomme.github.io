@@ -1,0 +1,207 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Acadia,2020,AT4,41300,gas,V6,21.0,5,5
+Acadia,2020,Denali,48300,gas,V6,21.0,5,6
+Acadia,2020,Denali,46300,gas,V6,22.0,5,6
+Acadia,2020,SL,29800,gas,I4,23.0,5,7
+Acadia,2020,SLE,36200,gas,I4,23.0,5,7
+Acadia,2020,SLE,33800,gas,I4,23.0,5,7
+Acadia,2020,SLT,40800,gas,I4,23.0,5,6
+Acadia,2020,SLT,38800,gas,I4,24.0,5,6
+Terrain,2020,Denali,39900,gas,I4,23.0,5,5
+Terrain,2020,Denali,38300,gas,I4,24.0,5,5
+Terrain,2020,SL,25000,gas,I4,27.0,5,5
+Terrain,2020,SLE,30000,gas,I4,26.0,5,5
+Terrain,2020,SLE,28400,gas,I4,27.0,5,5
+Terrain,2020,SLT,32800,gas,I4,26.0,5,5
+Terrain,2020,SLT,31200,gas,I4,28.0,5,5
+Yukon,2020,Denali,66700,gas,V8,17.0,5,7
+Yukon,2020,Denali,69700,gas,V8,17.0,5,7
+Yukon,2020,SLE,49600,gas,V8,18.0,5,8
+Yukon,2020,SLE,52600,gas,V8,17.0,5,8
+Yukon,2020,SLT,57600,gas,V8,18.0,5,8
+Yukon,2020,SLT,60600,gas,V8,17.0,5,8
+Yukon,2020,SLT Standard Edition,57800,gas,V8,17.0,5,8
+Yukon,2020,SLT Standard Edition,54800,gas,V8,18.0,5,8
+Yukon XL,2020,Denali,72500,gas,V8,16.0,5,7
+Yukon XL,2020,Denali,69500,gas,V8,17.0,5,7
+Yukon XL,2020,SLE,55400,gas,V8,16.0,5,8
+Yukon XL,2020,SLE,52400,gas,V8,18.0,5,8
+Yukon XL,2020,SLT,63400,gas,V8,16.0,5,8
+Yukon XL,2020,SLT,60400,gas,V8,18.0,5,8
+Yukon XL,2020,SLT Standard Edition,57600,gas,V8,18.0,5,8
+Yukon XL,2020,SLT Standard Edition,60600,gas,V8,16.0,5,8
+Acadia,2019,Denali,47500,gas,V6,20.0,5,6
+Acadia,2019,Denali,45500,gas,V6,21.0,5,6
+Acadia,2019,SL,29000,gas,I4,23.0,5,7
+Acadia,2019,SLE-1,32800,gas,I4,23.0,5,7
+Acadia,2019,SLE-1,34800,gas,I4,22.0,5,7
+Acadia,2019,SLE-2,35200,gas,I4,23.0,5,6
+Acadia,2019,SLE-2,37200,gas,I4,22.0,5,6
+Acadia,2019,SLT-1,41100,gas,V6,20.0,5,6
+Acadia,2019,SLT-1,38000,gas,I4,23.0,5,6
+Acadia,2019,SLT-2,43900,gas,V6,20.0,5,6
+Acadia,2019,SLT-2,41900,gas,V6,21.0,5,6
+Terrain,2019,Denali,37800,gas,I4,24.0,5,5
+Terrain,2019,Denali,39500,gas,I4,23.0,5,5
+Terrain,2019,SL,25000,gas,I4,28.0,5,5
+Terrain,2019,SLE,28100,gas,I4,28.0,5,5
+Terrain,2019,SLE,29800,gas,I4,26.0,5,5
+Terrain,2019,SLE,33600,diesel,I4,32.0,5,5
+Terrain,2019,SLE,31800,diesel,I4,32.0,5,5
+Terrain,2019,SLT,30900,gas,I4,28.0,5,5
+Terrain,2019,SLT,32600,gas,I4,26.0,5,5
+Terrain,2019,SLT,33700,diesel,I4,32.0,5,5
+Terrain,2019,SLT,35500,diesel,I4,32.0,5,5
+Yukon,2019,Denali,69700,gas,V8,17.0,5,7
+Yukon,2019,Denali,66700,gas,V8,17.0,5,7
+Yukon,2019,SLE,49600,gas,V8,18.0,5,8
+Yukon,2019,SLE,52600,gas,V8,17.0,5,8
+Yukon,2019,SLT,57600,gas,V8,18.0,5,8
+Yukon,2019,SLT,60600,gas,V8,17.0,5,8
+Yukon,2019,SLT Standard Edition,57800,gas,V8,17.0,5,8
+Yukon,2019,SLT Standard Edition,54800,gas,V8,18.0,5,8
+Yukon XL,2019,Denali,72500,gas,V8,16.0,5,7
+Yukon XL,2019,Denali,69500,gas,V8,17.0,5,7
+Yukon XL,2019,SLE,52400,gas,V8,18.0,5,8
+Yukon XL,2019,SLE,55400,gas,V8,16.0,5,8
+Yukon XL,2019,SLT,60400,gas,V8,18.0,5,8
+Yukon XL,2019,SLT,63400,gas,V8,16.0,5,8
+Yukon XL,2019,SLT Standard Edition,57600,gas,V8,18.0,5,8
+Yukon XL,2019,SLT Standard Edition,60600,gas,V8,16.0,5,8
+Acadia,2018,Denali,47020,gas,V6,20.0,5,6
+Acadia,2018,Denali,45020,gas,V6,21.0,5,6
+Acadia,2018,SL,29000,gas,I4,23.0,5,7
+Acadia,2018,SLE-1,32560,gas,I4,23.0,5,7
+Acadia,2018,SLE-1,34560,gas,I4,23.0,5,7
+Acadia,2018,SLE-2,35180,gas,I4,23.0,5,6
+Acadia,2018,SLE-2,37180,gas,I4,23.0,5,6
+Acadia,2018,SLT-1,38460,gas,I4,23.0,5,6
+Acadia,2018,SLT-1,41560,gas,V6,20.0,5,6
+Acadia,2018,SLT-2,41860,gas,V6,21.0,5,6
+Acadia,2018,SLT-2,43860,gas,V6,20.0,5,6
+Terrain,2018,Denali,37520,gas,I4,24.0,5,5
+Terrain,2018,Denali,39270,gas,I4,23.0,5,5
+Terrain,2018,SL,24995,gas,I4,28.0,5,5
+Terrain,2018,SLE,29570,gas,I4,26.0,5,5
+Terrain,2018,SLE,31590,diesel,I4,32.0,5,5
+Terrain,2018,SLE,33340,diesel,I4,32.0,5,5
+Terrain,2018,SLE,27820,gas,I4,28.0,5,5
+Terrain,2018,SLT,31320,gas,I4,28.0,5,5
+Terrain,2018,SLT,33070,gas,I4,26.0,5,5
+Terrain,2018,SLT,35915,diesel,I4,32.0,5,5
+Terrain,2018,SLT,34165,diesel,I4,32.0,5,5
+Yukon,2018,Denali,69165,gas,V8,17.0,5,7
+Yukon,2018,Denali,66165,gas,V8,17.0,5,7
+Yukon,2018,SLE,49080,gas,V8,19.0,5,8
+Yukon,2018,SLE,52080,gas,V8,18.0,5,8
+Yukon,2018,SLT,57130,gas,V8,19.0,5,8
+Yukon,2018,SLT,60130,gas,V8,18.0,5,8
+Yukon,2018,SLT Standard Edition,54400,gas,V8,19.0,5,8
+Yukon,2018,SLT Standard Edition,57400,gas,V8,18.0,5,8
+Yukon XL,2018,Denali,68865,gas,V8,17.0,5,7
+Yukon XL,2018,Denali,71865,gas,V8,16.0,5,7
+Yukon XL,2018,SLE,51780,gas,V8,19.0,5,8
+Yukon XL,2018,SLE,54780,gas,V8,18.0,5,8
+Yukon XL,2018,SLT,62830,gas,V8,18.0,5,8
+Yukon XL,2018,SLT,59830,gas,V8,19.0,5,8
+Yukon XL,2018,SLT Standard Edition,57100,gas,V8,19.0,5,8
+Yukon XL,2018,SLT Standard Edition,60100,gas,V8,18.0,5,8
+Acadia,2017,Denali,46920,gas,V6,20.0,5,6
+Acadia,2017,Denali,44920,gas,V6,21.0,5,6
+Acadia,2017,Limited,45850,gas,V6,17.0,5,7
+Acadia,2017,Limited,43850,gas,V6,18.0,5,7
+Acadia,2017,SL,29070,gas,I4,23.0,5,7
+Acadia,2017,SLE-1,32450,gas,I4,23.0,5,7
+Acadia,2017,SLE-1,34450,gas,I4,23.0,5,7
+Acadia,2017,SLE-2,35070,gas,I4,23.0,5,6
+Acadia,2017,SLE-2,37070,gas,I4,23.0,5,6
+Acadia,2017,SLT-1,41450,gas,V6,20.0,5,6
+Acadia,2017,SLT-1,38350,gas,I4,23.0,5,6
+Acadia,2017,SLT-2,43750,gas,V6,20.0,5,6
+Acadia,2017,SLT-2,41750,gas,V6,21.0,5,6
+Terrain,2017,Denali,36025,gas,I4,23.0,5,5
+Terrain,2017,Denali,34275,gas,I4,25.0,5,5
+Terrain,2017,SL,24070,gas,I4,25.0,5,5
+Terrain,2017,SLE-1,27300,gas,I4,25.0,5,5
+Terrain,2017,SLE-1,29050,gas,I4,23.0,5,5
+Terrain,2017,SLE-2,28800,gas,I4,25.0,5,5
+Terrain,2017,SLE-2,30550,gas,I4,23.0,5,5
+Terrain,2017,SLT,30920,gas,I4,25.0,5,5
+Terrain,2017,SLT,32670,gas,I4,23.0,5,5
+Yukon,2017,Denali,65965,gas,V8,17.0,5,7
+Yukon,2017,Denali,68965,gas,V8,17.0,5,7
+Yukon,2017,SLE,48530,flex-fuel (FFV),V8,19.0,5,8
+Yukon,2017,SLE,51530,flex-fuel (FFV),V8,18.0,5,8
+Yukon,2017,SLT,60315,flex-fuel (FFV),V8,18.0,5,8
+Yukon,2017,SLT,57315,flex-fuel (FFV),V8,19.0,5,8
+Yukon XL,2017,Denali,68665,gas,V8,17.0,5,7
+Yukon XL,2017,Denali,71665,gas,V8,16.0,5,7
+Yukon XL,2017,SLE,54230,flex-fuel (FFV),V8,18.0,5,8
+Yukon XL,2017,SLE,51230,flex-fuel (FFV),V8,19.0,5,8
+Yukon XL,2017,SLT,60015,flex-fuel (FFV),V8,19.0,5,8
+Yukon XL,2017,SLT,63015,flex-fuel (FFV),V8,18.0,5,8
+Acadia,2016,Denali,49890,gas,V6,17.0,5,7
+Acadia,2016,Denali,47890,gas,V6,18.0,5,7
+Acadia,2016,SL,30975,gas,V6,18.0,5,8
+Acadia,2016,SLE-1,34175,gas,V6,18.0,5,8
+Acadia,2016,SLE-1,36175,gas,V6,17.0,5,8
+Acadia,2016,SLE-2,36755,gas,V6,18.0,5,7
+Acadia,2016,SLE-2,38755,gas,V6,17.0,5,7
+Acadia,2016,SLT-1,41020,gas,V6,18.0,5,7
+Acadia,2016,SLT-1,43020,gas,V6,17.0,5,7
+Acadia,2016,SLT-2,42295,gas,V6,18.0,5,7
+Acadia,2016,SLT-2,44295,gas,V6,17.0,5,7
+Terrain,2016,Denali,35725,gas,I4,23.0,5,5
+Terrain,2016,Denali,33975,gas,I4,26.0,5,5
+Terrain,2016,SL,23975,gas,I4,26.0,5,5
+Terrain,2016,SLE-1,28550,gas,I4,23.0,5,5
+Terrain,2016,SLE-1,26800,gas,I4,26.0,5,5
+Terrain,2016,SLE-2,30050,gas,I4,23.0,5,5
+Terrain,2016,SLE-2,28300,gas,I4,26.0,5,5
+Terrain,2016,SLT,32370,gas,I4,23.0,5,5
+Terrain,2016,SLT,30620,gas,I4,26.0,5,5
+Yukon,2016,Denali,65325,gas,V8,17.0,5,7
+Yukon,2016,Denali,68325,gas,V8,17.0,5,7
+Yukon,2016,SLE,48315,flex-fuel (FFV),V8,18.0,5,8
+Yukon,2016,SLE,51315,flex-fuel (FFV),V8,18.0,5,8
+Yukon,2016,SLT,57000,flex-fuel (FFV),V8,18.0,5,8
+Yukon,2016,SLT,60000,flex-fuel (FFV),V8,18.0,5,8
+Yukon XL,2016,Denali,71025,gas,V8,16.0,5,7
+Yukon XL,2016,Denali,68025,gas,V8,17.0,5,7
+Yukon XL,2016,SLE,51015,flex-fuel (FFV),V8,18.0,5,8
+Yukon XL,2016,SLE,54015,flex-fuel (FFV),V8,18.0,5,8
+Yukon XL,2016,SLT,62700,flex-fuel (FFV),V8,18.0,5,8
+Yukon XL,2016,SLT,59700,flex-fuel (FFV),V8,18.0,5,8
+Acadia,2015,Denali,49690,gas,V6,19.0,5,7
+Acadia,2015,Denali,47690,gas,V6,19.0,5,7
+Acadia,2015,SLE-1,35975,gas,V6,19.0,5,8
+Acadia,2015,SLE-1,33975,gas,V6,19.0,5,8
+Acadia,2015,SLE-2,38555,gas,V6,19.0,5,7
+Acadia,2015,SLE-2,36555,gas,V6,19.0,5,7
+Acadia,2015,SLT-1,42820,gas,V6,19.0,5,7
+Acadia,2015,SLT-1,40820,gas,V6,19.0,5,7
+Acadia,2015,SLT-2,44095,gas,V6,19.0,5,7
+Acadia,2015,SLT-2,42095,gas,V6,19.0,5,7
+Terrain,2015,Denali,35490,gas,I4,26.0,5,5
+Terrain,2015,Denali,37240,gas,I4,23.0,5,5
+Terrain,2015,SL,24070,gas,I4,26.0,5,5
+Terrain,2015,SLE-1,28310,gas,I4,23.0,5,5
+Terrain,2015,SLE-1,26560,gas,I4,26.0,5,5
+Terrain,2015,SLE-2,29810,gas,I4,23.0,5,5
+Terrain,2015,SLE-2,28060,gas,I4,26.0,5,5
+Terrain,2015,SLT-1,31570,gas,I4,23.0,5,5
+Terrain,2015,SLT-1,29820,gas,I4,26.0,5,5
+Terrain,2015,SLT-2,34815,gas,I4,23.0,5,5
+Terrain,2015,SLT-2,33065,gas,I4,26.0,5,5
+Yukon,2015,Denali,67520,gas,V8,16.0,5,7
+Yukon,2015,Denali,64520,gas,V8,17.0,5,7
+Yukon,2015,SLE,50740,flex-fuel (FFV),V8,18.0,5,8
+Yukon,2015,SLE,47740,flex-fuel (FFV),V8,18.0,5,8
+Yukon,2015,SLT,56225,flex-fuel (FFV),V8,18.0,5,8
+Yukon,2015,SLT,59225,flex-fuel (FFV),V8,18.0,5,8
+Yukon XL,2015,Denali,67220,gas,V8,17.0,5,7
+Yukon XL,2015,Denali,70220,gas,V8,16.0,5,7
+Yukon XL,2015,SLE,53440,flex-fuel (FFV),V8,18.0,5,8
+Yukon XL,2015,SLE,50440,flex-fuel (FFV),V8,18.0,5,8
+Yukon XL,2015,SLT,61925,flex-fuel (FFV),V8,18.0,5,8
+Yukon XL,2015,SLT,58925,flex-fuel (FFV),V8,18.0,5,8

@@ -1,0 +1,117 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+2500,2020,Big Horn,46750,gas,V8,,4,6
+2500,2020,Laramie,53850,gas,V8,,4,6
+2500,2020,Limited,66150,gas,V8,,4,5
+2500,2020,Lone Star,46750,gas,V8,,4,6
+2500,2020,Longhorn,61150,gas,V8,,4,5
+3500,2020,Big Horn,48100,gas,V8,,4,6
+3500,2020,Laramie,55200,gas,V8,,4,6
+3500,2020,Limited,67500,gas,V8,,4,5
+3500,2020,Lone Star,48100,gas,V8,,4,6
+3500,2020,Longhorn,62500,gas,V8,,4,5
+2500,2019,Big Horn,46500,gas,V8,,4,6
+2500,2019,Laramie,53500,gas,V8,,4,6
+2500,2019,Limited,65700,gas,V8,,4,5
+2500,2019,Lone Star,46500,gas,V8,,4,6
+2500,2019,Longhorn,60700,gas,V8,,4,5
+3500,2019,Big Horn,47850,gas,V8,,4,6
+3500,2019,Laramie,54850,gas,V8,,4,6
+3500,2019,Limited,67050,gas,V8,,4,5
+3500,2019,Lone Star,47850,gas,V8,,4,6
+3500,2019,Longhorn,62050,gas,V8,,4,5
+2500,2018,Big Horn,44740,gas,V8,,4,6
+2500,2018,Big Horn,47540,gas,V8,,4,6
+2500,2018,Laramie,52445,gas,V8,,4,6
+2500,2018,Laramie,49245,gas,V8,,4,6
+2500,2018,Limited,62895,gas,V8,,4,5
+2500,2018,Limited,59695,gas,V8,,4,5
+2500,2018,Lone Star,47540,gas,V8,,4,6
+2500,2018,Lone Star,44740,gas,V8,,4,6
+2500,2018,Longhorn,59195,gas,V8,,4,5
+2500,2018,Longhorn,55995,gas,V8,,4,5
+2500,2018,SLT,45545,gas,V8,,4,6
+2500,2018,SLT,42745,gas,V8,,4,6
+3500,2018,Big Horn,48640,gas,V8,,4,6
+3500,2018,Big Horn,45840,gas,V8,,4,6
+3500,2018,Laramie,50345,gas,V8,,4,6
+3500,2018,Laramie,53545,gas,V8,,4,6
+3500,2018,Laramie Longhorn,60295,gas,V8,,4,5
+3500,2018,Laramie Longhorn,57095,gas,V8,,4,5
+3500,2018,Limited,60795,gas,V8,,4,5
+3500,2018,Limited,63995,gas,V8,,4,5
+3500,2018,Lone Star,48640,gas,V8,,4,6
+3500,2018,Lone Star,45840,gas,V8,,4,6
+3500,2018,SLT,43845,gas,V8,,4,6
+3500,2018,SLT,46645,gas,V8,,4,6
+2500,2017,Big Horn,44225,gas,V8,,4,6
+2500,2017,Big Horn,47025,gas,V8,,4,6
+2500,2017,Laramie,52345,gas,V8,,4,6
+2500,2017,Laramie,49145,gas,V8,,4,6
+2500,2017,Limited,62775,gas,V8,,4,5
+2500,2017,Limited,59575,gas,V8,,4,5
+2500,2017,Lone Star,44225,gas,V8,,4,6
+2500,2017,Lone Star,47025,gas,V8,,4,6
+2500,2017,Longhorn,59075,gas,V8,,4,5
+2500,2017,Longhorn,55875,gas,V8,,4,5
+2500,2017,SLT,42345,gas,V8,,4,6
+2500,2017,SLT,45145,gas,V8,,4,6
+3500,2017,Big Horn,48125,gas,V8,,4,6
+3500,2017,Big Horn,45325,gas,V8,,4,6
+3500,2017,Laramie,50245,gas,V8,,4,6
+3500,2017,Laramie,53445,gas,V8,,4,6
+3500,2017,Laramie Longhorn,60175,gas,V8,,4,5
+3500,2017,Laramie Longhorn,56975,gas,V8,,4,5
+3500,2017,Limited,63875,gas,V8,,4,5
+3500,2017,Limited,60675,gas,V8,,4,5
+3500,2017,Lone Star,45325,gas,V8,,4,6
+3500,2017,Lone Star,48125,gas,V8,,4,6
+3500,2017,SLT,43445,gas,V8,,4,6
+3500,2017,SLT,46245,gas,V8,,4,6
+2500,2016,Big Horn,46675,gas,V8,,4,6
+2500,2016,Big Horn,43305,gas,V8,,4,6
+2500,2016,Laramie,51580,gas,V8,,4,6
+2500,2016,Laramie,47890,gas,V8,,4,6
+2500,2016,Limited,57250,gas,V8,,4,5
+2500,2016,Limited,60870,gas,V8,,4,5
+2500,2016,Lone Star,46675,gas,V8,,4,6
+2500,2016,Lone Star,43305,gas,V8,,4,6
+2500,2016,Longhorn,53665,gas,V8,,4,5
+2500,2016,Longhorn,57285,gas,V8,,4,5
+2500,2016,SLT,41425,gas,V8,,4,6
+2500,2016,SLT,44795,gas,V8,,4,6
+3500,2016,Big Horn,47170,gas,V8,,4,6
+3500,2016,Big Horn,44135,gas,V8,,4,6
+3500,2016,Laramie,49070,gas,V8,,4,6
+3500,2016,Laramie,52505,gas,V8,,4,6
+3500,2016,Limited,61860,gas,V8,,4,5
+3500,2016,Limited,58625,gas,V8,,4,5
+3500,2016,Lone Star,47170,gas,V8,,4,6
+3500,2016,Lone Star,44135,gas,V8,,4,6
+3500,2016,Longhorn,58275,gas,V8,,4,5
+3500,2016,Longhorn,55040,gas,V8,,4,5
+3500,2016,SLT,42655,gas,V8,,4,6
+3500,2016,SLT,45690,gas,V8,,4,6
+2500,2015,Big Horn,42065,gas,V8,,4,6
+2500,2015,Big Horn,45435,gas,V8,,4,6
+2500,2015,Laramie,50290,gas,V8,,4,6
+2500,2015,Laramie,46600,gas,V8,,4,6
+2500,2015,Limited,54995,gas,V8,,4,5
+2500,2015,Limited,58615,gas,V8,,4,5
+2500,2015,Lone Star,42065,gas,V8,,4,6
+2500,2015,Lone Star,45435,gas,V8,,4,6
+2500,2015,Longhorn,55820,gas,V8,,4,5
+2500,2015,Longhorn,52200,gas,V8,,4,5
+2500,2015,SLT,40230,gas,V8,,4,6
+2500,2015,SLT,43600,gas,V8,,4,6
+3500,2015,Big Horn,43145,gas,V8,,4,6
+3500,2015,Big Horn,46180,gas,V8,,4,6
+3500,2015,Laramie,47930,gas,V8,,4,6
+3500,2015,Laramie,51365,gas,V8,,4,6
+3500,2015,Limited,56470,gas,V8,,4,5
+3500,2015,Limited,59705,gas,V8,,4,5
+3500,2015,Lone Star,43145,gas,V8,,4,6
+3500,2015,Lone Star,46180,gas,V8,,4,6
+3500,2015,Longhorn,56910,gas,V8,,4,5
+3500,2015,Longhorn,53675,gas,V8,,4,5
+3500,2015,SLT,44745,gas,V8,,4,6
+3500,2015,SLT,41710,gas,V8,,4,6

@@ -1,0 +1,129 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+CX-3,2020,Sport,22040,gas,I4,29.0,5,5
+CX-3,2020,Sport,20640,gas,I4,31.0,5,5
+CX-30,2020,Base,23300,gas,I4,26.0,5,5
+CX-30,2020,Base,21900,gas,I4,28.0,5,5
+CX-30,2020,Preferred,27600,gas,I4,26.0,5,5
+CX-30,2020,Preferred,26200,gas,I4,28.0,5,5
+CX-30,2020,Premium,29600,gas,I4,27.0,5,5
+CX-30,2020,Premium,28200,gas,I4,28.0,5,5
+CX-30,2020,Select,25300,gas,I4,26.0,5,5
+CX-30,2020,Select,23900,gas,I4,28.0,5,5
+CX-5,2020,Grand Touring,31710,gas,I4,26.0,5,5
+CX-5,2020,Grand Touring,30310,gas,I4,28.0,5,5
+CX-5,2020,Grand Touring Reserve,35135,gas,I4,24.0,5,5
+CX-5,2020,Signature,37155,gas,I4,24.0,5,5
+CX-5,2020,Sport,26590,gas,I4,26.0,5,5
+CX-5,2020,Sport,25190,gas,I4,28.0,5,5
+CX-5,2020,Touring,28230,gas,I4,26.0,5,5
+CX-5,2020,Touring,26830,gas,I4,28.0,5,5
+CX-9,2020,Grand Touring,41550,gas,I4,24.0,5,7
+CX-9,2020,Grand Touring,43450,gas,I4,23.0,5,7
+CX-9,2020,Signature,46215,gas,I4,23.0,5,6
+CX-9,2020,Sport,35790,gas,I4,23.0,5,7
+CX-9,2020,Sport,33890,gas,I4,24.0,5,7
+CX-9,2020,Touring,37610,gas,I4,23.0,5,7
+CX-9,2020,Touring,35710,gas,I4,24.0,5,7
+CX-3,2019,Grand Touring,25745,gas,I4,31.0,5,5
+CX-3,2019,Grand Touring,27145,gas,I4,29.0,5,5
+CX-3,2019,Sport,20390,gas,I4,31.0,5,5
+CX-3,2019,Sport,21790,gas,I4,29.0,5,5
+CX-3,2019,Touring,22475,gas,I4,31.0,5,5
+CX-3,2019,Touring,23875,gas,I4,29.0,5,5
+CX-5,2019,Grand Touring,30045,gas,I4,28.0,5,5
+CX-5,2019,Grand Touring,31445,gas,I4,26.0,5,5
+CX-5,2019,Grand Touring Reserve,34870,gas,I4,24.0,5,5
+CX-5,2019,Signature,36890,gas,I4,24.0,5,5
+CX-5,2019,Signature,41000,diesel,I4,28.0,5,5
+CX-5,2019,Sport,25750,gas,I4,26.0,5,5
+CX-5,2019,Sport,24350,gas,I4,28.0,5,5
+CX-5,2019,Touring,28015,gas,I4,26.0,5,5
+CX-5,2019,Touring,26615,gas,I4,28.0,5,5
+CX-9,2019,Grand Touring,40840,gas,I4,24.0,5,7
+CX-9,2019,Grand Touring,42640,gas,I4,23.0,5,7
+CX-9,2019,Signature,45365,gas,I4,23.0,5,7
+CX-9,2019,Sport,34080,gas,I4,23.0,5,7
+CX-9,2019,Sport,32280,gas,I4,24.0,5,7
+CX-9,2019,Touring,37130,gas,I4,23.0,5,7
+CX-9,2019,Touring,35330,gas,I4,24.0,5,7
+CX-3,2018,Grand Touring,26415,gas,I4,29.0,5,5
+CX-3,2018,Grand Touring,25165,gas,I4,31.0,5,5
+CX-3,2018,Sport,21360,gas,I4,29.0,5,5
+CX-3,2018,Sport,20110,gas,I4,31.0,5,5
+CX-3,2018,Touring,23445,gas,I4,29.0,5,5
+CX-3,2018,Touring,22195,gas,I4,31.0,5,5
+CX-5,2018,Grand Touring,29645,gas,I4,28.0,5,5
+CX-5,2018,Grand Touring,30945,gas,I4,26.0,5,5
+CX-5,2018,Sport,24150,gas,I4,28.0,5,5
+CX-5,2018,Sport,25450,gas,I4,26.0,5,5
+CX-5,2018,Touring,26215,gas,I4,28.0,5,5
+CX-5,2018,Touring,27515,gas,I4,26.0,5,5
+CX-9,2018,Grand Touring,40470,gas,I4,24.0,5,7
+CX-9,2018,Grand Touring,42270,gas,I4,23.0,5,7
+CX-9,2018,Signature,44315,gas,I4,23.0,5,7
+CX-9,2018,Sport,33930,gas,I4,23.0,5,7
+CX-9,2018,Sport,32130,gas,I4,24.0,5,7
+CX-9,2018,Touring,36760,gas,I4,23.0,5,7
+CX-9,2018,Touring,34960,gas,I4,24.0,5,7
+CX-3,2017,Grand Touring,26240,gas,I4,29.0,5,5
+CX-3,2017,Grand Touring,24990,gas,I4,31.0,5,5
+CX-3,2017,Sport,21210,gas,I4,29.0,5,5
+CX-3,2017,Sport,19960,gas,I4,31.0,5,5
+CX-3,2017,Touring,21960,gas,I4,31.0,5,5
+CX-3,2017,Touring,23210,gas,I4,29.0,5,5
+CX-5,2017,Grand Select,28895,gas,I4,27.0,5,5
+CX-5,2017,Grand Select,30195,gas,I4,26.0,5,5
+CX-5,2017,Grand Touring,30695,gas,I4,26.0,5,5
+CX-5,2017,Grand Touring,29395,gas,I4,27.0,5,5
+CX-5,2017,Sport,25345,gas,I4,26.0,5,5
+CX-5,2017,Sport,24045,gas,I4,27.0,5,5
+CX-5,2017,Touring,27215,gas,I4,26.0,5,5
+CX-5,2017,Touring,25915,gas,I4,27.0,5,5
+CX-9,2017,Grand Touring,42270,gas,I4,23.0,5,7
+CX-9,2017,Grand Touring,40470,gas,I4,24.0,5,7
+CX-9,2017,Signature,44315,gas,I4,23.0,5,7
+CX-9,2017,Sport,33320,gas,I4,23.0,5,7
+CX-9,2017,Sport,31520,gas,I4,24.0,5,7
+CX-9,2017,Touring,35970,gas,I4,24.0,5,7
+CX-9,2017,Touring,37770,gas,I4,23.0,5,7
+CX-3,2016,Grand Touring,24990,gas,I4,31.0,5,5
+CX-3,2016,Grand Touring,26240,gas,I4,29.0,5,5
+CX-3,2016,Sport,19960,gas,I4,31.0,5,5
+CX-3,2016,Sport,21210,gas,I4,29.0,5,5
+CX-3,2016,Touring,21960,gas,I4,31.0,5,5
+CX-3,2016,Touring,23210,gas,I4,29.0,5,5
+CX-5,2016,Grand Touring,29870,gas,I4,26.0,5,5
+CX-5,2016,Grand Touring,29470,gas,I4,26.0,5,5
+CX-5,2016,Grand Touring,28570,gas,I4,29.0,5,5
+CX-5,2016,Grand Touring,28220,gas,I4,29.0,5,5
+CX-5,2016,Sport,24445,gas,I4,26.0,5,5
+CX-5,2016,Sport,24895,gas,I4,26.0,5,5
+CX-5,2016,Sport,23595,gas,I4,29.0,5,5
+CX-5,2016,Sport,23195,gas,I4,29.0,5,5
+CX-5,2016,Sport,21795,gas,I4,29.0,5,5
+CX-5,2016,Sport,21795,gas,I4,29.0,5,5
+CX-5,2016,Touring,25215,gas,I4,29.0,5,5
+CX-5,2016,Touring,25215,gas,I4,29.0,5,5
+CX-5,2016,Touring,26465,gas,I4,26.0,5,5
+CX-5,2016,Touring,26515,gas,I4,26.0,5,5
+CX-9,2016,Grand Touring,41970,gas,I4,23.0,5,7
+CX-9,2016,Grand Touring,40170,gas,I4,25.0,5,7
+CX-9,2016,Signature,44015,gas,I4,23.0,5,7
+CX-9,2016,Sport,31520,gas,I4,25.0,5,7
+CX-9,2016,Sport,33320,gas,I4,23.0,5,7
+CX-9,2016,Touring,37770,gas,I4,23.0,5,7
+CX-9,2016,Touring,35970,gas,I4,25.0,5,7
+CX-5,2015,Grand Touring,29220,gas,I4,26.0,5,5
+CX-5,2015,Grand Touring,27970,gas,I4,27.0,5,5
+CX-5,2015,Sport,22945,gas,I4,29.0,5,5
+CX-5,2015,Sport,21545,gas,I4,29.0,5,5
+CX-5,2015,Sport,24195,gas,I4,28.0,5,5
+CX-5,2015,Sport,24395,gas,I4,26.0,5,5
+CX-5,2015,Touring,24965,gas,I4,27.0,5,5
+CX-5,2015,Touring,26215,gas,I4,26.0,5,5
+CX-9,2015,Grand Touring,36625,gas,V6,18.0,5,7
+CX-9,2015,Grand Touring,35035,gas,V6,19.0,5,7
+CX-9,2015,Sport,29985,gas,V6,19.0,5,7
+CX-9,2015,Sport,31575,gas,V6,18.0,5,7
+CX-9,2015,Touring,32480,gas,V6,19.0,5,7
+CX-9,2015,Touring,34070,gas,V6,18.0,5,7

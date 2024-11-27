@@ -1,0 +1,599 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+1500,2020,Big Horn,39690,mild hybrid,V6,22.0,4,6
+1500,2020,Big Horn,39390,mild hybrid,V6,22.0,4,6
+1500,2020,Big Horn,42890,mild hybrid,V6,21.0,4,6
+1500,2020,Big Horn,43190,mild hybrid,V6,21.0,4,6
+1500,2020,Laramie,43490,mild hybrid,V6,22.0,4,6
+1500,2020,Laramie,43790,mild hybrid,V6,22.0,4,6
+1500,2020,Laramie,46990,mild hybrid,V6,21.0,4,6
+1500,2020,Laramie,47290,mild hybrid,V6,21.0,4,6
+1500,2020,Limited,53715,mild hybrid,V6,22.0,4,5
+1500,2020,Limited,57515,mild hybrid,V6,21.0,4,5
+1500,2020,Limited,53715,mild hybrid,V6,22.0,4,5
+1500,2020,Limited,57215,mild hybrid,V6,21.0,4,5
+1500,2020,Lone Star,39390,mild hybrid,V6,22.0,4,6
+1500,2020,Lone Star,42890,mild hybrid,V6,21.0,4,6
+1500,2020,Lone Star,43190,mild hybrid,V6,21.0,4,6
+1500,2020,Lone Star,39690,gas,V8,22.0,4,6
+1500,2020,Longhorn,54640,mild hybrid,V6,21.0,4,5
+1500,2020,Longhorn,51440,mild hybrid,V6,22.0,4,5
+1500,2020,Longhorn,51140,mild hybrid,V6,22.0,4,5
+1500,2020,Longhorn,54940,mild hybrid,V6,21.0,4,5
+1500,2020,Rebel,48240,mild hybrid,V6,21.0,4,5
+1500,2020,Rebel,44740,mild hybrid,V6,22.0,4,5
+1500,2020,Tradesman,35245,mild hybrid,V6,22.0,4,6
+1500,2020,Tradesman,38445,mild hybrid,V6,21.0,4,6
+1500,2020,Tradesman,34945,mild hybrid,V6,22.0,4,6
+1500,2020,Tradesman,38745,mild hybrid,V6,21.0,4,6
+1500 Classic,2020,Express,40505,gas,V6,19.0,4,6
+1500 Classic,2020,Express,36875,gas,V6,20.0,4,6
+1500 Classic,2020,SLT Fleet,42395,gas,V6,19.0,4,6
+1500 Classic,2020,SLT Fleet,38795,gas,V6,20.0,4,6
+1500 Classic,2020,SLT Fleet,44380,gas,V8,17.0,4,6
+1500 Classic,2020,SLT Fleet,40545,gas,V8,17.0,4,6
+1500 Classic,2020,Tradesman,38405,gas,V6,19.0,4,6
+1500 Classic,2020,Tradesman,35145,gas,V8,17.0,4,6
+1500 Classic,2020,Tradesman,38980,gas,V8,17.0,4,6
+1500 Classic,2020,Tradesman,34775,gas,V6,20.0,4,6
+1500 Classic,2020,Warlock,38795,gas,V6,20.0,4,6
+1500 Classic,2020,Warlock,42395,gas,V6,19.0,4,6
+2500,2020,Big Horn,42350,gas,V8,,4,6
+2500,2020,Big Horn,42550,gas,V8,,4,6
+2500,2020,Big Horn,45250,gas,V8,,4,6
+2500,2020,Big Horn,45450,gas,V8,,4,6
+2500,2020,Laramie,52550,gas,V8,,4,6
+2500,2020,Laramie,52350,gas,V8,,4,6
+2500,2020,Laramie,49650,gas,V8,,4,6
+2500,2020,Laramie,49450,gas,V8,,4,6
+2500,2020,Limited,61750,gas,V8,,4,5
+2500,2020,Limited,64350,gas,V8,,4,5
+2500,2020,Limited,64650,gas,V8,,4,5
+2500,2020,Limited,61450,gas,V8,,4,5
+2500,2020,Lone Star,42350,gas,V8,,4,6
+2500,2020,Lone Star,42550,gas,V8,,4,6
+2500,2020,Lone Star,45250,gas,V8,,4,6
+2500,2020,Lone Star,45450,gas,V8,,4,6
+2500,2020,Longhorn,56750,gas,V8,,4,5
+2500,2020,Longhorn,56950,gas,V8,,4,5
+2500,2020,Longhorn,59850,gas,V8,,4,5
+2500,2020,Longhorn,59650,gas,V8,,4,5
+2500,2020,Power Wagon,53350,gas,V8,,4,6
+2500,2020,Tradesman,37650,gas,V8,,4,6
+2500,2020,Tradesman,40350,gas,V8,,4,6
+2500,2020,Tradesman,40550,gas,V8,,4,6
+2500,2020,Tradesman,37450,gas,V8,,4,6
+3500,2020,Big Horn,43700,gas,V8,,4,6
+3500,2020,Big Horn,43900,gas,V8,,4,6
+3500,2020,Big Horn,46600,gas,V8,,4,6
+3500,2020,Big Horn,46800,gas,V8,,4,6
+3500,2020,Laramie,50800,gas,V8,,4,6
+3500,2020,Laramie,51000,gas,V8,,4,6
+3500,2020,Laramie,53900,gas,V8,,4,6
+3500,2020,Laramie,53700,gas,V8,,4,6
+3500,2020,Limited,66000,gas,V8,,4,5
+3500,2020,Limited,62800,gas,V8,,4,5
+3500,2020,Limited,63100,gas,V8,,4,5
+3500,2020,Limited,65700,gas,V8,,4,5
+3500,2020,Lone Star,46800,gas,V8,,4,6
+3500,2020,Lone Star,43700,gas,V8,,4,6
+3500,2020,Lone Star,43900,gas,V8,,4,6
+3500,2020,Lone Star,46600,gas,V8,,4,6
+3500,2020,Longhorn,61200,gas,V8,,4,5
+3500,2020,Longhorn,58300,gas,V8,,4,5
+3500,2020,Longhorn,58100,gas,V8,,4,5
+3500,2020,Longhorn,61000,gas,V8,,4,5
+3500,2020,Tradesman,38800,gas,V8,,4,6
+3500,2020,Tradesman,39000,gas,V8,,4,6
+3500,2020,Tradesman,41700,gas,V8,,4,6
+3500,2020,Tradesman,41900,gas,V8,,4,6
+1500,2019,Big Horn/Lone Star,42540,mild hybrid,V6,21.0,4,6
+1500,2019,Big Horn/Lone Star,42240,mild hybrid,V6,21.0,4,6
+1500,2019,Big Horn/Lone Star,38740,mild hybrid,V6,22.0,4,6
+1500,2019,Big Horn/Lone Star,39040,mild hybrid,V6,22.0,4,6
+1500,2019,Laramie,42640,mild hybrid,V6,22.0,4,6
+1500,2019,Laramie,42940,mild hybrid,V6,22.0,4,6
+1500,2019,Laramie,46440,mild hybrid,V6,21.0,4,6
+1500,2019,Laramie,46140,mild hybrid,V6,21.0,4,6
+1500,2019,Limited,52995,mild hybrid,V6,19.0,4,5
+1500,2019,Limited,57040,mild hybrid,V6,21.0,4,5
+1500,2019,Limited,56740,mild hybrid,V6,21.0,4,5
+1500,2019,Limited,53240,mild hybrid,V6,22.0,4,5
+1500,2019,Longhorn,54140,mild hybrid,V6,21.0,4,5
+1500,2019,Longhorn,50940,mild hybrid,V6,22.0,4,5
+1500,2019,Longhorn,54440,mild hybrid,V6,21.0,4,5
+1500,2019,Longhorn,50640,mild hybrid,V6,22.0,4,5
+1500,2019,Rebel,47740,mild hybrid,V6,21.0,4,5
+1500,2019,Rebel,44240,mild hybrid,V6,22.0,4,5
+1500,2019,Tradesman,34595,mild hybrid,V6,22.0,4,6
+1500,2019,Tradesman,38395,mild hybrid,V6,21.0,4,6
+1500,2019,Tradesman,38095,mild hybrid,V6,21.0,4,6
+1500,2019,Tradesman,34895,mild hybrid,V6,22.0,4,6
+1500 Classic,2019,Big Horn,46545,gas,V8,17.0,4,6
+1500 Classic,2019,Big Horn,46495,gas,V8,17.0,4,6
+1500 Classic,2019,Big Horn,42945,gas,V8,17.0,4,6
+1500 Classic,2019,Big Horn,42895,gas,V8,17.0,4,6
+1500 Classic,2019,Express,39945,gas,V6,19.0,4,6
+1500 Classic,2019,Express,36245,gas,V6,20.0,4,6
+1500 Classic,2019,Laramie,45200,diesel,V6,23.0,4,6
+1500 Classic,2019,Laramie,45500,diesel,V6,23.0,4,6
+1500 Classic,2019,Laramie,48900,diesel,V6,22.0,4,6
+1500 Classic,2019,Laramie,49200,diesel,V6,22.0,4,6
+1500 Classic,2019,Lone Star,44545,gas,V8,17.0,4,6
+1500 Classic,2019,Lone Star,44495,gas,V8,17.0,4,6
+1500 Classic,2019,Lone Star,40945,gas,V8,17.0,4,6
+1500 Classic,2019,Lone Star,40895,gas,V8,17.0,4,6
+1500 Classic,2019,Lone Star Silver,41795,gas,V8,17.0,4,5
+1500 Classic,2019,Lone Star Silver,41845,gas,V8,17.0,4,5
+1500 Classic,2019,Lone Star Silver,45395,gas,V8,17.0,4,5
+1500 Classic,2019,Lone Star Silver,45445,gas,V8,17.0,4,5
+1500 Classic,2019,SLT Fleet,38245,gas,V6,20.0,4,6
+1500 Classic,2019,SLT Fleet,41845,gas,V6,19.0,4,6
+1500 Classic,2019,SLT Fleet,43845,gas,V8,17.0,4,6
+1500 Classic,2019,SLT Fleet,40245,gas,V8,17.0,4,6
+1500 Classic,2019,Tradesman,38445,gas,V8,17.0,4,6
+1500 Classic,2019,Tradesman,37845,gas,V6,19.0,4,6
+1500 Classic,2019,Tradesman,34845,gas,V8,17.0,4,6
+1500 Classic,2019,Tradesman,34145,gas,V6,20.0,4,6
+1500 Classic,2019,Warlock,38245,gas,V6,19.0,4,6
+1500 Classic,2019,Warlock,41845,gas,V6,19.0,4,6
+2500,2019,Big Horn,45200,gas,V8,,4,6
+2500,2019,Big Horn,45000,gas,V8,,4,6
+2500,2019,Big Horn,42300,gas,V8,,4,6
+2500,2019,Big Horn,42100,gas,V8,,4,6
+2500,2019,Laramie,52000,gas,V8,,4,6
+2500,2019,Laramie,52200,gas,V8,,4,6
+2500,2019,Laramie,49300,gas,V8,,4,6
+2500,2019,Laramie,49100,gas,V8,,4,6
+2500,2019,Limited,61000,gas,V8,,4,5
+2500,2019,Limited,61300,gas,V8,,4,5
+2500,2019,Limited,63900,gas,V8,,4,5
+2500,2019,Limited,64200,gas,V8,,4,5
+2500,2019,Lone Star,45200,gas,V8,,4,6
+2500,2019,Lone Star,45000,gas,V8,,4,6
+2500,2019,Lone Star,42300,gas,V8,,4,6
+2500,2019,Lone Star,42100,gas,V8,,4,6
+2500,2019,Longhorn,56300,gas,V8,,4,5
+2500,2019,Longhorn,56500,gas,V8,,4,5
+2500,2019,Longhorn,59200,gas,V8,,4,5
+2500,2019,Longhorn,59400,gas,V8,,4,5
+2500,2019,Power Wagon,52900,gas,V8,,4,6
+2500,2019,Tradesman,36950,gas,V8,,4,6
+2500,2019,Tradesman,37150,gas,V8,,4,6
+2500,2019,Tradesman,39850,gas,V8,,4,6
+2500,2019,Tradesman,40050,gas,V8,,4,6
+3500,2019,Big Horn,43450,gas,V8,,4,6
+3500,2019,Big Horn,46550,gas,V8,,4,6
+3500,2019,Big Horn,46350,gas,V8,,4,6
+3500,2019,Big Horn,43650,gas,V8,,4,6
+3500,2019,Laramie,50450,gas,V8,,4,6
+3500,2019,Laramie,50650,gas,V8,,4,6
+3500,2019,Laramie,53350,gas,V8,,4,6
+3500,2019,Laramie,53550,gas,V8,,4,6
+3500,2019,Limited,62350,gas,V8,,4,5
+3500,2019,Limited,62650,gas,V8,,4,5
+3500,2019,Limited,65250,gas,V8,,4,5
+3500,2019,Limited,65550,gas,V8,,4,5
+3500,2019,Lone Star,43450,gas,V8,,4,6
+3500,2019,Lone Star,46550,gas,V8,,4,6
+3500,2019,Lone Star,46350,gas,V8,,4,6
+3500,2019,Lone Star,43650,gas,V8,,4,6
+3500,2019,Longhorn,60550,gas,V8,,4,5
+3500,2019,Longhorn,57650,gas,V8,,4,5
+3500,2019,Longhorn,57850,gas,V8,,4,5
+3500,2019,Longhorn,60750,gas,V8,,4,5
+3500,2019,Tradesman,41400,gas,V8,,4,6
+3500,2019,Tradesman,41200,gas,V8,,4,6
+3500,2019,Tradesman,38500,gas,V8,,4,6
+3500,2019,Tradesman,38300,gas,V8,,4,6
+1500,2018,Big Horn,40295,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,Big Horn,42295,gas,V8,17.0,4,6
+1500,2018,Big Horn,43895,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,Big Horn,45895,gas,V8,17.0,4,6
+1500,2018,Express,38895,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,Express,35195,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,Harvest,39860,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,Harvest,41860,gas,V8,17.0,4,6
+1500,2018,Harvest,43460,flex-fuel (FFV),V6,19.0,4,5
+1500,2018,Harvest,45460,gas,V8,17.0,4,5
+1500,2018,Laramie,47645,gas,V8,17.0,4,6
+1500,2018,Laramie,45645,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,Laramie,44045,gas,V8,17.0,4,6
+1500,2018,Laramie,42145,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,Limited,53295,gas,V8,17.0,4,5
+1500,2018,Limited,57195,gas,V8,17.0,4,5
+1500,2018,Limited,56795,gas,V8,17.0,4,5
+1500,2018,Limited,53595,gas,V8,17.0,4,5
+1500,2018,Lone Star,38295,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,Lone Star,40295,gas,V8,17.0,4,6
+1500,2018,Lone Star,41895,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,Lone Star,43895,gas,V8,17.0,4,6
+1500,2018,Lone Star Silver,44795,gas,V8,17.0,4,5
+1500,2018,Lone Star Silver,39195,flex-fuel (FFV),V6,20.0,4,5
+1500,2018,Lone Star Silver,42795,flex-fuel (FFV),V6,19.0,4,5
+1500,2018,Lone Star Silver,41195,gas,V8,17.0,4,5
+1500,2018,Longhorn,50395,gas,V8,17.0,4,5
+1500,2018,Longhorn,50095,gas,V8,17.0,4,5
+1500,2018,Longhorn,53595,gas,V8,17.0,4,5
+1500,2018,Longhorn,53995,gas,V8,17.0,4,5
+1500,2018,Night,41190,flex-fuel (FFV),V6,20.0,4,5
+1500,2018,Night,44790,flex-fuel (FFV),V6,19.0,4,5
+1500,2018,Night,46790,gas,V8,17.0,4,5
+1500,2018,Rebel,47395,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,Rebel,45295,gas,V8,17.0,4,6
+1500,2018,SLT Fleet,37595,flex-fuel (FFV),V6,20.0,4,6
+1500,2018,SLT Fleet,41195,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,SLT Fleet,43195,gas,V8,17.0,4,6
+1500,2018,SLT Fleet,39595,gas,V8,17.0,4,6
+1500,2018,Sport,46395,gas,V8,17.0,4,5
+1500,2018,Sport,44395,flex-fuel (FFV),V6,19.0,4,5
+1500,2018,Sport,42795,gas,V8,17.0,4,5
+1500,2018,Sport,40795,flex-fuel (FFV),V6,20.0,4,5
+1500,2018,Tradesman,37595,gas,V8,17.0,4,6
+1500,2018,Tradesman,36995,flex-fuel (FFV),V6,19.0,4,6
+1500,2018,Tradesman,33995,gas,V8,17.0,4,6
+1500,2018,Tradesman,33295,flex-fuel (FFV),V6,20.0,4,6
+2500,2018,Big Horn,43240,gas,V8,,4,6
+2500,2018,Big Horn,46240,gas,V8,,4,6
+2500,2018,Big Horn,46040,gas,V8,,4,6
+2500,2018,Big Horn,43440,gas,V8,,4,6
+2500,2018,Laramie,51145,gas,V8,,4,6
+2500,2018,Laramie,50945,gas,V8,,4,6
+2500,2018,Laramie,47945,gas,V8,,4,6
+2500,2018,Laramie,47745,gas,V8,,4,6
+2500,2018,Limited,61395,gas,V8,,4,5
+2500,2018,Limited,61095,gas,V8,,4,5
+2500,2018,Limited,57895,gas,V8,,4,5
+2500,2018,Limited,58195,gas,V8,,4,5
+2500,2018,Lone Star,46040,gas,V8,,4,6
+2500,2018,Lone Star,43440,gas,V8,,4,6
+2500,2018,Lone Star,43240,gas,V8,,4,6
+2500,2018,Lone Star,46240,gas,V8,,4,6
+2500,2018,Longhorn,54495,gas,V8,,4,5
+2500,2018,Longhorn,57895,gas,V8,,4,5
+2500,2018,Longhorn,57695,gas,V8,,4,5
+2500,2018,Longhorn,54695,gas,V8,,4,5
+2500,2018,Power Wagon,52295,gas,V8,,4,6
+2500,2018,SLT,41245,gas,V8,,4,6
+2500,2018,SLT,41445,gas,V8,,4,6
+2500,2018,SLT,44045,gas,V8,,4,6
+2500,2018,SLT,44245,gas,V8,,4,6
+2500,2018,Tradesman,38945,gas,V8,,4,6
+2500,2018,Tradesman,36345,gas,V8,,4,6
+2500,2018,Tradesman,36145,gas,V8,,4,6
+2500,2018,Tradesman,39145,gas,V8,,4,6
+3500,2018,Big Horn,47340,gas,V8,,4,6
+3500,2018,Big Horn,47140,gas,V8,,4,6
+3500,2018,Big Horn,44540,gas,V8,,4,6
+3500,2018,Big Horn,44340,gas,V8,,4,6
+3500,2018,Laramie,48845,gas,V8,,4,6
+3500,2018,Laramie,49045,gas,V8,,4,6
+3500,2018,Laramie,52045,gas,V8,,4,6
+3500,2018,Laramie,52245,gas,V8,,4,6
+3500,2018,Laramie Longhorn,58995,gas,V8,,4,5
+3500,2018,Laramie Longhorn,58795,gas,V8,,4,5
+3500,2018,Laramie Longhorn,55795,gas,V8,,4,5
+3500,2018,Laramie Longhorn,55595,gas,V8,,4,5
+3500,2018,Limited,59295,gas,V8,,4,5
+3500,2018,Limited,62195,gas,V8,,4,5
+3500,2018,Limited,62495,gas,V8,,4,5
+3500,2018,Limited,58995,gas,V8,,4,5
+3500,2018,Lone Star,44540,gas,V8,,4,6
+3500,2018,Lone Star,44340,gas,V8,,4,6
+3500,2018,Lone Star,47340,gas,V8,,4,6
+3500,2018,Lone Star,47140,gas,V8,,4,6
+3500,2018,SLT,42345,gas,V8,,4,6
+3500,2018,SLT,45345,gas,V8,,4,6
+3500,2018,SLT,45145,gas,V8,,4,6
+3500,2018,SLT,42545,gas,V8,,4,6
+3500,2018,Tradesman,37245,gas,V8,,4,6
+3500,2018,Tradesman,40245,gas,V8,,4,6
+3500,2018,Tradesman,40045,gas,V8,,4,6
+3500,2018,Tradesman,37445,gas,V8,,4,6
+1500,2017,Big Horn,40295,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Big Horn,42295,gas,V8,17.0,4,6
+1500,2017,Big Horn,45895,gas,V8,17.0,4,6
+1500,2017,Big Horn,43895,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Express,38595,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Express,34895,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Laramie,47595,gas,V8,17.0,4,6
+1500,2017,Laramie,45595,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Laramie,43995,gas,V8,17.0,4,6
+1500,2017,Laramie,42095,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Limited,52875,gas,V8,17.0,4,5
+1500,2017,Limited,53175,gas,V8,17.0,4,5
+1500,2017,Limited,56775,gas,V8,17.0,4,5
+1500,2017,Limited,56375,gas,V8,17.0,4,5
+1500,2017,Lone Star,38295,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Lone Star,40295,gas,V8,17.0,4,6
+1500,2017,Lone Star,41895,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Lone Star,43895,gas,V8,17.0,4,6
+1500,2017,Lone Star Silver,42795,flex-fuel (FFV),V6,19.0,4,5
+1500,2017,Lone Star Silver,41195,diesel,V6,21.0,4,5
+1500,2017,Lone Star Silver,44795,gas,V8,17.0,4,5
+1500,2017,Lone Star Silver,39195,flex-fuel (FFV),V6,20.0,4,5
+1500,2017,Lone Star Silver,41195,gas,V8,17.0,4,5
+1500,2017,Longhorn,53175,gas,V8,17.0,4,5
+1500,2017,Longhorn,53575,gas,V8,17.0,4,5
+1500,2017,Longhorn,49675,gas,V8,17.0,4,5
+1500,2017,Longhorn,49975,gas,V8,17.0,4,5
+1500,2017,Night,40890,flex-fuel (FFV),V6,20.0,4,5
+1500,2017,Night,46490,gas,V8,17.0,4,5
+1500,2017,Night,44490,flex-fuel (FFV),V6,19.0,4,5
+1500,2017,Night,42890,gas,V8,17.0,4,5
+1500,2017,Rebel,47195,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Rebel,45095,gas,V8,17.0,4,6
+1500,2017,SLT,43195,gas,V8,17.0,4,6
+1500,2017,SLT,37595,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,SLT,39595,gas,V8,17.0,4,6
+1500,2017,SLT,41195,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Sport,42495,gas,V8,17.0,4,5
+1500,2017,Sport,40495,flex-fuel (FFV),V6,20.0,4,5
+1500,2017,Sport,44095,flex-fuel (FFV),V6,19.0,4,5
+1500,2017,Sport,46095,gas,V8,17.0,4,5
+1500,2017,Tradesman,32995,flex-fuel (FFV),V6,20.0,4,6
+1500,2017,Tradesman,33695,gas,V8,17.0,4,6
+1500,2017,Tradesman,36695,flex-fuel (FFV),V6,19.0,4,6
+1500,2017,Tradesman,37295,gas,V8,17.0,4,6
+2500,2017,Big Horn,45525,gas,V8,,4,6
+2500,2017,Big Horn,42725,gas,V8,,4,6
+2500,2017,Big Horn,45725,gas,V8,,4,6
+2500,2017,Big Horn,42925,gas,V8,,4,6
+2500,2017,Laramie,47645,gas,V8,,4,6
+2500,2017,Laramie,47845,gas,V8,,4,6
+2500,2017,Laramie,50845,gas,V8,,4,6
+2500,2017,Laramie,51045,gas,V8,,4,6
+2500,2017,Limited,57775,gas,V8,,4,5
+2500,2017,Limited,61275,gas,V8,,4,5
+2500,2017,Limited,60975,gas,V8,,4,5
+2500,2017,Limited,58075,gas,V8,,4,5
+2500,2017,Lone Star,42725,gas,V8,,4,6
+2500,2017,Lone Star,42925,gas,V8,,4,6
+2500,2017,Lone Star,45525,gas,V8,,4,6
+2500,2017,Lone Star,45725,gas,V8,,4,6
+2500,2017,Longhorn,54375,gas,V8,,4,5
+2500,2017,Longhorn,54575,gas,V8,,4,5
+2500,2017,Longhorn,57575,gas,V8,,4,5
+2500,2017,Longhorn,57775,gas,V8,,4,5
+2500,2017,Power Wagon,51695,gas,V8,,4,6
+2500,2017,SLT,40845,gas,V8,,4,6
+2500,2017,SLT,43645,gas,V8,,4,6
+2500,2017,SLT,41045,gas,V8,,4,6
+2500,2017,SLT,43845,gas,V8,,4,6
+2500,2017,Tradesman,35745,gas,V8,,4,6
+2500,2017,Tradesman,35945,gas,V8,,4,6
+2500,2017,Tradesman,38545,gas,V8,,4,6
+2500,2017,Tradesman,38745,gas,V8,,4,6
+3500,2017,Big Horn,43825,gas,V8,,4,6
+3500,2017,Big Horn,44025,gas,V8,,4,6
+3500,2017,Big Horn,46625,gas,V8,,4,6
+3500,2017,Big Horn,46825,gas,V8,,4,6
+3500,2017,Laramie,48945,gas,V8,,4,6
+3500,2017,Laramie,52145,gas,V8,,4,6
+3500,2017,Laramie,48745,gas,V8,,4,6
+3500,2017,Laramie,51945,gas,V8,,4,6
+3500,2017,Laramie Longhorn,58875,gas,V8,,4,5
+3500,2017,Laramie Longhorn,58675,gas,V8,,4,5
+3500,2017,Laramie Longhorn,55675,gas,V8,,4,5
+3500,2017,Laramie Longhorn,55475,gas,V8,,4,5
+3500,2017,Limited,59175,gas,V8,,4,5
+3500,2017,Limited,62075,gas,V8,,4,5
+3500,2017,Limited,62375,gas,V8,,4,5
+3500,2017,Limited,58875,gas,V8,,4,5
+3500,2017,Lone Star,43825,gas,V8,,4,6
+3500,2017,Lone Star,44025,gas,V8,,4,6
+3500,2017,Lone Star,46625,gas,V8,,4,6
+3500,2017,Lone Star,46825,gas,V8,,4,6
+3500,2017,SLT,41945,gas,V8,,4,6
+3500,2017,SLT,42145,gas,V8,,4,6
+3500,2017,SLT,44745,gas,V8,,4,6
+3500,2017,SLT,44945,gas,V8,,4,6
+3500,2017,Tradesman,39645,gas,V8,,4,6
+3500,2017,Tradesman,39845,gas,V8,,4,6
+3500,2017,Tradesman,37045,gas,V8,,4,6
+3500,2017,Tradesman,36845,gas,V8,,4,6
+1500,2016,Big Horn,39945,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Big Horn,41895,gas,V8,17.0,4,6
+1500,2016,Big Horn,41415,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Big Horn,43365,gas,V8,17.0,4,6
+1500,2016,Big Horn,43525,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Big Horn,45475,gas,V8,17.0,4,6
+1500,2016,Big Horn,39785,gas,V8,17.0,4,6
+1500,2016,Big Horn,37835,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Express,38400,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Express,34820,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Laramie,47040,gas,V8,17.0,4,6
+1500,2016,Laramie,45090,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Laramie,43460,gas,V8,17.0,4,6
+1500,2016,Laramie,41510,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Limited,56200,gas,V8,17.0,4,5
+1500,2016,Limited,52620,gas,V8,17.0,4,5
+1500,2016,Limited,55900,gas,V8,17.0,4,5
+1500,2016,Limited,52320,gas,V8,17.0,4,5
+1500,2016,Lone Star,41415,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Lone Star,43525,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Lone Star,39785,gas,V8,17.0,4,6
+1500,2016,Lone Star,37835,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Lone Star,45475,gas,V8,17.0,4,6
+1500,2016,Lone Star,41895,gas,V8,17.0,4,6
+1500,2016,Lone Star,39945,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Lone Star,43365,gas,V8,17.0,4,6
+1500,2016,Longhorn,49085,gas,V8,17.0,4,5
+1500,2016,Longhorn,52665,gas,V8,17.0,4,5
+1500,2016,Longhorn,52365,gas,V8,17.0,4,5
+1500,2016,Longhorn,48785,gas,V8,17.0,4,5
+1500,2016,Outdoorsman,43835,gas,V8,17.0,4,6
+1500,2016,Outdoorsman,41885,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Rebel,43270,gas,V8,17.0,4,6
+1500,2016,Rebel,45200,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,SLT,37380,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,SLT,39330,gas,V8,17.0,4,6
+1500,2016,SLT,40960,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,SLT,42910,gas,V8,17.0,4,6
+1500,2016,Sport,45130,gas,V8,17.0,4,5
+1500,2016,Sport,45430,gas,V8,17.0,4,5
+1500,2016,Sport,41850,gas,V8,17.0,4,5
+1500,2016,Sport,41550,gas,V8,17.0,4,5
+1500,2016,Tradesman,32960,flex-fuel (FFV),V6,20.0,4,6
+1500,2016,Tradesman,33570,gas,V8,16.0,4,6
+1500,2016,Tradesman,36540,flex-fuel (FFV),V6,19.0,4,6
+1500,2016,Tradesman,37150,gas,V8,15.0,4,6
+2500,2016,Big Horn,45425,gas,V8,,4,6
+2500,2016,Big Horn,41855,gas,V8,,4,6
+2500,2016,Big Horn,42055,gas,V8,,4,6
+2500,2016,Big Horn,45225,gas,V8,,4,6
+2500,2016,Laramie,50330,gas,V8,,4,6
+2500,2016,Laramie,50130,gas,V8,,4,6
+2500,2016,Laramie,46640,gas,V8,,4,6
+2500,2016,Laramie,46440,gas,V8,,4,6
+2500,2016,Laramie Power Wagon,57580,gas,V8,,4,6
+2500,2016,Limited,55500,gas,V8,,4,5
+2500,2016,Limited,55800,gas,V8,,4,5
+2500,2016,Limited,59120,gas,V8,,4,5
+2500,2016,Limited,59420,gas,V8,,4,5
+2500,2016,Lone Star,42055,gas,V8,,4,6
+2500,2016,Lone Star,45425,gas,V8,,4,6
+2500,2016,Lone Star,45225,gas,V8,,4,6
+2500,2016,Lone Star,41855,gas,V8,,4,6
+2500,2016,Longhorn,52415,gas,V8,,4,5
+2500,2016,Longhorn,55835,gas,V8,,4,5
+2500,2016,Longhorn,56035,gas,V8,,4,5
+2500,2016,Longhorn,52215,gas,V8,,4,5
+2500,2016,Outdoorsman,46220,gas,V8,,4,5
+2500,2016,Outdoorsman,46420,gas,V8,,4,5
+2500,2016,Power Wagon,51160,gas,V8,,4,6
+2500,2016,SLT,43545,gas,V8,,4,6
+2500,2016,SLT,43345,gas,V8,,4,6
+2500,2016,SLT,40175,gas,V8,,4,6
+2500,2016,SLT,39975,gas,V8,,4,6
+2500,2016,Tradesman,38810,gas,V8,,4,6
+2500,2016,Tradesman,38610,gas,V8,,4,6
+2500,2016,Tradesman,35750,gas,V8,,4,6
+2500,2016,Tradesman,35550,gas,V8,,4,6
+2500,2016,Tradesman Power Wagon,46560,gas,V8,,4,6
+3500,2016,Big Horn,45720,gas,V8,,4,6
+3500,2016,Big Horn,42485,gas,V8,,4,6
+3500,2016,Big Horn,42685,gas,V8,,4,6
+3500,2016,Big Horn,45520,gas,V8,,4,6
+3500,2016,Laramie,47420,gas,V8,,4,6
+3500,2016,Laramie,47620,gas,V8,,4,6
+3500,2016,Laramie,50855,gas,V8,,4,6
+3500,2016,Laramie,51055,gas,V8,,4,6
+3500,2016,Limited,60210,gas,V8,,4,5
+3500,2016,Limited,59910,gas,V8,,4,5
+3500,2016,Limited,56975,gas,V8,,4,5
+3500,2016,Limited,56675,gas,V8,,4,5
+3500,2016,Lone Star,45720,gas,V8,,4,6
+3500,2016,Lone Star,45520,gas,V8,,4,6
+3500,2016,Lone Star,42485,gas,V8,,4,6
+3500,2016,Lone Star,42685,gas,V8,,4,6
+3500,2016,Longhorn,53390,gas,V8,,4,5
+3500,2016,Longhorn,53590,gas,V8,,4,5
+3500,2016,Longhorn,56625,gas,V8,,4,5
+3500,2016,Longhorn,56825,gas,V8,,4,5
+3500,2016,SLT,44240,gas,V8,,4,6
+3500,2016,SLT,44040,gas,V8,,4,6
+3500,2016,SLT,41205,gas,V8,,4,6
+3500,2016,SLT,41005,gas,V8,,4,6
+3500,2016,Tradesman,36140,gas,V8,,4,6
+3500,2016,Tradesman,36340,gas,V8,,4,6
+3500,2016,Tradesman,39475,gas,V8,,4,6
+3500,2016,Tradesman,39675,gas,V8,,4,6
+1500,2015,Big Horn,42905,gas,V8,17.0,4,6
+1500,2015,Big Horn,40955,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,Big Horn,39325,gas,V8,17.0,4,6
+1500,2015,Big Horn,37375,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,Express,37815,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,Express,34235,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,Laramie,46685,gas,V8,17.0,4,6
+1500,2015,Laramie,41230,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,Laramie,43180,gas,V8,17.0,4,6
+1500,2015,Laramie,44735,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,Limited,49680,gas,V8,17.0,4,5
+1500,2015,Limited,49980,gas,V8,17.0,4,5
+1500,2015,Limited,53185,gas,V8,17.0,4,5
+1500,2015,Limited,53485,gas,V8,17.0,4,5
+1500,2015,Lone Star,39325,gas,V8,17.0,4,6
+1500,2015,Lone Star,40955,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,Lone Star,42905,gas,V8,17.0,4,6
+1500,2015,Lone Star,37375,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,Longhorn,50990,gas,V8,17.0,4,5
+1500,2015,Longhorn,50690,gas,V8,17.0,4,5
+1500,2015,Longhorn,47485,gas,V8,17.0,4,5
+1500,2015,Longhorn,47185,gas,V8,17.0,4,5
+1500,2015,Outdoorsman,37465,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,Outdoorsman,39665,gas,V8,17.0,4,6
+1500,2015,Outdoorsman,41295,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,Outdoorsman,43245,gas,V8,17.0,4,6
+1500,2015,SLT,36170,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,SLT,38120,gas,V8,17.0,4,6
+1500,2015,SLT,39750,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,SLT,41700,gas,V8,17.0,4,6
+1500,2015,Sport,41270,gas,V8,17.0,4,5
+1500,2015,Sport,41570,gas,V8,17.0,4,5
+1500,2015,Sport,44850,gas,V8,17.0,4,5
+1500,2015,Sport,45150,gas,V8,17.0,4,5
+1500,2015,Tradesman,32475,flex-fuel (FFV),V6,20.0,4,6
+1500,2015,Tradesman,33085,gas,V8,16.0,4,6
+1500,2015,Tradesman,36055,flex-fuel (FFV),V6,19.0,4,6
+1500,2015,Tradesman,36665,gas,V8,15.0,4,6
+2500,2015,Big Horn,40865,gas,V8,,4,6
+2500,2015,Big Horn,41065,gas,V8,,4,6
+2500,2015,Big Horn,44235,gas,V8,,4,6
+2500,2015,Big Horn,44435,gas,V8,,4,6
+2500,2015,Laramie,45600,gas,V8,,4,6
+2500,2015,Laramie,45400,gas,V8,,4,6
+2500,2015,Laramie,49090,gas,V8,,4,6
+2500,2015,Laramie,49290,gas,V8,,4,6
+2500,2015,Laramie Power Wagon,56540,gas,V8,,4,6
+2500,2015,Limited,53495,gas,V8,,4,5
+2500,2015,Limited,57115,gas,V8,,4,5
+2500,2015,Limited,57415,gas,V8,,4,5
+2500,2015,Limited,53795,gas,V8,,4,5
+2500,2015,Lone Star,41065,gas,V8,,4,6
+2500,2015,Lone Star,40865,gas,V8,,4,6
+2500,2015,Lone Star,44235,gas,V8,,4,6
+2500,2015,Lone Star,44435,gas,V8,,4,6
+2500,2015,Longhorn,51200,gas,V8,,4,5
+2500,2015,Longhorn,54820,gas,V8,,4,5
+2500,2015,Longhorn,51000,gas,V8,,4,5
+2500,2015,Longhorn,54620,gas,V8,,4,5
+2500,2015,Outdoorsman,45295,gas,V8,,4,5
+2500,2015,Outdoorsman,45095,gas,V8,,4,5
+2500,2015,Power Wagon,50215,gas,V8,,4,6
+2500,2015,SLT,42400,gas,V8,,4,6
+2500,2015,SLT,39030,gas,V8,,4,6
+2500,2015,SLT,39230,gas,V8,,4,6
+2500,2015,SLT,42600,gas,V8,,4,6
+2500,2015,Tradesman,38015,gas,V8,,4,6
+2500,2015,Tradesman,37815,gas,V8,,4,6
+2500,2015,Tradesman,34955,gas,V8,,4,6
+2500,2015,Tradesman,34755,gas,V8,,4,6
+2500,2015,Tradesman Power Wagon,45765,gas,V8,,4,6
+3500,2015,Big Horn,41745,gas,V8,,4,6
+3500,2015,Big Horn,41945,gas,V8,,4,6
+3500,2015,Big Horn,44780,gas,V8,,4,6
+3500,2015,Big Horn,44980,gas,V8,,4,6
+3500,2015,Laramie,50165,gas,V8,,4,6
+3500,2015,Laramie,49965,gas,V8,,4,6
+3500,2015,Laramie,46730,gas,V8,,4,6
+3500,2015,Laramie,46530,gas,V8,,4,6
+3500,2015,Limited,58005,gas,V8,,4,5
+3500,2015,Limited,54770,gas,V8,,4,5
+3500,2015,Limited,55070,gas,V8,,4,5
+3500,2015,Limited,58305,gas,V8,,4,5
+3500,2015,Lone Star,44980,gas,V8,,4,6
+3500,2015,Lone Star,44780,gas,V8,,4,6
+3500,2015,Lone Star,41945,gas,V8,,4,6
+3500,2015,Lone Star,41745,gas,V8,,4,6
+3500,2015,Longhorn,52475,gas,V8,,4,5
+3500,2015,Longhorn,55510,gas,V8,,4,5
+3500,2015,Longhorn,55710,gas,V8,,4,5
+3500,2015,Longhorn,52275,gas,V8,,4,5
+3500,2015,SLT,43545,gas,V8,,4,6
+3500,2015,SLT,43345,gas,V8,,4,6
+3500,2015,SLT,40310,gas,V8,,4,6
+3500,2015,SLT,40510,gas,V8,,4,6
+3500,2015,Tradesman,35595,gas,V8,,4,6
+3500,2015,Tradesman,35795,gas,V8,,4,6
+3500,2015,Tradesman,38930,gas,V8,,4,6
+3500,2015,Tradesman,39130,gas,V8,,4,6

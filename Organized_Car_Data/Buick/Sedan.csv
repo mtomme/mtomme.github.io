@@ -1,0 +1,78 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+LaCrosse,2019,1SV,29570,mild hybrid,I4,29.0,4,5
+LaCrosse,2019,Avenir,44870,gas,V6,24.0,4,5
+LaCrosse,2019,Avenir,47070,gas,V6,23.0,4,5
+LaCrosse,2019,Essence,41070,gas,V6,23.0,4,5
+LaCrosse,2019,Essence,36370,mild hybrid,I4,29.0,4,5
+LaCrosse,2019,Preferred,33670,mild hybrid,I4,29.0,4,5
+LaCrosse,2019,Premium,43470,gas,V6,23.0,4,5
+LaCrosse,2019,Premium,38670,mild hybrid,I4,29.0,4,5
+LaCrosse,2019,Sport Touring,39370,gas,V6,24.0,4,5
+LaCrosse,2018,1SV,29565,mild hybrid,I4,29.0,4,5
+LaCrosse,2018,Avenir,47070,gas,V6,23.0,4,5
+LaCrosse,2018,Avenir,44870,gas,V6,24.0,4,5
+LaCrosse,2018,Essence,41070,gas,V6,23.0,4,5
+LaCrosse,2018,Essence,36370,mild hybrid,I4,29.0,4,5
+LaCrosse,2018,Preferred,33670,mild hybrid,I4,29.0,4,5
+LaCrosse,2018,Premium,38670,mild hybrid,I4,29.0,4,5
+LaCrosse,2018,Premium,43470,gas,V6,23.0,4,5
+LaCrosse,2017,1SV,32065,gas,V6,25.0,4,5
+LaCrosse,2017,Essence,38665,gas,V6,25.0,4,5
+LaCrosse,2017,Preferred,36065,gas,V6,25.0,4,5
+LaCrosse,2017,Premium,43265,gas,V6,23.0,4,5
+LaCrosse,2017,Premium,41065,gas,V6,25.0,4,5
+Regal,2017,1SV,27065,flex-fuel (FFV),I4,23.0,4,5
+Regal,2017,Base,31465,gas,I4,22.0,4,5
+Regal,2017,GS,36540,gas,I4,22.0,4,5
+Regal,2017,GS,34115,gas,I4,24.0,4,5
+Regal,2017,Premium II,34040,gas,I4,22.0,4,5
+Regal,2017,Premium II,31615,gas,I4,24.0,4,5
+Regal,2017,Sport Touring,28615,gas,I4,24.0,4,5
+Verano,2017,1SV,21065,gas,I4,24.0,4,5
+Verano,2017,Leather Group,26555,gas,I4,24.0,4,5
+Verano,2017,Sport Touring,24115,gas,I4,24.0,4,5
+LaCrosse,2016,1SV,31065,flex-fuel (FFV),V6,21.0,4,5
+LaCrosse,2016,Base,33810,flex-fuel (FFV),V6,21.0,4,5
+LaCrosse,2016,Leather Group,38905,flex-fuel (FFV),V6,20.0,4,5
+LaCrosse,2016,Leather Group,35900,flex-fuel (FFV),V6,21.0,4,5
+LaCrosse,2016,Premium I Group,38200,flex-fuel (FFV),V6,21.0,4,5
+LaCrosse,2016,Premium I Group,40675,flex-fuel (FFV),V6,20.0,4,5
+LaCrosse,2016,Premium II Group,40145,flex-fuel (FFV),V6,21.0,4,5
+LaCrosse,2016,Sport Touring,34065,flex-fuel (FFV),V6,21.0,4,5
+Regal,2016,1SV,27065,flex-fuel (FFV),I4,23.0,4,5
+Regal,2016,Base,28990,gas,I4,24.0,4,5
+Regal,2016,Base,31415,gas,I4,22.0,4,5
+Regal,2016,GS,36490,gas,I4,22.0,4,5
+Regal,2016,GS,34065,gas,I4,24.0,4,5
+Regal,2016,Premium I Fleet,31900,gas,I4,24.0,4,5
+Regal,2016,Premium I Fleet,34325,gas,I4,22.0,4,5
+Regal,2016,Premium II,31565,gas,I4,24.0,4,5
+Regal,2016,Premium II,33990,gas,I4,22.0,4,5
+Regal,2016,Sport Touring,28565,gas,I4,24.0,4,5
+Verano,2016,1SV,21065,gas,I4,25.0,4,5
+Verano,2016,Base,23480,gas,I4,25.0,4,5
+Verano,2016,Convenience Group,24475,gas,I4,25.0,4,5
+Verano,2016,Leather Group,26505,gas,I4,25.0,4,5
+Verano,2016,Premium Turbo Group,28670,gas,I4,24.0,4,5
+Verano,2016,Sport Touring,24065,gas,I4,25.0,4,5
+LaCrosse,2015,1SV,31065,flex-fuel (FFV),V6,21.0,4,5
+LaCrosse,2015,Base,33635,mild hybrid,I4,28.0,4,5
+LaCrosse,2015,Leather Group,38730,flex-fuel (FFV),V6,20.0,4,5
+LaCrosse,2015,Leather Group,35725,mild hybrid,I4,28.0,4,5
+LaCrosse,2015,Premium I Group,38025,flex-fuel (FFV),V6,21.0,4,5
+LaCrosse,2015,Premium I Group,40500,flex-fuel (FFV),V6,20.0,4,5
+LaCrosse,2015,Premium II Group,39970,flex-fuel (FFV),V6,21.0,4,5
+Regal,2015,Base,32415,gas,I4,22.0,4,5
+Regal,2015,Base,29990,gas,I4,24.0,4,5
+Regal,2015,Base,27065,flex-fuel (FFV),I4,24.0,4,5
+Regal,2015,GS,39810,gas,I4,22.0,4,5
+Regal,2015,GS,37385,gas,I4,24.0,4,5
+Regal,2015,Premium I,34325,gas,I4,22.0,4,5
+Regal,2015,Premium I,31900,gas,I4,24.0,4,5
+Regal,2015,Premium II,36525,gas,I4,22.0,4,5
+Regal,2015,Premium II,34100,gas,I4,24.0,4,5
+Verano,2015,1SV,21065,gas,I4,25.0,4,5
+Verano,2015,Base,23380,gas,I4,25.0,4,5
+Verano,2015,Convenience Group,25020,gas,I4,25.0,4,5
+Verano,2015,Leather Group,27050,gas,I4,25.0,4,5
+Verano,2015,Premium Turbo Group,29215,gas,I4,24.0,4,5

@@ -1,0 +1,69 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+718 Boxster,2020,Base,61600,gas,flat 4,22.0,2,2
+718 Boxster,2020,S,73350,gas,flat 4,21.0,2,2
+718 Boxster,2020,Spyder,96300,gas,flat 6,19.0,2,2
+718 Boxster,2020,T,69850,gas,flat 4,22.0,2,2
+911,2020,Carrera,110200,gas,flat 6,20.0,2,4
+911,2020,Carrera 4,117500,gas,flat 6,20.0,2,4
+911,2020,Carrera 4S,133400,gas,flat 6,20.0,2,4
+911,2020,Carrera S,126100,gas,flat 6,20.0,2,4
+718 Boxster,2019,Base,59000,gas,flat 4,24.0,2,2
+718 Boxster,2019,GTS,82800,gas,flat 4,21.0,2,2
+718 Boxster,2019,S,71400,gas,flat 4,22.0,2,2
+911,2019,Carrera,103400,gas,flat 6,23.0,2,4
+911,2019,Carrera 4,110300,gas,flat 6,22.0,2,4
+911,2019,Carrera 4 GTS,139900,gas,flat 6,21.0,2,4
+911,2019,Carrera 4S,124300,gas,flat 6,22.0,2,4
+911,2019,Carrera GTS,133000,gas,flat 6,21.0,2,4
+911,2019,Carrera S,117400,gas,flat 6,23.0,2,4
+911,2019,Speedster,274500,gas,flat 6,16.0,2,2
+911,2019,Turbo,174100,gas,flat 6,21.0,2,4
+911,2019,Turbo S,203000,gas,flat 6,21.0,2,4
+718 Boxster,2018,Base,57400,gas,flat 4,24.0,2,2
+718 Boxster,2018,GTS,81900,gas,flat 4,21.0,2,2
+718 Boxster,2018,S,69800,gas,flat 4,22.0,2,2
+911,2018,Carrera,103400,gas,flat 6,23.0,2,4
+911,2018,Carrera 4,110300,gas,flat 6,22.0,2,4
+911,2018,Carrera 4 GTS,139900,gas,flat 6,21.0,2,4
+911,2018,Carrera 4S,124300,gas,flat 6,22.0,2,4
+911,2018,Carrera GTS,133000,gas,flat 6,21.0,2,4
+911,2018,Carrera S,117400,gas,flat 6,23.0,2,4
+911,2018,Turbo,174100,gas,flat 6,21.0,2,4
+911,2018,Turbo S,203000,gas,flat 6,21.0,2,4
+718 Boxster,2017,Base,56000,gas,flat 4,24.0,2,2
+718 Boxster,2017,S,68400,gas,flat 4,22.0,2,2
+911,2017,Carrera,101700,gas,flat 6,23.0,2,4
+911,2017,Carrera 4,108600,gas,flat 6,23.0,2,4
+911,2017,Carrera 4 GTS,138200,gas,flat 6,21.0,2,4
+911,2017,Carrera 4S,122600,gas,flat 6,24.0,2,4
+911,2017,Carrera GTS,131300,gas,flat 6,21.0,2,4
+911,2017,Carrera S,115700,gas,flat 6,24.0,2,4
+911,2017,Turbo,171500,gas,flat 6,23.0,2,4
+911,2017,Turbo S,200400,gas,flat 6,24.0,2,4
+911,2016,Carrera,96200,gas,flat 6,22.0,2,4
+911,2016,Carrera 4,102930,gas,flat 6,21.0,2,4
+911,2016,Carrera 4 Black Edition,104600,gas,flat 6,21.0,2,4
+911,2016,Carrera 4 GTS,132800,gas,flat 6,20.0,2,4
+911,2016,Carrera 4S,117530,gas,flat 6,21.0,2,4
+911,2016,Carrera Black Edition,98500,gas,flat 6,22.0,2,4
+911,2016,Carrera GTS,126100,gas,flat 6,20.0,2,4
+911,2016,Carrera S,110800,gas,flat 6,22.0,2,4
+911,2016,Turbo,163000,gas,flat 6,20.0,2,4
+911,2016,Turbo S,194600,gas,flat 6,20.0,2,4
+Boxster,2016,Base,52100,gas,flat 6,24.0,2,2
+Boxster,2016,GTS,74600,gas,flat 6,22.0,2,2
+Boxster,2016,S,63900,gas,flat 6,23.0,2,2
+Boxster,2016,Spyder,82100,gas,flat 6,,2,2
+911,2015,Carrera,96200,gas,flat 6,22.0,2,4
+911,2015,Carrera 4,102930,gas,flat 6,21.0,2,4
+911,2015,Carrera 4 GTS,132800,gas,flat 6,20.0,2,4
+911,2015,Carrera 4S,117530,gas,flat 6,21.0,2,4
+911,2015,Carrera GTS,126100,gas,flat 6,20.0,2,4
+911,2015,Carrera S,110800,gas,flat 6,22.0,2,4
+911,2015,Turbo,163000,gas,flat 6,20.0,2,4
+911,2015,Turbo S,194600,gas,flat 6,20.0,2,4
+918 Spyder,2015,Base,845000,plug-in hybrid,V8,22.0,2,2
+918 Spyder,2015,Weissach Package,929000,plug-in hybrid,V8,22.0,2,2
+Boxster,2015,Base,51400,gas,flat 6,24.0,2,2
+Boxster,2015,GTS,73500,gas,flat 6,22.0,2,2
+Boxster,2015,S,63300,gas,flat 6,23.0,2,2

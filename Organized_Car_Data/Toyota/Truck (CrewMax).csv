@@ -1,0 +1,96 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Tundra,2020,1794,51825,gas,V8,14.0,4,5
+Tundra,2020,1794,48775,gas,V8,15.0,4,5
+Tundra,2020,Limited,47185,gas,V8,15.0,4,5
+Tundra,2020,Limited,44135,gas,V8,15.0,4,5
+Tundra,2020,Platinum,48775,gas,V8,15.0,4,5
+Tundra,2020,Platinum,51825,gas,V8,14.0,4,5
+Tundra,2020,SR5,37850,gas,V8,15.0,4,6
+Tundra,2020,SR5,40900,gas,V8,14.0,4,6
+Tundra,2020,TRD PRO,52930,gas,V8,14.0,4,5
+Tundra,2019,1794,50680,gas,V8,14.0,4,5
+Tundra,2019,1794,47630,gas,V8,15.0,4,5
+Tundra,2019,Limited,45850,gas,V8,15.0,4,5
+Tundra,2019,Limited,42800,gas,V8,15.0,4,5
+Tundra,2019,Platinum,47630,gas,V8,15.0,4,5
+Tundra,2019,Platinum,50680,gas,V8,14.0,4,5
+Tundra,2019,SR5,40395,gas,V8,14.0,4,6
+Tundra,2019,SR5,39125,gas,V8,16.0,4,6
+Tundra,2019,SR5,37345,gas,V8,15.0,4,6
+Tundra,2019,SR5,36075,gas,V8,16.0,4,6
+Tundra,2019,SR5 FFV,40395,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2019,TRD PRO,49895,gas,V8,14.0,4,5
+Tundra,2018,1794,50330,gas,V8,14.0,4,5
+Tundra,2018,1794,47280,gas,V8,15.0,4,5
+Tundra,2018,1794 FFV,47080,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2018,1794 FFV,50330,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2018,Limited,45500,gas,V8,14.0,4,5
+Tundra,2018,Limited,42450,gas,V8,15.0,4,5
+Tundra,2018,Limited FFV,42250,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2018,Limited FFV,45500,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2018,Platinum,47280,gas,V8,15.0,4,5
+Tundra,2018,Platinum,50330,gas,V8,14.0,4,5
+Tundra,2018,Platinum FFV,47080,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2018,Platinum FFV,50330,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2018,SR5,36720,gas,V8,15.0,4,6
+Tundra,2018,SR5,35450,gas,V8,16.0,4,6
+Tundra,2018,SR5,38500,gas,V8,16.0,4,6
+Tundra,2018,SR5,39770,gas,V8,14.0,4,6
+Tundra,2018,SR5 FFV,39770,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2018,SR5 FFV,36520,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2017,1794,47080,gas,V8,15.0,4,5
+Tundra,2017,1794,50130,gas,V8,15.0,4,5
+Tundra,2017,1794 FFV,50130,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2017,1794 FFV,47080,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2017,Limited,41245,gas,V8,15.0,4,5
+Tundra,2017,Limited,44295,gas,V8,15.0,4,5
+Tundra,2017,Limited FFV,44295,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2017,Limited FFV,41245,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2017,Platinum,47080,gas,V8,15.0,4,5
+Tundra,2017,Platinum,50130,gas,V8,15.0,4,5
+Tundra,2017,Platinum FFV,47080,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2017,Platinum FFV,50130,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2017,SR5,38570,gas,V8,15.0,4,6
+Tundra,2017,SR5,37300,gas,V8,16.0,4,6
+Tundra,2017,SR5,35520,gas,V8,15.0,4,6
+Tundra,2017,SR5,34250,gas,V8,16.0,4,6
+Tundra,2017,SR5 FFV,35520,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2017,SR5 FFV,38570,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2017,TRD PRO,46110,gas,V8,15.0,4,5
+Tundra,2017,TRD PRO FFV,46110,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2016,1794,49580,gas,V8,15.0,4,5
+Tundra,2016,1794,46530,gas,V8,15.0,4,5
+Tundra,2016,1794 FFV,46530,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2016,1794 FFV,49580,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2016,Limited,40535,gas,V8,15.0,4,5
+Tundra,2016,Limited,43585,gas,V8,15.0,4,5
+Tundra,2016,Limited FFV,40535,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2016,Limited FFV,43585,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2016,Platinum,46530,gas,V8,15.0,4,5
+Tundra,2016,Platinum,49580,gas,V8,15.0,4,5
+Tundra,2016,Platinum FFV,46530,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2016,Platinum FFV,49580,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2016,SR5,38020,gas,V8,15.0,4,6
+Tundra,2016,SR5,36320,gas,V8,16.0,4,6
+Tundra,2016,SR5,34970,gas,V8,15.0,4,6
+Tundra,2016,SR5,33270,gas,V8,16.0,4,6
+Tundra,2016,SR5 FFV,38020,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2016,SR5 FFV,34970,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2016,TRD PRO,45560,gas,V8,15.0,4,5
+Tundra,2016,TRD PRO FFV,45560,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2015,1794,44925,gas,V8,15.0,4,5
+Tundra,2015,1794,47975,gas,V8,15.0,4,5
+Tundra,2015,1794 FFV,47975,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2015,Limited,39500,gas,V8,15.0,4,5
+Tundra,2015,Limited,42550,gas,V8,15.0,4,5
+Tundra,2015,Limited FFV,42550,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2015,Platinum,44925,gas,V8,15.0,4,5
+Tundra,2015,Platinum,47975,gas,V8,15.0,4,5
+Tundra,2015,Platinum FFV,47975,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2015,SR5,37030,gas,V8,15.0,4,6
+Tundra,2015,SR5,35530,gas,V8,16.0,4,6
+Tundra,2015,SR5,33980,gas,V8,15.0,4,6
+Tundra,2015,SR5,32480,gas,V8,16.0,4,6
+Tundra,2015,SR5 FFV,37030,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2015,TRD PRO,44000,gas,V8,15.0,4,5
+Tundra,2015,TRD PRO FFV,44000,flex-fuel (FFV),V8,15.0,4,5

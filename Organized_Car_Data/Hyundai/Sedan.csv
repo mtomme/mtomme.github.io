@@ -1,0 +1,179 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Accent,2020,Limited,19400,gas,I4,36.0,4,5
+Accent,2020,SE,15295,gas,I4,33.0,4,5
+Accent,2020,SE,16395,gas,I4,36.0,4,5
+Accent,2020,SEL,17650,gas,I4,36.0,4,5
+Elantra,2020,Eco,21600,gas,I4,36.0,4,5
+Elantra,2020,Limited,23150,gas,I4,34.0,4,5
+Elantra,2020,SE,19300,gas,I4,35.0,4,5
+Elantra,2020,SEL,20050,gas,I4,34.0,4,5
+Elantra,2020,Sport,24150,gas,I4,29.0,4,5
+Elantra,2020,Value Edition,20950,gas,I4,34.0,4,5
+Sonata,2020,Limited,33500,gas,I4,31.0,4,5
+Sonata,2020,SE,23600,gas,I4,32.0,4,5
+Sonata,2020,SEL,25700,gas,I4,31.0,4,5
+Sonata,2020,SEL Plus,27650,gas,I4,31.0,4,5
+Sonata Hybrid,2020,Blue,27750,hybrid,I4,52.0,4,5
+Sonata Hybrid,2020,Limited,35300,hybrid,I4,47.0,4,5
+Sonata Hybrid,2020,SEL,29900,hybrid,I4,47.0,4,5
+Accent,2019,Limited,19080,gas,I4,32.0,4,5
+Accent,2019,SE,15995,gas,I4,32.0,4,5
+Accent,2019,SE,14995,gas,I4,31.0,4,5
+Accent,2019,SEL,17345,gas,I4,32.0,4,5
+Elantra,2019,Eco,21050,gas,I4,32.0,4,5
+Elantra,2019,Limited,22700,gas,I4,32.0,4,5
+Elantra,2019,Limited SULEV,22700,gas,I4,32.0,4,5
+Elantra,2019,SE,18200,gas,I4,33.0,4,5
+Elantra,2019,SE,17200,gas,I4,29.0,4,5
+Elantra,2019,SE SULEV,18200,gas,I4,33.0,4,5
+Elantra,2019,SEL,19500,gas,I4,32.0,4,5
+Elantra,2019,SEL SULEV,19500,gas,I4,32.0,4,5
+Elantra,2019,Sport,22600,gas,I4,25.0,4,5
+Elantra,2019,Sport,23700,gas,I4,29.0,4,5
+Elantra,2019,Value Edition,20500,gas,I4,32.0,4,5
+Elantra,2019,Value Edition SULEV,20500,gas,I4,32.0,4,5
+Sonata,2019,Eco,22850,gas,I4,31.0,4,5
+Sonata,2019,Limited,27700,gas,I4,28.0,4,5
+Sonata,2019,Limited 2.0T,32100,gas,I4,26.0,4,5
+Sonata,2019,SE,22500,gas,I4,29.0,4,5
+Sonata,2019,SEL,24150,gas,I4,28.0,4,5
+Sonata,2019,Sport,25000,gas,I4,28.0,4,5
+Sonata Hybrid,2019,Limited,31300,hybrid,I4,41.0,4,5
+Sonata Hybrid,2019,SE,25750,hybrid,I4,42.0,4,5
+Sonata Plug-in Hybrid,2019,Base,33400,plug-in hybrid,I4,39.0,4,5
+Sonata Plug-in Hybrid,2019,Limited,39000,plug-in hybrid,I4,39.0,4,5
+Accent,2018,Limited,18895,gas,I4,32.0,4,5
+Accent,2018,SE,15995,gas,I4,32.0,4,5
+Accent,2018,SE,14995,gas,I4,31.0,4,5
+Accent,2018,SEL,17295,gas,I4,32.0,4,5
+Elantra,2018,Eco,20550,gas,I4,35.0,4,5
+Elantra,2018,Limited,22100,gas,I4,32.0,4,5
+Elantra,2018,Limited SULEV,22100,gas,I4,32.0,4,5
+Elantra,2018,SE,16950,gas,I4,29.0,4,5
+Elantra,2018,SE,17950,gas,I4,33.0,4,5
+Elantra,2018,SE SULEV,17950,gas,I4,33.0,4,5
+Elantra,2018,SEL,18850,gas,I4,32.0,4,5
+Elantra,2018,SEL SULEV,18850,gas,I4,32.0,4,5
+Elantra,2018,Sport,21800,gas,I4,25.0,4,5
+Elantra,2018,Sport,22900,gas,I4,29.0,4,5
+Elantra,2018,Value Edition,19850,gas,I4,32.0,4,5
+Elantra,2018,Value Edition SULEV,19850,gas,I4,32.0,4,5
+Sonata,2018,Eco,22650,gas,I4,31.0,4,5
+Sonata,2018,Limited,27400,gas,I4,28.0,4,5
+Sonata,2018,Limited,27400,gas,I4,28.0,4,5
+Sonata,2018,Limited 2.0T,32450,gas,I4,26.0,4,5
+Sonata,2018,Limited 2.0T+,31900,gas,I4,26.0,4,5
+Sonata,2018,Limited SULEV,27400,gas,I4,28.0,4,5
+Sonata,2018,Limited SULEV,27400,gas,I4,28.0,4,5
+Sonata,2018,SE,22050,gas,I4,29.0,4,5
+Sonata,2018,SE SULEV,22050,gas,I4,29.0,4,5
+Sonata,2018,SEL,23700,gas,I4,28.0,4,5
+Sonata,2018,SEL SULEV,23700,gas,I4,28.0,4,5
+Sonata,2018,SEL+,23700,gas,I4,28.0,4,5
+Sonata,2018,SEL+ SULEV,23700,gas,I4,28.0,4,5
+Sonata,2018,Sport,25200,gas,I4,28.0,4,5
+Sonata,2018,Sport 2.0T,27600,gas,I4,26.0,4,5
+Sonata,2018,Sport+,24800,gas,I4,28.0,4,5
+Sonata Hybrid,2018,Limited,30500,hybrid,I4,42.0,4,5
+Sonata Hybrid,2018,Limited w/Emerald Blue Interior,30500,hybrid,I4,42.0,4,5
+Sonata Hybrid,2018,SE,25500,hybrid,I4,42.0,4,5
+Sonata Plug-in Hybrid,2018,Base,33250,plug-in hybrid,I4,39.0,4,5
+Sonata Plug-in Hybrid,2018,Limited,38850,plug-in hybrid,I4,39.0,4,5
+Sonata Plug-in Hybrid,2018,Limited w/Blue Pearl Interior,38850,plug-in hybrid,I4,39.0,4,5
+Accent,2017,SE,15745,gas,I4,30.0,4,5
+Accent,2017,SE,14745,gas,I4,31.0,4,5
+Accent,2017,Value Edition,16450,gas,I4,30.0,4,5
+Azera,2017,Base,34100,gas,V6,23.0,4,5
+Azera,2017,Limited,39300,gas,V6,22.0,4,5
+Elantra,2017,Eco,20650,gas,I4,35.0,4,5
+Elantra,2017,Limited,22350,gas,I4,32.0,4,5
+Elantra,2017,Limited PZEV,22350,gas,I4,32.0,4,5
+Elantra,2017,SE,18150,gas,I4,33.0,4,5
+Elantra,2017,SE,17150,gas,I4,29.0,4,5
+Elantra,2017,SE PZEV,18150,gas,I4,33.0,4,5
+Elantra,2017,Sport,21650,gas,I4,25.0,4,5
+Elantra,2017,Sport,22750,gas,I4,29.0,4,5
+Elantra,2017,Value Edition,20250,gas,I4,32.0,4,5
+Sonata,2017,Base,21600,gas,I4,29.0,4,5
+Sonata,2017,Base PZEV,21600,gas,I4,29.0,4,5
+Sonata,2017,Eco,23125,gas,I4,31.0,4,5
+Sonata,2017,Limited,27150,gas,I4,29.0,4,5
+Sonata,2017,Limited 2.0T,34350,gas,I4,26.0,4,5
+Sonata,2017,Limited PZEV,27150,gas,I4,29.0,4,5
+Sonata,2017,SE,21950,gas,I4,29.0,4,5
+Sonata,2017,SE PZEV,21950,gas,I4,29.0,4,5
+Sonata,2017,Sport,23400,gas,I4,29.0,4,5
+Sonata,2017,Sport 2.0T,26600,gas,I4,26.0,4,5
+Sonata,2017,Sport 2.0T,26600,gas,I4,26.0,4,5
+Sonata,2017,Sport PZEV,23400,gas,I4,29.0,4,5
+Sonata Hybrid,2017,Limited,30100,hybrid,I4,40.0,4,5
+Sonata Hybrid,2017,Limited w/Blue Pearl Interior,30100,hybrid,I4,40.0,4,5
+Sonata Hybrid,2017,SE,26000,hybrid,I4,42.0,4,5
+Sonata Plug-in Hybrid,2017,Base,34600,plug-in hybrid,I4,39.0,4,5
+Sonata Plug-in Hybrid,2017,Limited,38600,plug-in hybrid,I4,39.0,4,5
+Sonata Plug-in Hybrid,2017,Limited w/Blue Pearl Interior,38600,plug-in hybrid,I4,39.0,4,5
+Accent,2016,SE,15745,gas,I4,30.0,4,5
+Accent,2016,SE,14745,gas,I4,31.0,4,5
+Azera,2016,Base,34100,gas,V6,23.0,4,5
+Azera,2016,Limited,39300,gas,V6,22.0,4,5
+Elantra,2016,Limited,21700,gas,I4,31.0,4,5
+Elantra,2016,Limited PZEV,21700,gas,I4,31.0,4,5
+Elantra,2016,SE,17250,gas,I4,31.0,4,5
+Elantra,2016,SE,18250,gas,I4,32.0,4,5
+Elantra,2016,Sport,20250,gas,I4,28.0,4,5
+Elantra,2016,Sport,21250,gas,I4,28.0,4,5
+Elantra,2016,Sport PZEV,21250,gas,I4,28.0,4,5
+Elantra,2016,Value Edition,19700,gas,I4,32.0,4,5
+Equus,2016,Signature,61500,gas,V8,18.0,4,5
+Equus,2016,Ultimate,68750,gas,V8,18.0,4,5
+Genesis,2016,3.8,41250,gas,V6,19.0,4,5
+Genesis,2016,3.8,38750,gas,V6,22.0,4,5
+Genesis,2016,5,53850,gas,V8,18.0,4,5
+Sonata,2016,Eco,23725,gas,I4,32.0,4,5
+Sonata,2016,Eco,23725,gas,I4,32.0,4,5
+Sonata,2016,Limited,27350,gas,I4,29.0,4,5
+Sonata,2016,Limited 2.0T,34075,gas,I4,25.0,4,5
+Sonata,2016,Limited PZEV,27350,gas,I4,29.0,4,5
+Sonata,2016,SE,21750,gas,I4,30.0,4,5
+Sonata,2016,SE PZEV,21750,gas,I4,30.0,4,5
+Sonata,2016,Sport,23400,gas,I4,29.0,4,5
+Sonata,2016,Sport 2.0T,28925,gas,I4,26.0,4,5
+Sonata,2016,Sport 2.0T,28925,gas,I4,26.0,4,5
+Sonata,2016,Sport PZEV,23400,gas,I4,29.0,4,5
+Sonata Hybrid,2016,Base,26000,hybrid,I4,42.0,4,5
+Sonata Hybrid,2016,Limited,30100,hybrid,I4,41.0,4,5
+Sonata Hybrid,2016,Limited w/Blue Pearl Interior,30100,hybrid,I4,41.0,4,5
+Sonata Plug-in Hybrid,2016,Base,34600,plug-in hybrid,I4,40.0,4,5
+Sonata Plug-in Hybrid,2016,Limited,38600,plug-in hybrid,I4,40.0,4,5
+Sonata Plug-in Hybrid,2016,Limited w/Blue Pearl Interior,38600,plug-in hybrid,I4,40.0,4,5
+Accent,2015,GLS,14745,gas,I4,31.0,4,5
+Accent,2015,GLS,15745,gas,I4,30.0,4,5
+Azera,2015,Base,34000,gas,V6,23.0,4,5
+Azera,2015,Limited,38200,gas,V6,22.0,4,5
+Elantra,2015,Limited,21700,gas,I4,31.0,4,5
+Elantra,2015,Limited PZEV,21700,gas,I4,31.0,4,5
+Elantra,2015,SE,18250,gas,I4,32.0,4,5
+Elantra,2015,SE,17250,gas,I4,31.0,4,5
+Elantra,2015,Sport,22600,gas,I4,28.0,4,5
+Elantra,2015,Sport,21600,gas,I4,28.0,4,5
+Elantra,2015,Sport PZEV,22600,gas,I4,28.0,4,5
+Equus,2015,Signature,61500,gas,V8,18.0,4,5
+Equus,2015,Ultimate,68750,gas,V8,18.0,4,5
+Genesis,2015,3.8,38000,gas,V6,22.0,4,5
+Genesis,2015,3.8,40500,gas,V6,19.0,4,5
+Genesis,2015,5,51500,gas,V8,18.0,4,5
+Sonata,2015,Eco,23275,gas,I4,32.0,4,5
+Sonata,2015,Limited,26525,gas,I4,28.0,4,5
+Sonata,2015,Limited,26525,gas,I4,28.0,4,5
+Sonata,2015,Limited,26525,gas,I4,28.0,4,5
+Sonata,2015,Limited 2.0T,33525,gas,I4,25.0,4,5
+Sonata,2015,Limited 2.0T,33525,gas,I4,25.0,4,5
+Sonata,2015,Limited PZEV,26525,gas,I4,28.0,4,5
+Sonata,2015,SE,21150,gas,I4,29.0,4,5
+Sonata,2015,SE PZEV,21150,gas,I4,29.0,4,5
+Sonata,2015,Sport,23175,gas,I4,28.0,4,5
+Sonata,2015,Sport 2.0T,28575,gas,I4,26.0,4,5
+Sonata,2015,Sport 2.0T,28575,gas,I4,26.0,4,5
+Sonata,2015,Sport PZEV,23175,gas,I4,28.0,4,5
+Sonata Hybrid,2015,Base,26000,hybrid,I4,38.0,4,5
+Sonata Hybrid,2015,Limited,29500,hybrid,I4,37.0,4,5

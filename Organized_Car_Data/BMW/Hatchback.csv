@@ -1,0 +1,43 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+i3,2020,Base,48300,plug-in hybrid,I2,31.0,5,4
+i3,2020,Base,44450,electric,,,5,4
+i3,2020,s,47650,electric,,,5,4
+i3,2020,s,51500,plug-in hybrid,I2,31.0,5,4
+3 Series Gran Turismo,2019,330i xDrive,45400,gas,I4,27.0,5,5
+3 Series Gran Turismo,2019,340i xDrive,51250,gas,I6,23.0,5,5
+6 Series Gran Turismo,2019,640i xDrive,70300,gas,I6,23.0,5,5
+i3,2019,Base,48300,plug-in hybrid,I2,31.0,5,4
+i3,2019,Base,44450,electric,,,5,4
+i3,2019,s,51500,plug-in hybrid,I2,31.0,5,4
+i3,2019,s,47650,electric,,,5,4
+3 Series Gran Turismo,2018,330i xDrive,45050,gas,I4,27.0,5,5
+3 Series Gran Turismo,2018,340i xDrive,50900,gas,I6,23.0,5,5
+6 Series Gran Turismo,2018,640i xDrive,70200,gas,I6,23.0,5,5
+i3,2018,Base,44450,electric,,,5,4
+i3,2018,Base,48300,plug-in hybrid,I2,35.0,5,4
+i3,2018,s,51500,plug-in hybrid,I2,35.0,5,4
+i3,2018,s,47650,electric,,,5,4
+3 Series Gran Turismo,2017,330i xDrive SULEV,44700,gas,I4,26.0,5,5
+3 Series Gran Turismo,2017,340i xDrive,50550,gas,I6,24.0,5,5
+5 Series Gran Turismo,2017,535i,60900,gas,I6,22.0,5,5
+5 Series Gran Turismo,2017,535i xDrive,63200,gas,I6,21.0,5,5
+5 Series Gran Turismo,2017,550i xDrive,72500,gas,V8,18.0,5,5
+i3,2017,60 Ah,42400,electric,,,5,4
+i3,2017,Base,48300,plug-in hybrid,I2,,5,4
+i3,2017,Base,44450,electric,,,5,4
+3 Series Gran Turismo,2016,328i xDrive SULEV,43000,gas,I4,26.0,5,5
+3 Series Gran Turismo,2016,335i xDrive,49200,gas,I6,23.0,5,5
+5 Series Gran Turismo,2016,535i,60900,gas,I6,22.0,5,5
+5 Series Gran Turismo,2016,535i xDrive,63200,gas,I6,21.0,5,5
+5 Series Gran Turismo,2016,550i xDrive,72500,gas,V8,19.0,5,5
+i3,2016,Base,42400,electric,,,5,4
+i3,2016,Base,46250,plug-in hybrid,I2,,5,4
+3 Series Gran Turismo,2015,328i xDrive,41850,gas,I4,26.0,5,5
+3 Series Gran Turismo,2015,328i xDrive SULEV,41850,gas,I4,26.0,5,5
+3 Series Gran Turismo,2015,335i xDrive,47250,gas,I6,24.0,5,5
+5 Series Gran Turismo,2015,535i,60700,gas,I6,22.0,5,5
+5 Series Gran Turismo,2015,535i xDrive,63000,gas,I6,21.0,5,5
+5 Series Gran Turismo,2015,550i,69100,gas,V8,19.0,5,5
+5 Series Gran Turismo,2015,550i xDrive,71400,gas,V8,19.0,5,5
+i3,2015,Base,46250,plug-in hybrid,I2,,5,4
+i3,2015,Base,42400,electric,,,5,4

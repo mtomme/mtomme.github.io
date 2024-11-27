@@ -1,0 +1,107 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Sienna,2020,CE Fleet Cargo Van,29490,gas,V6,21.0,5,2
+Sienna,2020,L 7-Passenger,31415,gas,V6,21.0,5,7
+Sienna,2020,LE 7-Passenger,36775,gas,V6,20.0,5,7
+Sienna,2020,LE 7-Passenger Mobility,34245,gas,V6,21.0,5,7
+Sienna,2020,LE 7-Passenger Mobility Auto Access,40160,gas,V6,21.0,5,7
+Sienna,2020,LE 8-Passenger,34235,gas,V6,21.0,5,8
+Sienna,2020,Limited 7-Passenger,44310,gas,V6,21.0,5,7
+Sienna,2020,Limited 7-Passenger,45670,gas,V6,20.0,5,7
+Sienna,2020,Limited Premium 7-Passenger,47830,gas,V6,21.0,5,7
+Sienna,2020,Limited Premium 7-Passenger,49190,gas,V6,20.0,5,7
+Sienna,2020,SE 7-Passenger,39070,gas,V6,20.0,5,7
+Sienna,2020,SE 8-Passenger,37565,gas,V6,21.0,5,8
+Sienna,2020,SE Premium 7-Passenger,45165,gas,V6,20.0,5,7
+Sienna,2020,SE Premium 8-Passenger,43660,gas,V6,21.0,5,8
+Sienna,2020,XLE 7-Passenger,39995,gas,V6,20.0,5,7
+Sienna,2020,XLE 7-Passenger Mobility Auto Access,43700,gas,V6,21.0,5,7
+Sienna,2020,XLE 8-Passenger,37565,gas,V6,21.0,5,8
+Sienna,2020,XLE Premium 7-Passenger,43685,gas,V6,20.0,5,7
+Sienna,2020,XLE Premium 8-Passenger,41255,gas,V6,21.0,5,8
+Sienna,2019,CE Fleet Cargo Van,29190,gas,V6,22.0,5,2
+Sienna,2019,L 7-Passenger,31115,gas,V6,22.0,5,7
+Sienna,2019,LE 7-Passenger,36475,gas,V6,20.0,5,7
+Sienna,2019,LE 7-Passenger Mobility,33945,gas,V6,22.0,5,7
+Sienna,2019,LE 7-Passenger Mobility Auto Access,39860,gas,V6,22.0,5,7
+Sienna,2019,LE 8-Passenger,33935,gas,V6,22.0,5,8
+Sienna,2019,Limited 7-Passenger,45370,gas,V6,20.0,5,7
+Sienna,2019,Limited 7-Passenger,44010,gas,V6,22.0,5,7
+Sienna,2019,Limited Premium 7-Passenger,48890,gas,V6,20.0,5,7
+Sienna,2019,Limited Premium 7-Passenger,47530,gas,V6,22.0,5,7
+Sienna,2019,SE 7-Passenger,38770,gas,V6,20.0,5,7
+Sienna,2019,SE 8-Passenger,37265,gas,V6,22.0,5,8
+Sienna,2019,SE Premium 7-Passenger,44865,gas,V6,20.0,5,7
+Sienna,2019,SE Premium 8-Passenger,43360,gas,V6,22.0,5,8
+Sienna,2019,XLE 7-Passenger,39695,gas,V6,20.0,5,7
+Sienna,2019,XLE 7-Passenger Mobility Auto Access,43400,gas,V6,22.0,5,7
+Sienna,2019,XLE 8-Passenger,37265,gas,V6,22.0,5,8
+Sienna,2019,XLE Premium 7-Passenger,43385,gas,V6,20.0,5,7
+Sienna,2019,XLE Premium 8-Passenger,40955,gas,V6,22.0,5,8
+Sienna,2018,CE Fleet Cargo Van,28825,gas,V6,22.0,5,2
+Sienna,2018,L 7-Passenger,30850,gas,V6,22.0,5,7
+Sienna,2018,LE 7-Passenger,36300,gas,V6,20.0,5,7
+Sienna,2018,LE 7-Passenger Mobility,33770,gas,V6,22.0,5,7
+Sienna,2018,LE 7-Passenger Mobility Auto Access,39685,gas,V6,22.0,5,7
+Sienna,2018,LE 8-Passenger,33760,gas,V6,22.0,5,8
+Sienna,2018,Limited 7-Passenger,45195,gas,V6,20.0,5,7
+Sienna,2018,Limited 7-Passenger,43835,gas,V6,22.0,5,7
+Sienna,2018,Limited Premium 7-Passenger,48715,gas,V6,20.0,5,7
+Sienna,2018,Limited Premium 7-Passenger,47355,gas,V6,22.0,5,7
+Sienna,2018,SE 8-Passenger,37090,gas,V6,22.0,5,8
+Sienna,2018,SE Premium 8-Passenger,42305,gas,V6,22.0,5,8
+Sienna,2018,XLE 7-Passenger,39520,gas,V6,20.0,5,7
+Sienna,2018,XLE 7-Passenger Mobility Auto Access,43225,gas,V6,22.0,5,7
+Sienna,2018,XLE 8-Passenger,37090,gas,V6,22.0,5,8
+Sienna,2018,XLE Premium 7-Passenger,43210,gas,V6,20.0,5,7
+Sienna,2018,XLE Premium 8-Passenger,40780,gas,V6,22.0,5,8
+Sienna,2017,CE Fleet Cargo Van,27645,gas,V6,22.0,5,2
+Sienna,2017,L 7-Passenger,29750,gas,V6,22.0,5,7
+Sienna,2017,LE 7-Passenger,35080,gas,V6,20.0,5,7
+Sienna,2017,LE 7-Passenger Mobility,32740,gas,V6,22.0,5,7
+Sienna,2017,LE 7-Passenger Mobility Auto Access,38555,gas,V6,22.0,5,7
+Sienna,2017,LE 8-Passenger,32540,gas,V6,22.0,5,8
+Sienna,2017,Limited 7-Passenger,43940,gas,V6,20.0,5,7
+Sienna,2017,Limited 7-Passenger,42800,gas,V6,22.0,5,7
+Sienna,2017,Limited Premium 7-Passenger,46170,gas,V6,22.0,5,7
+Sienna,2017,Limited Premium 7-Passenger,47310,gas,V6,20.0,5,7
+Sienna,2017,SE 8-Passenger,36110,gas,V6,22.0,5,8
+Sienna,2017,SE Premium 8-Passenger,40830,gas,V6,22.0,5,8
+Sienna,2017,XLE 7-Passenger,38520,gas,V6,20.0,5,7
+Sienna,2017,XLE 7-Passenger Mobility Auto Access,42145,gas,V6,22.0,5,7
+Sienna,2017,XLE 8-Passenger,36310,gas,V6,22.0,5,8
+Sienna,2017,XLE Premium 7-Passenger,41715,gas,V6,20.0,5,7
+Sienna,2017,XLE Premium 8-Passenger,39505,gas,V6,22.0,5,8
+Sienna,2016,CE Fleet Cargo Van,26745,gas,V6,21.0,5,2
+Sienna,2016,L 7-Passenger,28850,gas,V6,21.0,5,7
+Sienna,2016,LE 7-Passenger,34180,gas,V6,19.0,5,7
+Sienna,2016,LE 7-Passenger Mobility,31840,gas,V6,21.0,5,7
+Sienna,2016,LE 7-Passenger Mobility Auto Access,37655,gas,V6,21.0,5,7
+Sienna,2016,LE 8-Passenger,31640,gas,V6,21.0,5,8
+Sienna,2016,Limited 7-Passenger,43040,gas,V6,19.0,5,7
+Sienna,2016,Limited 7-Passenger,41900,gas,V6,21.0,5,7
+Sienna,2016,Limited Premium 7-Passenger,45270,gas,V6,21.0,5,7
+Sienna,2016,Limited Premium 7-Passenger,46410,gas,V6,19.0,5,7
+Sienna,2016,SE 8-Passenger,35210,gas,V6,21.0,5,8
+Sienna,2016,SE Premium 8-Passenger,39930,gas,V6,21.0,5,8
+Sienna,2016,XLE 7-Passenger,37620,gas,V6,19.0,5,7
+Sienna,2016,XLE 7-Passenger Mobility Auto Access,41245,gas,V6,21.0,5,7
+Sienna,2016,XLE 8-Passenger,35410,gas,V6,21.0,5,8
+Sienna,2016,XLE Premium 7-Passenger,40815,gas,V6,19.0,5,7
+Sienna,2016,XLE Premium 8-Passenger,38605,gas,V6,21.0,5,8
+Sienna,2015,CE Fleet Cargo Van,26595,gas,V6,21.0,5,2
+Sienna,2015,L 7-Passenger,28700,gas,V6,21.0,5,7
+Sienna,2015,LE 7-Passenger,33960,gas,V6,19.0,5,7
+Sienna,2015,LE 7-Passenger Mobility,31630,gas,V6,21.0,5,7
+Sienna,2015,LE 7-Passenger Mobility Auto Access,37445,gas,V6,21.0,5,7
+Sienna,2015,LE 8-Passenger,31430,gas,V6,21.0,5,8
+Sienna,2015,Limited 7-Passenger,41750,gas,V6,21.0,5,7
+Sienna,2015,Limited 7-Passenger,42880,gas,V6,19.0,5,7
+Sienna,2015,Limited Premium 7-Passenger,45120,gas,V6,21.0,5,7
+Sienna,2015,Limited Premium 7-Passenger,46250,gas,V6,19.0,5,7
+Sienna,2015,SE 8-Passenger,35000,gas,V6,21.0,5,8
+Sienna,2015,SE Premium 8-Passenger,39780,gas,V6,21.0,5,8
+Sienna,2015,XLE 7-Passenger,37400,gas,V6,19.0,5,7
+Sienna,2015,XLE 7-Passenger Mobility Auto Access,41035,gas,V6,21.0,5,7
+Sienna,2015,XLE 8-Passenger,35200,gas,V6,21.0,5,8
+Sienna,2015,XLE Premium 7-Passenger,40655,gas,V6,19.0,5,7
+Sienna,2015,XLE Premium 8-Passenger,38455,gas,V6,21.0,5,8

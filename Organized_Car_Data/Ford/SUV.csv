@@ -1,0 +1,269 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+EcoSport,2020,S,19995,gas,I3,28.0,5,5
+EcoSport,2020,S,21590,gas,I4,25.0,5,5
+EcoSport,2020,SE,23450,gas,I3,28.0,5,5
+EcoSport,2020,SE,24950,gas,I4,25.0,5,5
+EcoSport,2020,SES,27380,gas,I4,25.0,5,5
+EcoSport,2020,Titanium,26265,gas,I3,28.0,5,5
+EcoSport,2020,Titanium,27715,gas,I4,25.0,5,5
+Edge,2020,SE,31100,gas,I4,24.0,5,5
+Edge,2020,SE,33095,gas,I4,23.0,5,5
+Edge,2020,SEL,34355,gas,I4,24.0,5,5
+Edge,2020,SEL,36350,gas,I4,23.0,5,5
+Edge,2020,ST,43265,gas,V6,21.0,5,5
+Edge,2020,ST-Line,40095,gas,I4,23.0,5,5
+Edge,2020,ST-Line,38100,gas,I4,24.0,5,5
+Edge,2020,Titanium,40095,gas,I4,23.0,5,5
+Edge,2020,Titanium,38100,gas,I4,24.0,5,5
+Escape,2020,S,24885,gas,I3,30.0,5,5
+Escape,2020,S,26385,gas,I3,28.0,5,5
+Escape,2020,SE,27105,gas,I3,30.0,5,5
+Escape,2020,SE,28605,gas,I3,28.0,5,5
+Escape,2020,SE Sport,29765,hybrid,I4,40.0,5,5
+Escape,2020,SE Sport,28265,hybrid,I4,41.0,5,5
+Escape,2020,SEL,29265,gas,I3,30.0,5,5
+Escape,2020,SEL,30765,gas,I3,28.0,5,5
+Escape,2020,SEL,33050,gas,I4,26.0,5,5
+Escape,2020,Titanium,36835,gas,I4,26.0,5,5
+Escape,2020,Titanium,33550,hybrid,I4,41.0,5,5
+Escape,2020,Titanium,35050,hybrid,I4,40.0,5,5
+Expedition,2020,King Ranch,72895,gas,V6,20.0,5,8
+Expedition,2020,King Ranch,76025,gas,V6,19.0,5,8
+Expedition,2020,Limited,66470,gas,V6,19.0,5,8
+Expedition,2020,Limited,63345,gas,V6,20.0,5,8
+Expedition,2020,MAX King Ranch,75590,gas,V6,19.0,5,8
+Expedition,2020,MAX King Ranch,78715,gas,V6,18.0,5,8
+Expedition,2020,MAX Limited,69495,gas,V6,18.0,5,8
+Expedition,2020,MAX Limited,66375,gas,V6,19.0,5,8
+Expedition,2020,MAX Platinum,76965,gas,V6,19.0,5,8
+Expedition,2020,MAX Platinum,80110,gas,V6,18.0,5,8
+Expedition,2020,MAX XL Fleet,56035,gas,V6,18.0,5,5
+Expedition,2020,MAX XL Fleet,53025,gas,V6,19.0,5,5
+Expedition,2020,MAX XLT,58845,gas,V6,18.0,5,8
+Expedition,2020,MAX XLT,55835,gas,V6,19.0,5,8
+Expedition,2020,Platinum,77085,gas,V6,19.0,5,8
+Expedition,2020,Platinum,73935,gas,V6,20.0,5,8
+Expedition,2020,XL Fleet,48990,gas,V6,20.0,5,5
+Expedition,2020,XL Fleet,51990,gas,V6,19.0,5,5
+Expedition,2020,XLT,55820,gas,V6,19.0,5,8
+Expedition,2020,XLT,52810,gas,V6,20.0,5,8
+Explorer,2020,Base,34765,gas,I4,23.0,5,7
+Explorer,2020,Base,32765,gas,I4,24.0,5,7
+Explorer,2020,Limited,50380,gas,I4,23.0,5,6
+Explorer,2020,Limited,48380,gas,I4,24.0,5,6
+Explorer,2020,Limited Hybrid,54725,hybrid,V6,25.0,5,6
+Explorer,2020,Limited Hybrid,52530,hybrid,V6,28.0,5,6
+Explorer,2020,Platinum,58250,gas,V6,20.0,5,6
+Explorer,2020,ST,54740,gas,V6,20.0,5,6
+Explorer,2020,XLT,38925,gas,I4,23.0,5,6
+Explorer,2020,XLT,36925,gas,I4,24.0,5,6
+EcoSport,2019,S,21590,gas,I4,25.0,5,5
+EcoSport,2019,S,19995,gas,I3,28.0,5,5
+EcoSport,2019,SE,23150,gas,I3,28.0,5,5
+EcoSport,2019,SE,24650,gas,I4,25.0,5,5
+EcoSport,2019,SES,27275,gas,I4,25.0,5,5
+EcoSport,2019,Titanium,26160,gas,I3,28.0,5,5
+EcoSport,2019,Titanium,27610,gas,I4,25.0,5,5
+Edge,2019,SE,31990,gas,I4,23.0,5,5
+Edge,2019,SE,29995,gas,I4,25.0,5,5
+Edge,2019,SEL,35295,gas,I4,23.0,5,5
+Edge,2019,SEL,33300,gas,I4,25.0,5,5
+Edge,2019,ST,42355,gas,V6,21.0,5,5
+Edge,2019,Titanium,38760,gas,I4,25.0,5,5
+Edge,2019,Titanium,40755,gas,I4,23.0,5,5
+Escape,2019,S,24105,gas,I4,24.0,5,5
+Escape,2019,SE,28000,gas,I4,24.0,5,5
+Escape,2019,SE,26500,gas,I4,26.0,5,5
+Escape,2019,SEL,29945,gas,I4,24.0,5,5
+Escape,2019,SEL,28445,gas,I4,26.0,5,5
+Escape,2019,Titanium,34120,gas,I4,23.0,5,5
+Escape,2019,Titanium,32620,gas,I4,24.0,5,5
+Expedition,2019,Limited,66140,gas,V6,19.0,5,8
+Expedition,2019,Limited,63015,gas,V6,20.0,5,8
+Expedition,2019,MAX Limited,65705,gas,V6,19.0,5,8
+Expedition,2019,MAX Limited,68825,gas,V6,18.0,5,8
+Expedition,2019,MAX Platinum,79200,gas,V6,18.0,5,8
+Expedition,2019,MAX Platinum,76060,gas,V6,19.0,5,8
+Expedition,2019,MAX XL Fleet,52225,gas,V6,19.0,5,5
+Expedition,2019,MAX XL Fleet,55235,gas,V6,18.0,5,5
+Expedition,2019,MAX XLT,54815,gas,V6,19.0,5,8
+Expedition,2019,MAX XLT,57825,gas,V6,18.0,5,8
+Expedition,2019,Platinum,76515,gas,V6,19.0,5,8
+Expedition,2019,Platinum,73365,gas,V6,20.0,5,8
+Expedition,2019,XL Fleet,51530,gas,V6,19.0,5,5
+Expedition,2019,XL Fleet,48530,gas,V6,20.0,5,5
+Expedition,2019,XLT,52130,gas,V6,20.0,5,8
+Expedition,2019,XLT,55140,gas,V6,19.0,5,8
+Explorer,2019,Base,32365,flex-fuel (FFV),V6,20.0,5,7
+Explorer,2019,Base,34515,flex-fuel (FFV),V6,18.0,5,7
+Explorer,2019,Limited,42765,gas,I4,22.0,5,7
+Explorer,2019,Limited,44915,gas,I4,21.0,5,7
+Explorer,2019,Platinum,54165,gas,V6,18.0,5,7
+Explorer,2019,Sport,46625,gas,V6,18.0,5,7
+Explorer,2019,XLT,34400,flex-fuel (FFV),V6,20.0,5,7
+Explorer,2019,XLT,36550,flex-fuel (FFV),V6,18.0,5,7
+EcoSport,2018,S,21586,gas,I4,25.0,5,5
+EcoSport,2018,S,19995,gas,I3,28.0,5,5
+EcoSport,2018,SE,24496,gas,I4,25.0,5,5
+EcoSport,2018,SE,22996,gas,I3,28.0,5,5
+EcoSport,2018,SES,26879,gas,I4,25.0,5,5
+EcoSport,2018,Titanium,25879,gas,I3,28.0,5,5
+EcoSport,2018,Titanium,27330,gas,I4,25.0,5,5
+Edge,2018,SE,29315,gas,I4,24.0,5,5
+Edge,2018,SE,31310,gas,I4,23.0,5,5
+Edge,2018,SEL,32050,gas,I4,24.0,5,5
+Edge,2018,SEL,34045,gas,I4,23.0,5,5
+Edge,2018,Sport,40770,gas,V6,20.0,5,5
+Edge,2018,Titanium,36025,gas,I4,24.0,5,5
+Edge,2018,Titanium,38020,gas,I4,23.0,5,5
+Escape,2018,S,23940,gas,I4,24.0,5,5
+Escape,2018,SE,27050,gas,I4,24.0,5,5
+Escape,2018,SE,25700,gas,I4,26.0,5,5
+Escape,2018,SEL,29450,gas,I4,24.0,5,5
+Escape,2018,SEL,28100,gas,I4,26.0,5,5
+Escape,2018,Titanium,33490,gas,I4,24.0,5,5
+Escape,2018,Titanium,32140,gas,I4,26.0,5,5
+Expedition,2018,Limited,62675,gas,V6,20.0,5,8
+Expedition,2018,Limited,65800,gas,V6,19.0,5,8
+Expedition,2018,MAX Limited,65365,gas,V6,19.0,5,8
+Expedition,2018,MAX Limited,68490,gas,V6,18.0,5,8
+Expedition,2018,MAX Platinum,75720,gas,V6,19.0,5,8
+Expedition,2018,MAX Platinum,78865,gas,V6,18.0,5,8
+Expedition,2018,MAX XL Fleet,51890,gas,V6,19.0,5,5
+Expedition,2018,MAX XL Fleet,54895,gas,V6,18.0,5,5
+Expedition,2018,MAX XLT,54475,gas,V6,19.0,5,8
+Expedition,2018,MAX XLT,57485,gas,V6,18.0,5,8
+Expedition,2018,Platinum,73030,gas,V6,20.0,5,8
+Expedition,2018,Platinum,76175,gas,V6,19.0,5,8
+Expedition,2018,XL Fleet,51195,gas,V6,19.0,5,5
+Expedition,2018,XL Fleet,48190,gas,V6,20.0,5,5
+Expedition,2018,XLT,51790,gas,V6,20.0,5,8
+Expedition,2018,XLT,54800,gas,V6,19.0,5,8
+Explorer,2018,Base,32140,flex-fuel (FFV),V6,20.0,5,7
+Explorer,2018,Base,34290,flex-fuel (FFV),V6,19.0,5,7
+Explorer,2018,Limited,44240,gas,I4,21.0,5,7
+Explorer,2018,Limited,42090,gas,I4,22.0,5,7
+Explorer,2018,Platinum,53940,gas,V6,18.0,5,7
+Explorer,2018,Sport,45950,gas,V6,18.0,5,7
+Explorer,2018,XLT,36325,flex-fuel (FFV),V6,19.0,5,7
+Explorer,2018,XLT,34175,flex-fuel (FFV),V6,20.0,5,7
+Edge,2017,SE,28950,gas,I4,24.0,5,5
+Edge,2017,SE,30945,gas,I4,23.0,5,5
+Edge,2017,SEL,33785,gas,I4,23.0,5,5
+Edge,2017,SEL,31790,gas,I4,24.0,5,5
+Edge,2017,Sport,40900,gas,V6,20.0,5,5
+Edge,2017,Titanium,37595,gas,I4,23.0,5,5
+Edge,2017,Titanium,35600,gas,I4,24.0,5,5
+Escape,2017,S,23750,gas,I4,24.0,5,5
+Escape,2017,SE,25250,gas,I4,26.0,5,5
+Escape,2017,SE,27000,gas,I4,24.0,5,5
+Escape,2017,Titanium,29250,gas,I4,26.0,5,5
+Escape,2017,Titanium,31000,gas,I4,24.0,5,5
+Expedition,2017,EL King Ranch,63265,gas,V6,17.0,5,8
+Expedition,2017,EL King Ranch,66185,gas,V6,16.0,5,8
+Expedition,2017,EL Limited,58695,gas,V6,17.0,5,8
+Expedition,2017,EL Limited,61735,gas,V6,16.0,5,8
+Expedition,2017,EL Platinum,66860,gas,V6,17.0,5,8
+Expedition,2017,EL Platinum,69895,gas,V6,16.0,5,8
+Expedition,2017,EL XL Fleet,45875,gas,V6,17.0,5,8
+Expedition,2017,EL XL Fleet,48795,gas,V6,16.0,5,8
+Expedition,2017,EL XLT,49835,gas,V6,17.0,5,8
+Expedition,2017,EL XLT,52760,gas,V6,16.0,5,8
+Expedition,2017,King Ranch,60615,gas,V6,18.0,5,8
+Expedition,2017,King Ranch,63535,gas,V6,17.0,5,8
+Expedition,2017,Limited,59085,gas,V6,17.0,5,8
+Expedition,2017,Limited,56045,gas,V6,18.0,5,8
+Expedition,2017,Platinum,67250,gas,V6,17.0,5,8
+Expedition,2017,Platinum,64205,gas,V6,18.0,5,8
+Expedition,2017,XL Fleet,45520,gas,V6,17.0,5,5
+Expedition,2017,XL Fleet,42600,gas,V6,18.0,5,5
+Expedition,2017,XLT,50050,gas,V6,17.0,5,8
+Expedition,2017,XLT,47125,gas,V6,18.0,5,8
+Explorer,2017,Base,31160,flex-fuel (FFV),V6,20.0,5,7
+Explorer,2017,Base,33810,flex-fuel (FFV),V6,19.0,5,7
+Explorer,2017,Limited,43825,gas,I4,21.0,5,7
+Explorer,2017,Limited,41675,gas,I4,22.0,5,7
+Explorer,2017,Platinum,53235,gas,V6,18.0,5,7
+Explorer,2017,Sport,45355,gas,V6,18.0,5,7
+Explorer,2017,XLT,35925,flex-fuel (FFV),V6,19.0,5,7
+Explorer,2017,XLT,33775,flex-fuel (FFV),V6,20.0,5,7
+Edge,2016,SE,28700,gas,I4,24.0,5,5
+Edge,2016,SE,30695,gas,I4,23.0,5,5
+Edge,2016,SEL,33785,gas,I4,23.0,5,5
+Edge,2016,SEL,31790,gas,I4,24.0,5,5
+Edge,2016,Sport,40900,gas,V6,20.0,5,5
+Edge,2016,Titanium,37595,gas,I4,23.0,5,5
+Edge,2016,Titanium,35600,gas,I4,24.0,5,5
+Escape,2016,S,23590,gas,I4,25.0,5,5
+Escape,2016,SE,25790,gas,I4,26.0,5,5
+Escape,2016,SE,27540,gas,I4,25.0,5,5
+Escape,2016,Titanium,29995,gas,I4,26.0,5,5
+Escape,2016,Titanium,31745,gas,I4,25.0,5,5
+Expedition,2016,EL King Ranch,64945,gas,V6,16.0,5,8
+Expedition,2016,EL King Ranch,62025,gas,V6,17.0,5,8
+Expedition,2016,EL Limited,60835,gas,V6,16.0,5,8
+Expedition,2016,EL Limited,57795,gas,V6,17.0,5,8
+Expedition,2016,EL Platinum,66025,gas,V6,16.0,5,8
+Expedition,2016,EL Platinum,62985,gas,V6,17.0,5,8
+Expedition,2016,EL XL Fleet,47330,gas,V6,16.0,5,8
+Expedition,2016,EL XL Fleet,44410,gas,V6,17.0,5,8
+Expedition,2016,EL XLT,51070,gas,V6,16.0,5,8
+Expedition,2016,EL XLT,48145,gas,V6,17.0,5,8
+Expedition,2016,King Ranch,59375,gas,V6,18.0,5,8
+Expedition,2016,King Ranch,62295,gas,V6,17.0,5,8
+Expedition,2016,Limited,58185,gas,V6,17.0,5,8
+Expedition,2016,Limited,55145,gas,V6,18.0,5,8
+Expedition,2016,Platinum,63375,gas,V6,17.0,5,8
+Expedition,2016,Platinum,60335,gas,V6,18.0,5,8
+Expedition,2016,XL Fleet,41135,gas,V6,18.0,5,5
+Expedition,2016,XL Fleet,44055,gas,V6,17.0,5,5
+Expedition,2016,XLT,48360,gas,V6,17.0,5,8
+Expedition,2016,XLT,45435,gas,V6,18.0,5,8
+Explorer,2016,Base,31050,flex-fuel (FFV),V6,20.0,5,7
+Explorer,2016,Base,33050,flex-fuel (FFV),V6,19.0,5,7
+Explorer,2016,Limited,41300,flex-fuel (FFV),V6,20.0,5,7
+Explorer,2016,Limited,43300,flex-fuel (FFV),V6,19.0,5,7
+Explorer,2016,Platinum,52970,gas,V6,18.0,5,7
+Explorer,2016,Sport,43500,gas,V6,18.0,5,7
+Explorer,2016,XLT,35400,flex-fuel (FFV),V6,19.0,5,7
+Explorer,2016,XLT,33400,flex-fuel (FFV),V6,20.0,5,7
+Edge,2015,SE,28100,gas,I4,24.0,5,5
+Edge,2015,SE,30095,gas,I4,23.0,5,5
+Edge,2015,SEL,31500,gas,I4,24.0,5,5
+Edge,2015,SEL,33495,gas,I4,23.0,5,5
+Edge,2015,Sport,38100,gas,V6,21.0,5,5
+Edge,2015,Sport,40095,gas,V6,20.0,5,5
+Edge,2015,Titanium,35600,gas,I4,24.0,5,5
+Edge,2015,Titanium,37595,gas,I4,23.0,5,5
+Escape,2015,S,23450,gas,I4,25.0,5,5
+Escape,2015,SE,25650,gas,I4,26.0,5,5
+Escape,2015,SE,27400,gas,I4,25.0,5,5
+Escape,2015,Titanium,31485,gas,I4,25.0,5,5
+Escape,2015,Titanium,29735,gas,I4,26.0,5,5
+Expedition,2015,EL King Ranch,61060,gas,V6,17.0,5,8
+Expedition,2015,EL King Ranch,63980,gas,V6,16.0,5,8
+Expedition,2015,EL Limited,59870,gas,V6,16.0,5,8
+Expedition,2015,EL Limited,56830,gas,V6,17.0,5,8
+Expedition,2015,EL Platinum,62020,gas,V6,17.0,5,8
+Expedition,2015,EL Platinum,65060,gas,V6,16.0,5,8
+Expedition,2015,EL XL Fleet,43445,gas,V6,17.0,5,8
+Expedition,2015,EL XL Fleet,46365,gas,V6,16.0,5,8
+Expedition,2015,EL XLT,47295,gas,V6,17.0,5,8
+Expedition,2015,EL XLT,50220,gas,V6,16.0,5,8
+Expedition,2015,King Ranch,61330,gas,V6,17.0,5,8
+Expedition,2015,King Ranch,58410,gas,V6,18.0,5,8
+Expedition,2015,Limited,57220,gas,V6,17.0,5,8
+Expedition,2015,Limited,54180,gas,V6,18.0,5,8
+Expedition,2015,Platinum,62410,gas,V6,17.0,5,8
+Expedition,2015,Platinum,59370,gas,V6,18.0,5,8
+Expedition,2015,XL Fleet,43090,gas,V6,17.0,5,5
+Expedition,2015,XL Fleet,40170,gas,V6,18.0,5,5
+Expedition,2015,XLT,47510,gas,V6,17.0,5,8
+Expedition,2015,XLT,44585,gas,V6,18.0,5,8
+Explorer,2015,Base,32700,flex-fuel (FFV),V6,19.0,5,7
+Explorer,2015,Base,30700,flex-fuel (FFV),V6,20.0,5,7
+Explorer,2015,Limited,38200,flex-fuel (FFV),V6,20.0,5,7
+Explorer,2015,Limited,40200,flex-fuel (FFV),V6,19.0,5,7
+Explorer,2015,Sport,43100,gas,V6,18.0,5,7
+Explorer,2015,XLT,35000,flex-fuel (FFV),V6,19.0,5,7
+Explorer,2015,XLT,33000,flex-fuel (FFV),V6,20.0,5,7

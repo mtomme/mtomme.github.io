@@ -1,0 +1,166 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Impala,2020,LT,31620,flex-fuel (FFV),V6,22.0,4,5
+Impala,2020,Premier,36720,flex-fuel (FFV),V6,22.0,4,5
+Malibu,2020,L,22095,gas,I4,32.0,4,5
+Malibu,2020,LS,23220,gas,I4,32.0,4,5
+Malibu,2020,LS Fleet,23220,gas,I4,32.0,4,5
+Malibu,2020,LT,26620,gas,I4,32.0,4,5
+Malibu,2020,Premier,33320,gas,I4,26.0,4,5
+Malibu,2020,RS,24220,gas,I4,32.0,4,5
+Sonic,2020,LS,16720,gas,I4,29.0,4,5
+Sonic,2020,LT,18620,gas,I4,29.0,4,5
+Sonic,2020,Premier,20720,gas,I4,29.0,4,5
+Cruze,2019,L,17995,gas,I4,32.0,4,5
+Cruze,2019,LS,19120,gas,I4,32.0,4,5
+Cruze,2019,LT,25620,diesel,I4,37.0,4,5
+Cruze,2019,LT,21720,gas,I4,32.0,4,5
+Cruze,2019,Premier,23520,gas,I4,32.0,4,5
+Impala,2019,LS,28020,gas,I4,25.0,4,5
+Impala,2019,LS Fleet,28020,gas,I4,25.0,4,5
+Impala,2019,LT,30520,gas,I4,25.0,4,5
+Impala,2019,Premier,36720,flex-fuel (FFV),V6,22.0,4,5
+Malibu,2019,Hybrid,28220,hybrid,I4,46.0,4,5
+Malibu,2019,L,22090,gas,I4,32.0,4,5
+Malibu,2019,LS,23220,gas,I4,32.0,4,5
+Malibu,2019,LS Fleet,23220,gas,I4,32.0,4,5
+Malibu,2019,LT,26620,gas,I4,32.0,4,5
+Malibu,2019,Premier,31820,gas,I4,26.0,4,5
+Malibu,2019,RS,24220,gas,I4,32.0,4,5
+Sonic,2019,LS,16720,gas,I4,30.0,4,5
+Sonic,2019,LS,15420,gas,I4,32.0,4,5
+Sonic,2019,LT,17920,gas,I4,32.0,4,5
+Sonic,2019,LT,18620,gas,I4,30.0,4,5
+Sonic,2019,Premier,20020,gas,I4,32.0,4,5
+Sonic,2019,Premier,20720,gas,I4,30.0,4,5
+Cruze,2018,L,16975,gas,I4,32.0,4,5
+Cruze,2018,LS,18525,gas,I4,32.0,4,5
+Cruze,2018,LS,19525,gas,I4,33.0,4,5
+Cruze,2018,LT,25395,diesel,I4,37.0,4,5
+Cruze,2018,LT,20845,gas,I4,32.0,4,5
+Cruze,2018,LT,21450,gas,I4,33.0,4,5
+Cruze,2018,LT,23795,diesel,I4,37.0,4,5
+Cruze,2018,Premier,23475,gas,I4,33.0,4,5
+Impala,2018,LS,27895,gas,I4,25.0,4,5
+Impala,2018,LS Fleet,27895,gas,I4,25.0,4,5
+Impala,2018,LT,30220,gas,I4,25.0,4,5
+Impala,2018,Premier,36420,flex-fuel (FFV),V6,22.0,4,5
+Malibu,2018,Hybrid,27875,hybrid,I4,46.0,4,5
+Malibu,2018,L,21680,gas,I4,30.0,4,5
+Malibu,2018,LS,23225,gas,I4,30.0,4,5
+Malibu,2018,LS Fleet,23225,gas,I4,30.0,4,5
+Malibu,2018,LT,25125,gas,I4,30.0,4,5
+Malibu,2018,Premier,30975,gas,I4,26.0,4,5
+Sonic,2018,LS,15295,gas,I4,29.0,4,5
+Sonic,2018,LS,16495,gas,I4,28.0,4,5
+Sonic,2018,LT,17695,gas,I4,32.0,4,5
+Sonic,2018,LT,18395,gas,I4,28.0,4,5
+Sonic,2018,Premier,20495,gas,I4,30.0,4,5
+Sonic,2018,Premier,19795,gas,I4,32.0,4,5
+Cruze,2017,L,16975,gas,I4,32.0,4,5
+Cruze,2017,LS,18525,gas,I4,32.0,4,5
+Cruze,2017,LS,19525,gas,I4,34.0,4,5
+Cruze,2017,LT,20150,gas,I4,32.0,4,5
+Cruze,2017,LT,21450,gas,I4,34.0,4,5
+Cruze,2017,LT,23795,diesel,I4,37.0,4,5
+Cruze,2017,LT,25395,diesel,I4,37.0,4,5
+Cruze,2017,Premier,23475,gas,I4,33.0,4,5
+Impala,2017,LS,27500,gas,I4,25.0,4,5
+Impala,2017,LS CNG,37675,flex-fuel (FFV),V6,20.0,4,5
+Impala,2017,LS Fleet,27500,gas,I4,25.0,4,5
+Impala,2017,LT,29765,gas,I4,25.0,4,5
+Impala,2017,LT CNG,40915,flex-fuel (FFV),V6,20.0,4,5
+Impala,2017,Premier,35845,flex-fuel (FFV),V6,22.0,4,5
+Malibu,2017,Hybrid,27875,hybrid,I4,46.0,4,5
+Malibu,2017,L,21680,gas,I4,30.0,4,5
+Malibu,2017,LS,23225,gas,I4,30.0,4,5
+Malibu,2017,LS Fleet,23225,gas,I4,30.0,4,5
+Malibu,2017,LT,25125,gas,I4,30.0,4,5
+Malibu,2017,Premier,30975,gas,I4,26.0,4,5
+Sonic,2017,LS,16395,gas,I4,28.0,4,5
+Sonic,2017,LS,15145,gas,I4,28.0,4,5
+Sonic,2017,LT,18170,gas,I4,28.0,4,5
+Sonic,2017,LT,17530,gas,I4,32.0,4,5
+Sonic,2017,Premier,19720,gas,I4,32.0,4,5
+Sonic,2017,Premier,20415,gas,I4,30.0,4,5
+SS,2017,Base,46625,gas,V8,16.0,4,5
+Cruze,2016,1LT,21120,gas,I4,34.0,4,5
+Cruze,2016,1LT,19820,gas,I4,33.0,4,5
+Cruze,2016,L,16620,gas,I4,33.0,4,5
+Cruze,2016,LS,18120,gas,I4,33.0,4,5
+Cruze,2016,LS,19120,gas,I4,34.0,4,5
+Cruze,2016,Premier,23120,gas,I4,34.0,4,5
+Cruze Limited,2016,1LT,19165,gas,I4,30.0,4,5
+Cruze Limited,2016,1LT,20195,gas,I4,30.0,4,5
+Cruze Limited,2016,2LT,23370,gas,I4,30.0,4,5
+Cruze Limited,2016,Eco,21470,gas,I4,31.0,4,5
+Cruze Limited,2016,Eco,20195,gas,I4,33.0,4,5
+Cruze Limited,2016,L,16120,gas,I4,29.0,4,5
+Cruze Limited,2016,LS,18970,gas,I4,27.0,4,5
+Cruze Limited,2016,LS,17845,gas,I4,29.0,4,5
+Cruze Limited,2016,LTZ,24370,gas,I4,30.0,4,5
+Impala,2016,LS,27095,gas,I4,25.0,4,5
+Impala,2016,LS CNG,37570,flex-fuel (FFV),V6,20.0,4,5
+Impala,2016,LS Fleet,27095,gas,I4,25.0,4,5
+Impala,2016,LT,30435,flex-fuel (FFV),V6,22.0,4,5
+Impala,2016,LT,29460,gas,I4,25.0,4,5
+Impala,2016,LT CNG,40810,flex-fuel (FFV),V6,20.0,4,5
+Impala,2016,LTZ,35540,flex-fuel (FFV),V6,22.0,4,5
+Impala Limited,2016,LS Fleet,25830,flex-fuel (FFV),V6,22.0,4,5
+Impala Limited,2016,LT Fleet,26840,flex-fuel (FFV),V6,22.0,4,5
+Impala Limited,2016,LTZ Fleet,30535,flex-fuel (FFV),V6,22.0,4,5
+Malibu,2016,Hybrid,27770,hybrid,I4,46.0,4,5
+Malibu,2016,L,21625,gas,I4,31.0,4,5
+Malibu,2016,LS,23120,gas,I4,31.0,4,5
+Malibu,2016,LS Fleet,23120,gas,I4,31.0,4,5
+Malibu,2016,LT,25020,gas,I4,31.0,4,5
+Malibu,2016,LT,28620,gas,I4,26.0,4,5
+Malibu,2016,Premier,30920,gas,I4,26.0,4,5
+Malibu Limited,2016,LS,22565,gas,I4,27.0,4,5
+Malibu Limited,2016,LS Fleet,22565,gas,I4,27.0,4,5
+Malibu Limited,2016,LT,23835,gas,I4,27.0,4,5
+Malibu Limited,2016,LTZ,28420,gas,I4,27.0,4,5
+Sonic,2016,LS,14345,gas,I4,30.0,4,5
+Sonic,2016,LS,15595,gas,I4,28.0,4,5
+Sonic,2016,LT,16155,gas,I4,30.0,4,5
+Sonic,2016,LT,17545,gas,I4,28.0,4,5
+Sonic,2016,LTZ,19780,gas,I4,31.0,4,5
+Sonic,2016,RS,20095,gas,I4,30.0,4,5
+Sonic,2016,RS,21495,gas,I4,28.0,4,5
+SS,2016,Base,46575,gas,V8,16.0,4,5
+Cruze,2015,1LT,19065,gas,I4,30.0,4,5
+Cruze,2015,1LT,20095,gas,I4,30.0,4,5
+Cruze,2015,2LT,23270,gas,I4,30.0,4,5
+Cruze,2015,Diesel,25660,diesel,I4,33.0,4,5
+Cruze,2015,Eco,20095,gas,I4,33.0,4,5
+Cruze,2015,Eco,21370,gas,I4,31.0,4,5
+Cruze,2015,L,16170,gas,I4,29.0,4,5
+Cruze,2015,LS,18870,gas,I4,27.0,4,5
+Cruze,2015,LS,17745,gas,I4,29.0,4,5
+Cruze,2015,LTZ,24270,gas,I4,30.0,4,5
+Impala,2015,LS,27060,gas,I4,25.0,4,5
+Impala,2015,LS Fleet,37535,flex-fuel (FFV),V6,20.0,4,5
+Impala,2015,LS Fleet,27060,gas,I4,25.0,4,5
+Impala,2015,LT,29310,gas,I4,25.0,4,5
+Impala,2015,LT,30285,flex-fuel (FFV),V6,22.0,4,5
+Impala,2015,LT,40660,flex-fuel (FFV),V6,20.0,4,5
+Impala,2015,LTZ,34465,gas,I4,25.0,4,5
+Impala,2015,LTZ,35440,flex-fuel (FFV),V6,22.0,4,5
+Impala Limited,2015,LS Fleet,25830,flex-fuel (FFV),V6,22.0,4,5
+Impala Limited,2015,LT Fleet,26840,flex-fuel (FFV),V6,22.0,4,5
+Impala Limited,2015,LTZ Fleet,30535,flex-fuel (FFV),V6,22.0,4,5
+Malibu,2015,LS,22340,gas,I4,29.0,4,5
+Malibu,2015,LS Fleet,22340,gas,I4,29.0,4,5
+Malibu,2015,LT,25470,gas,I4,29.0,4,5
+Malibu,2015,LT,23610,gas,I4,29.0,4,5
+Malibu,2015,LT,27005,gas,I4,24.0,4,5
+Malibu,2015,LTZ,30355,gas,I4,24.0,4,5
+Malibu,2015,LTZ,28195,gas,I4,29.0,4,5
+Sonic,2015,LS,14245,gas,I4,30.0,4,5
+Sonic,2015,LS,15495,gas,I4,28.0,4,5
+Sonic,2015,LT,15855,gas,I4,30.0,4,5
+Sonic,2015,LT,17245,gas,I4,28.0,4,5
+Sonic,2015,LTZ,18235,gas,I4,33.0,4,5
+Sonic,2015,LTZ,19680,gas,I4,31.0,4,5
+Sonic,2015,RS,19945,gas,I4,29.0,4,5
+Sonic,2015,RS,21345,gas,I4,28.0,4,5
+SS,2015,Base,45745,gas,V8,17.0,4,5

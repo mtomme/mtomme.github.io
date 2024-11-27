@@ -1,0 +1,75 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+A5,2020,Premium,42900,gas,I4,27.0,2,4
+A5,2020,Premium Plus,46700,gas,I4,27.0,2,4
+A5,2020,Prestige,52600,gas,I4,27.0,2,4
+R8,2020,Base,169900,gas,V10,16.0,2,2
+R8,2020,performance,195900,gas,V10,16.0,2,2
+S5,2020,Premium,51900,gas,V6,23.0,2,4
+S5,2020,Premium Plus,54400,gas,V6,23.0,2,4
+S5,2020,Prestige,60300,gas,V6,23.0,2,4
+TT,2020,Base,45500,gas,I4,26.0,2,4
+TT RS,2020,Base,67600,gas,I5,23.0,2,4
+TTS,2020,Base,54500,gas,I4,25.0,2,4
+A5,2019,2.0 TFSI Premium Plus quattro,48600,gas,I4,27.0,2,4
+A5,2019,2.0 TFSI Premium quattro,44200,gas,I4,27.0,2,4
+A5,2019,2.0 TFSI Prestige quattro,52300,gas,I4,27.0,2,4
+RS 5,2019,quattro,74200,gas,V6,21.0,2,4
+S5,2019,3.0 TFSI Premium Plus quattro,56800,gas,V6,24.0,2,4
+S5,2019,3.0 TFSI Premium quattro,52400,gas,V6,24.0,2,4
+S5,2019,3.0 TFSI Prestige quattro,60500,gas,V6,24.0,2,4
+TT,2019,2.0 TFSI quattro,44900,gas,I4,26.0,2,4
+TT RS,2019,quattro,66900,gas,I5,23.0,2,4
+TTS,2019,quattro,53800,gas,I4,25.0,2,4
+A5,2018,Premium Plus quattro,45800,gas,I4,33.0,2,4
+A5,2018,Premium Plus quattro,45800,gas,I4,27.0,2,4
+A5,2018,Premium quattro,42800,gas,I4,27.0,2,4
+A5,2018,Premium quattro,42800,gas,I4,33.0,2,4
+A5,2018,Prestige quattro,50400,gas,I4,33.0,2,4
+A5,2018,Prestige quattro,50400,gas,I4,27.0,2,4
+R8,2018,V10 plus quattro,194400,gas,V10,17.0,2,2
+R8,2018,V10 quattro,164900,gas,V10,17.0,2,2
+R8,2018,V10 RWS,138700,gas,V10,18.0,2,2
+RS 5,2018,quattro,69900,gas,V6,21.0,2,4
+S5,2018,Premium Plus quattro,54600,gas,V6,24.0,2,4
+S5,2018,Prestige quattro,59000,gas,V6,24.0,2,4
+TT,2018,2.0T quattro,43950,gas,I4,26.0,2,4
+TT RS,2018,quattro,64900,gas,I5,22.0,2,4
+TTS,2018,quattro,52950,gas,I4,25.0,2,4
+A5,2017,Sport quattro,41200,gas,I4,26.0,2,5
+A5,2017,Sport quattro,42200,flex-fuel (FFV),I4,25.0,2,5
+R8,2017,V10 plus quattro,189900,gas,V10,17.0,2,2
+R8,2017,V10 quattro,162900,gas,V10,17.0,2,2
+S5,2017,quattro,53100,gas,V6,20.0,2,4
+S5,2017,quattro,54100,gas,V6,21.0,2,4
+TT,2017,2.0T quattro,43500,gas,I4,26.0,2,4
+TTS,2017,quattro,52500,gas,I4,25.0,2,4
+A5,2016,2.0T Premium Plus quattro,42800,gas,I4,26.0,2,4
+A5,2016,2.0T Premium Plus quattro,43800,gas,I4,25.0,2,4
+A5,2016,2.0T Premium quattro,40500,gas,I4,26.0,2,4
+A5,2016,2.0T Premium quattro,41500,gas,I4,25.0,2,4
+S5,2016,Premium Plus quattro,54100,gas,V6,21.0,2,4
+S5,2016,Premium Plus quattro,53100,gas,V6,20.0,2,4
+S5,2016,Prestige quattro,59350,gas,V6,20.0,2,4
+S5,2016,Prestige quattro,60350,gas,V6,21.0,2,4
+TT,2016,2.0T quattro,42900,gas,I4,26.0,2,4
+TTS,2016,quattro,51900,gas,I4,25.0,2,4
+A5,2015,2.0T Premium Plus quattro,43500,gas,I4,25.0,2,4
+A5,2015,2.0T Premium Plus quattro,42300,gas,I4,26.0,2,4
+A5,2015,2.0T Premium quattro,41200,gas,I4,25.0,2,4
+A5,2015,2.0T Premium quattro,40000,gas,I4,26.0,2,4
+A5,2015,2.0T Prestige quattro,49600,gas,I4,25.0,2,4
+A5,2015,2.0T Prestige quattro,48400,gas,I4,26.0,2,4
+R8,2015,V10 Competition quattro,199900,gas,V10,16.0,2,2
+R8,2015,V10 Plus quattro,173500,gas,V10,14.0,2,2
+R8,2015,V10 Plus quattro,182500,gas,V10,16.0,2,2
+R8,2015,V10 quattro,162900,gas,V10,16.0,2,2
+R8,2015,V10 quattro,153900,gas,V10,14.0,2,2
+R8,2015,V8 quattro,124900,gas,V8,17.0,2,2
+R8,2015,V8 quattro,115900,gas,V8,14.0,2,2
+RS 5,2015,quattro,70900,gas,V8,18.0,2,4
+S5,2015,Premium Plus quattro,53900,gas,V6,21.0,2,4
+S5,2015,Premium Plus quattro,52500,gas,V6,20.0,2,4
+S5,2015,Prestige quattro,58750,gas,V6,20.0,2,4
+S5,2015,Prestige quattro,60150,gas,V6,21.0,2,4
+TT,2015,2.0T quattro,40350,gas,I4,26.0,2,4
+TTS,2015,quattro,48700,gas,I4,26.0,2,4

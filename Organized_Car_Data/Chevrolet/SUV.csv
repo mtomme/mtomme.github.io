@@ -1,0 +1,299 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Blazer,2020,1LT,32300,flex-fuel (FFV),I4,23.0,5,5
+Blazer,2020,2LT,32800,gas,I4,24.0,5,5
+Blazer,2020,2LT,34800,gas,I4,23.0,5,5
+Blazer,2020,3LT,37000,gas,I4,24.0,5,5
+Blazer,2020,3LT,39000,gas,I4,23.0,5,5
+Blazer,2020,L,28800,flex-fuel (FFV),I4,23.0,5,5
+Blazer,2020,Premier,45600,gas,V6,21.0,5,5
+Blazer,2020,Premier,42700,gas,V6,21.0,5,5
+Blazer,2020,RS,40600,gas,V6,21.0,5,5
+Blazer,2020,RS,43500,gas,V6,21.0,5,5
+Equinox,2020,L,23800,gas,I4,28.0,5,5
+Equinox,2020,LS,27900,gas,I4,27.0,5,5
+Equinox,2020,LS,26300,gas,I4,28.0,5,5
+Equinox,2020,LS Fleet,26500,gas,I4,28.0,5,5
+Equinox,2020,LS Fleet,28100,gas,I4,27.0,5,5
+Equinox,2020,LT,29100,gas,I4,27.0,5,5
+Equinox,2020,LT,27500,gas,I4,28.0,5,5
+Equinox,2020,LT,30000,gas,I4,25.0,5,5
+Equinox,2020,LT,31600,gas,I4,24.0,5,5
+Equinox,2020,LT Fleet,27900,gas,I4,28.0,5,5
+Equinox,2020,LT Fleet,29500,gas,I4,27.0,5,5
+Equinox,2020,Premier,33000,gas,I4,27.0,5,5
+Equinox,2020,Premier,34100,gas,I4,25.0,5,5
+Equinox,2020,Premier,31400,gas,I4,28.0,5,5
+Equinox,2020,Premier,35700,gas,I4,24.0,5,5
+Suburban,2020,Fleet,52700,flex-fuel (FFV),V8,16.0,5,8
+Suburban,2020,Fleet,49700,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2020,LS,53800,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2020,LS,50800,flex-fuel (FFV),V8,16.0,5,8
+Suburban,2020,LT,55800,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2020,LT,58800,flex-fuel (FFV),V8,16.0,5,8
+Suburban,2020,Premier,65500,flex-fuel (FFV),V8,18.0,5,7
+Suburban,2020,Premier,68500,flex-fuel (FFV),V8,16.0,5,7
+Tahoe,2020,Fleet,46800,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2020,Fleet,49800,flex-fuel (FFV),V8,17.0,5,8
+Tahoe,2020,LS,48000,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2020,LS,51000,flex-fuel (FFV),V8,17.0,5,8
+Tahoe,2020,LT,56000,flex-fuel (FFV),V8,17.0,5,8
+Tahoe,2020,LT,53000,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2020,Premier,62700,flex-fuel (FFV),V8,18.0,5,7
+Tahoe,2020,Premier,65700,flex-fuel (FFV),V8,17.0,5,7
+Traverse,2020,High Country,50900,gas,V6,21.0,5,7
+Traverse,2020,High Country,53200,gas,V6,20.0,5,7
+Traverse,2020,L,29800,gas,V6,21.0,5,8
+Traverse,2020,LS,32900,gas,V6,21.0,5,8
+Traverse,2020,LS,34900,gas,V6,20.0,5,8
+Traverse,2020,LS Fleet,35900,gas,V6,20.0,5,8
+Traverse,2020,LS Fleet,33900,gas,V6,21.0,5,8
+Traverse,2020,LT Cloth,35400,gas,V6,21.0,5,7
+Traverse,2020,LT Cloth,39200,gas,V6,20.0,5,7
+Traverse,2020,LT Fleet,36300,gas,V6,21.0,5,7
+Traverse,2020,LT Fleet,38300,gas,V6,20.0,5,7
+Traverse,2020,LT Leather,41100,gas,V6,20.0,5,7
+Traverse,2020,LT Leather,39100,gas,V6,21.0,5,7
+Traverse,2020,Premier,48400,gas,V6,20.0,5,7
+Traverse,2020,Premier,45800,gas,V6,21.0,5,7
+Traverse,2020,RS,45700,gas,V6,20.0,5,7
+Traverse,2020,RS,43600,gas,V6,21.0,5,7
+Trax,2020,LS,21300,gas,I4,28.0,5,5
+Trax,2020,LS,22800,gas,I4,26.0,5,5
+Trax,2020,LT,24700,gas,I4,26.0,5,5
+Trax,2020,LT,23200,gas,I4,28.0,5,5
+Trax,2020,Premier,29100,gas,I4,26.0,5,5
+Trax,2020,Premier,27600,gas,I4,28.0,5,5
+Blazer,2019,L,28800,flex-fuel (FFV),I4,24.0,5,5
+Blazer,2019,LT Cloth,32300,flex-fuel (FFV),I4,24.0,5,5
+Blazer,2019,LT V6 Cloth,36000,gas,V6,21.0,5,5
+Blazer,2019,LT V6 Cloth,33300,gas,V6,22.0,5,5
+Blazer,2019,LT V6 Leather,40200,gas,V6,21.0,5,5
+Blazer,2019,LT V6 Leather,37500,gas,V6,22.0,5,5
+Blazer,2019,Premier,42700,gas,V6,22.0,5,5
+Blazer,2019,Premier,45600,gas,V6,21.0,5,5
+Blazer,2019,RS,40600,gas,V6,22.0,5,5
+Blazer,2019,RS,43500,gas,V6,21.0,5,5
+Equinox,2019,L,23800,gas,I4,28.0,5,5
+Equinox,2019,LS,27600,gas,I4,27.0,5,5
+Equinox,2019,LS,25900,gas,I4,28.0,5,5
+Equinox,2019,LT,28900,gas,I4,27.0,5,5
+Equinox,2019,LT,31500,gas,I4,24.0,5,5
+Equinox,2019,LT,27200,gas,I4,28.0,5,5
+Equinox,2019,LT,29700,gas,I4,25.0,5,5
+Equinox,2019,LT,31300,diesel,I4,32.0,5,5
+Equinox,2019,LT,29600,diesel,I4,32.0,5,5
+Equinox,2019,LT Fleet,28315,gas,I4,28.0,5,5
+Equinox,2019,LT Fleet,30015,gas,I4,27.0,5,5
+Equinox,2019,Premier,31100,gas,I4,28.0,5,5
+Equinox,2019,Premier,35100,diesel,I4,32.0,5,5
+Equinox,2019,Premier,33300,diesel,I4,32.0,5,5
+Equinox,2019,Premier,33900,gas,I4,25.0,5,5
+Equinox,2019,Premier,32900,gas,I4,27.0,5,5
+Equinox,2019,Premier,35700,gas,I4,24.0,5,5
+Suburban,2019,Fleet,52700,flex-fuel (FFV),V8,16.0,5,8
+Suburban,2019,Fleet,49700,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2019,LS,50800,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2019,LS,53800,flex-fuel (FFV),V8,16.0,5,8
+Suburban,2019,LT,55800,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2019,LT,58600,flex-fuel (FFV),V8,16.0,5,8
+Suburban,2019,Premier,68500,flex-fuel (FFV),V8,16.0,5,7
+Suburban,2019,Premier,65500,flex-fuel (FFV),V8,18.0,5,7
+Tahoe,2019,Fleet,49800,flex-fuel (FFV),V8,17.0,5,8
+Tahoe,2019,Fleet,46800,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2019,LS,51000,flex-fuel (FFV),V8,17.0,5,8
+Tahoe,2019,LS,48000,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2019,LT,56000,flex-fuel (FFV),V8,17.0,5,8
+Tahoe,2019,LT,53000,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2019,Premier,62700,flex-fuel (FFV),V8,18.0,5,7
+Tahoe,2019,Premier,65700,flex-fuel (FFV),V8,17.0,5,7
+Traverse,2019,High Country,53200,gas,V6,20.0,5,7
+Traverse,2019,High Country,50900,gas,V6,21.0,5,7
+Traverse,2019,L,29930,gas,V6,21.0,5,8
+Traverse,2019,LS,32900,gas,V6,21.0,5,8
+Traverse,2019,LS,34900,gas,V6,20.0,5,8
+Traverse,2019,LS Fleet,33500,gas,V6,21.0,5,8
+Traverse,2019,LS Fleet,35500,gas,V6,20.0,5,8
+Traverse,2019,LT Cloth,39200,gas,V6,20.0,5,7
+Traverse,2019,LT Cloth,35400,gas,V6,21.0,5,7
+Traverse,2019,LT Fleet,35900,gas,V6,21.0,5,7
+Traverse,2019,LT Fleet,37900,gas,V6,20.0,5,7
+Traverse,2019,LT Leather,41100,gas,V6,20.0,5,7
+Traverse,2019,LT Leather,39100,gas,V6,21.0,5,7
+Traverse,2019,Premier,48400,gas,V6,20.0,5,7
+Traverse,2019,Premier,45500,gas,V6,21.0,5,7
+Traverse,2019,RS,43100,gas,I4,22.0,5,7
+Traverse,2019,RS,45700,gas,V6,20.0,5,7
+Traverse,2019,RS,43100,gas,V6,21.0,5,7
+Trax,2019,LS,21300,gas,I4,28.0,5,5
+Trax,2019,LS,22800,gas,I4,27.0,5,5
+Trax,2019,LT,23200,gas,I4,28.0,5,5
+Trax,2019,LT,24700,gas,I4,27.0,5,5
+Trax,2019,Premier,27600,gas,I4,28.0,5,5
+Trax,2019,Premier,29100,gas,I4,27.0,5,5
+Equinox,2018,L,23580,gas,I4,28.0,5,5
+Equinox,2018,LS,25510,gas,I4,28.0,5,5
+Equinox,2018,LS,27260,gas,I4,26.0,5,5
+Equinox,2018,LT,28500,gas,I4,26.0,5,5
+Equinox,2018,LT,26750,gas,I4,28.0,5,5
+Equinox,2018,LT,29295,gas,I4,25.0,5,5
+Equinox,2018,LT,32990,gas,I4,24.0,5,5
+Equinox,2018,LT,30640,diesel,I4,32.0,5,5
+Equinox,2018,LT,32390,diesel,I4,32.0,5,5
+Equinox,2018,Premier,30790,gas,I4,28.0,5,5
+Equinox,2018,Premier,33585,gas,I4,25.0,5,5
+Equinox,2018,Premier,34435,gas,I4,26.0,5,5
+Equinox,2018,Premier,37230,gas,I4,24.0,5,5
+Equinox,2018,Premier,32985,diesel,I4,32.0,5,5
+Equinox,2018,Premier,34735,diesel,I4,32.0,5,5
+Suburban,2018,Fleet,49190,flex-fuel (FFV),V8,19.0,5,8
+Suburban,2018,Fleet,52190,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2018,LS,53150,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2018,LS,50150,flex-fuel (FFV),V8,19.0,5,8
+Suburban,2018,LT,55280,flex-fuel (FFV),V8,19.0,5,8
+Suburban,2018,LT,58280,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2018,Premier,64830,flex-fuel (FFV),V8,19.0,5,7
+Suburban,2018,Premier,67830,flex-fuel (FFV),V8,18.0,5,7
+Tahoe,2018,Fleet,49340,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2018,Fleet,46340,flex-fuel (FFV),V8,19.0,5,8
+Tahoe,2018,LS,47450,flex-fuel (FFV),V8,19.0,5,8
+Tahoe,2018,LS,50450,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2018,LT,55580,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2018,LT,52580,flex-fuel (FFV),V8,19.0,5,8
+Tahoe,2018,Premier,65130,flex-fuel (FFV),V8,18.0,5,7
+Tahoe,2018,Premier,62130,flex-fuel (FFV),V8,19.0,5,7
+Traverse,2018,High Country,52100,gas,V6,20.0,5,7
+Traverse,2018,L,29930,gas,V6,21.0,5,8
+Traverse,2018,LS,34100,gas,V6,20.0,5,8
+Traverse,2018,LS,32100,gas,V6,21.0,5,8
+Traverse,2018,LS Fleet,34720,gas,V6,20.0,5,8
+Traverse,2018,LS Fleet,32720,gas,V6,21.0,5,8
+Traverse,2018,LT Cloth,34600,gas,V6,21.0,5,7
+Traverse,2018,LT Cloth,38400,gas,V6,20.0,5,7
+Traverse,2018,LT Fleet,37145,gas,V6,20.0,5,7
+Traverse,2018,LT Fleet,35145,gas,V6,21.0,5,7
+Traverse,2018,LT Leather,43200,gas,V6,20.0,5,7
+Traverse,2018,LT Leather,41200,gas,V6,21.0,5,7
+Traverse,2018,Premier,44500,gas,V6,21.0,5,7
+Traverse,2018,Premier,47400,gas,V6,20.0,5,7
+Traverse,2018,RS,42100,gas,I4,22.0,5,7
+Trax,2018,LS,22500,gas,I4,27.0,5,5
+Trax,2018,LS,21000,gas,I4,28.0,5,5
+Trax,2018,LT,22900,gas,I4,28.0,5,5
+Trax,2018,LT,24400,gas,I4,27.0,5,5
+Trax,2018,Premier,28795,gas,I4,27.0,5,5
+Trax,2018,Premier,27295,gas,I4,28.0,5,5
+Equinox,2017,L,23100,gas,I4,26.0,5,5
+Equinox,2017,LS,27260,gas,I4,23.0,5,5
+Equinox,2017,LS,25510,gas,I4,26.0,5,5
+Equinox,2017,LT,26750,gas,I4,26.0,5,5
+Equinox,2017,LT,28500,gas,I4,23.0,5,5
+Equinox,2017,LT Fleet,27245,gas,I4,26.0,5,5
+Equinox,2017,LT Fleet,28995,gas,I4,23.0,5,5
+Equinox,2017,Premier,30040,gas,I4,26.0,5,5
+Equinox,2017,Premier,31790,gas,I4,23.0,5,5
+Suburban,2017,LS,49915,flex-fuel (FFV),V8,19.0,5,8
+Suburban,2017,LS,52915,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2017,LT,55045,flex-fuel (FFV),V8,19.0,5,8
+Suburban,2017,LT,58045,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2017,Premier,64730,flex-fuel (FFV),V8,19.0,5,7
+Suburban,2017,Premier,67730,flex-fuel (FFV),V8,18.0,5,7
+Tahoe,2017,LS,47215,flex-fuel (FFV),V8,19.0,5,8
+Tahoe,2017,LS,50215,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2017,LT,55345,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2017,LT,52345,flex-fuel (FFV),V8,19.0,5,8
+Tahoe,2017,Premier,65030,flex-fuel (FFV),V8,18.0,5,7
+Tahoe,2017,Premier,62030,flex-fuel (FFV),V8,19.0,5,7
+Traverse,2017,LS,31300,gas,V6,18.0,5,8
+Traverse,2017,LS,33300,gas,V6,17.0,5,8
+Traverse,2017,LS Base,28700,gas,V6,18.0,5,8
+Traverse,2017,LT,38650,gas,V6,17.0,5,7
+Traverse,2017,LT,36650,gas,V6,18.0,5,7
+Traverse,2017,LT,36100,gas,V6,17.0,5,8
+Traverse,2017,LT,34100,gas,V6,18.0,5,8
+Traverse,2017,Premier,42045,gas,V6,18.0,5,7
+Traverse,2017,Premier,44045,gas,V6,17.0,5,7
+Trax,2017,LS,21000,gas,I4,28.0,5,5
+Trax,2017,LS,22500,gas,I4,27.0,5,5
+Trax,2017,LT,22900,gas,I4,28.0,5,5
+Trax,2017,LT,24400,gas,I4,27.0,5,5
+Trax,2017,Premier,27600,gas,I4,27.0,5,5
+Trax,2017,Premier,26100,gas,I4,28.0,5,5
+Equinox,2016,L,22600,gas,I4,26.0,5,5
+Equinox,2016,LS,25210,gas,I4,26.0,5,5
+Equinox,2016,LS,26960,gas,I4,23.0,5,5
+Equinox,2016,LT,26450,gas,I4,26.0,5,5
+Equinox,2016,LT,28200,gas,I4,23.0,5,5
+Equinox,2016,LTZ,31490,gas,I4,23.0,5,5
+Equinox,2016,LTZ,29740,gas,I4,26.0,5,5
+Suburban,2016,LS,49700,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2016,LS,52700,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2016,LS 3500HD Fleet,79715,flex-fuel (FFV),V8,,5,8
+Suburban,2016,LT,57730,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2016,LT,54730,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2016,LT 3500HD Fleet,84735,flex-fuel (FFV),V8,,5,8
+Suburban,2016,LTZ,67440,flex-fuel (FFV),V8,18.0,5,7
+Suburban,2016,LTZ,64440,flex-fuel (FFV),V8,18.0,5,7
+Tahoe,2016,LS,50000,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2016,LS,47000,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2016,LT,52030,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2016,LT,55030,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2016,LTZ,61740,flex-fuel (FFV),V8,18.0,5,7
+Tahoe,2016,LTZ,64740,flex-fuel (FFV),V8,18.0,5,7
+Traverse,2016,LS,33205,gas,V6,17.0,5,8
+Traverse,2016,LS,31205,gas,V6,18.0,5,8
+Traverse,2016,LS Base,28700,gas,V6,18.0,5,8
+Traverse,2016,LT,34005,gas,V6,18.0,5,8
+Traverse,2016,LT,36005,gas,V6,17.0,5,8
+Traverse,2016,LT,36505,gas,V6,18.0,5,7
+Traverse,2016,LT,38505,gas,V6,17.0,5,7
+Traverse,2016,LTZ,42145,gas,V6,18.0,5,7
+Traverse,2016,LTZ,44145,gas,V6,17.0,5,7
+Trax,2016,LS,20300,gas,I4,29.0,5,5
+Trax,2016,LS,21800,gas,I4,27.0,5,5
+Trax,2016,LS Fleet,20300,gas,I4,29.0,5,5
+Trax,2016,LS Fleet,21800,gas,I4,27.0,5,5
+Trax,2016,LT,22645,gas,I4,29.0,5,5
+Trax,2016,LT,24145,gas,I4,27.0,5,5
+Trax,2016,LTZ,25230,gas,I4,29.0,5,5
+Trax,2016,LTZ,26730,gas,I4,27.0,5,5
+Captiva Sport,2015,LS Fleet,25155,flex-fuel (FFV),I4,23.0,5,5
+Captiva Sport,2015,LS Fleet,24370,flex-fuel (FFV),I4,23.0,5,5
+Captiva Sport,2015,LT Fleet,25985,flex-fuel (FFV),I4,23.0,5,5
+Captiva Sport,2015,LTZ Fleet,29505,flex-fuel (FFV),I4,23.0,5,5
+Equinox,2015,L,22120,gas,I4,26.0,5,5
+Equinox,2015,LS,26270,gas,I4,23.0,5,5
+Equinox,2015,LS,24520,gas,I4,26.0,5,5
+Equinox,2015,LT,29920,gas,I4,23.0,5,5
+Equinox,2015,LT,28170,gas,I4,26.0,5,5
+Equinox,2015,LT,27920,gas,I4,23.0,5,5
+Equinox,2015,LT,26170,gas,I4,26.0,5,5
+Equinox,2015,LTZ,33670,gas,I4,23.0,5,5
+Equinox,2015,LTZ,31920,gas,I4,26.0,5,5
+Suburban,2015,LS,49000,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2015,LS,52000,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2015,LT,54205,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2015,LT,57205,flex-fuel (FFV),V8,18.0,5,8
+Suburban,2015,LTZ,66785,flex-fuel (FFV),V8,18.0,5,7
+Suburban,2015,LTZ,63785,flex-fuel (FFV),V8,18.0,5,7
+Tahoe,2015,LS,46300,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2015,LS,49300,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2015,LT,51505,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2015,LT,54505,flex-fuel (FFV),V8,18.0,5,8
+Tahoe,2015,LTZ,64085,flex-fuel (FFV),V8,18.0,5,7
+Tahoe,2015,LTZ,61085,flex-fuel (FFV),V8,18.0,5,7
+Traverse,2015,LS,30995,gas,V6,19.0,5,8
+Traverse,2015,LS,32995,gas,V6,19.0,5,8
+Traverse,2015,LT,38295,gas,V6,19.0,5,7
+Traverse,2015,LT,36295,gas,V6,19.0,5,7
+Traverse,2015,LT,35795,gas,V6,19.0,5,8
+Traverse,2015,LT,33795,gas,V6,19.0,5,8
+Traverse,2015,LTZ,41935,gas,V6,19.0,5,7
+Traverse,2015,LTZ,43935,gas,V6,19.0,5,7
+Trax,2015,LS,21620,gas,I4,27.0,5,5
+Trax,2015,LS,20120,gas,I4,29.0,5,5
+Trax,2015,LS Fleet,21540,gas,I4,27.0,5,5
+Trax,2015,LS Fleet,20040,gas,I4,29.0,5,5
+Trax,2015,LT,22445,gas,I4,29.0,5,5
+Trax,2015,LT,23945,gas,I4,27.0,5,5
+Trax,2015,LTZ,25030,gas,I4,29.0,5,5
+Trax,2015,LTZ,26530,gas,I4,27.0,5,5

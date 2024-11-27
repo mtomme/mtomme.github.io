@@ -1,0 +1,89 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Kicks,2020,S,19070,gas,I4,33.0,5,5
+Kicks,2020,SR,21320,gas,I4,33.0,5,5
+Kicks,2020,SV,20700,gas,I4,33.0,5,5
+LEAF,2020,S,31600,electric,,,5,5
+LEAF,2020,S PLUS,38200,electric,,,5,5
+LEAF,2020,SL PLUS,43900,electric,,,5,5
+LEAF,2020,SV,34190,electric,,,5,5
+LEAF,2020,SV PLUS,39750,electric,,,5,5
+Kicks,2019,S,18640,gas,I4,33.0,5,5
+Kicks,2019,SR,20970,gas,I4,33.0,5,5
+Kicks,2019,SV,20350,gas,I4,33.0,5,5
+LEAF,2019,S,29990,electric,,,5,5
+LEAF,2019,S PLUS,36550,electric,,,5,5
+LEAF,2019,SL,36300,electric,,,5,5
+LEAF,2019,SL PLUS,42550,electric,,,5,5
+LEAF,2019,SV,32600,electric,,,5,5
+LEAF,2019,SV PLUS,38510,electric,,,5,5
+Versa Note,2019,S,15650,gas,I4,34.0,5,5
+Versa Note,2019,SR,18360,gas,I4,34.0,5,5
+Versa Note,2019,SV,16550,gas,I4,34.0,5,5
+Kicks,2018,S,18290,gas,I4,33.0,5,5
+Kicks,2018,SR,20590,gas,I4,33.0,5,5
+Kicks,2018,SV,19990,gas,I4,33.0,5,5
+LEAF,2018,S,29990,electric,,,5,5
+LEAF,2018,SL,36200,electric,,,5,5
+LEAF,2018,SV,32490,electric,,,5,5
+Versa Note,2018,S,15600,gas,I4,34.0,5,5
+Versa Note,2018,S,15600,gas,I4,34.0,5,5
+Versa Note,2018,SR,18100,gas,I4,34.0,5,5
+Versa Note,2018,SR,18100,gas,I4,34.0,5,5
+Versa Note,2018,SV,16500,gas,I4,34.0,5,5
+Versa Note,2018,SV,16500,gas,I4,34.0,5,5
+Juke,2017,NISMO,27230,gas,I4,28.0,5,5
+Juke,2017,NISMO,24830,gas,I4,29.0,5,5
+Juke,2017,NISMO RS,30020,gas,I4,26.0,5,5
+Juke,2017,NISMO RS,28020,gas,I4,28.0,5,5
+Juke,2017,S,22100,gas,I4,28.0,5,5
+Juke,2017,S,20250,gas,I4,29.0,5,5
+Juke,2017,SL,25240,gas,I4,29.0,5,5
+Juke,2017,SL,26940,gas,I4,28.0,5,5
+Juke,2017,SV,24400,gas,I4,28.0,5,5
+Juke,2017,SV,22550,gas,I4,29.0,5,5
+LEAF,2017,S,30680,electric,,,5,5
+LEAF,2017,SL,36790,electric,,,5,5
+LEAF,2017,SV,34200,electric,,,5,5
+Versa Note,2017,1.6 S Plus,15480,gas,I4,34.0,5,5
+Versa Note,2017,1.6 SL,18710,gas,I4,34.0,5,5
+Versa Note,2017,1.6 SR,17980,gas,I4,34.0,5,5
+Versa Note,2017,1.6 SV,16380,gas,I4,34.0,5,5
+Juke,2016,NISMO,24830,gas,I4,30.0,5,5
+Juke,2016,NISMO,27230,gas,I4,28.0,5,5
+Juke,2016,NISMO RS,30020,gas,I4,27.0,5,5
+Juke,2016,NISMO RS,28020,gas,I4,27.0,5,5
+Juke,2016,S,22100,gas,I4,28.0,5,5
+Juke,2016,S,20250,gas,I4,30.0,5,5
+Juke,2016,SL,25240,gas,I4,30.0,5,5
+Juke,2016,SL,26940,gas,I4,28.0,5,5
+Juke,2016,SV,24150,gas,I4,28.0,5,5
+Juke,2016,SV,22300,gas,I4,30.0,5,5
+LEAF,2016,S,29010,electric,,,5,5
+LEAF,2016,SL,36790,electric,,,5,5
+LEAF,2016,SV,34200,electric,,,5,5
+Versa Note,2016,1.6 S,14230,gas,I4,30.0,5,5
+Versa Note,2016,1.6 S Plus,15480,gas,I4,35.0,5,5
+Versa Note,2016,1.6 SL,18710,gas,I4,35.0,5,5
+Versa Note,2016,1.6 SR,17980,gas,I4,35.0,5,5
+Versa Note,2016,1.6 SV,16380,gas,I4,35.0,5,5
+Juke,2015,NISMO,24830,gas,I4,30.0,5,5
+Juke,2015,NISMO,27230,gas,I4,28.0,5,5
+Juke,2015,NISMO RS,28020,gas,I4,27.0,5,5
+Juke,2015,NISMO RS,30020,gas,I4,27.0,5,5
+Juke,2015,S,22100,gas,I4,28.0,5,5
+Juke,2015,S,20250,gas,I4,30.0,5,5
+Juke,2015,SL,26940,gas,I4,28.0,5,5
+Juke,2015,SL,25240,gas,I4,30.0,5,5
+Juke,2015,SV,24150,gas,I4,28.0,5,5
+Juke,2015,SV,22300,gas,I4,30.0,5,5
+LEAF,2015,S,29010,electric,,,5,5
+LEAF,2015,SL,35120,electric,,,5,5
+LEAF,2015,SV,32000,electric,,,5,5
+LEAF,2015,SV,32100,electric,,,5,5
+Versa Note,2015,1.6 S,14180,gas,I4,30.0,5,5
+Versa Note,2015,1.6 S Plus,15430,gas,I4,35.0,5,5
+Versa Note,2015,1.6 SL,18660,gas,I4,35.0,5,5
+Versa Note,2015,1.6 SL,17960,gas,I4,35.0,5,5
+Versa Note,2015,1.6 SR,17930,gas,I4,35.0,5,5
+Versa Note,2015,1.6 SR,17530,gas,I4,35.0,5,5
+Versa Note,2015,1.6 SV,16330,gas,I4,35.0,5,5

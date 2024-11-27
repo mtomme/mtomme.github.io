@@ -1,0 +1,246 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Armada,2020,Platinum,60930,gas,V8,16.0,5,8
+Armada,2020,Platinum,63930,gas,V8,15.0,5,8
+Armada,2020,SL,55300,gas,V8,15.0,5,8
+Armada,2020,SL,52300,gas,V8,16.0,5,8
+Armada,2020,SV,50500,gas,V8,15.0,5,8
+Armada,2020,SV,47500,gas,V8,16.0,5,8
+Murano,2020,Platinum,45530,gas,V6,23.0,5,5
+Murano,2020,Platinum,43930,gas,V6,23.0,5,5
+Murano,2020,S,33330,gas,V6,23.0,5,5
+Murano,2020,S,31730,gas,V6,23.0,5,5
+Murano,2020,SL,39880,gas,V6,23.0,5,5
+Murano,2020,SL,41480,gas,V6,23.0,5,5
+Murano,2020,SV,36960,gas,V6,23.0,5,5
+Murano,2020,SV,35360,gas,V6,23.0,5,5
+Pathfinder,2020,Platinum,44910,gas,V6,21.0,5,7
+Pathfinder,2020,Platinum,43220,gas,V6,23.0,5,7
+Pathfinder,2020,S,31980,gas,V6,23.0,5,7
+Pathfinder,2020,S,33670,gas,V6,22.0,5,7
+Pathfinder,2020,SL,40080,gas,V6,22.0,5,7
+Pathfinder,2020,SL,38390,gas,V6,23.0,5,7
+Pathfinder,2020,SV,34770,gas,V6,23.0,5,7
+Pathfinder,2020,SV,36460,gas,V6,22.0,5,7
+Rogue,2020,S,25490,gas,I4,29.0,5,5
+Rogue,2020,S,26840,gas,I4,27.0,5,5
+Rogue,2020,SL,33190,gas,I4,27.0,5,5
+Rogue,2020,SL,31840,gas,I4,29.0,5,5
+Rogue,2020,SV,28220,gas,I4,27.0,5,5
+Rogue,2020,SV,26870,gas,I4,29.0,5,5
+Rogue Sport,2020,S,23430,gas,I4,28.0,5,5
+Rogue Sport,2020,S,24780,gas,I4,27.0,5,5
+Rogue Sport,2020,SL,29950,gas,I4,27.0,5,5
+Rogue Sport,2020,SL,28600,gas,I4,28.0,5,5
+Rogue Sport,2020,SV,24900,gas,I4,28.0,5,5
+Rogue Sport,2020,SV,26250,gas,I4,27.0,5,5
+Armada,2019,Platinum,60330,gas,V8,16.0,5,8
+Armada,2019,Platinum,63330,gas,V8,15.0,5,8
+Armada,2019,SL,54900,gas,V8,15.0,5,8
+Armada,2019,SL,51900,gas,V8,16.0,5,8
+Armada,2019,SV,47100,gas,V8,16.0,5,8
+Armada,2019,SV,50100,gas,V8,15.0,5,8
+Murano,2019,Platinum,45230,gas,V6,23.0,5,5
+Murano,2019,Platinum,43630,gas,V6,23.0,5,5
+Murano,2019,S,31370,gas,V6,23.0,5,5
+Murano,2019,S,32970,gas,V6,23.0,5,5
+Murano,2019,SL,40930,gas,V6,23.0,5,5
+Murano,2019,SL,39330,gas,V6,23.0,5,5
+Murano,2019,SV,34540,gas,V6,23.0,5,5
+Murano,2019,SV,36140,gas,V6,23.0,5,5
+Pathfinder,2019,Platinum,44560,gas,V6,21.0,5,7
+Pathfinder,2019,Platinum,42870,gas,V6,23.0,5,7
+Pathfinder,2019,S,33220,gas,V6,22.0,5,7
+Pathfinder,2019,S,31530,gas,V6,23.0,5,7
+Pathfinder,2019,SL,38020,gas,V6,23.0,5,7
+Pathfinder,2019,SL,39710,gas,V6,22.0,5,7
+Pathfinder,2019,SV,34370,gas,V6,23.0,5,7
+Pathfinder,2019,SV,36060,gas,V6,22.0,5,7
+Rogue,2019,S,25020,gas,I4,29.0,5,5
+Rogue,2019,S,25020,gas,I4,29.0,5,5
+Rogue,2019,S,26370,gas,I4,27.0,5,5
+Rogue,2019,SL,31490,gas,I4,29.0,5,5
+Rogue,2019,SL,32840,gas,I4,27.0,5,5
+Rogue,2019,SL Hybrid,32990,hybrid,I4,33.0,5,5
+Rogue,2019,SL Hybrid,31640,hybrid,I4,34.0,5,5
+Rogue,2019,SV,27790,gas,I4,27.0,5,5
+Rogue,2019,SV,26440,gas,I4,29.0,5,5
+Rogue,2019,SV,26440,gas,I4,29.0,5,5
+Rogue,2019,SV Hybrid,29050,hybrid,I4,33.0,5,5
+Rogue,2019,SV Hybrid,27700,hybrid,I4,34.0,5,5
+Rogue Sport,2019,S,22340,gas,I4,28.0,5,5
+Rogue Sport,2019,S,23690,gas,I4,27.0,5,5
+Rogue Sport,2019,SL,28060,gas,I4,28.0,5,5
+Rogue Sport,2019,SL,29410,gas,I4,27.0,5,5
+Rogue Sport,2019,SV,24140,gas,I4,28.0,5,5
+Rogue Sport,2019,SV,25490,gas,I4,27.0,5,5
+Armada,2018,Platinum,59190,gas,V8,16.0,5,8
+Armada,2018,Platinum,62090,gas,V8,15.0,5,8
+Armada,2018,SL,50850,gas,V8,16.0,5,8
+Armada,2018,SL,53750,gas,V8,15.0,5,8
+Armada,2018,SV,48990,gas,V8,15.0,5,8
+Armada,2018,SV,46090,gas,V8,16.0,5,8
+Murano,2018,Platinum,42430,gas,V6,24.0,5,5
+Murano,2018,Platinum,44030,gas,V6,24.0,5,5
+Murano,2018,S,31000,gas,V6,24.0,5,5
+Murano,2018,S,32600,gas,V6,24.0,5,5
+Murano,2018,SL,38700,gas,V6,24.0,5,5
+Murano,2018,SL,40300,gas,V6,24.0,5,5
+Murano,2018,SV,34300,gas,V6,24.0,5,5
+Murano,2018,SV,35900,gas,V6,24.0,5,5
+Pathfinder,2018,Platinum,44260,gas,V6,21.0,5,7
+Pathfinder,2018,Platinum,42570,gas,V6,23.0,5,7
+Pathfinder,2018,S,31040,gas,V6,23.0,5,7
+Pathfinder,2018,S,32730,gas,V6,22.0,5,7
+Pathfinder,2018,SL,37750,gas,V6,23.0,5,7
+Pathfinder,2018,SL,39440,gas,V6,22.0,5,7
+Pathfinder,2018,SV,33730,gas,V6,23.0,5,7
+Pathfinder,2018,SV,35420,gas,V6,22.0,5,7
+Rogue,2018,S,24800,gas,I4,29.0,5,5
+Rogue,2018,S,26150,gas,I4,27.0,5,5
+Rogue,2018,SL,32530,gas,I4,27.0,5,5
+Rogue,2018,SL,31180,gas,I4,29.0,5,5
+Rogue,2018,SL Hybrid,32380,hybrid,I4,34.0,5,5
+Rogue,2018,SL Hybrid,33730,hybrid,I4,33.0,5,5
+Rogue,2018,SV,26020,gas,I4,29.0,5,5
+Rogue,2018,SV,27370,gas,I4,27.0,5,5
+Rogue,2018,SV Hybrid,27020,hybrid,I4,34.0,5,5
+Rogue,2018,SV Hybrid,28370,hybrid,I4,33.0,5,5
+Rogue Sport,2018,S,23460,gas,I4,27.0,5,5
+Rogue Sport,2018,S,22110,gas,I4,28.0,5,5
+Rogue Sport,2018,S,22990,gas,I4,27.0,5,5
+Rogue Sport,2018,S,21640,gas,I4,28.0,5,5
+Rogue Sport,2018,SL,28540,gas,I4,27.0,5,5
+Rogue Sport,2018,SL,26290,gas,I4,28.0,5,5
+Rogue Sport,2018,SL,27190,gas,I4,28.0,5,5
+Rogue Sport,2018,SL,27640,gas,I4,27.0,5,5
+Rogue Sport,2018,SV,25090,gas,I4,27.0,5,5
+Rogue Sport,2018,SV,23740,gas,I4,28.0,5,5
+Rogue Sport,2018,SV,24590,gas,I4,27.0,5,5
+Rogue Sport,2018,SV,23240,gas,I4,28.0,5,5
+Armada,2017,Platinum,60490,gas,V8,15.0,5,8
+Armada,2017,Platinum,57590,gas,V8,16.0,5,8
+Armada,2017,SL,49650,gas,V8,16.0,5,8
+Armada,2017,SL,52550,gas,V8,15.0,5,8
+Armada,2017,SV,47800,gas,V8,15.0,5,8
+Armada,2017,SV,44900,gas,V8,16.0,5,8
+Murano,2017,Platinum,41210,gas,V6,24.0,5,5
+Murano,2017,Platinum,40780,gas,V6,24.0,5,5
+Murano,2017,Platinum,39610,gas,V6,24.0,5,5
+Murano,2017,Platinum,39180,gas,V6,24.0,5,5
+Murano,2017,S,29740,gas,V6,24.0,5,5
+Murano,2017,S,29770,gas,V6,24.0,5,5
+Murano,2017,S,31340,gas,V6,24.0,5,5
+Murano,2017,S,31370,gas,V6,24.0,5,5
+Murano,2017,SL,38900,gas,V6,24.0,5,5
+Murano,2017,SL,38730,gas,V6,24.0,5,5
+Murano,2017,SL,37300,gas,V6,24.0,5,5
+Murano,2017,SL,37130,gas,V6,24.0,5,5
+Murano,2017,SV,32800,gas,V6,24.0,5,5
+Murano,2017,SV,34570,gas,V6,24.0,5,5
+Murano,2017,SV,34400,gas,V6,24.0,5,5
+Murano,2017,SV,32970,gas,V6,24.0,5,5
+Pathfinder,2017,Platinum,42070,gas,V6,23.0,5,7
+Pathfinder,2017,Platinum,43760,gas,V6,21.0,5,7
+Pathfinder,2017,S,31980,gas,V6,22.0,5,7
+Pathfinder,2017,S,30290,gas,V6,23.0,5,7
+Pathfinder,2017,SL,37790,gas,V6,22.0,5,7
+Pathfinder,2017,SL,36100,gas,V6,23.0,5,7
+Pathfinder,2017,SV,34670,gas,V6,22.0,5,7
+Pathfinder,2017,SV,32980,gas,V6,23.0,5,7
+Rogue,2017,S,23820,gas,I4,29.0,5,5
+Rogue,2017,S,25170,gas,I4,27.0,5,5
+Rogue,2017,S,24420,gas,I4,29.0,5,5
+Rogue,2017,S,25770,gas,I4,27.0,5,5
+Rogue,2017,SL,31710,gas,I4,27.0,5,5
+Rogue,2017,SL,29960,gas,I4,29.0,5,5
+Rogue,2017,SL,31310,gas,I4,27.0,5,5
+Rogue,2017,SL,30360,gas,I4,29.0,5,5
+Rogue,2017,SL Hybrid,32910,hybrid,I4,33.0,5,5
+Rogue,2017,SL Hybrid,31560,hybrid,I4,34.0,5,5
+Rogue,2017,SL Hybrid,32510,hybrid,I4,33.0,5,5
+Rogue,2017,SL Hybrid,31160,hybrid,I4,34.0,5,5
+Rogue,2017,SV,25240,gas,I4,29.0,5,5
+Rogue,2017,SV,26590,gas,I4,27.0,5,5
+Rogue,2017,SV,26990,gas,I4,27.0,5,5
+Rogue,2017,SV,25640,gas,I4,29.0,5,5
+Rogue,2017,SV Hybrid,27590,hybrid,I4,33.0,5,5
+Rogue,2017,SV Hybrid,26240,hybrid,I4,34.0,5,5
+Rogue,2017,SV Hybrid,26640,hybrid,I4,34.0,5,5
+Rogue,2017,SV Hybrid,27990,hybrid,I4,33.0,5,5
+Rogue Sport,2017,S,21420,gas,I4,28.0,5,5
+Rogue Sport,2017,S,22770,gas,I4,27.0,5,5
+Rogue Sport,2017,SL,27420,gas,I4,27.0,5,5
+Rogue Sport,2017,SL,26070,gas,I4,28.0,5,5
+Rogue Sport,2017,SV,24370,gas,I4,27.0,5,5
+Rogue Sport,2017,SV,23020,gas,I4,28.0,5,5
+Murano,2016,Platinum,43780,hybrid,I4,28.0,5,5
+Murano,2016,Platinum,42180,hybrid,I4,29.0,5,5
+Murano,2016,Platinum,40780,gas,V6,24.0,5,5
+Murano,2016,Platinum,39180,gas,V6,24.0,5,5
+Murano,2016,S,31340,gas,V6,24.0,5,5
+Murano,2016,S,29740,gas,V6,24.0,5,5
+Murano,2016,SL,41730,hybrid,I4,28.0,5,5
+Murano,2016,SL,38730,gas,V6,24.0,5,5
+Murano,2016,SL,40130,hybrid,I4,29.0,5,5
+Murano,2016,SL,37130,gas,V6,24.0,5,5
+Murano,2016,SV,34400,gas,V6,24.0,5,5
+Murano,2016,SV,32800,gas,V6,24.0,5,5
+Pathfinder,2016,Platinum,43300,gas,V6,21.0,5,7
+Pathfinder,2016,Platinum,41610,gas,V6,23.0,5,7
+Pathfinder,2016,S,29830,gas,V6,23.0,5,7
+Pathfinder,2016,S,31520,gas,V6,22.0,5,7
+Pathfinder,2016,SL,38100,gas,V6,22.0,5,7
+Pathfinder,2016,SL,36410,gas,V6,23.0,5,7
+Pathfinder,2016,SV,33150,gas,V6,23.0,5,7
+Pathfinder,2016,SV,34840,gas,V6,22.0,5,7
+Rogue,2016,S,24680,gas,I4,28.0,5,5
+Rogue,2016,S,23330,gas,I4,28.0,5,5
+Rogue,2016,SL,28730,gas,I4,28.0,5,5
+Rogue,2016,SL,30080,gas,I4,28.0,5,5
+Rogue,2016,SV,26130,gas,I4,28.0,5,5
+Rogue,2016,SV,24780,gas,I4,28.0,5,5
+Armada,2015,Platinum,49880,gas,V8,15.0,5,8
+Armada,2015,Platinum,50780,gas,V8,15.0,5,8
+Armada,2015,Platinum,52780,gas,V8,14.0,5,8
+Armada,2015,Platinum,53680,gas,V8,14.0,5,8
+Armada,2015,SL,46500,gas,V8,14.0,5,8
+Armada,2015,SL,43600,gas,V8,15.0,5,8
+Armada,2015,SV,43810,gas,V8,14.0,5,8
+Armada,2015,SV,38510,gas,V8,15.0,5,8
+Murano,2015,Platinum,39000,gas,V6,24.0,5,5
+Murano,2015,Platinum,40600,gas,V6,24.0,5,5
+Murano,2015,S,29560,gas,V6,24.0,5,5
+Murano,2015,S,31160,gas,V6,24.0,5,5
+Murano,2015,SL,36950,gas,V6,24.0,5,5
+Murano,2015,SL,38550,gas,V6,24.0,5,5
+Murano,2015,SV,32620,gas,V6,24.0,5,5
+Murano,2015,SV,34220,gas,V6,24.0,5,5
+Pathfinder,2015,Platinum,43250,gas,V6,21.0,5,7
+Pathfinder,2015,Platinum,41560,gas,V6,23.0,5,7
+Pathfinder,2015,S,29510,gas,V6,23.0,5,7
+Pathfinder,2015,S,31470,gas,V6,22.0,5,7
+Pathfinder,2015,S,31200,gas,V6,22.0,5,7
+Pathfinder,2015,S,29780,gas,V6,23.0,5,7
+Pathfinder,2015,SL,37900,gas,V6,22.0,5,7
+Pathfinder,2015,SL,36210,gas,V6,23.0,5,7
+Pathfinder,2015,SV,32810,gas,V6,23.0,5,7
+Pathfinder,2015,SV,33140,gas,V6,23.0,5,7
+Pathfinder,2015,SV,34500,gas,V6,22.0,5,7
+Pathfinder,2015,SV,34830,gas,V6,22.0,5,7
+Rogue,2015,S,22790,gas,I4,28.0,5,5
+Rogue,2015,S,23040,gas,I4,28.0,5,5
+Rogue,2015,S,24140,gas,I4,28.0,5,5
+Rogue,2015,S,24390,gas,I4,28.0,5,5
+Rogue,2015,SL,28280,gas,I4,28.0,5,5
+Rogue,2015,SL,29630,gas,I4,28.0,5,5
+Rogue,2015,SV,24490,gas,I4,28.0,5,5
+Rogue,2015,SV,25840,gas,I4,28.0,5,5
+Rogue Select,2015,S,21500,gas,I4,24.0,5,5
+Rogue Select,2015,S,20150,gas,I4,25.0,5,5
+Xterra,2015,PRO-4X,31640,gas,V6,17.0,5,5
+Xterra,2015,PRO-4X,30590,gas,V6,17.0,5,5
+Xterra,2015,S,27720,gas,V6,17.0,5,5
+Xterra,2015,S,26670,gas,V6,17.0,5,5
+Xterra,2015,S,25670,gas,V6,18.0,5,5
+Xterra,2015,X,25710,gas,V6,17.0,5,5
+Xterra,2015,X,23660,gas,V6,18.0,5,5

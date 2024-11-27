@@ -1,0 +1,131 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Fusion,2020,S,23170,gas,I4,25.0,4,5
+Fusion,2020,SE,27885,gas,I4,23.0,4,5
+Fusion,2020,SE,24500,gas,I4,27.0,4,5
+Fusion,2020,SEL,28690,gas,I4,27.0,4,5
+Fusion,2020,Titanium,36450,gas,I4,23.0,4,5
+Fusion,2020,Titanium,34450,gas,I4,25.0,4,5
+Fusion Energi,2020,Titanium,37000,plug-in hybrid,I4,42.0,4,5
+Fusion Hybrid,2020,SE,28000,hybrid,I4,42.0,4,5
+Fusion Hybrid,2020,SEL,31630,hybrid,I4,42.0,4,5
+Fusion Hybrid,2020,Titanium,34595,hybrid,I4,42.0,4,5
+Fiesta,2019,S,14260,gas,I4,30.0,4,5
+Fiesta,2019,SE,15490,gas,I4,30.0,4,5
+Fusion,2019,S,22840,gas,I4,25.0,4,5
+Fusion,2019,SE,24120,gas,I4,27.0,4,5
+Fusion,2019,SE,27775,gas,I4,23.0,4,5
+Fusion,2019,SEL,28580,gas,I4,27.0,4,5
+Fusion,2019,SEL,32065,gas,I4,23.0,4,5
+Fusion,2019,Sport,40015,gas,V6,20.0,4,5
+Fusion,2019,Titanium,34340,gas,I4,25.0,4,5
+Fusion,2019,Titanium,36340,gas,I4,23.0,4,5
+Fusion Energi,2019,Titanium,36595,plug-in hybrid,I4,42.0,4,5
+Fusion Hybrid,2019,SE,27555,hybrid,I4,42.0,4,5
+Fusion Hybrid,2019,SEL,31520,hybrid,I4,42.0,4,5
+Fusion Hybrid,2019,Titanium,34485,hybrid,I4,42.0,4,5
+Taurus,2019,Limited,39160,flex-fuel (FFV),V6,19.0,4,5
+Taurus,2019,Limited,37310,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2019,SE,27800,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2019,SEL,30230,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2019,SEL,32080,flex-fuel (FFV),V6,19.0,4,5
+Taurus,2019,SHO,42975,gas,V6,19.0,4,5
+Fiesta,2018,S,14205,gas,I4,30.0,4,5
+Fiesta,2018,SE,15435,gas,I4,30.0,4,5
+Fiesta,2018,Titanium,19195,gas,I4,31.0,4,5
+Focus,2018,S,17950,gas,I4,28.0,4,5
+Focus,2018,SE,19245,gas,I3,34.0,4,5
+Focus,2018,SEL,21870,gas,I4,28.0,4,5
+Focus,2018,Titanium,24270,gas,I4,28.0,4,5
+Fusion,2018,Platinum,38990,gas,I4,23.0,4,5
+Fusion,2018,Platinum,36990,gas,I4,25.0,4,5
+Fusion,2018,S,22215,gas,I4,25.0,4,5
+Fusion,2018,SE,23490,gas,I4,25.0,4,5
+Fusion,2018,SE,27285,gas,I4,23.0,4,5
+Fusion,2018,Sport,33845,gas,V6,20.0,4,5
+Fusion,2018,Titanium,30490,gas,I4,25.0,4,5
+Fusion,2018,Titanium,32490,gas,I4,23.0,4,5
+Fusion Energi,2018,Platinum,41400,plug-in hybrid,I4,42.0,4,5
+Fusion Energi,2018,SE Luxury,33400,plug-in hybrid,I4,42.0,4,5
+Fusion Energi,2018,Titanium,34400,plug-in hybrid,I4,42.0,4,5
+Fusion Hybrid,2018,Platinum,37370,hybrid,I4,42.0,4,5
+Fusion Hybrid,2018,S,25390,hybrid,I4,42.0,4,5
+Fusion Hybrid,2018,SE,26340,hybrid,I4,42.0,4,5
+Fusion Hybrid,2018,Titanium,30870,hybrid,I4,42.0,4,5
+Taurus,2018,Limited,39050,flex-fuel (FFV),V6,19.0,4,5
+Taurus,2018,Limited,37200,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2018,SE,27690,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2018,SEL,30120,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2018,SEL,31970,flex-fuel (FFV),V6,19.0,4,5
+Taurus,2018,SHO,42865,gas,V6,19.0,4,5
+Fiesta,2017,S,13660,gas,I4,30.0,4,5
+Fiesta,2017,SE,14890,gas,I4,30.0,4,5
+Fiesta,2017,Titanium,18650,gas,I4,31.0,4,5
+Focus,2017,S,16775,flex-fuel (FFV),I4,28.0,4,5
+Focus,2017,SE,18175,gas,I3,34.0,4,5
+Focus,2017,SEL,21175,flex-fuel (FFV),I4,29.0,4,5
+Focus,2017,Titanium,23575,flex-fuel (FFV),I4,29.0,4,5
+Fusion,2017,Platinum,38750,gas,I4,23.0,4,5
+Fusion,2017,Platinum,36750,gas,I4,25.0,4,5
+Fusion,2017,S,22610,gas,I4,25.0,4,5
+Fusion,2017,SE,23740,gas,I4,25.0,4,5
+Fusion,2017,SE,27535,gas,I4,23.0,4,5
+Fusion,2017,Sport,33605,gas,V6,20.0,4,5
+Fusion,2017,Titanium,32740,gas,I4,23.0,4,5
+Fusion,2017,Titanium,30740,gas,I4,25.0,4,5
+Fusion Energi,2017,Platinum,41120,plug-in hybrid,I4,42.0,4,5
+Fusion Energi,2017,SE Luxury,33120,plug-in hybrid,I4,42.0,4,5
+Fusion Energi,2017,Titanium,34120,plug-in hybrid,I4,42.0,4,5
+Fusion Hybrid,2017,Platinum,37020,hybrid,I4,42.0,4,5
+Fusion Hybrid,2017,S,25675,hybrid,I4,42.0,4,5
+Fusion Hybrid,2017,SE,26480,hybrid,I4,42.0,4,5
+Fusion Hybrid,2017,Titanium,31010,hybrid,I4,42.0,4,5
+Taurus,2017,Limited,38705,flex-fuel (FFV),V6,19.0,4,5
+Taurus,2017,Limited,36855,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2017,SE,27345,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2017,SEL,29775,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2017,SEL,31625,flex-fuel (FFV),V6,19.0,4,5
+Taurus,2017,SHO,42520,gas,V6,19.0,4,5
+Fiesta,2016,S,14580,gas,I4,30.0,4,5
+Fiesta,2016,SE,15810,gas,I4,30.0,4,5
+Fiesta,2016,Titanium,18530,gas,I4,30.0,4,5
+Focus,2016,S,17225,flex-fuel (FFV),I4,30.0,4,5
+Focus,2016,SE,18515,flex-fuel (FFV),I4,30.0,4,5
+Focus,2016,Titanium,23225,flex-fuel (FFV),I4,31.0,4,5
+Fusion,2016,S,22750,gas,I4,26.0,4,5
+Fusion,2016,SE,28115,gas,I4,25.0,4,5
+Fusion,2016,SE,24320,gas,I4,26.0,4,5
+Fusion,2016,Titanium,33270,gas,I4,25.0,4,5
+Fusion,2016,Titanium,31270,gas,I4,26.0,4,5
+Fusion Energi,2016,SE Luxury,33900,plug-in hybrid,I4,38.0,4,5
+Fusion Energi,2016,Titanium,35730,plug-in hybrid,I4,38.0,4,5
+Fusion Hybrid,2016,S,25675,hybrid,I4,42.0,4,5
+Fusion Hybrid,2016,SE,26480,hybrid,I4,42.0,4,5
+Fusion Hybrid,2016,Titanium,31430,hybrid,I4,42.0,4,5
+Taurus,2016,Limited,36310,flex-fuel (FFV),V6,19.0,4,5
+Taurus,2016,Limited,34460,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2016,SE,27110,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2016,SEL,31390,flex-fuel (FFV),V6,19.0,4,5
+Taurus,2016,SEL,29540,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2016,SHO,40275,gas,V6,19.0,4,5
+Fiesta,2015,S,14455,gas,I4,31.0,4,5
+Fiesta,2015,SE,15685,gas,I4,31.0,4,5
+Fiesta,2015,Titanium,18405,gas,I4,31.0,4,5
+Focus,2015,S,17170,flex-fuel (FFV),I4,30.0,4,5
+Focus,2015,SE,18460,flex-fuel (FFV),I4,30.0,4,5
+Focus,2015,Titanium,23170,flex-fuel (FFV),I4,31.0,4,5
+Fusion,2015,S,22500,gas,I4,26.0,4,5
+Fusion,2015,SE,27830,gas,I4,25.0,4,5
+Fusion,2015,SE,24035,gas,I4,26.0,4,5
+Fusion,2015,Titanium,32780,gas,I4,25.0,4,5
+Fusion,2015,Titanium,30780,gas,I4,26.0,4,5
+Fusion Energi,2015,SE Luxury,34800,plug-in hybrid,I4,38.0,4,5
+Fusion Energi,2015,Titanium,36630,plug-in hybrid,I4,38.0,4,5
+Fusion Hybrid,2015,S,26575,hybrid,I4,42.0,4,5
+Fusion Hybrid,2015,SE,27380,hybrid,I4,42.0,4,5
+Fusion Hybrid,2015,Titanium,32330,hybrid,I4,42.0,4,5
+Taurus,2015,Limited,36255,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2015,Limited,34405,flex-fuel (FFV),V6,23.0,4,5
+Taurus,2015,SE,27055,flex-fuel (FFV),V6,23.0,4,5
+Taurus,2015,SEL,31335,flex-fuel (FFV),V6,21.0,4,5
+Taurus,2015,SEL,29485,flex-fuel (FFV),V6,23.0,4,5
+Taurus,2015,SHO,40220,gas,V6,20.0,4,5

@@ -1,0 +1,171 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+1500 Classic,2020,Express,29700,gas,V6,20.0,2,3
+1500 Classic,2020,Express,34300,gas,V6,19.0,2,3
+1500 Classic,2020,SLT Fleet,36645,gas,V6,19.0,2,3
+1500 Classic,2020,SLT Fleet,32145,gas,V6,20.0,2,3
+1500 Classic,2020,SLT Fleet,32445,gas,V6,20.0,2,3
+1500 Classic,2020,SLT Fleet,36945,gas,V6,19.0,2,3
+1500 Classic,2020,Tradesman,28200,gas,V6,20.0,2,3
+1500 Classic,2020,Tradesman,32800,gas,V6,19.0,2,3
+1500 Classic,2020,Tradesman,32800,gas,V6,19.0,2,3
+1500 Classic,2020,Tradesman,28200,gas,V6,20.0,2,3
+2500,2020,Big Horn,37895,gas,V8,,2,3
+2500,2020,Big Horn,40795,gas,V8,,2,3
+2500,2020,Lone Star,37895,gas,V8,,2,3
+2500,2020,Lone Star,40795,gas,V8,,2,3
+2500,2020,Tradesman,36795,gas,V8,,2,3
+2500,2020,Tradesman,33895,gas,V8,,2,3
+3500,2020,Big Horn,42145,gas,V8,,2,3
+3500,2020,Big Horn,39345,gas,V8,,2,3
+3500,2020,Lone Star,42145,gas,V8,,2,3
+3500,2020,Lone Star,39345,gas,V8,,2,3
+3500,2020,Tradesman,35345,gas,V8,,2,3
+3500,2020,Tradesman,38145,gas,V8,,2,3
+1500 Classic,2019,Express,29145,gas,V6,20.0,2,3
+1500 Classic,2019,Express,33745,gas,V6,19.0,2,3
+1500 Classic,2019,SLT Fleet,32145,gas,V6,20.0,2,3
+1500 Classic,2019,SLT Fleet,36645,gas,V6,19.0,2,3
+1500 Classic,2019,SLT Fleet,36345,gas,V6,19.0,2,3
+1500 Classic,2019,SLT Fleet,31845,gas,V6,20.0,2,3
+1500 Classic,2019,Tradesman,32245,gas,V6,19.0,2,3
+1500 Classic,2019,Tradesman,32245,gas,V6,19.0,2,3
+1500 Classic,2019,Tradesman,27645,gas,V6,20.0,2,3
+1500 Classic,2019,Tradesman,27645,gas,V6,20.0,2,3
+2500,2019,Big Horn,40545,gas,V8,,2,3
+2500,2019,Big Horn,37645,gas,V8,,2,3
+2500,2019,Lone Star,40545,gas,V8,,2,3
+2500,2019,Lone Star,37645,gas,V8,,2,3
+2500,2019,Tradesman,36295,gas,V8,,2,3
+2500,2019,Tradesman,33395,gas,V8,,2,3
+3500,2019,Big Horn,39095,gas,V8,,2,3
+3500,2019,Big Horn,41895,gas,V8,,2,3
+3500,2019,Lone Star,39095,gas,V8,,2,3
+3500,2019,Lone Star,41895,gas,V8,,2,3
+3500,2019,Tradesman,37645,gas,V8,,2,3
+3500,2019,Tradesman,34845,gas,V8,,2,3
+1500,2018,Big Horn,38295,flex-fuel (FFV),V6,19.0,2,3
+1500,2018,Big Horn,37995,flex-fuel (FFV),V6,19.0,2,3
+1500,2018,Big Horn,33795,flex-fuel (FFV),V6,20.0,2,3
+1500,2018,Big Horn,33495,flex-fuel (FFV),V6,20.0,2,3
+1500,2018,Express,28395,flex-fuel (FFV),V6,20.0,2,3
+1500,2018,Express,32995,flex-fuel (FFV),V6,19.0,2,3
+1500,2018,Lone Star,31495,flex-fuel (FFV),V6,20.0,2,3
+1500,2018,Lone Star,31795,flex-fuel (FFV),V6,20.0,2,3
+1500,2018,Lone Star,35995,flex-fuel (FFV),V6,19.0,2,3
+1500,2018,Lone Star,36295,flex-fuel (FFV),V6,19.0,2,3
+1500,2018,Night,39290,flex-fuel (FFV),V6,19.0,2,2
+1500,2018,Night,37290,gas,V8,17.0,2,2
+1500,2018,SLT Fleet,31495,flex-fuel (FFV),V6,20.0,2,3
+1500,2018,SLT Fleet,35695,flex-fuel (FFV),V6,19.0,2,3
+1500,2018,SLT Fleet,31195,flex-fuel (FFV),V6,20.0,2,3
+1500,2018,SLT Fleet,35995,flex-fuel (FFV),V6,19.0,2,3
+1500,2018,Sport,38895,flex-fuel (FFV),V6,19.0,2,2
+1500,2018,Sport,36895,gas,V8,17.0,2,2
+1500,2018,Tradesman,31695,flex-fuel (FFV),V6,19.0,2,3
+1500,2018,Tradesman,27095,flex-fuel (FFV),V6,20.0,2,3
+1500,2018,Tradesman,31695,flex-fuel (FFV),V6,19.0,2,3
+1500,2018,Tradesman,27095,flex-fuel (FFV),V6,20.0,2,3
+2500,2018,SLT,36745,gas,V8,,2,3
+2500,2018,SLT,39545,gas,V8,,2,3
+2500,2018,Tradesman,35345,gas,V8,,2,3
+2500,2018,Tradesman,32545,gas,V8,,2,3
+3500,2018,SLT,37845,gas,V8,,2,3
+3500,2018,SLT,40645,gas,V8,,2,3
+3500,2018,Tradesman,33645,gas,V8,,2,3
+3500,2018,Tradesman,36445,gas,V8,,2,3
+1500,2017,Big Horn,33495,flex-fuel (FFV),V6,20.0,2,3
+1500,2017,Big Horn,38295,flex-fuel (FFV),V6,19.0,2,3
+1500,2017,Big Horn,37995,flex-fuel (FFV),V6,19.0,2,3
+1500,2017,Big Horn,33795,flex-fuel (FFV),V6,20.0,2,3
+1500,2017,Express,27895,flex-fuel (FFV),V6,20.0,2,3
+1500,2017,Express,32495,flex-fuel (FFV),V6,19.0,2,3
+1500,2017,Lone Star,31495,flex-fuel (FFV),V6,20.0,2,3
+1500,2017,Lone Star,31795,flex-fuel (FFV),V6,20.0,2,3
+1500,2017,Lone Star,35995,flex-fuel (FFV),V6,19.0,2,3
+1500,2017,Lone Star,36295,flex-fuel (FFV),V6,19.0,2,3
+1500,2017,Night,38990,flex-fuel (FFV),V6,19.0,2,2
+1500,2017,Night,36990,gas,V8,17.0,2,2
+1500,2017,SLT,31495,flex-fuel (FFV),V6,20.0,2,3
+1500,2017,SLT,35995,flex-fuel (FFV),V6,19.0,2,3
+1500,2017,SLT,35695,flex-fuel (FFV),V6,19.0,2,3
+1500,2017,SLT,31195,flex-fuel (FFV),V6,20.0,2,3
+1500,2017,Sport,36595,gas,V8,17.0,2,2
+1500,2017,Sport,38595,flex-fuel (FFV),V6,19.0,2,2
+1500,2017,Tradesman,31095,flex-fuel (FFV),V6,19.0,2,3
+1500,2017,Tradesman,31095,flex-fuel (FFV),V6,19.0,2,3
+1500,2017,Tradesman,26495,flex-fuel (FFV),V6,20.0,2,3
+1500,2017,Tradesman,26495,flex-fuel (FFV),V6,20.0,2,3
+2500,2017,SLT,36345,gas,V8,,2,3
+2500,2017,SLT,39145,gas,V8,,2,3
+2500,2017,Tradesman,32145,gas,V8,,2,3
+2500,2017,Tradesman,34945,gas,V8,,2,3
+3500,2017,SLT,40245,gas,V8,,2,3
+3500,2017,SLT,37445,gas,V8,,2,3
+3500,2017,Tradesman,36045,gas,V8,,2,3
+3500,2017,Tradesman,33245,gas,V8,,2,3
+1500,2016,Big Horn,36230,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,Big Horn,35930,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,Big Horn,31950,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,Big Horn,31650,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,Big Horn,38340,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,Big Horn,38040,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,Big Horn,34060,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,Big Horn,33760,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,Express,31995,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,Express,27525,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,HFE,30805,flex-fuel (FFV),V6,21.0,2,3
+1500,2016,Lone Star,33760,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,Lone Star,31950,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,Lone Star,38340,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,Lone Star,35930,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,Lone Star,36230,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,Lone Star,38040,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,Lone Star,34060,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,Lone Star,31650,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,SLT,36075,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,SLT,35775,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,SLT,31795,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,SLT,31495,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,Sport,35985,gas,V8,17.0,2,2
+1500,2016,Sport,39615,gas,V8,17.0,2,2
+1500,2016,Tradesman,30615,flex-fuel (FFV),V6,19.0,2,3
+1500,2016,Tradesman,26145,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,Tradesman,26145,flex-fuel (FFV),V6,20.0,2,3
+1500,2016,Tradesman,30615,flex-fuel (FFV),V6,19.0,2,3
+2500,2016,SLT,35755,gas,V8,,2,3
+2500,2016,SLT,38770,gas,V8,,2,3
+2500,2016,Tradesman,34800,gas,V8,,2,3
+2500,2016,Tradesman,31780,gas,V8,,2,3
+3500,2016,SLT,39565,gas,V8,,2,3
+3500,2016,SLT,36595,gas,V8,,2,3
+3500,2016,Tradesman,32285,gas,V8,,2,3
+3500,2016,Tradesman,35405,gas,V8,,2,3
+1500,2015,Big Horn,35770,flex-fuel (FFV),V6,19.0,2,3
+1500,2015,Big Horn,35470,flex-fuel (FFV),V6,19.0,2,3
+1500,2015,Big Horn,31490,flex-fuel (FFV),V6,20.0,2,3
+1500,2015,Big Horn,31190,flex-fuel (FFV),V6,20.0,2,3
+1500,2015,Express,31410,flex-fuel (FFV),V6,19.0,2,3
+1500,2015,Express,26940,flex-fuel (FFV),V6,20.0,2,3
+1500,2015,HFE,30320,flex-fuel (FFV),V6,21.0,2,3
+1500,2015,Lone Star,31490,flex-fuel (FFV),V6,20.0,2,3
+1500,2015,Lone Star,35470,flex-fuel (FFV),V6,19.0,2,3
+1500,2015,Lone Star,35770,flex-fuel (FFV),V6,19.0,2,3
+1500,2015,Lone Star,31190,flex-fuel (FFV),V6,20.0,2,3
+1500,2015,SLT,34865,flex-fuel (FFV),V6,19.0,2,3
+1500,2015,SLT,34565,flex-fuel (FFV),V6,19.0,2,3
+1500,2015,SLT,30585,flex-fuel (FFV),V6,20.0,2,3
+1500,2015,SLT,30285,flex-fuel (FFV),V6,20.0,2,3
+1500,2015,Sport,39335,gas,V8,17.0,2,2
+1500,2015,Sport,35705,gas,V8,17.0,2,2
+1500,2015,Tradesman,30130,flex-fuel (FFV),V6,19.0,2,3
+1500,2015,Tradesman,30130,flex-fuel (FFV),V6,19.0,2,3
+1500,2015,Tradesman,25660,flex-fuel (FFV),V6,20.0,2,3
+1500,2015,Tradesman,25660,flex-fuel (FFV),V6,20.0,2,3
+2500,2015,SLT,34810,gas,V8,,2,3
+2500,2015,SLT,37825,gas,V8,,2,3
+2500,2015,Tradesman,34005,gas,V8,,2,3
+2500,2015,Tradesman,30985,gas,V8,,2,3
+3500,2015,SLT,35900,gas,V8,,2,3
+3500,2015,SLT,38870,gas,V8,,2,3
+3500,2015,Tradesman,31740,gas,V8,,2,3
+3500,2015,Tradesman,34860,gas,V8,,2,3

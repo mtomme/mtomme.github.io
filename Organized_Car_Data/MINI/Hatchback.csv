@@ -1,0 +1,63 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Clubman,2020,Cooper S,30900,gas,I4,29.0,5,5
+Clubman,2020,Cooper S ALL4,32900,gas,I4,26.0,5,5
+Clubman,2020,John Cooper Works ALL4,39400,gas,I4,26.0,5,5
+Hardtop 2 Door,2020,Cooper,23400,gas,I3,31.0,3,4
+Hardtop 2 Door,2020,Cooper S,27400,gas,I4,30.0,3,4
+Hardtop 2 Door,2020,Cooper SE,29900,electric,,,3,4
+Hardtop 2 Door,2020,John Cooper Works,33400,gas,I4,29.0,3,4
+Hardtop 4 Door,2020,Cooper,24400,gas,I3,31.0,5,5
+Hardtop 4 Door,2020,Cooper S,28400,gas,I4,30.0,5,5
+Clubman,2019,Cooper,24900,gas,I3,28.0,5,5
+Clubman,2019,Cooper ALL4,26900,gas,I3,26.0,5,5
+Clubman,2019,Cooper S,28900,gas,I4,25.0,5,5
+Clubman,2019,Cooper S ALL4,30900,gas,I4,24.0,5,5
+Clubman,2019,John Cooper Works ALL4,35900,gas,I4,24.0,5,5
+Hardtop 2 Door,2019,Cooper,21900,gas,I3,32.0,3,4
+Hardtop 2 Door,2019,Cooper S,25900,gas,I4,26.0,3,4
+Hardtop 2 Door,2019,John Cooper Works,31900,gas,I4,26.0,3,4
+Hardtop 4 Door,2019,Cooper,22900,gas,I3,31.0,5,5
+Hardtop 4 Door,2019,Cooper S,26900,gas,I4,26.0,5,5
+Clubman,2018,Cooper,24800,gas,I3,28.0,5,5
+Clubman,2018,Cooper ALL4,26650,gas,I3,26.0,5,5
+Clubman,2018,Cooper S,28450,gas,I4,25.0,5,5
+Clubman,2018,Cooper S ALL4,30300,gas,I4,24.0,5,5
+Clubman,2018,John Cooper Works ALL4,35900,gas,I4,24.0,5,5
+Hardtop 2 Door,2018,Cooper,21600,gas,I3,32.0,3,4
+Hardtop 2 Door,2018,Cooper S,25200,gas,I4,26.0,3,4
+Hardtop 2 Door,2018,John Cooper Works,31800,gas,I4,26.0,3,4
+Hardtop 4 Door,2018,Cooper,22600,gas,I3,32.0,5,5
+Hardtop 4 Door,2018,Cooper S,26200,gas,I4,26.0,5,5
+Clubman,2017,Cooper,24100,gas,I3,28.0,5,5
+Clubman,2017,Cooper ALL4,25900,gas,I3,26.0,5,5
+Clubman,2017,Cooper S,27650,gas,I4,26.0,5,5
+Clubman,2017,Cooper S ALL4,29450,gas,I4,24.0,5,5
+Clubman,2017,John Cooper Works ALL4,35100,gas,I4,24.0,5,5
+Hardtop 2 Door,2017,Cooper,20950,gas,I3,32.0,3,4
+Hardtop 2 Door,2017,Cooper S,24400,gas,I4,26.0,3,4
+Hardtop 2 Door,2017,John Cooper Works,30900,gas,I4,26.0,3,4
+Hardtop 4 Door,2017,Cooper,21950,gas,I3,32.0,5,5
+Hardtop 4 Door,2017,Cooper S,25400,gas,I4,26.0,5,5
+Cooper,2016,Base,20700,gas,I3,32.0,3,4
+Cooper,2016,Base,21700,gas,I3,32.0,5,5
+Cooper,2016,John Cooper Works,30600,gas,I4,26.0,3,4
+Cooper,2016,S,24100,gas,I4,27.0,3,4
+Cooper,2016,S,25100,gas,I4,27.0,5,5
+Cooper Clubman,2016,Base,24100,gas,I3,28.0,5,5
+Cooper Clubman,2016,S,27650,gas,I4,26.0,5,5
+Cooper Paceman,2016,Base,23550,gas,I4,29.0,3,4
+Cooper Paceman,2016,John Cooper Works ALL4,35600,gas,I4,27.0,3,4
+Cooper Paceman,2016,S,26900,gas,I4,29.0,3,4
+Cooper Paceman,2016,S ALL4,28600,gas,I4,27.0,3,4
+Cooper,2015,Base,20700,gas,I3,33.0,3,4
+Cooper,2015,Base,21700,gas,I3,33.0,5,5
+Cooper,2015,John Cooper Works,30600,gas,I4,26.0,3,4
+Cooper,2015,S,24100,gas,I4,27.0,3,4
+Cooper,2015,S,25100,gas,I4,27.0,5,5
+Cooper Coupe,2015,Base,22000,gas,I4,32.0,3,2
+Cooper Coupe,2015,John Cooper Works,31900,gas,I4,29.0,3,2
+Cooper Coupe,2015,S,25300,gas,I4,29.0,3,2
+Cooper Paceman,2015,Base,23550,gas,I4,30.0,3,4
+Cooper Paceman,2015,John Cooper Works ALL4,35600,gas,I4,27.0,3,4
+Cooper Paceman,2015,S,26900,gas,I4,29.0,3,4
+Cooper Paceman,2015,S ALL4,28600,gas,I4,27.0,3,4

@@ -1,0 +1,104 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Frontier,2020,S,29680,gas,V6,19.0,4,4
+Frontier,2020,S,26790,gas,V6,20.0,4,4
+Frontier,2020,SV,30560,gas,V6,19.0,4,4
+Frontier,2020,SV,27670,gas,V6,20.0,4,4
+Titan,2020,PRO-4X,47590,gas,V8,17.0,4,5
+Titan,2020,S,39390,gas,V8,18.0,4,6
+Titan,2020,S,36190,gas,V8,18.0,4,6
+Titan,2020,SV,39990,gas,V8,18.0,4,6
+Titan,2020,SV,43190,gas,V8,18.0,4,6
+Frontier,2019,Desert Runner,26600,gas,V6,19.0,4,4
+Frontier,2019,PRO-4X,33730,gas,V6,17.0,4,4
+Frontier,2019,S,19290,gas,I4,21.0,4,4
+Frontier,2019,S,23360,gas,I4,19.0,4,4
+Frontier,2019,SV,28810,gas,V6,17.0,4,4
+Frontier,2019,SV,25920,gas,V6,19.0,4,4
+Frontier,2019,SV,24160,gas,I4,21.0,4,4
+Frontier,2019,SV,25210,gas,I4,19.0,4,4
+Titan,2019,PRO-4X,44880,gas,V8,17.0,4,5
+Titan,2019,S,37100,gas,V8,18.0,4,6
+Titan,2019,S,33960,gas,V8,18.0,4,6
+Titan,2019,SV,37390,gas,V8,18.0,4,6
+Titan,2019,SV,40540,gas,V8,18.0,4,6
+Titan XD,2019,PRO-4X,47210,gas,V8,17.0,4,5
+Titan XD,2019,PRO-4X,52340,diesel,V8,,4,5
+Titan XD,2019,S,38140,gas,V8,18.0,4,6
+Titan XD,2019,S,34990,gas,V8,18.0,4,6
+Titan XD,2019,S,41640,diesel,V8,,4,6
+Titan XD,2019,S,45300,diesel,V8,,4,6
+Titan XD,2019,SV,42740,gas,V8,18.0,4,6
+Titan XD,2019,SV,39590,gas,V8,18.0,4,6
+Titan XD,2019,SV,48380,diesel,V8,,4,6
+Titan XD,2019,SV,45740,diesel,V8,,4,6
+Frontier,2018,Desert Runner,25900,gas,V6,19.0,4,4
+Frontier,2018,PRO-4X,33030,gas,V6,17.0,4,4
+Frontier,2018,S,22660,gas,I4,19.0,4,4
+Frontier,2018,S,18990,gas,I4,21.0,4,4
+Frontier,2018,SV,25220,gas,V6,19.0,4,4
+Frontier,2018,SV,23460,gas,I4,21.0,4,4
+Frontier,2018,SV,24510,gas,I4,19.0,4,4
+Frontier,2018,SV,28110,gas,V6,17.0,4,4
+Titan,2018,PRO-4X,43990,gas,V8,17.0,4,5
+Titan,2018,S,36280,gas,V8,18.0,4,6
+Titan,2018,S,33250,gas,V8,18.0,4,6
+Titan,2018,SV,36630,gas,V8,18.0,4,6
+Titan,2018,SV,39660,gas,V8,18.0,4,6
+Titan XD,2018,PRO-4X,46140,gas,V8,17.0,4,5
+Titan XD,2018,PRO-4X,51190,diesel,V8,,4,5
+Titan XD,2018,S,44340,diesel,V8,,4,6
+Titan XD,2018,S,34260,gas,V8,18.0,4,6
+Titan XD,2018,S,37290,gas,V8,18.0,4,6
+Titan XD,2018,S,40810,diesel,V8,,4,6
+Titan XD,2018,SV,38660,gas,V8,18.0,4,6
+Titan XD,2018,SV,41690,gas,V8,18.0,4,6
+Titan XD,2018,SV,47240,diesel,V8,,4,6
+Titan XD,2018,SV,44710,diesel,V8,,4,6
+Frontier,2017,Desert Runner,25400,gas,V6,19.0,4,4
+Frontier,2017,PRO-4X,32580,gas,V6,17.0,4,4
+Frontier,2017,S,18390,gas,I4,21.0,4,4
+Frontier,2017,S,22260,gas,I4,19.0,4,4
+Frontier,2017,SV,27610,gas,V6,17.0,4,4
+Frontier,2017,SV,24720,gas,V6,19.0,4,4
+Frontier,2017,SV,24010,gas,I4,19.0,4,4
+Frontier,2017,SV,27320,gas,V6,17.0,4,4
+Frontier,2017,SV,22960,gas,I4,21.0,4,4
+Titan,2017,PRO-4X,43290,gas,V8,17.0,4,5
+Titan,2017,S,32550,gas,V8,18.0,4,6
+Titan,2017,S,35580,gas,V8,18.0,4,6
+Titan,2017,SV,38960,gas,V8,18.0,4,6
+Titan,2017,SV,35930,gas,V8,18.0,4,6
+Titan XD,2017,PRO-4X,50490,diesel,V8,,4,5
+Titan XD,2017,PRO-4X,45440,gas,V8,,4,5
+Titan XD,2017,S,40110,diesel,V8,,4,6
+Titan XD,2017,S,43640,diesel,V8,,4,6
+Titan XD,2017,S,33560,gas,V8,,4,6
+Titan XD,2017,S,36590,gas,V8,,4,6
+Titan XD,2017,SV,44010,diesel,V8,,4,6
+Titan XD,2017,SV,46540,diesel,V8,,4,6
+Titan XD,2017,SV,40990,gas,V8,,4,6
+Titan XD,2017,SV,37960,gas,V8,,4,6
+Frontier,2016,Desert Runner,24520,gas,V6,18.0,4,4
+Frontier,2016,PRO-4X,32080,gas,V6,17.0,4,4
+Frontier,2016,S,20960,gas,I4,19.0,4,4
+Frontier,2016,S,18290,gas,I4,21.0,4,4
+Frontier,2016,SV,22180,gas,I4,21.0,4,4
+Frontier,2016,SV,26640,gas,V6,17.0,4,4
+Frontier,2016,SV,23940,gas,V6,18.0,4,4
+Frontier,2016,SV,23230,gas,I4,19.0,4,4
+Frontier,2015,Desert Runner,24190,gas,V6,18.0,4,4
+Frontier,2015,PRO-4X,30550,gas,V6,18.0,4,4
+Frontier,2015,PRO-4X,31750,gas,V6,17.0,4,4
+Frontier,2015,S,20660,gas,I4,19.0,4,4
+Frontier,2015,S,17990,gas,I4,21.0,4,4
+Frontier,2015,SV,26310,gas,V6,17.0,4,4
+Frontier,2015,SV,24540,gas,V6,19.0,4,4
+Frontier,2015,SV,23610,gas,V6,18.0,4,4
+Frontier,2015,SV,23020,gas,I4,19.0,4,4
+Frontier,2015,SV,21970,gas,I4,21.0,4,4
+Frontier,2015,SV,27240,gas,V6,18.0,4,4
+Titan,2015,PRO-4X,38170,gas,V8,14.0,4,5
+Titan,2015,S,32490,gas,V8,14.0,4,6
+Titan,2015,S,29640,gas,V8,15.0,4,6
+Titan,2015,SV,34790,gas,V8,14.0,4,6
+Titan,2015,SV,31940,gas,V8,15.0,4,6

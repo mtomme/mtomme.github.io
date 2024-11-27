@@ -1,0 +1,94 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+718 Cayman,2020,Base,57500,gas,flat 4,22.0,2,2
+718 Cayman,2020,GT4,99200,gas,flat 6,19.0,2,2
+718 Cayman,2020,S,69900,gas,flat 4,21.0,2,2
+718 Cayman,2020,T,66400,gas,flat 4,22.0,2,2
+911,2020,Carrera,97400,gas,flat 6,20.0,2,4
+911,2020,Carrera 4,104700,gas,flat 6,20.0,2,4
+911,2020,Carrera 4S,120600,gas,flat 6,20.0,2,4
+911,2020,Carrera S,113300,gas,flat 6,20.0,2,4
+718 Cayman,2019,Base,56900,gas,flat 4,24.0,2,2
+718 Cayman,2019,GTS,80700,gas,flat 4,21.0,2,2
+718 Cayman,2019,S,69300,gas,flat 4,22.0,2,2
+911,2019,Carrera,91100,gas,flat 6,23.0,2,4
+911,2019,Carrera 4,98000,gas,flat 6,23.0,2,4
+911,2019,Carrera 4 GTS,127600,gas,flat 6,21.0,2,4
+911,2019,Carrera 4S,112000,gas,flat 6,23.0,2,4
+911,2019,Carrera GTS,120700,gas,flat 6,21.0,2,4
+911,2019,Carrera S,105100,gas,flat 6,23.0,2,4
+911,2019,Carrera T,102100,gas,flat 6,19.0,2,4
+911,2019,GT2 RS,293200,gas,flat 6,17.0,2,2
+911,2019,GT3,143600,gas,flat 6,17.0,2,2
+911,2019,GT3 RS,187500,gas,flat 6,16.0,2,2
+911,2019,Targa 4,110300,gas,flat 6,22.0,2,4
+911,2019,Targa 4 GTS,139900,gas,flat 6,21.0,2,4
+911,2019,Targa 4S,124300,gas,flat 6,22.0,2,4
+911,2019,Turbo,161800,gas,flat 6,21.0,2,4
+911,2019,Turbo S,190700,gas,flat 6,21.0,2,4
+718 Cayman,2018,Base,55300,gas,flat 4,24.0,2,2
+718 Cayman,2018,GTS,79800,gas,flat 4,21.0,2,2
+718 Cayman,2018,S,67700,gas,flat 4,22.0,2,2
+911,2018,Carrera,91100,gas,flat 6,23.0,2,4
+911,2018,Carrera 4,98000,gas,flat 6,23.0,2,4
+911,2018,Carrera 4 GTS,127600,gas,flat 6,21.0,2,4
+911,2018,Carrera 4S,112000,gas,flat 6,23.0,2,4
+911,2018,Carrera GTS,120700,gas,flat 6,21.0,2,4
+911,2018,Carrera S,105100,gas,flat 6,23.0,2,4
+911,2018,Carrera T,102100,gas,flat 6,19.0,2,4
+911,2018,GT2 RS,293200,gas,flat 6,17.0,2,2
+911,2018,GT3,143600,gas,flat 6,17.0,2,2
+911,2018,Targa 4,110300,gas,flat 6,22.0,2,4
+911,2018,Targa 4 GTS,139900,gas,flat 6,21.0,2,4
+911,2018,Targa 4S,124300,gas,flat 6,22.0,2,4
+911,2018,Turbo,161800,gas,flat 6,21.0,2,4
+911,2018,Turbo S,190700,gas,flat 6,21.0,2,4
+911,2018,Turbo S Exclusive,257500,gas,flat 6,21.0,2,4
+718 Cayman,2017,Base,53900,gas,flat 4,24.0,2,2
+718 Cayman,2017,S,66300,gas,flat 4,22.0,2,2
+911,2017,Carrera,89400,gas,flat 6,23.0,2,4
+911,2017,Carrera 4,96300,gas,flat 6,23.0,2,4
+911,2017,Carrera 4 GTS,125900,gas,flat 6,21.0,2,4
+911,2017,Carrera 4S,110300,gas,flat 6,24.0,2,4
+911,2017,Carrera GTS,119000,gas,flat 6,21.0,2,4
+911,2017,Carrera S,103400,gas,flat 6,24.0,2,4
+911,2017,Targa 4,108600,gas,flat 6,22.0,2,4
+911,2017,Targa 4 GTS,138200,gas,flat 6,21.0,2,4
+911,2017,Targa 4S,122600,gas,flat 6,24.0,2,4
+911,2017,Turbo,159200,gas,flat 6,23.0,2,4
+911,2017,Turbo S,188100,gas,flat 6,24.0,2,4
+911,2016,Carrera,84300,gas,flat 6,22.0,2,4
+911,2016,Carrera 4,91030,gas,flat 6,22.0,2,4
+911,2016,Carrera 4 Black Edition,94800,gas,flat 6,22.0,2,4
+911,2016,Carrera 4 GTS,120900,gas,flat 6,21.0,2,4
+911,2016,Carrera 4S,105630,gas,flat 6,21.0,2,4
+911,2016,Carrera Black Edition,88800,gas,flat 6,22.0,2,4
+911,2016,Carrera GTS,114200,gas,flat 6,21.0,2,4
+911,2016,Carrera S,98900,gas,flat 6,22.0,2,4
+911,2016,GT3,130400,gas,flat 6,17.0,2,2
+911,2016,GT3 RS,175900,gas,flat 6,16.0,2,2
+911,2016,R,184900,gas,flat 6,,2,2
+911,2016,Targa 4,102930,gas,flat 6,21.0,2,4
+911,2016,Targa 4 GTS,132800,gas,flat 6,21.0,2,4
+911,2016,Targa 4S,117530,gas,flat 6,21.0,2,4
+911,2016,Turbo,151100,gas,flat 6,20.0,2,4
+911,2016,Turbo S,182700,gas,flat 6,20.0,2,4
+Cayman,2016,Base,52600,gas,flat 6,24.0,2,2
+Cayman,2016,GT4,84600,gas,flat 6,,2,2
+Cayman,2016,GTS,75200,gas,flat 6,22.0,2,2
+Cayman,2016,S,64100,gas,flat 6,23.0,2,2
+911,2015,Carrera,84300,gas,flat 6,22.0,2,4
+911,2015,Carrera 4,91030,gas,flat 6,22.0,2,4
+911,2015,Carrera 4 GTS,120900,gas,flat 6,21.0,2,4
+911,2015,Carrera 4S,105630,gas,flat 6,21.0,2,4
+911,2015,Carrera GTS,114200,gas,flat 6,21.0,2,4
+911,2015,Carrera S,98900,gas,flat 6,22.0,2,4
+911,2015,GT3,130400,gas,flat 6,17.0,2,2
+911,2015,Targa 4,101600,gas,flat 6,21.0,2,4
+911,2015,Targa 4 GTS,132800,gas,flat 6,,2,4
+911,2015,Targa 4S,116200,gas,flat 6,21.0,2,4
+911,2015,Turbo,151100,gas,flat 6,20.0,2,4
+911,2015,Turbo S,182700,gas,flat 6,20.0,2,4
+Cayman,2015,Base,52600,gas,flat 6,24.0,2,2
+Cayman,2015,GT4,84600,gas,flat 6,,2,2
+Cayman,2015,GTS,75200,gas,flat 6,22.0,2,2
+Cayman,2015,S,63800,gas,flat 6,23.0,2,2

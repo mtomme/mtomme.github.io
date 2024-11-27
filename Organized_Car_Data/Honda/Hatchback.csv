@@ -1,0 +1,102 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Civic,2020,EX,24150,gas,I4,34.0,5,5
+Civic,2020,EX-L,25350,gas,I4,34.0,5,5
+Civic,2020,LX,21650,gas,I4,34.0,5,5
+Civic,2020,Sport,22750,gas,I4,32.0,5,5
+Civic,2020,Sport,23550,gas,I4,32.0,5,5
+Civic,2020,Sport Touring,28050,gas,I4,32.0,5,5
+Civic,2020,Sport Touring,28850,gas,I4,32.0,5,5
+Civic,2020,Type R,36995,gas,I4,25.0,5,4
+Fit,2020,EX,19060,gas,I4,33.0,5,5
+Fit,2020,EX-L,20620,gas,I4,33.0,5,5
+Fit,2020,LX,16190,gas,I4,31.0,5,5
+Fit,2020,LX,16990,gas,I4,36.0,5,5
+Fit,2020,Sport,17600,gas,I4,31.0,5,5
+Fit,2020,Sport,18400,gas,I4,33.0,5,5
+Civic,2019,EX,23750,gas,I4,34.0,5,5
+Civic,2019,EX-L,26250,gas,I4,34.0,5,5
+Civic,2019,LX,21450,gas,I4,34.0,5,5
+Civic,2019,Sport,23050,gas,I4,32.0,5,5
+Civic,2019,Sport,22250,gas,I4,33.0,5,5
+Civic,2019,Sport Touring,28750,gas,I4,32.0,5,5
+Civic,2019,Type R,36300,gas,I4,25.0,5,4
+Fit,2019,EX,18960,gas,I4,33.0,5,5
+Fit,2019,EX,18160,gas,I4,31.0,5,5
+Fit,2019,EX-L,20520,gas,I4,33.0,5,5
+Fit,2019,EX-L,21520,gas,I4,33.0,5,5
+Fit,2019,LX,16190,gas,I4,31.0,5,5
+Fit,2019,LX,16990,gas,I4,36.0,5,5
+Fit,2019,LX,17990,gas,I4,36.0,5,5
+Fit,2019,Sport,18300,gas,I4,33.0,5,5
+Fit,2019,Sport,19300,gas,I4,33.0,5,5
+Fit,2019,Sport,17500,gas,I4,31.0,5,5
+Civic,2018,EX,24250,gas,I4,34.0,5,5
+Civic,2018,EX,23250,gas,I4,34.0,5,5
+Civic,2018,EX-L,26750,gas,I4,34.0,5,5
+Civic,2018,EX-L,25750,gas,I4,34.0,5,5
+Civic,2018,LX,21950,gas,I4,34.0,5,5
+Civic,2018,LX,20950,gas,I4,34.0,5,5
+Civic,2018,LX,20150,gas,I4,33.0,5,5
+Civic,2018,Sport,22550,gas,I4,32.0,5,5
+Civic,2018,Sport,21750,gas,I4,33.0,5,5
+Civic,2018,Sport Touring,28750,gas,I4,32.0,5,5
+Civic,2018,Type R Touring,34700,gas,I4,25.0,5,4
+Fit,2018,EX,18160,gas,I4,31.0,5,5
+Fit,2018,EX,18960,gas,I4,33.0,5,5
+Fit,2018,EX-L,20520,gas,I4,33.0,5,5
+Fit,2018,EX-L,21520,gas,I4,33.0,5,5
+Fit,2018,LX,16990,gas,I4,36.0,5,5
+Fit,2018,LX,16190,gas,I4,31.0,5,5
+Fit,2018,LX,17990,gas,I4,36.0,5,5
+Fit,2018,Sport,18300,gas,I4,33.0,5,5
+Fit,2018,Sport,17500,gas,I4,31.0,5,5
+Fit,2018,Sport,19300,gas,I4,33.0,5,5
+Civic,2017,EX,23800,gas,I4,34.0,5,5
+Civic,2017,EX,22800,gas,I4,34.0,5,5
+Civic,2017,EX-L,26300,gas,I4,34.0,5,5
+Civic,2017,EX-L,25300,gas,I4,34.0,5,5
+Civic,2017,LX,19700,gas,I4,33.0,5,5
+Civic,2017,LX,20500,gas,I4,34.0,5,5
+Civic,2017,LX,21500,gas,I4,34.0,5,5
+Civic,2017,Sport,22100,gas,I4,32.0,5,5
+Civic,2017,Sport,21300,gas,I4,33.0,5,5
+Civic,2017,Sport Touring,28300,gas,I4,32.0,5,5
+Civic,2017,Type R,33900,gas,I4,25.0,5,4
+Fit,2017,EX,18700,gas,I4,34.0,5,5
+Fit,2017,EX,17900,gas,I4,32.0,5,5
+Fit,2017,EX-L,20265,gas,I4,34.0,5,5
+Fit,2017,EX-L,21265,gas,I4,34.0,5,5
+Fit,2017,LX,16790,gas,I4,36.0,5,5
+Fit,2017,LX,15990,gas,I4,32.0,5,5
+CR-Z,2016,EX,22140,mild hybrid,I4,33.0,3,2
+CR-Z,2016,EX,22790,mild hybrid,I4,36.0,3,2
+CR-Z,2016,EX-L,25090,mild hybrid,I4,36.0,3,2
+CR-Z,2016,EX-L,24440,mild hybrid,I4,33.0,3,2
+CR-Z,2016,LX,20295,mild hybrid,I4,33.0,3,2
+CR-Z,2016,LX,20945,mild hybrid,I4,36.0,3,2
+Fit,2016,EX,17800,gas,I4,32.0,5,5
+Fit,2016,EX,18600,gas,I4,35.0,5,5
+Fit,2016,EX-L,21165,gas,I4,35.0,5,5
+Fit,2016,EX-L,20165,gas,I4,35.0,5,5
+Fit,2016,LX,16690,gas,I4,36.0,5,5
+Fit,2016,LX,15890,gas,I4,32.0,5,5
+CR-Z,2015,Base,20795,mild hybrid,I4,36.0,3,2
+CR-Z,2015,Base,20145,mild hybrid,I4,33.0,3,2
+CR-Z,2015,EX,21990,mild hybrid,I4,33.0,3,2
+CR-Z,2015,EX,22640,mild hybrid,I4,36.0,3,2
+CR-Z,2015,EX,23490,mild hybrid,I4,33.0,3,2
+CR-Z,2015,EX,24140,mild hybrid,I4,36.0,3,2
+Crosstour,2015,EX,27530,gas,I4,25.0,5,5
+Crosstour,2015,EX V6,31190,gas,V6,23.0,5,5
+Crosstour,2015,EX-L,31215,gas,I4,25.0,5,5
+Crosstour,2015,EX-L,33315,gas,I4,25.0,5,5
+Crosstour,2015,EX-L V6,37390,gas,V6,22.0,5,5
+Crosstour,2015,EX-L V6,35940,gas,V6,23.0,5,5
+Crosstour,2015,EX-L V6,35290,gas,V6,22.0,5,5
+Crosstour,2015,EX-L V6,33840,gas,V6,23.0,5,5
+Fit,2015,EX,17560,gas,I4,32.0,5,5
+Fit,2015,EX,18360,gas,I4,35.0,5,5
+Fit,2015,EX-L,20925,gas,I4,35.0,5,5
+Fit,2015,EX-L,19925,gas,I4,35.0,5,5
+Fit,2015,LX,16450,gas,I4,36.0,5,5
+Fit,2015,LX,15650,gas,I4,32.0,5,5

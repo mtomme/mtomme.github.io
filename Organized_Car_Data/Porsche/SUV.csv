@@ -1,0 +1,64 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Cayenne,2020,Base,66800,gas,V6,20.0,5,5
+Cayenne,2020,E-Hybrid,81100,plug-in hybrid,V6,21.0,5,5
+Cayenne,2020,S,84300,gas,V6,20.0,5,5
+Cayenne,2020,Turbo,126500,gas,V8,17.0,5,5
+Cayenne,2020,Turbo S E-Hybrid,161900,plug-in hybrid,V8,18.0,5,5
+Cayenne Coupe,2020,Base,75300,gas,V6,20.0,5,4
+Cayenne Coupe,2020,E-Hybrid,86400,plug-in hybrid,V6,21.0,5,4
+Cayenne Coupe,2020,S,88600,gas,V6,20.0,5,4
+Cayenne Coupe,2020,Turbo,130100,gas,V8,17.0,5,4
+Cayenne Coupe,2020,Turbo S E-Hybrid,164400,plug-in hybrid,V8,18.0,5,4
+Macan,2020,Base,50900,gas,I4,21.0,5,5
+Macan,2020,GTS,71300,gas,V6,19.0,5,5
+Macan,2020,S,59400,gas,V6,20.0,5,5
+Macan,2020,Turbo,83600,gas,V6,19.0,5,5
+Cayenne,2019,Base,65700,gas,V6,21.0,5,5
+Cayenne,2019,E-Hybrid,79900,plug-in hybrid,V6,21.0,5,5
+Cayenne,2019,S,82900,gas,V6,20.0,5,5
+Cayenne,2019,Turbo,124600,gas,V8,17.0,5,5
+Macan,2019,Base,49900,gas,I4,21.0,5,5
+Macan,2019,S,58600,gas,V6,20.0,5,5
+Cayenne,2018,Base,60600,gas,V6,20.0,5,5
+Cayenne,2018,GTS,98600,gas,V6,19.0,5,5
+Cayenne,2018,Platinum Edition,66700,gas,V6,19.0,5,5
+Cayenne,2018,S,77400,gas,V6,20.0,5,5
+Cayenne,2018,S E-Hybrid,79900,plug-in hybrid,V6,22.0,5,5
+Cayenne,2018,S E-Hybrid Platinum Edition,82800,plug-in hybrid,V6,22.0,5,5
+Cayenne,2018,Turbo,118100,gas,V8,17.0,5,5
+Cayenne,2018,Turbo S,161600,gas,V8,17.0,5,5
+Macan,2018,Base,47800,gas,I4,22.0,5,5
+Macan,2018,GTS,68900,gas,V6,19.0,5,5
+Macan,2018,S,55400,gas,V6,19.0,5,5
+Macan,2018,Sport Edition,60400,gas,I4,22.0,5,5
+Macan,2018,Turbo,77200,gas,V6,19.0,5,5
+Macan,2018,Turbo,87700,gas,V6,19.0,5,5
+Cayenne,2017,Base,59600,gas,V6,20.0,5,5
+Cayenne,2017,GTS,97200,gas,V6,19.0,5,5
+Cayenne,2017,Platinum Edition,65600,gas,V6,19.0,5,5
+Cayenne,2017,S,76200,gas,V6,20.0,5,5
+Cayenne,2017,S E-Hybrid,78700,plug-in hybrid,V6,22.0,5,5
+Cayenne,2017,S E-Hybrid Platinum Edition,81600,plug-in hybrid,V6,22.0,5,5
+Cayenne,2017,Turbo,116500,gas,V8,17.0,5,5
+Cayenne,2017,Turbo S,159600,gas,V8,17.0,5,5
+Macan,2017,Base,47500,gas,I4,22.0,5,5
+Macan,2017,GTS,67200,gas,V6,19.0,5,5
+Macan,2017,S,54400,gas,V6,19.0,5,5
+Macan,2017,Turbo,76000,gas,V6,19.0,5,5
+Macan,2017,Turbo,86445,gas,V6,19.0,5,5
+Cayenne,2016,Base,58300,gas,V6,21.0,5,5
+Cayenne,2016,Diesel,62300,diesel,V6,23.0,5,5
+Cayenne,2016,GTS,95500,gas,V6,19.0,5,5
+Cayenne,2016,S,74800,gas,V6,20.0,5,5
+Cayenne,2016,S E-Hybrid,77200,plug-in hybrid,V6,22.0,5,5
+Cayenne,2016,Turbo,114700,gas,V8,17.0,5,5
+Cayenne,2016,Turbo S,157300,gas,V8,17.0,5,5
+Macan,2016,S,52600,gas,V6,19.0,5,5
+Macan,2016,Turbo,73900,gas,V6,19.0,5,5
+Cayenne,2015,Diesel,61700,diesel,V6,23.0,5,5
+Cayenne,2015,GTS,95500,gas,V6,,5,5
+Cayenne,2015,S,74100,gas,V6,20.0,5,5
+Cayenne,2015,S E-Hybrid,76400,plug-in hybrid,V6,22.0,5,5
+Cayenne,2015,Turbo,113600,gas,V8,17.0,5,5
+Macan,2015,S,49900,gas,V6,19.0,5,5
+Macan,2015,Turbo,72300,gas,V6,19.0,5,5

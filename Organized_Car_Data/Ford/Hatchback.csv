@@ -1,0 +1,42 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Fiesta,2019,S Fleet,14560,gas,I4,30.0,5,5
+Fiesta,2019,SE,15790,gas,I4,30.0,5,5
+Fiesta,2019,ST,21340,gas,I4,28.0,5,5
+Fiesta,2019,ST Line,17625,gas,I4,28.0,5,5
+Fiesta,2018,S,14505,gas,I4,30.0,5,5
+Fiesta,2018,SE,15735,gas,I4,30.0,5,5
+Fiesta,2018,ST,21285,gas,I4,29.0,5,5
+Fiesta,2018,Titanium,19495,gas,I4,31.0,5,5
+Focus,2018,Electric,29120,electric,,,5,5
+Focus,2018,RS,41120,gas,I4,22.0,5,5
+Focus,2018,SE,20540,gas,I4,28.0,5,5
+Focus,2018,SEL,22070,gas,I4,28.0,5,5
+Focus,2018,ST,25170,gas,I4,25.0,5,5
+Focus,2018,Titanium,24470,gas,I4,28.0,5,5
+Fiesta,2017,S,13960,gas,I4,30.0,5,5
+Fiesta,2017,SE,15190,gas,I4,30.0,5,5
+Fiesta,2017,ST,21140,gas,I4,29.0,5,5
+Fiesta,2017,Titanium,18950,gas,I4,31.0,5,5
+Focus,2017,Electric,29120,electric,,,5,5
+Focus,2017,RS,36120,gas,I4,22.0,5,5
+Focus,2017,SE,19765,flex-fuel (FFV),I4,29.0,5,5
+Focus,2017,SEL,21675,flex-fuel (FFV),I4,29.0,5,5
+Focus,2017,ST,24775,gas,I4,25.0,5,5
+Focus,2017,Titanium,24075,flex-fuel (FFV),I4,29.0,5,5
+Fiesta,2016,S,14880,gas,I4,30.0,5,5
+Fiesta,2016,SE,16110,gas,I4,30.0,5,5
+Fiesta,2016,ST,21460,gas,I4,29.0,5,5
+Fiesta,2016,Titanium,18830,gas,I4,30.0,5,5
+Focus,2016,Electric,29170,electric,,,5,5
+Focus,2016,RS,35900,gas,I4,,5,5
+Focus,2016,SE,19015,flex-fuel (FFV),I4,30.0,5,5
+Focus,2016,ST,24425,gas,I4,25.0,5,5
+Focus,2016,Titanium,23725,flex-fuel (FFV),I4,31.0,5,5
+Fiesta,2015,S,14855,gas,I4,31.0,5,5
+Fiesta,2015,SE,16085,gas,I4,31.0,5,5
+Fiesta,2015,ST,21435,gas,I4,29.0,5,5
+Fiesta,2015,Titanium,18805,gas,I4,31.0,5,5
+Focus,2015,Electric,29170,electric,,,5,5
+Focus,2015,SE,18960,flex-fuel (FFV),I4,30.0,5,5
+Focus,2015,ST,24370,gas,I4,26.0,5,5
+Focus,2015,Titanium,23670,flex-fuel (FFV),I4,31.0,5,5

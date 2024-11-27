@@ -1,0 +1,28 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Mirage,2020,ES,13995,gas,I3,36.0,5,5
+Mirage,2020,ES,15295,gas,I3,39.0,5,5
+Mirage,2020,GT,17295,gas,I3,39.0,5,5
+Mirage,2020,LE,16195,gas,I3,39.0,5,5
+Mirage,2020,SE,16745,gas,I3,39.0,5,5
+Mirage,2019,ES,14995,gas,I3,39.0,5,5
+Mirage,2019,ES,13795,gas,I3,36.0,5,5
+Mirage,2019,GT,16995,gas,I3,39.0,5,5
+Mirage,2019,LE,15845,gas,I3,39.0,5,5
+Mirage,2019,RF,15490,gas,I3,39.0,5,5
+Mirage,2019,SE,16495,gas,I3,39.0,5,5
+Mirage,2018,ES,14595,gas,I3,39.0,5,5
+Mirage,2018,ES,13395,gas,I3,36.0,5,5
+Mirage,2018,GT,16595,gas,I3,39.0,5,5
+Mirage,2018,SE,16095,gas,I3,39.0,5,5
+i-MiEV,2017,ES,22995,electric,,,5,4
+Mirage,2017,ES,14195,gas,I3,39.0,5,5
+Mirage,2017,ES,12995,gas,I3,36.0,5,5
+Mirage,2017,GT,16495,gas,I3,39.0,5,5
+Mirage,2017,SE,15995,gas,I3,39.0,5,5
+Mirage,2017,SE,14795,gas,I3,36.0,5,5
+i-MiEV,2016,ES,22995,electric,,,5,4
+Mirage,2015,DE,12995,gas,I3,37.0,5,5
+Mirage,2015,DE,14095,gas,I3,40.0,5,5
+Mirage,2015,ES,14295,gas,I3,37.0,5,5
+Mirage,2015,ES,15395,gas,I3,40.0,5,5
+Mirage,2015,Rockford Fosgate Edition,14945,gas,I3,40.0,5,5

@@ -1,0 +1,44 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Mustang,2020,BULLITT,46705,gas,V8,17.0,2,4
+Mustang,2020,EcoBoost,26670,gas,I4,24.0,2,4
+Mustang,2020,EcoBoost Premium,31685,gas,I4,24.0,2,4
+Mustang,2020,GT,35630,gas,V8,18.0,2,4
+Mustang,2020,GT Premium,39630,gas,V8,18.0,2,4
+Shelby GT350,2020,Base,59140,gas,V8,16.0,2,4
+Shelby GT350,2020,R,72135,gas,V8,16.0,2,2
+Shelby GT500,2020,Base,70300,gas,V8,14.0,2,4
+Mustang,2019,BULLITT,46595,gas,V8,18.0,2,4
+Mustang,2019,EcoBoost,26395,gas,I4,25.0,2,4
+Mustang,2019,EcoBoost Premium,31410,gas,I4,25.0,2,4
+Mustang,2019,GT,35355,gas,V8,18.0,2,4
+Mustang,2019,GT Premium,39355,gas,V8,18.0,2,4
+Shelby GT350,2019,Base,59140,gas,V8,16.0,2,4
+Shelby GT350,2019,R,67135,gas,V8,16.0,2,2
+Mustang,2018,EcoBoost Premium,30695,gas,I4,25.0,2,4
+Mustang,2018,GT,35190,gas,V8,18.0,2,4
+Mustang,2018,GT Premium,39190,gas,V8,18.0,2,4
+Shelby GT350,2018,Base,55940,gas,V8,16.0,2,4
+Shelby GT350,2018,R,63440,gas,V8,16.0,2,2
+GT,2017,Base,447000,gas,V6,14.0,2,2
+Mustang,2017,EcoBoost,26195,gas,I4,24.0,2,4
+Mustang,2017,EcoBoost Premium,30195,gas,I4,24.0,2,4
+Mustang,2017,GT,33195,gas,V8,18.0,2,4
+Mustang,2017,GT Premium,37195,gas,V8,18.0,2,4
+Mustang,2017,V6,25185,gas,V6,21.0,2,4
+Shelby GT350,2017,Base,54845,gas,V8,16.0,2,4
+Shelby GT350,2017,R,62345,gas,V8,16.0,2,2
+Mustang,2016,EcoBoost,25645,gas,I4,25.0,2,4
+Mustang,2016,EcoBoost Premium,29645,gas,I4,25.0,2,4
+Mustang,2016,GT,32395,gas,V8,19.0,2,4
+Mustang,2016,GT Premium,36395,gas,V8,19.0,2,4
+Mustang,2016,V6,24145,gas,V6,21.0,2,4
+Shelby GT350,2016,Base,47795,gas,V8,16.0,2,4
+Shelby GT350,2016,R,61295,gas,V8,16.0,2,2
+Mustang,2015,EcoBoost,25300,gas,I4,26.0,2,4
+Mustang,2015,EcoBoost Premium,29300,gas,I4,26.0,2,4
+Mustang,2015,GT,32300,gas,V8,19.0,2,4
+Mustang,2015,GT 50 Years Limited Edition,46170,gas,V8,19.0,2,4
+Mustang,2015,GT Premium,36300,gas,V8,19.0,2,4
+Mustang,2015,V6,23800,gas,V6,21.0,2,4
+Shelby GT350,2015,Base,47795,gas,V8,16.0,2,4
+Shelby GT350,2015,R,61295,gas,V8,16.0,2,2

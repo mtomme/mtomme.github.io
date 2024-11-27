@@ -1,0 +1,111 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Bolt EV,2020,LT,36620,electric,,,5,5
+Bolt EV,2020,Premier,41020,electric,,,5,5
+Sonic,2020,LT,19420,gas,I4,29.0,5,5
+Sonic,2020,LT Fleet,17220,gas,I4,29.0,5,5
+Sonic,2020,Premier,21520,gas,I4,29.0,5,5
+Spark,2020,1LT,16220,gas,I4,33.0,5,4
+Spark,2020,1LT,15120,gas,I4,33.0,5,4
+Spark,2020,2LT,16620,gas,I4,33.0,5,4
+Spark,2020,2LT,17720,gas,I4,33.0,5,4
+Spark,2020,ACTIV,17320,gas,I4,33.0,5,4
+Spark,2020,ACTIV,16220,gas,I4,32.0,5,4
+Spark,2020,LS,14320,gas,I4,33.0,5,4
+Spark,2020,LS,13220,gas,I4,33.0,5,4
+Bolt EV,2019,LT,36620,electric,,,5,5
+Bolt EV,2019,Premier,41020,electric,,,5,5
+Cruze,2019,LS,19620,gas,I4,32.0,5,5
+Cruze,2019,LT,26120,diesel,I4,35.0,5,5
+Cruze,2019,LT,22120,gas,I4,32.0,5,5
+Cruze,2019,Premier,24020,gas,I4,32.0,5,5
+Sonic,2019,LT,18020,gas,I4,32.0,5,5
+Sonic,2019,LT,19420,gas,I4,30.0,5,5
+Sonic,2019,LT Fleet,17195,gas,I4,30.0,5,5
+Sonic,2019,Premier,20020,gas,I4,32.0,5,5
+Sonic,2019,Premier,21520,gas,I4,30.0,5,5
+Spark,2019,1LT,15120,gas,I4,33.0,5,4
+Spark,2019,1LT,16220,gas,I4,33.0,5,4
+Spark,2019,2LT,16620,gas,I4,33.0,5,4
+Spark,2019,2LT,17720,gas,I4,33.0,5,4
+Spark,2019,ACTIV,16220,gas,I4,32.0,5,4
+Spark,2019,ACTIV,17320,gas,I4,33.0,5,4
+Spark,2019,LS,14320,gas,I4,33.0,5,4
+Spark,2019,LS,13220,gas,I4,33.0,5,4
+Volt,2019,LT,33520,plug-in hybrid,I4,42.0,5,5
+Volt,2019,Premier,38120,plug-in hybrid,I4,42.0,5,5
+Bolt EV,2018,LT,36620,electric,,,5,5
+Bolt EV,2018,Premier,40905,electric,,,5,5
+Cruze,2018,LT,25865,diesel,I4,35.0,5,5
+Cruze,2018,LT,25435,diesel,I4,35.0,5,5
+Cruze,2018,LT,21240,gas,I4,31.0,5,5
+Cruze,2018,LT,21920,gas,I4,32.0,5,5
+Cruze,2018,Premier,23945,gas,I4,32.0,5,5
+Sonic,2018,LT,19195,gas,I4,28.0,5,5
+Sonic,2018,LT,17795,gas,I4,29.0,5,5
+Sonic,2018,LT Fleet,16995,gas,I4,28.0,5,5
+Sonic,2018,Premier,21295,gas,I4,30.0,5,5
+Sonic,2018,Premier,19795,gas,I4,32.0,5,5
+Spark,2018,1LT,14875,gas,I4,33.0,5,4
+Spark,2018,1LT,15975,gas,I4,33.0,5,4
+Spark,2018,2LT,16375,gas,I4,33.0,5,4
+Spark,2018,2LT,17475,gas,I4,33.0,5,4
+Spark,2018,ACTIV,16120,gas,I4,32.0,5,4
+Spark,2018,ACTIV,17220,gas,I4,33.0,5,4
+Spark,2018,LS,13050,gas,I4,33.0,5,4
+Spark,2018,LS,14150,gas,I4,33.0,5,4
+Volt,2018,LT,33220,plug-in hybrid,I4,42.0,5,5
+Volt,2018,Premier,37570,plug-in hybrid,I4,42.0,5,5
+Bolt EV,2017,LT,36620,electric,,,5,5
+Bolt EV,2017,Premier,40905,electric,,,5,5
+Cruze,2017,LT,21240,gas,I4,31.0,5,5
+Cruze,2017,LT,21920,gas,I4,32.0,5,5
+Cruze,2017,Premier,23945,gas,I4,31.0,5,5
+Sonic,2017,LT,17580,gas,I4,28.0,5,5
+Sonic,2017,LT,18970,gas,I4,28.0,5,5
+Sonic,2017,LT Fleet,16895,gas,I4,28.0,5,5
+Sonic,2017,Premier,19720,gas,I4,32.0,5,5
+Sonic,2017,Premier,21215,gas,I4,30.0,5,5
+Spark,2017,1LT,14825,gas,I4,33.0,5,4
+Spark,2017,1LT,15925,gas,I4,33.0,5,4
+Spark,2017,2LT,16325,gas,I4,33.0,5,4
+Spark,2017,2LT,17425,gas,I4,33.0,5,4
+Spark,2017,ACTIV,17170,gas,I4,33.0,5,4
+Spark,2017,ACTIV,16070,gas,I4,32.0,5,4
+Spark,2017,LS,14100,gas,I4,33.0,5,4
+Spark,2017,LS,13000,gas,I4,33.0,5,4
+Volt,2017,LT,33220,plug-in hybrid,I4,42.0,5,5
+Volt,2017,Premier,37570,plug-in hybrid,I4,42.0,5,5
+Sonic,2016,LS,14945,gas,I4,30.0,5,5
+Sonic,2016,LS,16195,gas,I4,28.0,5,5
+Sonic,2016,LT,16755,gas,I4,30.0,5,5
+Sonic,2016,LT,18145,gas,I4,28.0,5,5
+Sonic,2016,LTZ,20345,gas,I4,31.0,5,5
+Sonic,2016,RS,20095,gas,I4,30.0,5,5
+Sonic,2016,RS,21495,gas,I4,28.0,5,5
+Spark,2016,1LT,15785,gas,I4,35.0,5,4
+Spark,2016,1LT,14685,gas,I4,34.0,5,4
+Spark,2016,2LT,17285,gas,I4,35.0,5,4
+Spark,2016,2LT,16185,gas,I4,34.0,5,4
+Spark,2016,LS,13760,gas,I4,35.0,5,4
+Spark,2016,LS,12660,gas,I4,34.0,5,4
+Spark EV,2016,1LT,25120,electric,,,5,4
+Spark EV,2016,2LT,25510,electric,,,5,4
+Volt,2016,LT,33170,plug-in hybrid,I4,42.0,5,5
+Volt,2016,Premier,37520,plug-in hybrid,I4,42.0,5,5
+Sonic,2015,LS,14845,gas,I4,30.0,5,5
+Sonic,2015,LS,16095,gas,I4,28.0,5,5
+Sonic,2015,LT,17845,gas,I4,28.0,5,5
+Sonic,2015,LT,16455,gas,I4,30.0,5,5
+Sonic,2015,LTZ,18835,gas,I4,33.0,5,5
+Sonic,2015,LTZ,20245,gas,I4,31.0,5,5
+Sonic,2015,RS,21945,gas,I4,28.0,5,5
+Sonic,2015,RS,20545,gas,I4,29.0,5,5
+Spark,2015,1LT,14040,gas,I4,34.0,5,4
+Spark,2015,1LT,15095,gas,I4,34.0,5,4
+Spark,2015,2LT,15440,gas,I4,34.0,5,4
+Spark,2015,2LT,16535,gas,I4,34.0,5,4
+Spark,2015,LS,12270,gas,I4,34.0,5,4
+Spark,2015,LS,13580,gas,I4,34.0,5,4
+Spark EV,2015,1LT,25170,electric,,,5,4
+Spark EV,2015,2LT,25560,electric,,,5,4
+Volt,2015,Base,34170,plug-in hybrid,I4,37.0,5,4

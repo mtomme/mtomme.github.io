@@ -1,0 +1,88 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Continental,2020,Base,48305,gas,V6,19.0,4,5
+Continental,2020,Base,46305,gas,V6,20.0,4,5
+Continental,2020,Black Label,70205,gas,V6,21.0,4,5
+Continental,2020,Black Label,75470,gas,V6,20.0,4,5
+Continental,2020,Reserve,59870,gas,V6,21.0,4,5
+Continental,2020,Reserve,61870,gas,V6,20.0,4,5
+MKZ,2020,Base,36750,gas,I4,24.0,4,5
+MKZ,2020,Base,38750,gas,I4,23.0,4,5
+MKZ,2020,Hybrid Fleet,36750,hybrid,I4,41.0,4,5
+MKZ,2020,Hybrid Reserve,42500,hybrid,I4,41.0,4,5
+MKZ,2020,Reserve,44500,gas,I4,23.0,4,5
+MKZ,2020,Reserve,42500,gas,I4,24.0,4,5
+Continental,2019,Base,46145,gas,V6,20.0,4,5
+Continental,2019,Base,48145,gas,V6,19.0,4,5
+Continental,2019,Black Label,70045,gas,V6,21.0,4,5
+Continental,2019,Black Label,72045,gas,V6,20.0,4,5
+Continental,2019,Reserve,61710,gas,V6,20.0,4,5
+Continental,2019,Reserve,59710,gas,V6,21.0,4,5
+Continental,2019,Select,51945,gas,V6,19.0,4,5
+Continental,2019,Select,49945,gas,V6,20.0,4,5
+MKZ,2019,Base,35995,gas,I4,24.0,4,5
+MKZ,2019,Base,37995,gas,I4,23.0,4,5
+MKZ,2019,Hybrid,35995,hybrid,I4,40.0,4,5
+MKZ,2019,Hybrid Reserve I,38995,hybrid,I4,40.0,4,5
+MKZ,2019,Hybrid Reserve II,44995,hybrid,I4,40.0,4,5
+MKZ,2019,Reserve I,38995,gas,I4,24.0,4,5
+MKZ,2019,Reserve I,40995,gas,I4,23.0,4,5
+MKZ,2019,Reserve II,44995,gas,I4,24.0,4,5
+MKZ,2019,Reserve II,46995,gas,I4,23.0,4,5
+Continental,2018,Black Label,67255,gas,V6,20.0,4,5
+Continental,2018,Black Label,65255,gas,V6,21.0,4,5
+Continental,2018,Premiere,47000,gas,V6,19.0,4,5
+Continental,2018,Premiere,45000,gas,V6,20.0,4,5
+Continental,2018,Reserve,56625,gas,V6,20.0,4,5
+Continental,2018,Reserve,54625,gas,V6,21.0,4,5
+Continental,2018,Select,49955,gas,V6,19.0,4,5
+Continental,2018,Select,47955,gas,V6,20.0,4,5
+MKZ,2018,Black Label,47990,gas,I4,24.0,4,5
+MKZ,2018,Black Label,49880,gas,I4,23.0,4,5
+MKZ,2018,Hybrid Black Label,47990,hybrid,I4,40.0,4,5
+MKZ,2018,Hybrid Premiere,35605,hybrid,I4,40.0,4,5
+MKZ,2018,Hybrid Reserve,40170,hybrid,I4,40.0,4,5
+MKZ,2018,Hybrid Select,37355,hybrid,I4,40.0,4,5
+MKZ,2018,Premiere,35605,gas,I4,24.0,4,5
+MKZ,2018,Premiere,37495,gas,I4,23.0,4,5
+MKZ,2018,Reserve,42060,gas,I4,23.0,4,5
+MKZ,2018,Reserve,40170,gas,I4,24.0,4,5
+MKZ,2018,Select,39245,gas,I4,23.0,4,5
+MKZ,2018,Select,37355,gas,I4,24.0,4,5
+Continental,2017,Black Label,65075,gas,V6,20.0,4,5
+Continental,2017,Black Label,63075,gas,V6,21.0,4,5
+Continental,2017,Premiere,44720,gas,V6,20.0,4,5
+Continental,2017,Premiere,46720,gas,V6,19.0,4,5
+Continental,2017,Reserve,54075,gas,V6,21.0,4,5
+Continental,2017,Reserve,56075,gas,V6,20.0,4,5
+Continental,2017,Select,49675,gas,V6,19.0,4,5
+Continental,2017,Select,47675,gas,V6,20.0,4,5
+MKZ,2017,Black Label,47830,gas,I4,24.0,4,5
+MKZ,2017,Black Label,49720,gas,I4,23.0,4,5
+MKZ,2017,Hybrid Black Label,47830,hybrid,I4,40.0,4,5
+MKZ,2017,Hybrid Premiere,35170,hybrid,I4,40.0,4,5
+MKZ,2017,Hybrid Reserve,39670,hybrid,I4,40.0,4,5
+MKZ,2017,Hybrid Select,36920,hybrid,I4,40.0,4,5
+MKZ,2017,Premiere,37060,gas,I4,23.0,4,5
+MKZ,2017,Premiere,35170,gas,I4,24.0,4,5
+MKZ,2017,Reserve,41560,gas,I4,23.0,4,5
+MKZ,2017,Reserve,39670,gas,I4,24.0,4,5
+MKZ,2017,Select,36920,gas,I4,24.0,4,5
+MKZ,2017,Select,38810,gas,I4,23.0,4,5
+MKS,2016,Base,41005,gas,V6,19.0,4,5
+MKS,2016,Base,39010,gas,V6,20.0,4,5
+MKS,2016,EcoBoost,46000,gas,V6,19.0,4,5
+MKZ,2016,Base,35190,gas,I4,26.0,4,5
+MKZ,2016,Base,37080,gas,I4,25.0,4,5
+MKZ,2016,Black Label,47495,gas,I4,25.0,4,5
+MKZ,2016,Black Label,45605,gas,I4,26.0,4,5
+MKZ,2016,Black Label Hybrid,45605,hybrid,I4,40.0,4,5
+MKZ,2016,Hybrid,35190,hybrid,I4,40.0,4,5
+MKS,2015,Base,40845,gas,V6,21.0,4,5
+MKS,2015,Base,38850,gas,V6,22.0,4,5
+MKS,2015,EcoBoost,45840,gas,V6,20.0,4,5
+MKZ,2015,Base,35190,gas,I4,26.0,4,5
+MKZ,2015,Base,37080,gas,I4,25.0,4,5
+MKZ,2015,Black Label,45555,gas,I4,26.0,4,5
+MKZ,2015,Black Label,47445,gas,I4,25.0,4,5
+MKZ,2015,Black Label Hybrid,45555,hybrid,I4,40.0,4,5
+MKZ,2015,Hybrid,35190,hybrid,I4,40.0,4,5

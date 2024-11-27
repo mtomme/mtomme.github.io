@@ -1,0 +1,30 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+A5,2020,Premium,42900,gas,I4,27.0,5,5
+A5,2020,Premium Plus,46700,gas,I4,27.0,5,5
+A5,2020,Prestige,52600,gas,I4,27.0,5,5
+S5,2020,Premium,51900,gas,V6,23.0,5,5
+S5,2020,Premium Plus,54400,gas,V6,23.0,5,5
+S5,2020,Prestige,60300,gas,V6,23.0,5,5
+A5,2019,2.0 TFSI Premium Plus quattro,48600,gas,I4,27.0,5,5
+A5,2019,2.0 TFSI Premium quattro,44200,gas,I4,27.0,5,5
+A5,2019,2.0 TFSI Prestige quattro,52300,gas,I4,27.0,5,5
+RS 5,2019,quattro,74200,gas,V6,20.0,5,5
+S5,2019,3.0 TFSI Premium Plus quattro,56800,gas,V6,24.0,5,5
+S5,2019,3.0 TFSI Premium quattro,52400,gas,V6,24.0,5,5
+S5,2019,3.0 TFSI Prestige quattro,60500,gas,V6,24.0,5,5
+A3 Sportback e-tron,2018,1.4 TFSI PHEV Premium,39500,plug-in hybrid,I4,36.0,5,5
+A3 Sportback e-tron,2018,1.4 TFSI PHEV Premium Plus,42600,plug-in hybrid,I4,36.0,5,5
+A3 Sportback e-tron,2018,1.4 TFSI PHEV Premium Plus Summer of Audi,44150,plug-in hybrid,I4,36.0,5,5
+A3 Sportback e-tron,2018,1.4 TFSI PHEV Premium Summer of Audi,40650,plug-in hybrid,I4,36.0,5,5
+A3 Sportback e-tron,2018,1.4 TFSI PHEV Prestige,48100,plug-in hybrid,I4,36.0,5,5
+A5,2018,Premium Plus quattro,45600,gas,I4,27.0,5,5
+A5,2018,Premium quattro,42600,gas,I4,27.0,5,5
+A5,2018,Prestige quattro,50200,gas,I4,27.0,5,5
+S5,2018,Premium Plus quattro,54400,gas,V6,24.0,5,5
+S5,2018,Prestige quattro,58800,gas,V6,24.0,5,5
+A3 Sportback e-tron,2017,1.4 TFSI PHEV Premium,38900,plug-in hybrid,I4,34.0,5,5
+A3 Sportback e-tron,2017,1.4 TFSI PHEV Premium Plus,42000,plug-in hybrid,I4,34.0,5,5
+A3 Sportback e-tron,2017,1.4 TFSI PHEV Prestige,47550,plug-in hybrid,I4,34.0,5,5
+A3 Sportback e-tron,2016,1.4 TFSI PHEV Premium,37900,plug-in hybrid,I4,35.0,5,5
+A3 Sportback e-tron,2016,1.4 TFSI PHEV Premium Plus,42000,plug-in hybrid,I4,35.0,5,5
+A3 Sportback e-tron,2016,1.4 TFSI PHEV Prestige,46800,plug-in hybrid,I4,35.0,5,5

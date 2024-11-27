@@ -1,0 +1,158 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Altima,2020,2.5 Platinum,32400,gas,I4,31.0,4,5
+Altima,2020,2.5 Platinum,33750,gas,I4,29.0,4,5
+Altima,2020,2.5 S,25650,gas,I4,30.0,4,5
+Altima,2020,2.5 S,24300,gas,I4,32.0,4,5
+Altima,2020,2.5 SL,31590,gas,I4,30.0,4,5
+Altima,2020,2.5 SL,30240,gas,I4,32.0,4,5
+Altima,2020,2.5 SR,25900,gas,I4,31.0,4,5
+Altima,2020,2.5 SR,27250,gas,I4,29.0,4,5
+Altima,2020,2.5 SV,28140,gas,I4,32.0,4,5
+Altima,2020,2.5 SV,29490,gas,I4,30.0,4,5
+Altima,2020,VC-T Platinum,35180,gas,I4,29.0,4,5
+Altima,2020,VC-T SR,29750,gas,I4,29.0,4,5
+Maxima,2020,3.5 S,34450,gas,V6,24.0,4,5
+Maxima,2020,3.5 SL,38840,gas,V6,24.0,4,5
+Maxima,2020,3.5 SR,41650,gas,V6,24.0,4,5
+Maxima,2020,3.5 SV,36650,gas,V6,24.0,4,5
+Maxima,2020,Platinum,41840,gas,V6,24.0,4,5
+Sentra,2020,S,19310,gas,I4,33.0,4,5
+Sentra,2020,SR,21650,gas,I4,32.0,4,5
+Sentra,2020,SV,20370,gas,I4,33.0,4,5
+Versa,2020,S,14830,gas,I4,30.0,4,5
+Versa,2020,S,16500,gas,I4,35.0,4,5
+Versa,2020,SR,18340,gas,I4,35.0,4,5
+Versa,2020,SV,17740,gas,I4,35.0,4,5
+Altima,2019,2.5 Platinum,32030,gas,I4,31.0,4,5
+Altima,2019,2.5 Platinum,33380,gas,I4,29.0,4,5
+Altima,2019,2.5 S,25350,gas,I4,30.0,4,5
+Altima,2019,2.5 S,24000,gas,I4,32.0,4,5
+Altima,2019,2.5 SL,31440,gas,I4,30.0,4,5
+Altima,2019,2.5 SL,30090,gas,I4,32.0,4,5
+Altima,2019,2.5 SR,25350,gas,I4,31.0,4,5
+Altima,2019,2.5 SR,26700,gas,I4,29.0,4,5
+Altima,2019,2.5 SV,29530,gas,I4,30.0,4,5
+Altima,2019,2.5 SV,28180,gas,I4,32.0,4,5
+Altima,2019,VC-T Edition ONE,35750,gas,I4,29.0,4,5
+Altima,2019,VC-T Platinum,35030,gas,I4,29.0,4,5
+Altima,2019,VC-T SR,29400,gas,I4,29.0,4,5
+Maxima,2019,3.5 S,34050,gas,V6,24.0,4,5
+Maxima,2019,3.5 SL,38540,gas,V6,24.0,4,5
+Maxima,2019,3.5 SR,39630,gas,V6,24.0,4,5
+Maxima,2019,3.5 SV,36060,gas,V6,24.0,4,5
+Maxima,2019,Platinum,41540,gas,V6,24.0,4,5
+Sentra,2019,NISMO,26040,gas,I4,27.0,4,5
+Sentra,2019,NISMO,26040,gas,I4,27.0,4,5
+Sentra,2019,S,18680,gas,I4,32.0,4,5
+Sentra,2019,S,17990,gas,I4,30.0,4,5
+Sentra,2019,SL,23220,gas,I4,32.0,4,5
+Sentra,2019,SR,20790,gas,I4,32.0,4,5
+Sentra,2019,SR TURBO,22770,gas,I4,29.0,4,5
+Sentra,2019,SV,19290,gas,I4,32.0,4,5
+Sentra,2019,SV,19290,gas,I4,32.0,4,5
+Versa,2019,S,12460,gas,I4,30.0,4,5
+Versa,2019,S Plus,14600,gas,I4,34.0,4,5
+Versa,2019,SV,16090,gas,I4,34.0,4,5
+Altima,2018,2.5 S,23260,gas,I4,31.0,4,5
+Altima,2018,2.5 SL,29110,gas,I4,31.0,4,5
+Altima,2018,2.5 SR,24320,gas,I4,30.0,4,5
+Altima,2018,2.5 SV,25910,gas,I4,31.0,4,5
+Altima,2018,3.5 SL,33630,gas,V6,26.0,4,5
+Maxima,2018,3.5 S,33420,gas,V6,25.0,4,5
+Maxima,2018,3.5 SL,37840,gas,V6,25.0,4,5
+Maxima,2018,3.5 SR,38680,gas,V6,25.0,4,5
+Maxima,2018,3.5 SV,35420,gas,V6,25.0,4,5
+Maxima,2018,Platinum,41090,gas,V6,25.0,4,5
+Sentra,2018,NISMO,25790,gas,I4,27.0,4,5
+Sentra,2018,NISMO,25790,gas,I4,27.0,4,5
+Sentra,2018,S,18275,gas,I4,32.0,4,5
+Sentra,2018,S,16990,gas,I4,30.0,4,5
+Sentra,2018,SL,23440,gas,I4,32.0,4,5
+Sentra,2018,SR,20500,gas,I4,32.0,4,5
+Sentra,2018,SR TURBO,22200,gas,I4,28.0,4,5
+Sentra,2018,SR TURBO,22490,gas,I4,29.0,4,5
+Sentra,2018,SV,19085,gas,I4,32.0,4,5
+Versa,2018,1.6 S,12110,gas,I4,30.0,4,5
+Versa,2018,1.6 S,12310,gas,I4,30.0,4,5
+Versa,2018,1.6 S Plus,14450,gas,I4,34.0,4,5
+Versa,2018,1.6 S Plus,14250,gas,I4,34.0,4,5
+Versa,2018,1.6 SV,15940,gas,I4,34.0,4,5
+Versa,2018,1.6 SV,15840,gas,I4,34.0,4,5
+Altima,2017,2.5,22500,gas,I4,31.0,4,5
+Altima,2017,2.5 S,22900,gas,I4,31.0,4,5
+Altima,2017,2.5 S,22900,gas,I4,31.0,4,5
+Altima,2017,2.5 SL,28870,gas,I4,31.0,4,5
+Altima,2017,2.5 SL,28570,gas,I4,31.0,4,5
+Altima,2017,2.5 SR,24470,gas,I4,30.0,4,5
+Altima,2017,2.5 SR,24470,gas,I4,30.0,4,5
+Altima,2017,2.5 SV,25460,gas,I4,31.0,4,5
+Altima,2017,2.5 SV,25760,gas,I4,31.0,4,5
+Altima,2017,3.5 SL,32690,gas,V6,26.0,4,5
+Altima,2017,3.5 SL,32990,gas,V6,26.0,4,5
+Altima,2017,3.5 SR,27990,gas,V6,26.0,4,5
+Maxima,2017,3.5 S,32910,gas,V6,25.0,4,5
+Maxima,2017,3.5 S,32610,gas,V6,25.0,4,5
+Maxima,2017,3.5 SL,37250,gas,V6,25.0,4,5
+Maxima,2017,3.5 SR,38030,gas,V6,25.0,4,5
+Maxima,2017,3.5 SV,34590,gas,V6,25.0,4,5
+Maxima,2017,3.5 SV,34890,gas,V6,25.0,4,5
+Maxima,2017,Platinum,40340,gas,V6,25.0,4,5
+Sentra,2017,NISMO,24990,gas,I4,27.0,4,5
+Sentra,2017,NISMO,24990,gas,I4,27.0,4,5
+Sentra,2017,S,18090,gas,I4,32.0,4,5
+Sentra,2017,S,16990,gas,I4,30.0,4,5
+Sentra,2017,SL,21500,gas,I4,32.0,4,5
+Sentra,2017,SR,19990,gas,I4,32.0,4,5
+Sentra,2017,SR TURBO,21990,gas,I4,28.0,4,5
+Sentra,2017,SR TURBO,21990,gas,I4,29.0,4,5
+Sentra,2017,SV,18840,gas,I4,32.0,4,5
+Versa,2017,1.6 S,13680,gas,I4,29.0,4,5
+Versa,2017,1.6 S,11990,gas,I4,30.0,4,5
+Versa,2017,1.6 S Plus,14130,gas,I4,34.0,4,5
+Versa,2017,1.6 SL,17280,gas,I4,34.0,4,5
+Versa,2017,1.6 SV,15720,gas,I4,34.0,4,5
+Altima,2016,2.5,22500,gas,I4,31.0,4,5
+Altima,2016,2.5 S,22900,gas,I4,31.0,4,5
+Altima,2016,2.5 SL,28570,gas,I4,31.0,4,5
+Altima,2016,2.5 SR,24470,gas,I4,31.0,4,5
+Altima,2016,2.5 SV,25460,gas,I4,31.0,4,5
+Altima,2016,3.5 SL,32690,gas,V6,26.0,4,5
+Altima,2016,3.5 SL,32090,gas,V6,26.0,4,5
+Altima,2016,3.5 SR,27990,gas,V6,26.0,4,5
+Altima,2016,3.5 SR,27390,gas,V6,26.0,4,5
+Maxima,2016,3.5 S,32510,gas,V6,25.0,4,5
+Maxima,2016,3.5 SL,36990,gas,V6,25.0,4,5
+Maxima,2016,3.5 SR,37770,gas,V6,25.0,4,5
+Maxima,2016,3.5 SV,34490,gas,V6,25.0,4,5
+Maxima,2016,Platinum,39960,gas,V6,25.0,4,5
+Sentra,2016,FE+ S,18160,gas,I4,34.0,4,5
+Sentra,2016,S,17760,gas,I4,32.0,4,5
+Sentra,2016,S,16780,gas,I4,30.0,4,5
+Sentra,2016,SL,22170,gas,I4,32.0,4,5
+Sentra,2016,SR,20410,gas,I4,32.0,4,5
+Sentra,2016,SV,18550,gas,I4,32.0,4,5
+Versa,2016,1.6 S,13540,gas,I4,30.0,4,5
+Versa,2016,1.6 S,11990,gas,I4,30.0,4,5
+Versa,2016,1.6 S Plus,14040,gas,I4,35.0,4,5
+Versa,2016,1.6 SL,17140,gas,I4,35.0,4,5
+Versa,2016,1.6 SV,15580,gas,I4,35.0,4,5
+Altima,2015,2.5,22300,gas,I4,31.0,4,5
+Altima,2015,2.5 S,22560,gas,I4,31.0,4,5
+Altima,2015,2.5 SL,28150,gas,I4,31.0,4,5
+Altima,2015,2.5 SV,24720,gas,I4,31.0,4,5
+Altima,2015,3.5 S,26450,gas,V6,26.0,4,5
+Altima,2015,3.5 SL,32350,gas,V6,26.0,4,5
+Altima,2015,3.5 SL,31950,gas,V6,26.0,4,5
+Altima,2015,3.5 SV,29830,gas,V6,26.0,4,5
+Sentra,2015,FE+ S,17780,gas,I4,34.0,4,5
+Sentra,2015,S,17380,gas,I4,34.0,4,5
+Sentra,2015,S,16530,gas,I4,30.0,4,5
+Sentra,2015,SL,20720,gas,I4,34.0,4,5
+Sentra,2015,SR,19960,gas,I4,34.0,4,5
+Sentra,2015,SV,18350,gas,I4,34.0,4,5
+Versa,2015,1.6 S,11990,gas,I4,30.0,4,5
+Versa,2015,1.6 S,13490,gas,I4,30.0,4,5
+Versa,2015,1.6 S Plus,13990,gas,I4,35.0,4,5
+Versa,2015,1.6 SL,16890,gas,I4,35.0,4,5
+Versa,2015,1.6 SL,17590,gas,I4,35.0,4,5
+Versa,2015,1.6 SV,15530,gas,I4,35.0,4,5

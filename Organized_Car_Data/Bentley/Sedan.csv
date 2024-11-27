@@ -1,0 +1,26 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Flying Spur,2020,W12,214600,gas,W12,15.0,4,5
+Mulsanne,2020,Base,304670,gas,V8,12.0,4,5
+Mulsanne,2020,Speed,335600,gas,V8,12.0,4,5
+Mulsanne,2019,Base,304670,gas,V8,12.0,4,5
+Mulsanne,2019,Speed,335600,gas,V8,12.0,4,5
+Flying Spur,2018,V8,189000,gas,V8,16.0,4,5
+Flying Spur,2018,V8 S,205000,gas,V8,16.0,4,5
+Flying Spur,2018,W12,224500,gas,W12,14.0,4,5
+Flying Spur,2018,W12 S,244600,gas,W12,14.0,4,5
+Mulsanne,2018,Base,304670,gas,V8,14.0,4,5
+Mulsanne,2018,Speed,335600,gas,V8,14.0,4,5
+Flying Spur,2017,V8,189000,gas,V8,17.0,4,5
+Flying Spur,2017,V8 S,205000,gas,V8,17.0,4,5
+Flying Spur,2017,W12,224500,gas,W12,15.0,4,5
+Flying Spur,2017,W12 S,244600,gas,W12,15.0,4,5
+Mulsanne,2017,Base,304670,gas,V8,14.0,4,5
+Mulsanne,2017,Extended Wheelbase,400900,gas,V8,13.0,4,5
+Mulsanne,2017,Speed,335600,gas,V8,14.0,4,5
+Flying Spur,2016,V8,201000,gas,V8,17.0,4,5
+Flying Spur,2016,W12,222300,gas,W12,15.0,4,5
+Mulsanne,2016,Base,303700,gas,V8,13.0,4,5
+Mulsanne,2016,Speed,335600,gas,V8,13.0,4,5
+Flying Spur,2015,V8,195100,gas,V8,17.0,4,5
+Flying Spur,2015,W12,215800,flex-fuel (FFV),W12,15.0,4,5
+Mulsanne,2015,Base,303700,gas,V8,13.0,4,5

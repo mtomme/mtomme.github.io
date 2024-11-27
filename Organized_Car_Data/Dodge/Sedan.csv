@@ -1,0 +1,69 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Charger,2020,GT,31995,gas,V6,23.0,4,5
+Charger,2020,GT,34995,gas,V6,21.0,4,5
+Charger,2020,R/T,36495,gas,V8,19.0,4,5
+Charger,2020,Scat Pack,40495,gas,V8,18.0,4,5
+Charger,2020,Scat Pack Widebody,46495,gas,V8,18.0,4,5
+Charger,2020,SRT Hellcat Widebody,69995,gas,V8,15.0,4,5
+Charger,2020,SXT,33595,gas,V6,21.0,4,5
+Charger,2020,SXT,29995,gas,V6,23.0,4,5
+Charger,2019,GT,31495,gas,V6,23.0,4,5
+Charger,2019,R/T,35995,gas,V8,19.0,4,5
+Charger,2019,Scat Pack,39995,gas,V8,18.0,4,5
+Charger,2019,SRT Hellcat,65545,gas,V8,16.0,4,5
+Charger,2019,SXT,29220,gas,V6,23.0,4,5
+Charger,2019,SXT,33320,gas,V6,21.0,4,5
+Charger,2018,Daytona,38995,gas,V8,19.0,4,5
+Charger,2018,Daytona 392,44995,gas,V8,18.0,4,5
+Charger,2018,GT,32995,gas,V6,21.0,4,5
+Charger,2018,GT Plus,35995,gas,V6,21.0,4,5
+Charger,2018,R/T,35495,gas,V8,19.0,4,5
+Charger,2018,R/T Scat Pack,39995,gas,V8,18.0,4,5
+Charger,2018,SRT 392,51145,gas,V8,18.0,4,5
+Charger,2018,SRT Hellcat,66295,gas,V8,16.0,4,5
+Charger,2018,SXT,28995,gas,V6,23.0,4,5
+Charger,2018,SXT Plus,30495,gas,V6,23.0,4,5
+Charger,2017,Daytona,39995,gas,V8,19.0,4,5
+Charger,2017,R/T,34895,gas,V8,19.0,4,5
+Charger,2017,R/T Daytona 392,44995,gas,V8,18.0,4,5
+Charger,2017,R/T Scat Pack,39995,gas,V8,18.0,4,5
+Charger,2017,SE,30245,gas,V6,21.0,4,5
+Charger,2017,SE,27995,gas,V6,23.0,4,5
+Charger,2017,SRT 392,51145,gas,V8,18.0,4,5
+Charger,2017,SRT Hellcat,65945,gas,V8,16.0,4,5
+Charger,2017,SXT,29995,gas,V6,23.0,4,5
+Charger,2017,SXT,31995,gas,V6,21.0,4,5
+Charger,2016,R/T,33895,gas,V8,19.0,4,5
+Charger,2016,R/T Road and Track,36895,gas,V8,19.0,4,5
+Charger,2016,R/T Scat Pack,39995,gas,V8,18.0,4,5
+Charger,2016,SE,27995,gas,V6,23.0,4,5
+Charger,2016,SE,30245,gas,V6,23.0,4,5
+Charger,2016,SRT 392,50995,gas,V8,18.0,4,5
+Charger,2016,SRT Hellcat,65945,gas,V8,16.0,4,5
+Charger,2016,SXT,29995,gas,V6,23.0,4,5
+Charger,2016,SXT,31995,gas,V6,23.0,4,5
+Dart,2016,Aero,21095,gas,I4,32.0,4,5
+Dart,2016,GT,22095,gas,I4,27.0,4,5
+Dart,2016,GT Sport,20995,gas,I4,27.0,4,5
+Dart,2016,GT Sport Blacktop,21595,gas,I4,27.0,4,5
+Dart,2016,Limited,24395,gas,I4,27.0,4,5
+Dart,2016,SE,16995,gas,I4,29.0,4,5
+Dart,2016,SXT,19395,gas,I4,27.0,4,5
+Dart,2016,SXT Sport,17995,gas,I4,29.0,4,5
+Dart,2016,SXT Sport Blacktop,19595,gas,I4,29.0,4,5
+Dart,2016,SXT Sport Rallye,18995,gas,I4,29.0,4,5
+Dart,2016,Turbo,19495,gas,I4,32.0,4,5
+Charger,2015,R/T,33595,gas,V8,19.0,4,5
+Charger,2015,R/T Road and Track,36595,gas,V8,19.0,4,5
+Charger,2015,R/T Scat Pack,39995,gas,V8,19.0,4,5
+Charger,2015,SE,27995,gas,V6,23.0,4,5
+Charger,2015,SE,30995,gas,V6,21.0,4,5
+Charger,2015,SRT 392,47995,gas,V8,18.0,4,5
+Charger,2015,SRT Hellcat,62295,gas,V8,16.0,4,5
+Charger,2015,SXT,29995,gas,V6,23.0,4,5
+Charger,2015,SXT,32995,gas,V6,21.0,4,5
+Dart,2015,Aero,20495,gas,I4,32.0,4,5
+Dart,2015,GT,21645,gas,I4,27.0,4,5
+Dart,2015,Limited,23795,gas,I4,27.0,4,5
+Dart,2015,SE,16495,gas,I4,29.0,4,5
+Dart,2015,SXT,19000,gas,I4,27.0,4,5

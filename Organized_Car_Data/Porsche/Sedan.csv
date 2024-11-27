@@ -1,0 +1,75 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Panamera,2020,10 Years Edition,103300,gas,V6,22.0,4,4
+Panamera,2020,4,91800,gas,V6,22.0,4,4
+Panamera,2020,4 10 Years Edition,107500,gas,V6,22.0,4,4
+Panamera,2020,4 E-Hybrid,103800,plug-in hybrid,V6,23.0,4,4
+Panamera,2020,4 E-Hybrid 10 Years Edition,116900,plug-in hybrid,V6,23.0,4,4
+Panamera,2020,4 E-Hybrid Executive,108300,plug-in hybrid,V6,23.0,4,4
+Panamera,2020,4 Executive,98500,gas,V6,22.0,4,4
+Panamera,2020,4S,105000,gas,V6,21.0,4,4
+Panamera,2020,4S Executive,116300,gas,V6,21.0,4,4
+Panamera,2020,Base,87200,gas,V6,22.0,4,4
+Panamera,2020,GTS,129300,gas,V8,19.0,4,4
+Panamera,2020,Turbo,153000,gas,V8,21.0,4,4
+Panamera,2020,Turbo Executive,163400,gas,V8,21.0,4,4
+Panamera,2020,Turbo S E-Hybrid,187700,plug-in hybrid,V8,20.0,4,4
+Panamera,2020,Turbo S E-Hybrid Executive,198100,plug-in hybrid,V8,20.0,4,4
+Taycan,2020,4S,103800,electric,,,4,4
+Taycan,2020,Turbo,150900,electric,,,4,4
+Taycan,2020,Turbo S,185000,electric,,,4,4
+Panamera,2019,4,90900,gas,V6,22.0,4,4
+Panamera,2019,4 E-Hybrid,102900,plug-in hybrid,V6,23.0,4,4
+Panamera,2019,4 E-Hybrid Executive,107400,plug-in hybrid,V6,23.0,4,4
+Panamera,2019,4 Executive,97600,gas,V6,22.0,4,4
+Panamera,2019,4S,104000,gas,V6,21.0,4,4
+Panamera,2019,4S Executive,115300,gas,V6,21.0,4,4
+Panamera,2019,Base,86300,gas,V6,22.0,4,4
+Panamera,2019,GTS,128300,gas,V8,19.0,4,4
+Panamera,2019,Turbo,151500,gas,V8,21.0,4,4
+Panamera,2019,Turbo Executive,161900,gas,V8,21.0,4,4
+Panamera,2019,Turbo S E-Hybrid,186200,plug-in hybrid,V8,20.0,4,4
+Panamera,2019,Turbo S E-Hybrid Executive,196600,plug-in hybrid,V8,20.0,4,4
+Panamera,2018,4,89600,gas,V6,23.0,4,4
+Panamera,2018,4 E-Hybrid,99600,plug-in hybrid,V6,22.0,4,4
+Panamera,2018,4 E-Hybrid Executive,104100,plug-in hybrid,V6,22.0,4,4
+Panamera,2018,4 Executive,96300,gas,V6,23.0,4,4
+Panamera,2018,4S,103000,gas,V6,23.0,4,4
+Panamera,2018,4S Executive,113900,gas,V6,23.0,4,4
+Panamera,2018,Base,85000,gas,V6,24.0,4,4
+Panamera,2018,Turbo,150000,gas,V8,21.0,4,4
+Panamera,2018,Turbo Executive,160000,gas,V8,21.0,4,4
+Panamera,2018,Turbo S E-Hybrid,184400,plug-in hybrid,V8,21.0,4,4
+Panamera,2018,Turbo S E-Hybrid Executive,194800,plug-in hybrid,V8,21.0,4,4
+Panamera,2017,4,89600,gas,V6,23.0,4,4
+Panamera,2017,4 E-Hybrid,99600,hybrid,V6,,4,4
+Panamera,2017,4 E-Hybrid Executive,104100,hybrid,V6,,4,4
+Panamera,2017,4 Executive,96300,gas,V6,24.0,4,4
+Panamera,2017,4S,99900,gas,V6,23.0,4,4
+Panamera,2017,4S Executive,113900,gas,V6,23.0,4,4
+Panamera,2017,Base,85000,gas,V6,24.0,4,4
+Panamera,2017,Turbo,146900,gas,V8,21.0,4,4
+Panamera,2017,Turbo Executive,160000,gas,V8,21.0,4,4
+Panamera,2016,4,82800,gas,V6,21.0,4,4
+Panamera,2016,4 Edition,84300,gas,V6,21.0,4,4
+Panamera,2016,4S,98300,gas,V6,21.0,4,4
+Panamera,2016,4S Executive,125600,gas,V6,20.0,4,4
+Panamera,2016,Base,78100,gas,V6,22.0,4,4
+Panamera,2016,Edition,80000,gas,V6,22.0,4,4
+Panamera,2016,GTS,113400,gas,V8,19.0,4,4
+Panamera,2016,S,93200,gas,V6,21.0,4,4
+Panamera,2016,S E-Hybrid,96100,plug-in hybrid,V6,51.0,4,4
+Panamera,2016,Turbo,141300,gas,V8,18.0,4,4
+Panamera,2016,Turbo Executive,161100,gas,V8,18.0,4,4
+Panamera,2016,Turbo S,180300,gas,V8,18.0,4,4
+Panamera,2016,Turbo S Executive,200500,gas,V8,18.0,4,4
+Panamera,2015,4,82800,gas,V6,21.0,4,4
+Panamera,2015,4S,98300,gas,V6,21.0,4,4
+Panamera,2015,4S Executive,125600,gas,V6,20.0,4,4
+Panamera,2015,Base,78100,gas,V6,22.0,4,4
+Panamera,2015,GTS,113400,gas,V8,19.0,4,4
+Panamera,2015,S,93200,gas,V6,21.0,4,4
+Panamera,2015,S E-Hybrid,99000,plug-in hybrid,V6,50.0,4,4
+Panamera,2015,Turbo,141300,gas,V8,18.0,4,4
+Panamera,2015,Turbo Executive,161100,gas,V8,18.0,4,4
+Panamera,2015,Turbo S,180300,gas,V8,18.0,4,4
+Panamera,2015,Turbo S Executive,200500,gas,V8,18.0,4,4

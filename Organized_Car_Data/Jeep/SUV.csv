@@ -1,0 +1,480 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Cherokee,2020,Altitude,28790,gas,I4,25.0,5,5
+Cherokee,2020,Altitude,30290,gas,I4,24.0,5,5
+Cherokee,2020,High Altitude,35540,gas,V6,23.0,5,5
+Cherokee,2020,High Altitude,36840,gas,V6,22.0,5,5
+Cherokee,2020,Latitude,25840,gas,I4,25.0,5,5
+Cherokee,2020,Latitude,27340,gas,I4,24.0,5,5
+Cherokee,2020,Latitude Lux,31400,gas,V6,22.0,5,5
+Cherokee,2020,Latitude Lux,29900,gas,V6,23.0,5,5
+Cherokee,2020,Latitude Plus,27595,gas,I4,25.0,5,5
+Cherokee,2020,Latitude Plus,29095,gas,I4,24.0,5,5
+Cherokee,2020,Limited,31600,gas,I4,25.0,5,5
+Cherokee,2020,Limited,34845,gas,V6,22.0,5,5
+Cherokee,2020,North Edition,31800,gas,V6,22.0,5,5
+Cherokee,2020,Overland,38495,gas,V6,22.0,5,5
+Cherokee,2020,Overland,36995,gas,V6,23.0,5,5
+Cherokee,2020,Trailhawk,34755,gas,V6,21.0,5,5
+Cherokee,2020,Trailhawk Elite,37950,gas,V6,21.0,5,5
+Cherokee,2020,Upland,30720,gas,V6,22.0,5,5
+Compass,2020,Altitude,28275,gas,I4,25.0,5,5
+Compass,2020,Altitude,26775,gas,I4,25.0,5,5
+Compass,2020,High Altitude,30400,gas,I4,25.0,5,5
+Compass,2020,High Altitude,31900,gas,I4,25.0,5,5
+Compass,2020,Latitude,25355,gas,I4,25.0,5,5
+Compass,2020,Latitude,25355,gas,I4,25.0,5,5
+Compass,2020,Limited,28405,gas,I4,25.0,5,5
+Compass,2020,Limited,29905,gas,I4,25.0,5,5
+Compass,2020,North Edition,27800,gas,I4,25.0,5,5
+Compass,2020,Sport,23605,gas,I4,25.0,5,5
+Compass,2020,Sport,22105,gas,I4,26.0,5,5
+Compass,2020,Sun and Safety,27050,gas,I4,25.0,5,5
+Compass,2020,Sun and Safety,28550,gas,I4,25.0,5,5
+Compass,2020,Sun and Wheel,26250,gas,I4,25.0,5,5
+Compass,2020,Trailhawk,29675,gas,I4,25.0,5,5
+Grand Cherokee,2020,Altitude,40545,gas,V6,21.0,5,5
+Grand Cherokee,2020,Altitude,38245,gas,V6,21.0,5,5
+Grand Cherokee,2020,High Altitude,52440,gas,V6,21.0,5,5
+Grand Cherokee,2020,High Altitude,49440,gas,V6,21.0,5,5
+Grand Cherokee,2020,Laredo,34450,gas,V6,21.0,5,5
+Grand Cherokee,2020,Laredo,32150,gas,V6,21.0,5,5
+Grand Cherokee,2020,Laredo E,36000,gas,V6,21.0,5,5
+Grand Cherokee,2020,Laredo E,34000,gas,V6,21.0,5,5
+Grand Cherokee,2020,Limited,39955,gas,V6,21.0,5,5
+Grand Cherokee,2020,Limited,41955,gas,V6,21.0,5,5
+Grand Cherokee,2020,Limited X,45050,gas,V6,21.0,5,5
+Grand Cherokee,2020,Limited X,47050,gas,V6,21.0,5,5
+Grand Cherokee,2020,North Edition,38895,gas,V6,21.0,5,5
+Grand Cherokee,2020,Overland,46695,gas,V6,21.0,5,5
+Grand Cherokee,2020,Overland,49695,gas,V6,21.0,5,5
+Grand Cherokee,2020,SRT,68895,gas,V8,15.0,5,5
+Grand Cherokee,2020,Summit,52495,gas,V6,21.0,5,5
+Grand Cherokee,2020,Summit,55495,gas,V6,21.0,5,5
+Grand Cherokee,2020,Trackhawk,87400,gas,V8,13.0,5,5
+Grand Cherokee,2020,Trailhawk,45155,gas,V6,21.0,5,5
+Grand Cherokee,2020,Upland,39330,gas,V6,21.0,5,5
+Grand Cherokee,2020,Upland,36835,gas,V6,21.0,5,5
+Renegade,2020,Altitude,25390,gas,I4,25.0,5,5
+Renegade,2020,Altitude,26890,gas,I4,24.0,5,5
+Renegade,2020,High Altitude,30495,gas,I4,26.0,5,5
+Renegade,2020,High Altitude,28995,gas,I4,27.0,5,5
+Renegade,2020,Jeepster,23875,gas,I4,24.0,5,5
+Renegade,2020,Jeepster,22375,gas,I4,25.0,5,5
+Renegade,2020,Latitude,25895,gas,I4,24.0,5,5
+Renegade,2020,Latitude,24395,gas,I4,25.0,5,5
+Renegade,2020,Limited,27000,gas,I4,27.0,5,5
+Renegade,2020,Limited,28500,gas,I4,26.0,5,5
+Renegade,2020,North Edition,26670,gas,I4,24.0,5,5
+Renegade,2020,Orange Edition,24395,gas,I4,25.0,5,5
+Renegade,2020,Orange Edition,25895,gas,I4,24.0,5,5
+Renegade,2020,Sport,22375,gas,I4,25.0,5,5
+Renegade,2020,Sport,23875,gas,I4,24.0,5,5
+Renegade,2020,Trailhawk,27970,gas,I4,24.0,5,5
+Renegade,2020,Upland,25270,gas,I4,24.0,5,5
+Wrangler,2020,Black and Tan,33190,gas,V6,20.0,3,4
+Wrangler,2020,Freedom,34190,gas,V6,20.0,3,4
+Wrangler,2020,Rubicon,38695,gas,V6,20.0,3,4
+Wrangler,2020,Rubicon Recon,43450,mild hybrid,I4,21.0,3,4
+Wrangler,2020,Sport,28295,gas,V6,20.0,3,4
+Wrangler,2020,Sport S,31495,gas,V6,20.0,3,4
+Wrangler,2020,Unlimited Black and Tan,36690,gas,V6,19.0,5,5
+Wrangler,2020,Unlimited Freedom,37690,gas,V6,19.0,5,5
+Wrangler,2020,Unlimited High Altitude,49750,mild hybrid,I4,21.0,5,5
+Wrangler,2020,Unlimited North Edition,44465,mild hybrid,I4,21.0,5,5
+Wrangler,2020,Unlimited Rubicon,42195,gas,V6,19.0,5,5
+Wrangler,2020,Unlimited Rubicon Recon,46950,mild hybrid,I4,21.0,5,5
+Wrangler,2020,Unlimited Sahara,38645,gas,V6,19.0,5,5
+Wrangler,2020,Unlimited Sahara Altitude,41940,gas,V6,19.0,5,5
+Wrangler,2020,Unlimited Sport,31795,gas,V6,19.0,5,5
+Wrangler,2020,Unlimited Sport Altitude,36690,gas,V6,19.0,5,5
+Wrangler,2020,Unlimited Sport S,34995,gas,V6,19.0,5,5
+Wrangler,2020,Unlimited Willys,37490,gas,V6,19.0,5,5
+Wrangler,2020,Unlimited Willys Sport,33495,gas,V6,19.0,5,5
+Wrangler,2020,Willys,33990,gas,V6,20.0,3,4
+Wrangler,2020,Willys Sport,29995,gas,V6,20.0,3,4
+Cherokee,2019,Altitude,29890,gas,I4,24.0,5,5
+Cherokee,2019,Altitude,28390,gas,I4,25.0,5,5
+Cherokee,2019,High Altitude,36490,gas,V6,22.0,5,5
+Cherokee,2019,High Altitude,34990,gas,V6,23.0,5,5
+Cherokee,2019,Latitude,25045,gas,I4,25.0,5,5
+Cherokee,2019,Latitude,26545,gas,I4,24.0,5,5
+Cherokee,2019,Latitude Plus,28895,gas,I4,24.0,5,5
+Cherokee,2019,Latitude Plus,27395,gas,I4,25.0,5,5
+Cherokee,2019,Limited,34695,gas,V6,22.0,5,5
+Cherokee,2019,Limited,31450,gas,I4,25.0,5,5
+Cherokee,2019,Overland,38495,gas,V6,22.0,5,5
+Cherokee,2019,Overland,36995,gas,V6,23.0,5,5
+Cherokee,2019,Trailhawk,34195,gas,V6,21.0,5,5
+Cherokee,2019,Trailhawk Elite,37390,gas,V6,21.0,5,5
+Cherokee,2019,Upland,29725,gas,V6,22.0,5,5
+Compass,2019,2019,25890,gas,I4,25.0,5,5
+Compass,2019,Altitude,28015,gas,I4,25.0,5,5
+Compass,2019,Altitude,26515,gas,I4,25.0,5,5
+Compass,2019,High Altitude,31690,gas,I4,25.0,5,5
+Compass,2019,High Altitude,30190,gas,I4,25.0,5,5
+Compass,2019,Latitude,25095,gas,I4,25.0,5,5
+Compass,2019,Latitude,25095,gas,I4,25.0,5,5
+Compass,2019,Limited,29695,gas,I4,25.0,5,5
+Compass,2019,Limited,28195,gas,I4,25.0,5,5
+Compass,2019,Sport,23345,gas,I4,25.0,5,5
+Compass,2019,Sport,21845,gas,I4,26.0,5,5
+Compass,2019,Trailhawk,29195,gas,I4,25.0,5,5
+Compass,2019,Upland,26040,gas,I4,25.0,5,5
+Grand Cherokee,2019,Altitude,37890,gas,V6,21.0,5,5
+Grand Cherokee,2019,Altitude,40190,gas,V6,21.0,5,5
+Grand Cherokee,2019,High Altitude,51490,gas,V6,21.0,5,5
+Grand Cherokee,2019,High Altitude,48490,gas,V6,21.0,5,5
+Grand Cherokee,2019,Laredo,31945,gas,V6,21.0,5,5
+Grand Cherokee,2019,Laredo,34245,gas,V6,21.0,5,5
+Grand Cherokee,2019,Laredo E,33795,gas,V6,21.0,5,5
+Grand Cherokee,2019,Laredo E,35795,gas,V6,21.0,5,5
+Grand Cherokee,2019,Limited,39195,gas,V6,21.0,5,5
+Grand Cherokee,2019,Limited,41195,gas,V6,21.0,5,5
+Grand Cherokee,2019,Limited X,44095,gas,V6,21.0,5,5
+Grand Cherokee,2019,Limited X,46095,gas,V6,21.0,5,5
+Grand Cherokee,2019,Overland,45995,gas,V6,21.0,5,5
+Grand Cherokee,2019,Overland,48995,gas,V6,21.0,5,5
+Grand Cherokee,2019,SRT,68395,gas,V8,15.0,5,5
+Grand Cherokee,2019,Summit,51695,gas,V6,21.0,5,5
+Grand Cherokee,2019,Summit,54695,gas,V6,21.0,5,5
+Grand Cherokee,2019,Trackhawk,86900,gas,V8,13.0,5,5
+Grand Cherokee,2019,Trailhawk,44295,gas,V6,21.0,5,5
+Grand Cherokee,2019,Upland,35895,gas,V6,21.0,5,5
+Grand Cherokee,2019,Upland,38390,gas,V6,21.0,5,5
+Renegade,2019,Altitude,26370,gas,I4,24.0,5,5
+Renegade,2019,Altitude,24870,gas,I4,25.0,5,5
+Renegade,2019,High Altitude,28390,gas,I4,27.0,5,5
+Renegade,2019,High Altitude,29890,gas,I4,26.0,5,5
+Renegade,2019,Latitude,25375,gas,I4,24.0,5,5
+Renegade,2019,Latitude,23875,gas,I4,25.0,5,5
+Renegade,2019,Limited,27895,gas,I4,26.0,5,5
+Renegade,2019,Limited,26395,gas,I4,27.0,5,5
+Renegade,2019,Sport,23525,gas,I4,24.0,5,5
+Renegade,2019,Sport,22025,gas,I4,25.0,5,5
+Renegade,2019,Trailhawk,27545,gas,I4,24.0,5,5
+Wrangler,2019,Rubicon,38045,gas,V6,20.0,3,4
+Wrangler,2019,Sport,28045,gas,V6,20.0,3,4
+Wrangler,2019,Sport S,31245,gas,V6,20.0,3,4
+Wrangler,2019,Unlimited Moab,51300,gas,V6,20.0,5,5
+Wrangler,2019,Unlimited Rubicon,41545,gas,V6,19.0,5,5
+Wrangler,2019,Unlimited Sahara,38395,gas,V6,19.0,5,5
+Wrangler,2019,Unlimited Sahara Altitude,41690,gas,V6,19.0,5,5
+Wrangler,2019,Unlimited Sport,31545,gas,V6,19.0,5,5
+Wrangler,2019,Unlimited Sport Altitude,36440,gas,V6,19.0,5,5
+Wrangler,2019,Unlimited Sport S,34745,gas,V6,19.0,5,5
+Cherokee,2018,Latitude,25895,flex-fuel (FFV),I4,23.0,5,5
+Cherokee,2018,Latitude,24395,flex-fuel (FFV),I4,25.0,5,5
+Cherokee,2018,Latitude Plus,26295,flex-fuel (FFV),I4,25.0,5,5
+Cherokee,2018,Latitude Plus,27795,flex-fuel (FFV),I4,23.0,5,5
+Cherokee,2018,Limited,31295,flex-fuel (FFV),I4,23.0,5,5
+Cherokee,2018,Limited,29795,flex-fuel (FFV),I4,25.0,5,5
+Cherokee,2018,Overland,34095,flex-fuel (FFV),I4,25.0,5,5
+Cherokee,2018,Overland,37340,gas,V6,23.0,5,5
+Cherokee,2018,Trailhawk,30995,flex-fuel (FFV),I4,22.0,5,5
+Compass,2018,Altitude,26990,gas,I4,25.0,5,5
+Compass,2018,Altitude,25490,gas,I4,25.0,5,5
+Compass,2018,Latitude,24295,gas,I4,25.0,5,5
+Compass,2018,Latitude,24295,gas,I4,25.0,5,5
+Compass,2018,Limited,27595,gas,I4,25.0,5,5
+Compass,2018,Limited,29095,gas,I4,25.0,5,5
+Compass,2018,Sport,22495,gas,I4,25.0,5,5
+Compass,2018,Sport,20995,gas,I4,26.0,5,5
+Compass,2018,Trailhawk,28695,gas,I4,25.0,5,5
+Grand Cherokee,2018,Altitude,37090,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Altitude,39390,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,High Altitude,47790,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,High Altitude,50790,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Laredo,30895,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Laredo,33195,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Laredo E,33195,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Laredo E,35195,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Limited,38495,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Limited,40495,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Overland,48295,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Overland,45295,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,SRT,67695,gas,V8,15.0,5,5
+Grand Cherokee,2018,Sterling Edition,44295,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Sterling Edition,42295,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Summit,50995,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Summit,53995,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Trackhawk,86200,gas,V8,13.0,5,5
+Grand Cherokee,2018,Trailhawk,43595,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2018,Upland,37295,flex-fuel (FFV),V6,21.0,5,5
+Renegade,2018,Altitude,24040,gas,I4,26.0,5,5
+Renegade,2018,Altitude,22540,gas,I4,26.0,5,5
+Renegade,2018,Latitude,21845,gas,I4,26.0,5,5
+Renegade,2018,Latitude,23345,gas,I4,26.0,5,5
+Renegade,2018,Limited,25645,gas,I4,25.0,5,5
+Renegade,2018,Limited,27145,gas,I4,24.0,5,5
+Renegade,2018,Sport,18445,gas,I4,26.0,5,5
+Renegade,2018,Sport,19945,gas,I4,26.0,5,5
+Renegade,2018,Trailhawk,26845,gas,I4,24.0,5,5
+Renegade,2018,Upland Edition,22270,gas,I4,24.0,5,5
+Wrangler,2018,Rubicon,37495,gas,V6,20.0,3,4
+Wrangler,2018,Sport,27495,gas,V6,20.0,3,4
+Wrangler,2018,Sport S,30695,gas,V6,20.0,3,4
+Wrangler,2018,Unlimited Rubicon,40995,gas,V6,19.0,5,5
+Wrangler,2018,Unlimited Sahara,37845,gas,V6,19.0,5,5
+Wrangler,2018,Unlimited Sport,30995,gas,V6,19.0,5,5
+Wrangler,2018,Unlimited Sport S,34195,gas,V6,19.0,5,5
+Wrangler JK,2018,Altitude,33445,gas,V6,18.0,3,4
+Wrangler JK,2018,Freedom Edition,29695,gas,V6,18.0,3,4
+Wrangler JK,2018,Golden Eagle,29195,gas,V6,18.0,3,4
+Wrangler JK,2018,Rubicon,33645,gas,V6,18.0,3,4
+Wrangler JK,2018,Rubicon Recon,39145,gas,V6,18.0,3,4
+Wrangler JK,2018,Sahara,30445,gas,V6,18.0,3,4
+Wrangler JK,2018,Sport,23995,gas,V6,18.0,3,4
+Wrangler JK,2018,Sport S,26995,gas,V6,18.0,3,4
+Wrangler JK,2018,Unlimited Altitude,37245,gas,V6,18.0,5,5
+Wrangler JK,2018,Unlimited Freedom Edition,33595,gas,V6,18.0,5,5
+Wrangler JK,2018,Unlimited Golden Eagle,33095,gas,V6,18.0,5,5
+Wrangler JK,2018,Unlimited Rubicon,37445,gas,V6,18.0,5,5
+Wrangler JK,2018,Unlimited Rubicon Recon,42945,gas,V6,18.0,5,5
+Wrangler JK,2018,Unlimited Sahara,34245,gas,V6,18.0,5,5
+Wrangler JK,2018,Unlimited Sport,27895,gas,V6,18.0,5,5
+Wrangler JK,2018,Unlimited Sport RHD,32695,gas,V6,18.0,5,5
+Wrangler JK,2018,Unlimited Sport S,31095,gas,V6,18.0,5,5
+Wrangler JK,2018,Unlimited Willys Wheeler,32195,gas,V6,18.0,5,5
+Wrangler JK,2018,Unlimited Willys Wheeler W,34295,gas,V6,18.0,5,5
+Wrangler JK,2018,Willys Wheeler,28295,gas,V6,18.0,3,4
+Wrangler JK,2018,Willys Wheeler W,30395,gas,V6,18.0,3,4
+Cherokee,2017,75th Anniversary,28325,gas,I4,25.0,5,5
+Cherokee,2017,75th Anniversary,30325,gas,I4,24.0,5,5
+Cherokee,2017,Altitude,26990,gas,I4,24.0,5,5
+Cherokee,2017,Altitude,24990,gas,I4,25.0,5,5
+Cherokee,2017,High Altitude,30490,gas,I4,25.0,5,5
+Cherokee,2017,High Altitude,32490,gas,I4,24.0,5,5
+Cherokee,2017,L Plus,35195,gas,I4,22.0,5,5
+Cherokee,2017,Latitude,27645,gas,I4,24.0,5,5
+Cherokee,2017,Latitude,25645,gas,I4,25.0,5,5
+Cherokee,2017,Limited,31495,gas,I4,24.0,5,5
+Cherokee,2017,Limited,29495,gas,I4,25.0,5,5
+Cherokee,2017,Overland,37695,gas,V6,24.0,5,5
+Cherokee,2017,Overland,34895,gas,I4,25.0,5,5
+Cherokee,2017,Sport,25695,gas,I4,24.0,5,5
+Cherokee,2017,Sport,23695,gas,I4,25.0,5,5
+Cherokee,2017,Trailhawk,31195,gas,I4,22.0,5,5
+Compass,2017,75th Anniversary Edition,23275,gas,I4,23.0,5,5
+Compass,2017,75th Anniversary Edition,24675,gas,I4,22.0,5,5
+Compass,2017,All New Latitude,24295,gas,I4,25.0,5,5
+Compass,2017,All New Latitude,24295,gas,I4,25.0,5,5
+Compass,2017,All New Limited,28995,gas,I4,25.0,5,5
+Compass,2017,All New Sport,20995,gas,I4,26.0,5,5
+Compass,2017,All New Sport,22495,gas,I4,25.0,5,5
+Compass,2017,All New Trailhawk,28595,gas,I4,25.0,5,5
+Compass,2017,High Altitude,25645,gas,I4,24.0,5,5
+Compass,2017,High Altitude,27645,gas,I4,22.0,5,5
+Compass,2017,Latitude,26340,gas,I4,22.0,5,5
+Compass,2017,Latitude,24340,gas,I4,24.0,5,5
+Compass,2017,Sport,21940,gas,I4,25.0,5,5
+Compass,2017,Sport,19940,gas,I4,25.0,5,5
+Compass,2017,Sport SE,22835,gas,I4,22.0,5,5
+Compass,2017,Sport SE,20835,gas,I4,24.0,5,5
+Grand Cherokee,2017,Altitude,36395,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Altitude,38695,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Laredo,30395,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Laredo,32695,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Laredo 75th Anniversary,37275,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Laredo 75th Anniversary,35275,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Limited,37995,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Limited,39995,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Limited 75th Anniversary,43505,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Limited 75th Anniversary,41505,diesel,V6,,5,5
+Grand Cherokee,2017,Overland,44795,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Overland,47795,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,SRT,66895,gas,V8,15.0,5,5
+Grand Cherokee,2017,Summit,53495,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Summit,50495,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2017,Trailhawk,43095,flex-fuel (FFV),V6,21.0,5,5
+Patriot,2017,75th Anniversary Edition,21275,gas,I4,23.0,5,5
+Patriot,2017,75th Anniversary Edition,22775,gas,I4,22.0,5,5
+Patriot,2017,High Altitude Edition,26985,gas,I4,22.0,5,5
+Patriot,2017,High Altitude Edition,23685,gas,I4,24.0,5,5
+Patriot,2017,Latitude,25840,gas,I4,22.0,5,5
+Patriot,2017,Latitude,22540,gas,I4,26.0,5,5
+Patriot,2017,Sport,20040,gas,I4,25.0,5,5
+Patriot,2017,Sport,18040,gas,I4,25.0,5,5
+Patriot,2017,Sport SE,20835,gas,I4,22.0,5,5
+Patriot,2017,Sport SE,18835,gas,I4,24.0,5,5
+Renegade,2017,Altitude,22190,gas,I4,26.0,5,5
+Renegade,2017,Altitude,24190,gas,I4,26.0,5,5
+Renegade,2017,Deserthawk,28390,gas,I4,24.0,5,5
+Renegade,2017,Latitude,21495,gas,I4,26.0,5,5
+Renegade,2017,Latitude,23495,gas,I4,26.0,5,5
+Renegade,2017,Limited,25195,gas,I4,25.0,5,5
+Renegade,2017,Limited,27195,gas,I4,24.0,5,5
+Renegade,2017,Sport,19995,gas,I4,26.0,5,5
+Renegade,2017,Sport,17995,gas,I4,26.0,5,5
+Renegade,2017,Trailhawk,26895,gas,I4,24.0,5,5
+Wrangler,2017,75th Anniversary,35125,gas,V6,18.0,3,4
+Wrangler,2017,Big Bear,28695,gas,V6,18.0,3,4
+Wrangler,2017,Chief,34445,gas,V6,18.0,3,4
+Wrangler,2017,Freedom Edition,29695,gas,V6,18.0,3,4
+Wrangler,2017,Rubicon,33645,gas,V6,18.0,3,4
+Wrangler,2017,Rubicon Hard Rock,38445,gas,V6,18.0,3,4
+Wrangler,2017,Rubicon Recon,39145,gas,V6,18.0,3,4
+Wrangler,2017,Sahara,30445,gas,V6,18.0,3,4
+Wrangler,2017,Smoky Mountain,34345,gas,V6,18.0,3,4
+Wrangler,2017,Sport,23995,gas,V6,18.0,3,4
+Wrangler,2017,Sport S,26995,gas,V6,18.0,3,4
+Wrangler,2017,Unlimited 75th Anniversary,38925,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Big Bear,32595,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Chief,38245,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Freedom Edition,33595,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Rubicon,37445,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Rubicon Hard Rock,42245,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Rubicon Recon,42945,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Sahara,34245,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Smoky Mountain,38145,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Sport,27895,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Sport RHD,32695,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Sport S,31095,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Willys Wheeler,32195,gas,V6,18.0,5,5
+Wrangler,2017,Unlimited Winter,40245,gas,V6,18.0,5,5
+Wrangler,2017,Willys Wheeler,28295,gas,V6,18.0,3,4
+Wrangler,2017,Winter,36445,gas,V6,18.0,3,4
+Cherokee,2016,75th Anniversary,29875,gas,I4,24.0,5,5
+Cherokee,2016,75th Anniversary,27875,gas,I4,25.0,5,5
+Cherokee,2016,Altitude,26290,gas,I4,24.0,5,5
+Cherokee,2016,Altitude,24290,gas,I4,25.0,5,5
+Cherokee,2016,High Altitude,29990,gas,I4,25.0,5,5
+Cherokee,2016,High Altitude,31990,gas,I4,24.0,5,5
+Cherokee,2016,Latitude,27295,gas,I4,24.0,5,5
+Cherokee,2016,Latitude,25295,gas,I4,25.0,5,5
+Cherokee,2016,Limited,29195,gas,I4,25.0,5,5
+Cherokee,2016,Limited,31195,gas,I4,24.0,5,5
+Cherokee,2016,Overland,38395,gas,V6,23.0,5,5
+Cherokee,2016,Overland,34695,gas,I4,25.0,5,5
+Cherokee,2016,Sport,23495,gas,I4,25.0,5,5
+Cherokee,2016,Sport,25495,gas,I4,24.0,5,5
+Cherokee,2016,Trailhawk,30995,gas,I4,22.0,5,5
+Compass,2016,75th Anniversary,21180,gas,I4,23.0,5,5
+Compass,2016,75th Anniversary,23125,gas,I4,22.0,5,5
+Compass,2016,High Altitude,25090,gas,I4,24.0,5,5
+Compass,2016,High Altitude,27090,gas,I4,22.0,5,5
+Compass,2016,Latitude,23995,gas,I4,24.0,5,5
+Compass,2016,Latitude,25995,gas,I4,22.0,5,5
+Compass,2016,Sport,19695,gas,I4,26.0,5,5
+Compass,2016,Sport,21695,gas,I4,24.0,5,5
+Compass,2016,Sport SE,20590,gas,I4,24.0,5,5
+Compass,2016,Sport SE,22590,gas,I4,22.0,5,5
+Grand Cherokee,2016,75th Anniversary,36975,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2016,75th Anniversary,34975,flex-fuel (FFV),V6,22.0,5,5
+Grand Cherokee,2016,High Altitude,50090,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2016,High Altitude,47090,flex-fuel (FFV),V6,22.0,5,5
+Grand Cherokee,2016,Laredo,29995,flex-fuel (FFV),V6,22.0,5,5
+Grand Cherokee,2016,Laredo,32295,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2016,Limited,39565,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2016,Limited,37565,flex-fuel (FFV),V6,22.0,5,5
+Grand Cherokee,2016,Limited 75th Anniversary,43175,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2016,Limited 75th Anniversary,41175,flex-fuel (FFV),V6,22.0,5,5
+Grand Cherokee,2016,Overland,44395,flex-fuel (FFV),V6,22.0,5,5
+Grand Cherokee,2016,Overland,47395,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2016,SRT,65695,gas,V8,15.0,5,5
+Grand Cherokee,2016,Summit,52795,flex-fuel (FFV),V6,21.0,5,5
+Grand Cherokee,2016,Summit,49795,flex-fuel (FFV),V6,22.0,5,5
+Patriot,2016,75th Anniversary,19080,gas,I4,23.0,5,5
+Patriot,2016,75th Anniversary,21125,gas,I4,22.0,5,5
+Patriot,2016,High Altitude Edition,23340,gas,I4,24.0,5,5
+Patriot,2016,High Altitude Edition,26640,gas,I4,22.0,5,5
+Patriot,2016,Latitude,22295,gas,I4,26.0,5,5
+Patriot,2016,Latitude,25595,gas,I4,22.0,5,5
+Patriot,2016,Sport,19695,gas,I4,24.0,5,5
+Patriot,2016,Sport,17695,gas,I4,26.0,5,5
+Patriot,2016,Sport SE,20490,gas,I4,22.0,5,5
+Patriot,2016,Sport SE,18490,gas,I4,24.0,5,5
+Renegade,2016,75th Anniversary,23375,gas,I4,27.0,5,5
+Renegade,2016,75th Anniversary,25375,gas,I4,27.0,5,5
+Renegade,2016,Justice Edition,26125,gas,I4,24.0,5,5
+Renegade,2016,Latitude,21395,gas,I4,27.0,5,5
+Renegade,2016,Latitude,23395,gas,I4,27.0,5,5
+Renegade,2016,Limited,24995,gas,I4,25.0,5,5
+Renegade,2016,Limited,26995,gas,I4,24.0,5,5
+Renegade,2016,Sport,17995,gas,I4,27.0,5,5
+Renegade,2016,Sport,19995,gas,I4,27.0,5,5
+Renegade,2016,Trailhawk,26495,gas,I4,24.0,5,5
+Wrangler,2016,75th Anniversary,34675,gas,V6,18.0,3,4
+Wrangler,2016,Backcountry,34595,gas,V6,18.0,3,4
+Wrangler,2016,Black Bear,28195,gas,V6,18.0,3,4
+Wrangler,2016,Freedom Edition,29595,gas,V6,18.0,3,4
+Wrangler,2016,Rubicon,33195,gas,V6,18.0,3,4
+Wrangler,2016,Rubicon Hard Rock,37995,gas,V6,18.0,3,4
+Wrangler,2016,Sahara,29995,gas,V6,18.0,3,4
+Wrangler,2016,Sport,23895,gas,V6,18.0,3,4
+Wrangler,2016,Unlimited 75th Anniversary,38475,gas,V6,18.0,5,5
+Wrangler,2016,Unlimited Backcountry,38395,gas,V6,18.0,5,5
+Wrangler,2016,Unlimited Black Bear,31995,gas,V6,18.0,5,5
+Wrangler,2016,Unlimited Freedom Edition,33395,gas,V6,18.0,5,5
+Wrangler,2016,Unlimited Rubicon,36995,gas,V6,18.0,5,5
+Wrangler,2016,Unlimited Rubicon Hard Rock,41795,gas,V6,18.0,5,5
+Wrangler,2016,Unlimited Sahara,33795,gas,V6,18.0,5,5
+Wrangler,2016,Unlimited Sport,27695,gas,V6,18.0,5,5
+Wrangler,2016,Unlimited Sport RHD,32495,gas,V6,18.0,5,5
+Wrangler,2016,Unlimited Willys Wheeler,31995,gas,V6,18.0,5,5
+Wrangler,2016,Willys Wheeler,28195,gas,V6,18.0,3,4
+Cherokee,2015,Altitude,25695,gas,I4,25.0,5,5
+Cherokee,2015,Altitude,27695,gas,I4,24.0,5,5
+Cherokee,2015,Latitude,25095,gas,I4,25.0,5,5
+Cherokee,2015,Latitude,27095,gas,I4,24.0,5,5
+Cherokee,2015,Limited,28895,gas,I4,25.0,5,5
+Cherokee,2015,Limited,30895,gas,I4,24.0,5,5
+Cherokee,2015,Sport,23095,gas,I4,25.0,5,5
+Cherokee,2015,Sport,25095,gas,I4,24.0,5,5
+Cherokee,2015,Trailhawk,30395,gas,I4,22.0,5,5
+Compass,2015,Altitude Edition,21790,gas,I4,23.0,5,5
+Compass,2015,Altitude Edition,19790,gas,I4,24.0,5,5
+Compass,2015,High Altitude Edition,26290,gas,I4,23.0,5,5
+Compass,2015,High Altitude Edition,24290,gas,I4,24.0,5,5
+Compass,2015,Latitude,25195,gas,I4,23.0,5,5
+Compass,2015,Latitude,23195,gas,I4,24.0,5,5
+Compass,2015,Limited,28795,gas,I4,23.0,5,5
+Compass,2015,Limited,26795,gas,I4,24.0,5,5
+Compass,2015,Sport,18995,gas,I4,26.0,5,5
+Compass,2015,Sport,20995,gas,I4,24.0,5,5
+Grand Cherokee,2015,Altitude,37800,flex-fuel (FFV),V6,19.0,5,5
+Grand Cherokee,2015,Altitude,35800,flex-fuel (FFV),V6,20.0,5,5
+Grand Cherokee,2015,High Altitude,49090,flex-fuel (FFV),V6,19.0,5,5
+Grand Cherokee,2015,High Altitude,46090,flex-fuel (FFV),V6,20.0,5,5
+Grand Cherokee,2015,Laredo,29995,flex-fuel (FFV),V6,20.0,5,5
+Grand Cherokee,2015,Laredo,31995,flex-fuel (FFV),V6,19.0,5,5
+Grand Cherokee,2015,Limited,37065,flex-fuel (FFV),V6,20.0,5,5
+Grand Cherokee,2015,Limited,39065,flex-fuel (FFV),V6,19.0,5,5
+Grand Cherokee,2015,Overland,43595,flex-fuel (FFV),V6,20.0,5,5
+Grand Cherokee,2015,Overland,46595,flex-fuel (FFV),V6,19.0,5,5
+Grand Cherokee,2015,SRT,64895,gas,V8,15.0,5,5
+Grand Cherokee,2015,Summit,48995,flex-fuel (FFV),V6,19.0,5,5
+Grand Cherokee,2015,Summit,51995,flex-fuel (FFV),V6,19.0,5,5
+Patriot,2015,Altitude Edition,17490,gas,I4,24.0,5,5
+Patriot,2015,Altitude Edition,19590,gas,I4,23.0,5,5
+Patriot,2015,High Altitude Edition,22590,gas,I4,24.0,5,5
+Patriot,2015,High Altitude Edition,25890,gas,I4,23.0,5,5
+Patriot,2015,Latitude,21495,gas,I4,26.0,5,5
+Patriot,2015,Latitude,24795,gas,I4,23.0,5,5
+Patriot,2015,Limited,26895,gas,I4,23.0,5,5
+Patriot,2015,Limited,24895,gas,I4,23.0,5,5
+Patriot,2015,Sport,18995,gas,I4,24.0,5,5
+Patriot,2015,Sport,16895,gas,I4,26.0,5,5
+Renegade,2015,Latitude,23295,gas,I4,27.0,5,5
+Renegade,2015,Latitude,21295,gas,I4,27.0,5,5
+Renegade,2015,Limited,26795,gas,I4,24.0,5,5
+Renegade,2015,Limited,24795,gas,I4,25.0,5,5
+Renegade,2015,Sport,17995,gas,I4,27.0,5,5
+Renegade,2015,Sport,19995,gas,I4,27.0,5,5
+Renegade,2015,Trailhawk,25995,gas,I4,24.0,5,5
+Wrangler,2015,Altitude Edition,32595,gas,V6,18.0,3,4
+Wrangler,2015,Freedom Edition,28395,gas,V6,18.0,3,4
+Wrangler,2015,Rubicon,32195,gas,V6,18.0,3,4
+Wrangler,2015,Rubicon Hard Rock,36695,gas,V6,18.0,3,4
+Wrangler,2015,Sahara,28995,gas,V6,18.0,3,4
+Wrangler,2015,Sport,22995,gas,V6,18.0,3,4
+Wrangler,2015,Unlimited Altitude Edition,36395,gas,V6,18.0,5,5
+Wrangler,2015,Unlimited Freedom Edition,32195,gas,V6,18.0,5,5
+Wrangler,2015,Unlimited Rubicon,35995,gas,V6,18.0,5,5
+Wrangler,2015,Unlimited Rubicon Hard Rock,40495,gas,V6,18.0,5,5
+Wrangler,2015,Unlimited Sahara,32795,gas,V6,18.0,5,5
+Wrangler,2015,Unlimited Sport,26795,gas,V6,18.0,5,5
+Wrangler,2015,Unlimited Sport RHD,31495,gas,V6,18.0,5,5
+Wrangler,2015,Unlimited Willys Wheeler,30795,gas,V6,18.0,5,5
+Wrangler,2015,Unlimited X,36995,gas,V6,18.0,5,5
+Wrangler,2015,Willys Wheeler,26995,gas,V6,18.0,3,4
+Wrangler,2015,X,33195,gas,V6,18.0,3,4

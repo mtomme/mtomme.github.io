@@ -1,0 +1,118 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Durango,2020,Anodized Platinum,48870,gas,V6,17.0,5,6
+Durango,2020,Anodized Platinum,46270,gas,V6,21.0,5,6
+Durango,2020,Citadel,45595,gas,V6,21.0,5,6
+Durango,2020,Citadel,42995,gas,V6,21.0,5,6
+Durango,2020,GT,34995,gas,V6,21.0,5,7
+Durango,2020,GT,37595,gas,V6,21.0,5,7
+Durango,2020,GT Plus,39495,gas,V6,21.0,5,7
+Durango,2020,GT Plus,42095,gas,V6,21.0,5,7
+Durango,2020,R/T,46995,gas,V8,17.0,5,7
+Durango,2020,R/T,44395,gas,V8,17.0,5,7
+Durango,2020,SRT,62995,gas,V8,15.0,5,6
+Durango,2020,SXT,33395,gas,V6,21.0,5,5
+Durango,2020,SXT,30795,gas,V6,21.0,5,5
+Durango,2020,SXT Plus,33895,gas,V6,21.0,5,5
+Durango,2020,SXT Plus,36495,gas,V6,21.0,5,5
+Journey,2020,Crossroad,28595,gas,I4,21.0,5,7
+Journey,2020,SE Value,23675,gas,I4,21.0,5,7
+Durango,2019,Anodized Platinum,46270,gas,V6,21.0,5,6
+Durango,2019,Anodized Platinum,48870,gas,V6,21.0,5,6
+Durango,2019,Citadel,45595,gas,V6,21.0,5,6
+Durango,2019,Citadel,42995,gas,V6,21.0,5,6
+Durango,2019,GT,37245,gas,V6,21.0,5,7
+Durango,2019,GT,34645,gas,V6,21.0,5,7
+Durango,2019,GT Plus,41595,gas,V6,21.0,5,7
+Durango,2019,GT Plus,38995,gas,V6,21.0,5,7
+Durango,2019,R/T,43995,gas,V8,17.0,5,7
+Durango,2019,R/T,46595,gas,V8,17.0,5,7
+Durango,2019,SRT,62995,gas,V8,15.0,5,6
+Durango,2019,SXT,32795,gas,V6,21.0,5,5
+Durango,2019,SXT,30195,gas,V6,21.0,5,5
+Durango,2019,SXT Plus,33195,gas,V6,21.0,5,5
+Durango,2019,SXT Plus,35795,gas,V6,21.0,5,5
+Journey,2019,Crossroad,31595,gas,V6,19.0,5,7
+Journey,2019,Crossroad,28095,gas,I4,21.0,5,7
+Journey,2019,GT,33395,flex-fuel (FFV),V6,19.0,5,7
+Journey,2019,GT,35295,gas,V6,19.0,5,7
+Journey,2019,SE,23645,gas,I4,21.0,5,7
+Journey,2019,SE,28045,gas,V6,19.0,5,7
+Journey,2019,SE Value Package,22995,gas,I4,21.0,5,7
+Durango,2018,Anodized Platinum,46190,gas,V6,21.0,5,7
+Durango,2018,Anodized Platinum,48790,gas,V6,21.0,5,7
+Durango,2018,Citadel,42195,gas,V6,21.0,5,7
+Durango,2018,Citadel,44795,gas,V6,21.0,5,7
+Durango,2018,GT,40495,gas,V6,21.0,5,7
+Durango,2018,GT,37895,gas,V6,21.0,5,7
+Durango,2018,R/T,43745,gas,V8,17.0,5,7
+Durango,2018,R/T,46345,gas,V8,17.0,5,7
+Durango,2018,SRT,62995,gas,V8,15.0,5,6
+Durango,2018,SXT,32595,gas,V6,21.0,5,5
+Durango,2018,SXT,29995,gas,V6,21.0,5,5
+Journey,2018,Crossroad,27895,gas,I4,21.0,5,7
+Journey,2018,Crossroad,31395,gas,V6,19.0,5,7
+Journey,2018,GT,32995,flex-fuel (FFV),V6,19.0,5,7
+Journey,2018,GT,34895,gas,V6,19.0,5,7
+Journey,2018,SE,27195,gas,V6,19.0,5,7
+Journey,2018,SE,22995,gas,I4,21.0,5,7
+Journey,2018,SXT,29195,gas,V6,19.0,5,7
+Journey,2018,SXT,25695,gas,I4,21.0,5,7
+Durango,2017,Anodized Platinum,45090,gas,V6,21.0,5,7
+Durango,2017,Anodized Platinum,47690,gas,V6,21.0,5,7
+Durango,2017,Citadel,41395,gas,V6,21.0,5,7
+Durango,2017,Citadel,43995,gas,V6,21.0,5,7
+Durango,2017,GT,37495,gas,V6,21.0,5,7
+Durango,2017,GT,40095,gas,V6,21.0,5,7
+Durango,2017,R/T,42095,gas,V8,17.0,5,7
+Durango,2017,R/T,44695,gas,V8,17.0,5,7
+Durango,2017,SXT,29995,gas,V6,21.0,5,7
+Durango,2017,SXT,32595,gas,V6,21.0,5,7
+Journey,2017,Crossroad,30495,gas,V6,19.0,5,7
+Journey,2017,Crossroad,26995,gas,I4,21.0,5,7
+Journey,2017,Crossroad Plus,31245,gas,V6,19.0,5,7
+Journey,2017,Crossroad Plus,27745,gas,I4,21.0,5,7
+Journey,2017,GT,33895,gas,V6,19.0,5,7
+Journey,2017,GT,31995,flex-fuel (FFV),V6,19.0,5,7
+Journey,2017,SE,21195,gas,I4,21.0,5,5
+Journey,2017,SE,26795,gas,V6,19.0,5,7
+Journey,2017,SXT,25495,gas,I4,21.0,5,7
+Journey,2017,SXT,28995,gas,V6,19.0,5,7
+Durango,2016,Anodized Platinum,44990,gas,V6,21.0,5,7
+Durango,2016,Anodized Platinum,42390,gas,V6,22.0,5,7
+Durango,2016,Citadel,43895,gas,V6,21.0,5,7
+Durango,2016,Citadel,41295,gas,V6,22.0,5,7
+Durango,2016,Limited,39595,gas,V6,21.0,5,7
+Durango,2016,Limited,36995,gas,V6,22.0,5,7
+Durango,2016,R/T,44595,gas,V8,17.0,5,7
+Durango,2016,R/T,41995,gas,V8,17.0,5,7
+Durango,2016,SXT,30495,gas,V6,22.0,5,7
+Durango,2016,SXT,33095,gas,V6,21.0,5,7
+Journey,2016,Crossroad,29795,gas,V6,19.0,5,5
+Journey,2016,Crossroad,26295,gas,I4,21.0,5,5
+Journey,2016,Crossroad Plus,27395,gas,I4,21.0,5,5
+Journey,2016,Crossroad Plus,30895,gas,V6,19.0,5,5
+Journey,2016,R/T,33695,gas,V6,19.0,5,5
+Journey,2016,R/T,31795,flex-fuel (FFV),V6,19.0,5,5
+Journey,2016,SE,26595,gas,V6,19.0,5,5
+Journey,2016,SE,20995,gas,I4,21.0,5,5
+Journey,2016,SXT,24895,gas,I4,21.0,5,5
+Journey,2016,SXT,28395,gas,V6,19.0,5,5
+Durango,2015,Citadel,43595,gas,V6,19.0,5,7
+Durango,2015,Citadel,40995,gas,V6,20.0,5,7
+Durango,2015,Limited,39495,gas,V6,19.0,5,7
+Durango,2015,Limited,36895,gas,V6,20.0,5,7
+Durango,2015,R/T,39995,gas,V8,17.0,5,7
+Durango,2015,R/T,42495,gas,V8,16.0,5,7
+Durango,2015,SXT,33095,gas,V6,19.0,5,7
+Durango,2015,SXT,30495,gas,V6,20.0,5,7
+Journey,2015,American Value Package,20695,gas,I4,21.0,5,5
+Journey,2015,Crossroad,29995,gas,V6,19.0,5,5
+Journey,2015,Crossroad,26595,gas,I4,21.0,5,5
+Journey,2015,Limited,33295,gas,V6,19.0,5,5
+Journey,2015,Limited,31395,gas,V6,19.0,5,5
+Journey,2015,R/T,33295,gas,V6,19.0,5,5
+Journey,2015,R/T,31395,gas,V6,19.0,5,5
+Journey,2015,SE,27395,gas,V6,19.0,5,5
+Journey,2015,SE,23495,gas,I4,21.0,5,5
+Journey,2015,SXT,28695,gas,V6,19.0,5,5
+Journey,2015,SXT,25195,gas,I4,21.0,5,5

@@ -1,0 +1,100 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Elantra GT,2020,Base,20650,gas,I4,27.0,5,5
+Elantra GT,2020,N Line,23500,gas,I4,26.0,5,5
+Elantra GT,2020,N Line,24600,gas,I4,28.0,5,5
+Ioniq Electric,2020,Limited,38615,electric,,,5,5
+Ioniq Electric,2020,SE,33045,electric,,,5,5
+Ioniq Hybrid,2020,Blue,23200,hybrid,I4,58.0,5,5
+Ioniq Hybrid,2020,Limited,31200,hybrid,I4,55.0,5,5
+Ioniq Hybrid,2020,SE,25150,hybrid,I4,55.0,5,5
+Ioniq Hybrid,2020,SEL,28400,hybrid,I4,55.0,5,5
+Ioniq Plug-In Hybrid,2020,Limited,32950,plug-in hybrid,I4,52.0,5,5
+Ioniq Plug-In Hybrid,2020,SE,26500,plug-in hybrid,I4,52.0,5,5
+Ioniq Plug-In Hybrid,2020,SEL,29500,plug-in hybrid,I4,52.0,5,5
+Veloster,2020,2,18800,gas,I4,28.0,4,4
+Veloster,2020,2,19800,gas,I4,30.0,4,4
+Veloster,2020,2.0 Premium,23000,gas,I4,30.0,4,4
+Veloster,2020,N,27600,gas,I4,25.0,4,4
+Veloster,2020,Turbo,25650,gas,I4,30.0,4,4
+Veloster,2020,Turbo R-Spec,23350,gas,I4,29.0,4,4
+Veloster,2020,Turbo Ultimate,28350,gas,I4,30.0,4,4
+Venue,2020,Denim,22050,gas,I4,32.0,5,5
+Venue,2020,SE,17350,gas,I4,30.0,5,5
+Venue,2020,SE,18550,gas,I4,32.0,5,5
+Venue,2020,SEL,19250,gas,I4,32.0,5,5
+Elantra GT,2019,Base,20450,gas,I4,27.0,5,5
+Elantra GT,2019,N Line,24400,gas,I4,28.0,5,5
+Elantra GT,2019,N Line,23300,gas,I4,26.0,5,5
+Ioniq Electric,2019,Base,30315,electric,,,5,5
+Ioniq Electric,2019,Limited,36815,electric,,,5,5
+Ioniq Hybrid,2019,Blue,22400,hybrid,I4,58.0,5,5
+Ioniq Hybrid,2019,Limited,28550,hybrid,I4,55.0,5,5
+Ioniq Hybrid,2019,SEL,24950,hybrid,I4,55.0,5,5
+Ioniq Plug-In Hybrid,2019,Base,25350,plug-in hybrid,I4,52.0,5,5
+Ioniq Plug-In Hybrid,2019,Limited,29350,plug-in hybrid,I4,52.0,5,5
+Veloster,2019,2,19500,gas,I4,30.0,4,4
+Veloster,2019,2,18500,gas,I4,28.0,4,4
+Veloster,2019,2.0 Premium,22750,gas,I4,30.0,4,4
+Veloster,2019,N,26900,gas,I4,25.0,4,4
+Veloster,2019,Turbo,25400,gas,I4,30.0,4,4
+Veloster,2019,Turbo R-Spec,22900,gas,I4,29.0,4,4
+Veloster,2019,Turbo Ultimate,26650,gas,I4,29.0,4,4
+Veloster,2019,Turbo Ultimate,28150,gas,I4,30.0,4,4
+Elantra GT,2018,Base,19350,gas,I4,26.0,5,5
+Elantra GT,2018,Base,20350,gas,I4,27.0,5,5
+Elantra GT,2018,Sport,23250,gas,I4,25.0,5,5
+Elantra GT,2018,Sport,24350,gas,I4,28.0,5,5
+Ioniq Electric,2018,Base,29500,electric,,,5,5
+Ioniq Electric,2018,Limited,36000,electric,,,5,5
+Ioniq Hybrid,2018,Blue,22200,hybrid,I4,58.0,5,5
+Ioniq Hybrid,2018,Limited,27550,hybrid,I4,55.0,5,5
+Ioniq Hybrid,2018,SEL,24000,hybrid,I4,55.0,5,5
+Ioniq Plug-In Hybrid,2018,Base,24950,plug-in hybrid,I4,52.0,5,5
+Ioniq Plug-In Hybrid,2018,Limited,28300,plug-in hybrid,I4,52.0,5,5
+Accent,2017,SE,14995,gas,I4,31.0,5,5
+Accent,2017,SE,16195,gas,I4,30.0,5,5
+Accent,2017,Sport,17495,gas,I4,30.0,5,5
+Elantra GT,2017,Base,19800,gas,I4,27.0,5,5
+Elantra GT,2017,Base,18800,gas,I4,27.0,5,5
+Ioniq Electric,2017,Base,29500,electric,,,5,5
+Ioniq Electric,2017,Limited,32500,electric,,,5,5
+Ioniq Hybrid,2017,Blue,22200,hybrid,I4,58.0,5,5
+Ioniq Hybrid,2017,Limited,27500,hybrid,I4,55.0,5,5
+Ioniq Hybrid,2017,SEL,23950,hybrid,I4,55.0,5,5
+Veloster,2017,Turbo,23800,gas,I4,29.0,4,4
+Veloster,2017,Turbo,22600,gas,I4,29.0,4,4
+Veloster,2017,Turbo,22600,gas,I4,29.0,4,4
+Veloster,2017,Turbo,23800,gas,I4,29.0,4,4
+Veloster,2017,Turbo R-Spec,21600,gas,I4,29.0,4,4
+Veloster,2017,Value Edition,21350,gas,I4,31.0,4,4
+Veloster,2017,w/Black Interior,19200,gas,I4,31.0,4,4
+Veloster,2017,w/Black Interior,18100,gas,I4,30.0,4,4
+Accent,2016,SE,16195,gas,I4,30.0,5,5
+Accent,2016,SE,14995,gas,I4,31.0,5,5
+Accent,2016,Sport,16495,gas,I4,31.0,5,5
+Accent,2016,Sport,17495,gas,I4,30.0,5,5
+Elantra GT,2016,Base,18800,gas,I4,27.0,5,5
+Elantra GT,2016,Base,19800,gas,I4,27.0,5,5
+Veloster,2016,Turbo,23800,gas,I4,29.0,4,4
+Veloster,2016,Turbo,22600,gas,I4,28.0,4,4
+Veloster,2016,Turbo,22600,gas,I4,28.0,4,4
+Veloster,2016,Turbo,23800,gas,I4,29.0,4,4
+Veloster,2016,Turbo R-Spec,21600,gas,I4,28.0,4,4
+Veloster,2016,Turbo Rally Edition,23950,gas,I4,28.0,4,4
+Veloster,2016,w/Black Interior,19100,gas,I4,31.0,4,4
+Veloster,2016,w/Black Interior,18000,gas,I4,30.0,4,4
+Veloster,2016,w/Yellow Interior Accent,19100,gas,I4,31.0,4,4
+Veloster,2016,w/Yellow Interior Accent,18000,gas,I4,30.0,4,4
+Accent,2015,GS,14995,gas,I4,31.0,5,5
+Accent,2015,GS,16195,gas,I4,30.0,5,5
+Accent,2015,Sport,16495,gas,I4,31.0,5,5
+Accent,2015,Sport,17495,gas,I4,30.0,5,5
+Elantra GT,2015,Base,19800,gas,I4,27.0,5,5
+Elantra GT,2015,Base,18800,gas,I4,28.0,5,5
+Veloster,2015,Base,18000,gas,I4,30.0,4,4
+Veloster,2015,Base,19250,gas,I4,30.0,4,4
+Veloster,2015,RE:FLEX,21950,gas,I4,30.0,4,4
+Veloster,2015,RE:FLEX,21950,gas,I4,30.0,4,4
+Veloster,2015,Turbo,22600,gas,I4,28.0,4,4
+Veloster,2015,Turbo,23600,gas,I4,27.0,4,4
+Veloster,2015,Turbo R-Spec,21600,gas,I4,28.0,4,4

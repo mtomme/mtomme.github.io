@@ -1,0 +1,137 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Aviator,2020,Base,51100,gas,V6,21.0,5,8
+Aviator,2020,Base,53600,gas,V6,20.0,5,8
+Aviator,2020,Black Label,77695,gas,V6,20.0,5,7
+Aviator,2020,Black Label Grand Touring,87800,plug-in hybrid,V6,23.0,5,7
+Aviator,2020,Grand Touring,68800,plug-in hybrid,V6,23.0,5,7
+Aviator,2020,Reserve,56190,gas,V6,21.0,5,7
+Aviator,2020,Reserve,58700,gas,V6,20.0,5,7
+Corsair,2020,Base,35945,gas,I4,25.0,5,5
+Corsair,2020,Base,38145,gas,I4,24.0,5,5
+Corsair,2020,Reserve,42630,gas,I4,25.0,5,5
+Corsair,2020,Reserve,44830,gas,I4,24.0,5,5
+Nautilus,2020,Base,43535,gas,I4,22.0,5,5
+Nautilus,2020,Base,41040,gas,I4,23.0,5,5
+Nautilus,2020,Black Label,63800,gas,V6,21.0,5,5
+Nautilus,2020,Reserve,50995,gas,I4,22.0,5,5
+Nautilus,2020,Reserve,48500,gas,I4,23.0,5,5
+Navigator,2020,Base,78855,gas,V6,18.0,5,7
+Navigator,2020,Base,76185,gas,V6,19.0,5,7
+Navigator,2020,Black Label,97135,gas,V6,18.0,5,7
+Navigator,2020,L Black Label,100335,gas,V6,18.0,5,7
+Navigator,2020,L Fleet,82055,gas,V6,18.0,5,7
+Navigator,2020,L Fleet,79385,gas,V6,18.0,5,7
+Navigator,2020,L Reserve,84925,gas,V6,18.0,5,7
+Navigator,2020,L Reserve,87600,gas,V6,18.0,5,7
+Navigator,2020,Reserve,84400,gas,V6,18.0,5,7
+Navigator,2020,Reserve,81725,gas,V6,19.0,5,7
+MKC,2019,Base,33995,gas,I4,23.0,5,5
+MKC,2019,Base,36405,gas,I4,21.0,5,5
+MKC,2019,Black Label,49610,gas,I4,21.0,5,5
+MKC,2019,Black Label,47200,gas,I4,23.0,5,5
+MKC,2019,Reserve,40625,gas,I4,23.0,5,5
+MKC,2019,Reserve,43035,gas,I4,21.0,5,5
+MKC,2019,Select,36750,gas,I4,23.0,5,5
+MKC,2019,Select,39160,gas,I4,21.0,5,5
+Nautilus,2019,Base,42835,gas,I4,22.0,5,5
+Nautilus,2019,Base,40340,gas,I4,23.0,5,5
+Nautilus,2019,Black Label,59390,gas,I4,22.0,5,5
+Nautilus,2019,Black Label,56895,gas,I4,23.0,5,5
+Nautilus,2019,Reserve,51370,gas,I4,22.0,5,5
+Nautilus,2019,Reserve,48875,gas,I4,23.0,5,5
+Nautilus,2019,Select,47040,gas,I4,22.0,5,5
+Nautilus,2019,Select,44545,gas,I4,23.0,5,5
+Navigator,2019,Base,73205,gas,V6,19.0,5,7
+Navigator,2019,Base,75860,gas,V6,18.0,5,7
+Navigator,2019,Black Label,96395,gas,V6,18.0,5,7
+Navigator,2019,L Black Label,99595,gas,V6,18.0,5,7
+Navigator,2019,L Reserve,88405,gas,V6,18.0,5,7
+Navigator,2019,L Select,80755,gas,V6,18.0,5,7
+Navigator,2019,L Select,83410,gas,V6,18.0,5,7
+Navigator,2019,Reserve,85205,gas,V6,18.0,5,7
+Navigator,2019,Select,77555,gas,V6,19.0,5,7
+Navigator,2019,Select,80210,gas,V6,18.0,5,7
+MKC,2018,Black Label,45975,gas,I4,23.0,5,5
+MKC,2018,Black Label,48380,gas,I4,21.0,5,5
+MKC,2018,Premiere,35765,gas,I4,21.0,5,5
+MKC,2018,Premiere,33355,gas,I4,23.0,5,5
+MKC,2018,Reserve,39985,gas,I4,23.0,5,5
+MKC,2018,Reserve,42395,gas,I4,21.0,5,5
+MKC,2018,Select,36110,gas,I4,23.0,5,5
+MKC,2018,Select,38520,gas,I4,21.0,5,5
+MKX,2018,Black Label,54230,gas,V6,20.0,5,5
+MKX,2018,Black Label,56725,gas,V6,19.0,5,5
+MKX,2018,Premiere,41530,gas,V6,19.0,5,5
+MKX,2018,Premiere,39035,gas,V6,20.0,5,5
+MKX,2018,Reserve,46560,gas,V6,20.0,5,5
+MKX,2018,Reserve,49055,gas,V6,19.0,5,5
+MKX,2018,Select,45045,gas,V6,19.0,5,5
+MKX,2018,Select,42550,gas,V6,20.0,5,5
+Navigator,2018,Black Label,93705,gas,V6,18.0,5,7
+Navigator,2018,L Black Label,96905,gas,V6,18.0,5,7
+Navigator,2018,L Reserve,84405,gas,V6,18.0,5,7
+Navigator,2018,L Select,79255,gas,V6,18.0,5,7
+Navigator,2018,L Select,81910,gas,V6,18.0,5,7
+Navigator,2018,Premiere,72055,gas,V6,19.0,5,7
+Navigator,2018,Premiere,74710,gas,V6,18.0,5,7
+Navigator,2018,Reserve,81205,gas,V6,18.0,5,7
+Navigator,2018,Select,76055,gas,V6,19.0,5,7
+Navigator,2018,Select,78710,gas,V6,18.0,5,7
+MKC,2017,Black Label,45475,gas,I4,23.0,5,5
+MKC,2017,Black Label,47880,gas,I4,21.0,5,5
+MKC,2017,Premiere,35130,gas,I4,21.0,5,5
+MKC,2017,Premiere,32720,gas,I4,23.0,5,5
+MKC,2017,Reserve,41895,gas,I4,21.0,5,5
+MKC,2017,Reserve,39485,gas,I4,23.0,5,5
+MKC,2017,Select,38125,gas,I4,21.0,5,5
+MKC,2017,Select,35720,gas,I4,23.0,5,5
+MKX,2017,Black Label,55970,gas,V6,19.0,5,5
+MKX,2017,Black Label,53475,gas,V6,20.0,5,5
+MKX,2017,Premiere,40755,gas,V6,19.0,5,5
+MKX,2017,Premiere,38260,gas,V6,20.0,5,5
+MKX,2017,Reserve,48055,gas,V6,19.0,5,5
+MKX,2017,Reserve,45560,gas,V6,20.0,5,5
+MKX,2017,Select,41550,gas,V6,20.0,5,5
+MKX,2017,Select,44045,gas,V6,19.0,5,5
+Navigator,2017,L Reserve,76645,gas,V6,16.0,5,7
+Navigator,2017,L Reserve,73650,gas,V6,17.0,5,7
+Navigator,2017,L Select,69135,gas,V6,16.0,5,7
+Navigator,2017,L Select,65560,gas,V6,17.0,5,7
+Navigator,2017,Reserve,71260,gas,V6,17.0,5,7
+Navigator,2017,Reserve,74260,gas,V6,17.0,5,7
+Navigator,2017,Select,63195,gas,V6,17.0,5,7
+Navigator,2017,Select,66770,gas,V6,17.0,5,7
+MKC,2016,Black Label,46455,gas,I4,23.0,5,5
+MKC,2016,Black Label,48950,gas,I4,22.0,5,5
+MKC,2016,Premiere,35755,gas,I4,22.0,5,5
+MKC,2016,Premiere,33260,gas,I4,23.0,5,5
+MKC,2016,Reserve,40460,gas,I4,23.0,5,5
+MKC,2016,Reserve,42955,gas,I4,22.0,5,5
+MKC,2016,Select,39585,gas,I4,22.0,5,5
+MKC,2016,Select,37090,gas,I4,23.0,5,5
+MKX,2016,Black Label,53475,gas,V6,21.0,5,5
+MKX,2016,Black Label,55970,gas,V6,20.0,5,5
+MKX,2016,Premiere,40755,gas,V6,20.0,5,5
+MKX,2016,Premiere,38260,gas,V6,21.0,5,5
+MKX,2016,Reserve,45315,gas,V6,21.0,5,5
+MKX,2016,Reserve,47810,gas,V6,20.0,5,5
+MKX,2016,Select,41550,gas,V6,21.0,5,5
+MKX,2016,Select,44045,gas,V6,20.0,5,5
+Navigator,2016,L Reserve,76650,gas,V6,16.0,5,7
+Navigator,2016,L Reserve,73645,gas,V6,17.0,5,7
+Navigator,2016,L Select,65560,gas,V6,17.0,5,7
+Navigator,2016,L Select,69135,gas,V6,16.0,5,7
+Navigator,2016,Reserve,71260,gas,V6,18.0,5,7
+Navigator,2016,Reserve,74260,gas,V6,17.0,5,7
+Navigator,2016,Select,63195,gas,V6,18.0,5,7
+Navigator,2016,Select,66770,gas,V6,17.0,5,7
+MKC,2015,Base,35595,gas,I4,22.0,5,5
+MKC,2015,Base,33100,gas,I4,23.0,5,5
+MKC,2015,Black Label,48525,gas,I4,22.0,5,5
+MKC,2015,Black Label,46030,gas,I4,23.0,5,5
+MKX,2015,Base,38900,gas,V6,21.0,5,5
+MKX,2015,Base,40850,gas,V6,19.0,5,5
+Navigator,2015,Base,65055,gas,V6,17.0,5,7
+Navigator,2015,Base,61480,gas,V6,18.0,5,7
+Navigator,2015,L,67220,gas,V6,16.0,5,7
+Navigator,2015,L,63645,gas,V6,17.0,5,7

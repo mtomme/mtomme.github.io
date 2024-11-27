@@ -1,0 +1,129 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+F-150,2020,XL,28745,gas,V6,22.0,2,3
+F-150,2020,XL,29045,gas,V6,22.0,2,3
+F-150,2020,XL,33690,gas,V6,20.0,2,3
+F-150,2020,XL,33390,gas,V6,20.0,2,3
+F-150,2020,XLT,38485,gas,V6,20.0,2,3
+F-150,2020,XLT,38185,gas,V6,20.0,2,3
+F-150,2020,XLT,34760,gas,V6,22.0,2,3
+F-150,2020,XLT,35060,gas,V6,22.0,2,3
+F-250 Super Duty,2020,XL,34035,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2020,XL,36825,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2020,XLT,38815,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2020,XLT,41615,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2020,XL,35550,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2020,XL,37040,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2020,XL,38350,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2020,XL,39835,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2020,XLT,41615,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2020,XLT,43140,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2020,XLT,44415,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2020,XLT,40340,flex-fuel (FFV),V8,,2,3
+F-450 Super Duty,2020,XL,50210,diesel,V8,,2,3
+F-450 Super Duty,2020,XL,53525,diesel,V8,,2,3
+F-450 Super Duty,2020,XLT,55985,diesel,V8,,2,3
+F-450 Super Duty,2020,XLT,59305,diesel,V8,,2,3
+F-150,2019,XL,32800,gas,V6,20.0,2,3
+F-150,2019,XL,33100,gas,V6,20.0,2,3
+F-150,2019,XL,28455,gas,V6,22.0,2,3
+F-150,2019,XL,28155,gas,V6,22.0,2,3
+F-150,2019,XLT,34160,gas,V6,22.0,2,3
+F-150,2019,XLT,34460,gas,V6,22.0,2,3
+F-150,2019,XLT,37585,gas,V6,20.0,2,3
+F-150,2019,XLT,37885,gas,V6,20.0,2,3
+F-250 Super Duty,2019,XL,33150,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2019,XL,35945,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2019,XLT,40165,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2019,XLT,37365,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2019,XL,34320,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2019,XL,37120,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2019,XL,38605,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2019,XL,35810,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2019,XLT,38545,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2019,XLT,39820,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2019,XLT,42620,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2019,XLT,41345,flex-fuel (FFV),V8,,2,3
+F-450 Super Duty,2019,XL,50690,diesel,V8,,2,3
+F-450 Super Duty,2019,XL,47375,diesel,V8,,2,3
+F-450 Super Duty,2019,XLT,52255,diesel,V8,,2,3
+F-450 Super Duty,2019,XLT,55570,diesel,V8,,2,3
+F-150,2018,XL,32650,gas,V6,20.0,2,3
+F-150,2018,XL,32350,gas,V6,20.0,2,3
+F-150,2018,XL,28005,gas,V6,22.0,2,3
+F-150,2018,XL,27705,gas,V6,22.0,2,3
+F-150,2018,XLT,33300,gas,V6,22.0,2,3
+F-150,2018,XLT,37025,gas,V6,20.0,2,3
+F-150,2018,XLT,36725,gas,V6,20.0,2,3
+F-150,2018,XLT,33600,gas,V6,22.0,2,3
+F-250 Super Duty,2018,XL,35780,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2018,XL,32985,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2018,XLT,37060,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2018,XLT,39860,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2018,XL,36955,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2018,XL,38440,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2018,XL,35645,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2018,XL,34155,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2018,XLT,38240,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2018,XLT,39510,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2018,XLT,42310,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2018,XLT,41040,flex-fuel (FFV),V8,,2,3
+F-150,2017,XL,27110,flex-fuel (FFV),V6,20.0,2,3
+F-150,2017,XL,27410,flex-fuel (FFV),V6,20.0,2,3
+F-150,2017,XL,31755,flex-fuel (FFV),V6,19.0,2,3
+F-150,2017,XL,32055,flex-fuel (FFV),V6,19.0,2,3
+F-150,2017,XLT,36205,flex-fuel (FFV),V6,19.0,2,3
+F-150,2017,XLT,35905,flex-fuel (FFV),V6,19.0,2,3
+F-150,2017,XLT,32785,flex-fuel (FFV),V6,20.0,2,3
+F-150,2017,XLT,32480,flex-fuel (FFV),V6,20.0,2,3
+F-250 Super Duty,2017,XL,35330,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2017,XL,32535,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2017,XLT,39540,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2017,XLT,36740,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2017,XL,33705,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2017,XL,36505,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2017,XL,37990,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2017,XL,35195,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2017,XLT,41990,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2017,XLT,40720,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2017,XLT,39190,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2017,XLT,37920,flex-fuel (FFV),V8,,2,3
+F-150,2016,XL,31485,flex-fuel (FFV),V6,19.0,2,3
+F-150,2016,XL,31185,flex-fuel (FFV),V6,19.0,2,3
+F-150,2016,XL,26840,flex-fuel (FFV),V6,20.0,2,3
+F-150,2016,XL,26540,flex-fuel (FFV),V6,20.0,2,3
+F-150,2016,XLT,35630,flex-fuel (FFV),V6,19.0,2,3
+F-150,2016,XLT,35330,flex-fuel (FFV),V6,19.0,2,3
+F-150,2016,XLT,32210,flex-fuel (FFV),V6,20.0,2,3
+F-150,2016,XLT,31905,flex-fuel (FFV),V6,20.0,2,3
+F-250 Super Duty,2016,XL,35180,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2016,XL,32385,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2016,XLT,36375,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2016,XLT,39175,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2016,XL,34485,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2016,XL,36080,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2016,XL,37280,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2016,XL,33280,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2016,XLT,41065,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2016,XLT,40075,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2016,XLT,38265,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2016,XLT,37275,flex-fuel (FFV),V8,,2,3
+F-150,2015,XL,26030,flex-fuel (FFV),V6,20.0,2,3
+F-150,2015,XL,30975,flex-fuel (FFV),V6,19.0,2,3
+F-150,2015,XL,30675,flex-fuel (FFV),V6,19.0,2,3
+F-150,2015,XL,26330,flex-fuel (FFV),V6,20.0,2,3
+F-150,2015,XLT,35045,flex-fuel (FFV),V6,19.0,2,3
+F-150,2015,XLT,34745,flex-fuel (FFV),V6,19.0,2,3
+F-150,2015,XLT,31625,flex-fuel (FFV),V6,20.0,2,3
+F-150,2015,XLT,31320,flex-fuel (FFV),V6,20.0,2,3
+F-250 Super Duty,2015,XL,31235,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2015,XL,34030,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2015,XLT,34995,flex-fuel (FFV),V8,,2,3
+F-250 Super Duty,2015,XLT,37795,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2015,XL,36130,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2015,XL,32130,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2015,XL,34930,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2015,XL,33335,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2015,XLT,35895,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2015,XLT,36885,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2015,XLT,38695,flex-fuel (FFV),V8,,2,3
+F-350 Super Duty,2015,XLT,39685,flex-fuel (FFV),V8,,2,3

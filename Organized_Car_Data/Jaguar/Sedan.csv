@@ -1,0 +1,223 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+XE,2020,R-Dynamic S,46295,gas,I4,25.0,4,5
+XE,2020,S,39900,gas,I4,28.0,4,5
+XE,2020,S,41900,gas,I4,28.0,4,5
+XF,2020,25t Premium,51100,gas,I4,28.0,4,5
+XF,2020,25t Premium,54100,gas,I4,27.0,4,5
+XF,2020,25t Prestige,55550,gas,I4,28.0,4,5
+XF,2020,25t Prestige,58550,gas,I4,27.0,4,5
+XF,2020,30t Checkered Flag Limited Edition,66600,gas,I4,25.0,4,5
+XF,2020,30t Prestige,61550,gas,I4,25.0,4,5
+XF,2020,30t Prestige,58550,gas,I4,26.0,4,5
+XF,2020,S,68200,gas,V6,23.0,4,5
+XE,2019,20d,41015,diesel,I4,34.0,4,5
+XE,2019,20d,38515,diesel,I4,36.0,4,5
+XE,2019,20d Landmark,52990,diesel,I4,34.0,4,5
+XE,2019,20d Landmark,50490,diesel,I4,36.0,4,5
+XE,2019,20d Premium,40775,diesel,I4,36.0,4,5
+XE,2019,20d Premium,43275,diesel,I4,34.0,4,5
+XE,2019,20d Prestige,45235,diesel,I4,36.0,4,5
+XE,2019,20d Prestige,47735,diesel,I4,34.0,4,5
+XE,2019,20d R-Sport,51845,diesel,I4,34.0,4,5
+XE,2019,20d R-Sport,49345,diesel,I4,36.0,4,5
+XE,2019,25t,36995,gas,I4,28.0,4,5
+XE,2019,25t,39495,gas,I4,28.0,4,5
+XE,2019,25t Landmark,48990,gas,I4,28.0,4,5
+XE,2019,25t Landmark,51490,gas,I4,28.0,4,5
+XE,2019,25t Premium,39275,gas,I4,28.0,4,5
+XE,2019,25t Premium,41775,gas,I4,28.0,4,5
+XE,2019,25t Prestige,46235,gas,I4,28.0,4,5
+XE,2019,25t Prestige,43735,gas,I4,28.0,4,5
+XE,2019,25t R-Sport,50345,gas,I4,28.0,4,5
+XE,2019,25t R-Sport,47845,gas,I4,28.0,4,5
+XE,2019,300 Sport Limited Edition,55900,gas,I4,25.0,4,5
+XE,2019,300 Sport Limited Edition,53400,gas,I4,27.0,4,5
+XE,2019,30t Portfolio Limited Edition,57590,gas,I4,27.0,4,5
+XE,2019,30t Portfolio Limited Edition,60090,gas,I4,25.0,4,5
+XE,2019,30t Premium,45575,gas,I4,25.0,4,5
+XE,2019,30t Premium,43075,gas,I4,27.0,4,5
+XE,2019,30t Prestige,47535,gas,I4,27.0,4,5
+XE,2019,30t Prestige,50035,gas,I4,25.0,4,5
+XE,2019,30t R-Sport,54135,gas,I4,25.0,4,5
+XE,2019,30t R-Sport,51635,gas,I4,27.0,4,5
+XE,2019,S,53785,gas,V6,24.0,4,5
+XE,2019,S,56285,gas,V6,23.0,4,5
+XE,2019,SV Project 8,187500,gas,V8,18.0,4,4
+XF,2019,20d Premium,51465,diesel,I4,35.0,4,5
+XF,2019,20d Premium,54465,diesel,I4,34.0,4,5
+XF,2019,20d Prestige,59485,diesel,I4,34.0,4,5
+XF,2019,20d Prestige,56485,diesel,I4,35.0,4,5
+XF,2019,25t Premium,52965,gas,I4,27.0,4,5
+XF,2019,25t Premium,49965,gas,I4,28.0,4,5
+XF,2019,25t Prestige,57985,gas,I4,27.0,4,5
+XF,2019,25t Prestige,54985,gas,I4,28.0,4,5
+XF,2019,30t 300 Sport,63810,gas,I4,26.0,4,5
+XF,2019,30t 300 Sport,66810,gas,I4,25.0,4,5
+XF,2019,30t Portfolio Limited Edition,70565,gas,I4,25.0,4,5
+XF,2019,30t Portfolio Limited Edition,67565,gas,I4,26.0,4,5
+XF,2019,30t Premium,55965,gas,I4,25.0,4,5
+XF,2019,30t Premium,52965,gas,I4,26.0,4,5
+XF,2019,30t Prestige,57985,gas,I4,26.0,4,5
+XF,2019,30t Prestige,60985,gas,I4,25.0,4,5
+XF,2019,S,67625,gas,V6,23.0,4,5
+XJ-Series,2019,R-Sport,75400,gas,V6,21.0,4,5
+XJ-Series,2019,R-Sport,78300,gas,V6,20.0,4,5
+XJ-Series,2019,Supercharged,93000,gas,V8,18.0,4,5
+XJ-Series,2019,XJ Collection,85000,gas,V8,18.0,4,5
+XJ-Series,2019,XJ50,87500,gas,V6,21.0,4,5
+XJ-Series,2019,XJ50,90400,gas,V6,20.0,4,5
+XJ-Series,2019,XJ50,99300,gas,V8,18.0,4,5
+XJ-Series,2019,XJL Portfolio,87400,gas,V6,20.0,4,5
+XJ-Series,2019,XJL Portfolio,84500,gas,V6,21.0,4,5
+XJ-Series,2019,XJL Supercharged,96300,gas,V8,18.0,4,5
+XJ-Series,2019,XJR575,122400,gas,V8,18.0,4,5
+XE,2018,20d,37225,diesel,I4,36.0,4,5
+XE,2018,20d,39725,diesel,I4,34.0,4,5
+XE,2018,20d Premium,39825,diesel,I4,36.0,4,5
+XE,2018,20d Premium,42325,diesel,I4,34.0,4,5
+XE,2018,20d Prestige,43725,diesel,I4,36.0,4,5
+XE,2018,20d Prestige,46225,diesel,I4,34.0,4,5
+XE,2018,20d R-Sport,49825,diesel,I4,34.0,4,5
+XE,2018,20d R-Sport,47325,diesel,I4,36.0,4,5
+XE,2018,25t,38225,gas,I4,28.0,4,5
+XE,2018,25t,35725,gas,I4,24.0,4,5
+XE,2018,25t Premium,38325,gas,I4,24.0,4,5
+XE,2018,25t Premium,40825,gas,I4,28.0,4,5
+XE,2018,25t Prestige,42225,gas,I4,24.0,4,5
+XE,2018,25t Prestige,44725,gas,I4,28.0,4,5
+XE,2018,25t R-Sport,45825,gas,I4,24.0,4,5
+XE,2018,25t R-Sport,48325,gas,I4,28.0,4,5
+XE,2018,30t Portfolio Limited Edition,59000,gas,I4,25.0,4,5
+XE,2018,30t Portfolio Limited Edition,56500,gas,I4,27.0,4,5
+XE,2018,30t Premium,42125,gas,I4,27.0,4,5
+XE,2018,30t Premium,44625,gas,I4,25.0,4,5
+XE,2018,30t Prestige,46025,gas,I4,27.0,4,5
+XE,2018,30t Prestige,48525,gas,I4,25.0,4,5
+XE,2018,30t R-Sport,52625,gas,I4,25.0,4,5
+XE,2018,30t R-Sport,50125,gas,I4,27.0,4,5
+XE,2018,35t Portfolio Limited Edition,59410,gas,V6,23.0,4,5
+XE,2018,35t Portfolio Limited Edition,56910,gas,V6,24.0,4,5
+XE,2018,35t Premium,42525,gas,V6,24.0,4,5
+XE,2018,35t Premium,45025,gas,V6,23.0,4,5
+XE,2018,35t Prestige,48925,gas,V6,23.0,4,5
+XE,2018,35t Prestige,46425,gas,V6,24.0,4,5
+XE,2018,35t R-Sport,50025,gas,V6,24.0,4,5
+XE,2018,35t R-Sport,52525,gas,V6,23.0,4,5
+XE,2018,S,54775,gas,V6,23.0,4,5
+XE,2018,S,52275,gas,V6,24.0,4,5
+XF,2018,20d,52275,diesel,I4,34.0,4,5
+XF,2018,20d,49275,diesel,I4,35.0,4,5
+XF,2018,20d Premium,54265,diesel,I4,34.0,4,5
+XF,2018,20d Premium,51265,diesel,I4,35.0,4,5
+XF,2018,20d Prestige,58725,diesel,I4,34.0,4,5
+XF,2018,20d Prestige,55725,diesel,I4,35.0,4,5
+XF,2018,20d R-Sport,62625,diesel,I4,34.0,4,5
+XF,2018,20d R-Sport,59625,diesel,I4,35.0,4,5
+XF,2018,25t,50775,gas,I4,27.0,4,5
+XF,2018,25t,47775,gas,I4,28.0,4,5
+XF,2018,25t Premium,49765,gas,I4,28.0,4,5
+XF,2018,25t Premium,52765,gas,I4,27.0,4,5
+XF,2018,25t Prestige,54225,gas,I4,28.0,4,5
+XF,2018,25t Prestige,57225,gas,I4,27.0,4,5
+XF,2018,25t R-Sport,61125,gas,I4,27.0,4,5
+XF,2018,25t R-Sport,58125,gas,I4,28.0,4,5
+XF,2018,30t Portfolio Limited Edition,67425,gas,I4,26.0,4,5
+XF,2018,30t Portfolio Limited Edition,70425,gas,I4,25.0,4,5
+XF,2018,30t Premium,52765,gas,I4,26.0,4,5
+XF,2018,30t Premium,55765,gas,I4,25.0,4,5
+XF,2018,30t Prestige,57225,gas,I4,26.0,4,5
+XF,2018,30t Prestige,60225,gas,I4,25.0,4,5
+XF,2018,30t R-Sport,64125,gas,I4,25.0,4,5
+XF,2018,30t R-Sport,61125,gas,I4,26.0,4,5
+XF,2018,35t Portfolio Limited Edition,71025,gas,V6,23.0,4,5
+XF,2018,35t Portfolio Limited Edition,68025,gas,V6,23.0,4,5
+XF,2018,35t Premium,56965,gas,V6,23.0,4,5
+XF,2018,35t Premium,53965,gas,V6,23.0,4,5
+XF,2018,35t Prestige,58425,gas,V6,23.0,4,5
+XF,2018,35t Prestige,61425,gas,V6,23.0,4,5
+XF,2018,35t R-Sport,65325,gas,V6,23.0,4,5
+XF,2018,35t R-Sport,62325,gas,V6,23.0,4,5
+XF,2018,S,66865,gas,V6,23.0,4,5
+XF,2018,S,63865,gas,V6,23.0,4,5
+XJ-Series,2018,R-Sport,78300,gas,V6,20.0,4,5
+XJ-Series,2018,R-Sport,75400,gas,V6,21.0,4,5
+XJ-Series,2018,Supercharged,93000,gas,V8,18.0,4,5
+XJ-Series,2018,XJL Portfolio,87400,gas,V6,20.0,4,5
+XJ-Series,2018,XJL Portfolio,84500,gas,V6,21.0,4,5
+XJ-Series,2018,XJL Supercharged,96300,gas,V8,18.0,4,5
+XJ-Series,2018,XJR575,122400,gas,V8,18.0,4,5
+XE,2017,20d,38900,diesel,I4,34.0,4,5
+XE,2017,20d,36400,diesel,I4,36.0,4,5
+XE,2017,20d Premium,39000,diesel,I4,36.0,4,5
+XE,2017,20d Premium,41500,diesel,I4,34.0,4,5
+XE,2017,20d Prestige,42900,diesel,I4,36.0,4,5
+XE,2017,20d Prestige,45400,diesel,I4,34.0,4,5
+XE,2017,20d R-Sport,49000,diesel,I4,34.0,4,5
+XE,2017,20d R-Sport,46500,diesel,I4,36.0,4,5
+XE,2017,25t,34900,gas,I4,24.0,4,5
+XE,2017,25t Premium,37500,gas,I4,24.0,4,5
+XE,2017,25t Prestige,41400,gas,I4,24.0,4,5
+XE,2017,35t Premium,44200,gas,V6,23.0,4,5
+XE,2017,35t Premium,41700,gas,V6,24.0,4,5
+XE,2017,35t Prestige,45600,gas,V6,24.0,4,5
+XE,2017,35t Prestige,48100,gas,V6,23.0,4,5
+XE,2017,35t R-Sport,49200,gas,V6,24.0,4,5
+XE,2017,35t R-Sport,51700,gas,V6,23.0,4,5
+XF,2017,20d,50450,diesel,I4,34.0,4,5
+XF,2017,20d,47450,diesel,I4,35.0,4,5
+XF,2017,20d Premium,49550,diesel,I4,35.0,4,5
+XF,2017,20d Premium,52550,diesel,I4,34.0,4,5
+XF,2017,20d Prestige,57200,diesel,I4,34.0,4,5
+XF,2017,20d Prestige,54200,diesel,I4,35.0,4,5
+XF,2017,20d R-Sport,61300,diesel,I4,34.0,4,5
+XF,2017,20d R-Sport,58300,diesel,I4,35.0,4,5
+XF,2017,35t,53490,gas,V6,23.0,4,5
+XF,2017,35t,50490,gas,V6,23.0,4,5
+XF,2017,35t Premium,51900,gas,V6,23.0,4,5
+XF,2017,35t Premium,54900,gas,V6,23.0,4,5
+XF,2017,35t Prestige,56550,gas,V6,23.0,4,5
+XF,2017,35t Prestige,59550,gas,V6,23.0,4,5
+XF,2017,35t R-Sport,63650,gas,V6,23.0,4,5
+XF,2017,35t R-Sport,60650,gas,V6,23.0,4,5
+XF,2017,S,62700,gas,V6,23.0,4,5
+XF,2017,S,65700,gas,V6,23.0,4,5
+XJ-Series,2017,R-Sport,77900,gas,V6,20.0,4,5
+XJ-Series,2017,R-Sport,74400,gas,V6,21.0,4,5
+XJ-Series,2017,Supercharged,92000,gas,V8,18.0,4,5
+XJ-Series,2017,XJL Portfolio,83200,gas,V6,21.0,4,5
+XJ-Series,2017,XJL Portfolio,86700,gas,V6,20.0,4,5
+XJ-Series,2017,XJL Supercharged,95000,gas,V8,18.0,4,5
+XJ-Series,2017,XJR,118000,gas,V8,18.0,4,5
+XJ-Series,2017,XJR LWB,121000,gas,V8,18.0,4,5
+XF,2016,35t Premium,51900,gas,V6,24.0,4,5
+XF,2016,35t Premium,54900,gas,V6,23.0,4,5
+XF,2016,35t Prestige,56550,gas,V6,24.0,4,5
+XF,2016,35t Prestige,59550,gas,V6,23.0,4,5
+XF,2016,35t R-Sport,60650,gas,V6,24.0,4,5
+XF,2016,35t R-Sport,63650,gas,V6,23.0,4,5
+XF,2016,S,65700,gas,V6,23.0,4,5
+XF,2016,S,62700,gas,V6,24.0,4,5
+XJ-Series,2016,R-Sport,74400,gas,V6,21.0,4,5
+XJ-Series,2016,R-Sport,77900,gas,V6,20.0,4,5
+XJ-Series,2016,Supercharged,92000,gas,V8,18.0,4,5
+XJ-Series,2016,XJL Portfolio,83200,gas,V6,21.0,4,5
+XJ-Series,2016,XJL Portfolio,86700,gas,V6,20.0,4,5
+XJ-Series,2016,XJL Supercharged,95000,gas,V8,18.0,4,5
+XJ-Series,2016,XJR,118000,gas,V8,18.0,4,5
+XJ-Series,2016,XJR LWB,121000,gas,V8,18.0,4,5
+XF,2015,Portfolio,57175,gas,V6,22.0,4,5
+XF,2015,Portfolio,59875,gas,V6,20.0,4,5
+XF,2015,Premium,50175,gas,I4,23.0,4,5
+XF,2015,Sport,59875,gas,V6,20.0,4,5
+XF,2015,Sport,57175,gas,V6,22.0,4,5
+XF,2015,Supercharged,70875,flex-fuel (FFV),V8,18.0,4,5
+XF,2015,XFR,83550,flex-fuel (FFV),V8,18.0,4,5
+XF,2015,XFR-S,99000,gas,V8,18.0,4,5
+XJ-Series,2015,Base,77700,gas,V6,19.0,4,5
+XJ-Series,2015,Base,74200,flex-fuel (FFV),V6,21.0,4,5
+XJ-Series,2015,Supercharged,90600,flex-fuel (FFV),V8,18.0,4,5
+XJ-Series,2015,XJL Portfolio,84700,gas,V6,19.0,4,5
+XJ-Series,2015,XJL Portfolio,81200,flex-fuel (FFV),V6,20.0,4,5
+XJ-Series,2015,XJL Supercharged,93600,flex-fuel (FFV),V8,18.0,4,5
+XJ-Series,2015,XJR,116000,gas,V8,18.0,4,5
+XJ-Series,2015,XJR LWB,119000,gas,V8,18.0,4,5

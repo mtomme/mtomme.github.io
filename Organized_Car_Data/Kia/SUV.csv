@@ -1,0 +1,153 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Niro,2020,EX Premium,32790,hybrid,I4,49.0,5,5
+Niro,2020,LX,24590,hybrid,I4,50.0,5,5
+Niro,2020,LXS,25990,hybrid,I4,49.0,5,5
+Niro,2020,Touring,28290,hybrid,I4,43.0,5,5
+Niro,2020,Touring SE,30790,hybrid,I4,43.0,5,5
+Niro EV,2020,EX,39090,electric,,,5,5
+Niro EV,2020,EX Premium,44590,electric,,,5,5
+Niro Plug-In Hybrid,2020,EX,33290,plug-in hybrid,I4,46.0,5,5
+Niro Plug-In Hybrid,2020,EX Premium,36390,plug-in hybrid,I4,46.0,5,5
+Niro Plug-In Hybrid,2020,LXS,29490,plug-in hybrid,I4,46.0,5,5
+Sorento,2020,EX,35490,gas,V6,22.0,5,7
+Sorento,2020,EX,37290,gas,V6,20.0,5,7
+Sorento,2020,L,26990,gas,I4,25.0,5,7
+Sorento,2020,LX,28090,gas,I4,25.0,5,7
+Sorento,2020,LX,29890,gas,I4,23.0,5,7
+Sorento,2020,S,33190,gas,V6,22.0,5,7
+Sorento,2020,S,34990,gas,V6,20.0,5,7
+Sorento,2020,SX,40090,gas,V6,22.0,5,7
+Sorento,2020,SX,41890,gas,V6,20.0,5,7
+Sportage,2020,EX,28790,gas,I4,23.0,5,5
+Sportage,2020,EX,27290,gas,I4,26.0,5,5
+Sportage,2020,LX,25490,gas,I4,23.0,5,5
+Sportage,2020,LX,23990,gas,I4,26.0,5,5
+Sportage,2020,S,27840,gas,I4,23.0,5,5
+Sportage,2020,S,26140,gas,I4,26.0,5,5
+Sportage,2020,SX Turbo,35090,gas,I4,21.0,5,5
+Sportage,2020,SX Turbo,33590,gas,I4,23.0,5,5
+Telluride,2020,EX,39290,gas,V6,21.0,5,8
+Telluride,2020,EX,37290,gas,V6,23.0,5,8
+Telluride,2020,LX,33890,gas,V6,21.0,5,8
+Telluride,2020,LX,31890,gas,V6,23.0,5,8
+Telluride,2020,S,36290,gas,V6,21.0,5,7
+Telluride,2020,S,34290,gas,V6,23.0,5,7
+Telluride,2020,SX,43790,gas,V6,21.0,5,7
+Telluride,2020,SX,41790,gas,V6,23.0,5,7
+Niro,2019,EX,26400,hybrid,I4,49.0,5,5
+Niro,2019,FE,23490,hybrid,I4,50.0,5,5
+Niro,2019,LX,23900,hybrid,I4,49.0,5,5
+Niro,2019,S Touring,28800,hybrid,I4,43.0,5,5
+Niro,2019,Touring,32250,hybrid,I4,43.0,5,5
+Niro EV,2019,EX,38500,electric,,,5,5
+Niro EV,2019,EX Premium,44000,electric,,,5,5
+Niro Plug-In Hybrid,2019,EX,32100,plug-in hybrid,I4,46.0,5,5
+Niro Plug-In Hybrid,2019,EX Premium,35200,plug-in hybrid,I4,46.0,5,5
+Niro Plug-In Hybrid,2019,LX,28500,plug-in hybrid,I4,46.0,5,5
+Sorento,2019,EX,37390,gas,V6,21.0,5,7
+Sorento,2019,EX,35590,gas,V6,22.0,5,7
+Sorento,2019,EX Sport,34990,gas,V6,22.0,5,7
+Sorento,2019,EX Sport,36790,gas,V6,21.0,5,7
+Sorento,2019,L,26290,gas,I4,25.0,5,7
+Sorento,2019,LX,33090,gas,V6,21.0,5,7
+Sorento,2019,LX,31290,gas,V6,22.0,5,7
+Sorento,2019,LX,29450,gas,I4,23.0,5,7
+Sorento,2019,LX,27650,gas,I4,25.0,5,7
+Sorento,2019,S,34490,gas,V6,21.0,5,7
+Sorento,2019,S,32690,gas,V6,22.0,5,7
+Sorento,2019,SX,39990,gas,V6,22.0,5,7
+Sorento,2019,SX,41790,gas,V6,21.0,5,7
+Sorento,2019,SX Limited,46490,gas,V6,21.0,5,7
+Sorento,2019,SX Limited,44690,gas,V6,22.0,5,7
+Sportage,2019,EX,26600,gas,I4,25.0,5,5
+Sportage,2019,EX,28100,gas,I4,23.0,5,5
+Sportage,2019,LX,23750,gas,I4,26.0,5,5
+Sportage,2019,LX,25250,gas,I4,22.0,5,5
+Sportage,2019,SX,34600,gas,I4,21.0,5,5
+Sportage,2019,SX,33100,gas,I4,23.0,5,5
+Niro,2018,EX,26150,hybrid,I4,49.0,5,5
+Niro,2018,FE,23340,hybrid,I4,50.0,5,5
+Niro,2018,LX,23650,hybrid,I4,49.0,5,5
+Niro,2018,Touring,32000,hybrid,I4,43.0,5,5
+Niro Plug-In Hybrid,2018,EX,31500,plug-in hybrid,I4,46.0,5,5
+Niro Plug-In Hybrid,2018,EX Premium,34500,plug-in hybrid,I4,46.0,5,5
+Niro Plug-In Hybrid,2018,LX,27900,plug-in hybrid,I4,46.0,5,5
+Sorento,2018,EX,36000,gas,V6,21.0,5,7
+Sorento,2018,EX,34900,gas,I4,22.0,5,5
+Sorento,2018,EX,34200,gas,V6,20.0,5,7
+Sorento,2018,EX,33100,gas,I4,23.0,5,5
+Sorento,2018,L,25900,gas,I4,24.0,5,5
+Sorento,2018,LX,31400,gas,V6,21.0,5,7
+Sorento,2018,LX,29990,gas,I4,22.0,5,5
+Sorento,2018,LX,29600,gas,V6,20.0,5,7
+Sorento,2018,LX,27200,gas,I4,24.0,5,5
+Sorento,2018,SX,41000,gas,V6,19.0,5,7
+Sorento,2018,SX,39200,gas,V6,20.0,5,7
+Sorento,2018,SX Limited,46300,gas,V6,19.0,5,7
+Sorento,2018,SX Limited,44500,gas,V6,20.0,5,7
+Sportage,2018,EX,27900,gas,I4,23.0,5,5
+Sportage,2018,EX,26400,gas,I4,25.0,5,5
+Sportage,2018,LX,25100,gas,I4,22.0,5,5
+Sportage,2018,LX,23600,gas,I4,26.0,5,5
+Sportage,2018,SX,34400,gas,I4,21.0,5,5
+Sportage,2018,SX,32900,gas,I4,23.0,5,5
+Niro,2017,EX,25700,hybrid,I4,49.0,5,5
+Niro,2017,FE,22890,hybrid,I4,50.0,5,5
+Niro,2017,LX,23200,hybrid,I4,49.0,5,5
+Niro,2017,Touring,29650,hybrid,I4,43.0,5,5
+Sorento,2017,EX,35100,gas,V6,21.0,5,7
+Sorento,2017,EX,33500,gas,I4,22.0,5,5
+Sorento,2017,EX,33300,gas,V6,20.0,5,7
+Sorento,2017,EX,31700,gas,I4,23.0,5,5
+Sorento,2017,L,25600,gas,I4,24.0,5,5
+Sorento,2017,Limited,45900,gas,V6,19.0,5,7
+Sorento,2017,Limited,44100,gas,V6,20.0,5,7
+Sorento,2017,LX,26900,gas,I4,24.0,5,5
+Sorento,2017,LX,31000,gas,V6,21.0,5,7
+Sorento,2017,LX,29200,gas,V6,20.0,5,7
+Sorento,2017,LX,28700,gas,I4,22.0,5,5
+Sorento,2017,SX,40600,gas,V6,19.0,5,7
+Sorento,2017,SX,38800,gas,V6,20.0,5,7
+Sportage,2017,EX,27200,gas,I4,23.0,5,5
+Sportage,2017,EX,25700,gas,I4,25.0,5,5
+Sportage,2017,LX,24700,gas,I4,23.0,5,5
+Sportage,2017,LX,23200,gas,I4,25.0,5,5
+Sportage,2017,SX,34200,gas,I4,21.0,5,5
+Sportage,2017,SX,32700,gas,I4,23.0,5,5
+Sorento,2016,EX,33900,gas,V6,21.0,5,7
+Sorento,2016,EX,32900,gas,I4,22.0,5,5
+Sorento,2016,EX,32100,gas,V6,21.0,5,7
+Sorento,2016,EX,31100,gas,I4,23.0,5,5
+Sorento,2016,L,25100,gas,I4,24.0,5,5
+Sorento,2016,Limited,41700,gas,I4,22.0,5,5
+Sorento,2016,Limited,43300,gas,V6,19.0,5,7
+Sorento,2016,Limited,41500,gas,V6,21.0,5,7
+Sorento,2016,Limited,39900,gas,I4,23.0,5,5
+Sorento,2016,LX,26400,gas,I4,24.0,5,5
+Sorento,2016,LX,30500,gas,V6,21.0,5,7
+Sorento,2016,LX,28700,gas,V6,21.0,5,7
+Sorento,2016,LX,28200,gas,I4,23.0,5,5
+Sorento,2016,SX,40100,gas,V6,19.0,5,7
+Sorento,2016,SX,38300,gas,V6,21.0,5,7
+Sportage,2016,EX,26850,gas,I4,22.0,5,5
+Sportage,2016,EX,25350,gas,I4,24.0,5,5
+Sportage,2016,LX,23650,gas,I4,22.0,5,5
+Sportage,2016,LX,22150,gas,I4,24.0,5,5
+Sportage,2016,SX,29990,gas,I4,22.0,5,5
+Sportage,2016,SX,31490,gas,I4,21.0,5,5
+Sorento,2015,EX,31700,gas,V6,21.0,5,7
+Sorento,2015,EX,33500,gas,V6,20.0,5,7
+Sorento,2015,Limited,39900,gas,V6,21.0,5,7
+Sorento,2015,Limited,41700,gas,V6,20.0,5,7
+Sorento,2015,LX,24300,gas,I4,23.0,5,5
+Sorento,2015,LX,28500,gas,V6,20.0,5,7
+Sorento,2015,LX,26700,gas,V6,21.0,5,7
+Sorento,2015,LX,26100,gas,I4,22.0,5,5
+Sorento,2015,SX,36700,gas,V6,21.0,5,7
+Sorento,2015,SX,38500,gas,V6,20.0,5,7
+Sportage,2015,EX,26800,gas,I4,22.0,5,5
+Sportage,2015,EX,25300,gas,I4,24.0,5,5
+Sportage,2015,LX,21900,gas,I4,24.0,5,5
+Sportage,2015,LX,23400,gas,I4,22.0,5,5
+Sportage,2015,SX,29600,gas,I4,21.0,5,5
+Sportage,2015,SX,28100,gas,I4,23.0,5,5

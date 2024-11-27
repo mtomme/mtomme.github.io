@@ -1,0 +1,81 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+V60,2020,T5 Inscription,45400,gas,I4,27.0,5,5
+V60,2020,T5 Momentum,39650,gas,I4,27.0,5,5
+V60,2020,T5 R-Design,45400,gas,I4,27.0,5,5
+V60,2020,T8 Polestar Engineered,67300,plug-in hybrid,I4,30.0,5,5
+V60 Cross Country,2020,T5,45100,gas,I4,25.0,5,5
+V90,2020,T5 Inscription,53450,gas,I4,26.0,5,5
+V90,2020,T5 R-Design,51450,gas,I4,26.0,5,5
+V90,2020,T6 Inscription,59450,gas,I4,25.0,5,5
+V90,2020,T6 R-Design,57450,gas,I4,25.0,5,5
+V90 Cross Country,2020,T6,54550,gas,I4,24.0,5,5
+V60,2019,T5 Momentum,38900,gas,I4,28.0,5,5
+V60,2019,T5 R-Design,43900,gas,I4,28.0,5,5
+V60,2019,T6 Inscription,49400,gas,I4,25.0,5,5
+V60,2019,T6 Momentum,43400,gas,I4,25.0,5,5
+V60,2019,T6 R-Design,48400,gas,I4,25.0,5,5
+V90,2019,T5 Inscription,53450,gas,I4,27.0,5,5
+V90,2019,T5 R-Design,51450,gas,I4,27.0,5,5
+V90,2019,T6 Inscription,59450,gas,I4,25.0,5,5
+V90,2019,T6 R-Design,57450,gas,I4,25.0,5,5
+V90 Cross Country,2019,T5,52550,gas,I4,25.0,5,5
+V90 Cross Country,2019,T6,56350,gas,I4,24.0,5,5
+V90 Cross Country,2019,T6 Volvo Ocean Race,60500,gas,I4,24.0,5,5
+V60,2018,Polestar,61600,gas,I4,22.0,5,5
+V60,2018,T5 Dynamic,38250,gas,I4,29.0,5,5
+V60,2018,T6 R-Design,49100,gas,I4,26.0,5,5
+V60 Cross Country,2018,T5,41850,gas,I4,25.0,5,5
+V60 Cross Country,2018,T5 Platinum,45700,gas,I4,25.0,5,5
+V90,2018,T5 Inscription,51950,gas,I4,27.0,5,5
+V90,2018,T5 R-Design,49950,gas,I4,27.0,5,5
+V90,2018,T6 Inscription,57950,gas,I4,25.0,5,5
+V90,2018,T6 R-Design,55950,gas,I4,25.0,5,5
+V90 Cross Country,2018,T5,52300,gas,I4,26.0,5,5
+V90 Cross Country,2018,T6,56100,gas,I4,25.0,5,5
+V90 Cross Country,2018,T6 Volvo Ocean Race,60500,gas,I4,25.0,5,5
+V60,2017,T5,36150,gas,I4,29.0,5,5
+V60,2017,T5 Dynamic,39300,gas,I4,29.0,5,5
+V60,2017,T5 Platinum,41950,gas,I4,29.0,5,5
+V60,2017,T5 Premier,38100,gas,I4,29.0,5,5
+V60,2017,T6 Polestar,61600,gas,I4,23.0,5,5
+V60,2017,T6 R-Design,48950,gas,I4,26.0,5,5
+V60 Cross Country,2017,T5,41700,gas,I4,25.0,5,5
+V60 Cross Country,2017,T5 Platinum,45550,gas,I4,25.0,5,5
+V90 Cross Country,2017,T6,55300,gas,I4,25.0,5,5
+V60,2016,T5,37650,gas,I5,23.0,5,5
+V60,2016,T5 Drive-E,36150,gas,I4,37.0,5,5
+V60,2016,T5 Drive-E Platinum,41750,gas,I4,37.0,5,5
+V60,2016,T5 Drive-E Premier,38100,gas,I4,37.0,5,5
+V60,2016,T5 Platinum,43520,gas,I5,23.0,5,5
+V60,2016,T5 Premier,39600,gas,I5,23.0,5,5
+V60,2016,T6 Drive-E R-Design,46050,gas,I4,25.0,5,5
+V60,2016,T6 Drive-E R-Design Platinum,49450,gas,I4,25.0,5,5
+V60,2016,T6 Polestar,61300,gas,I6,21.0,5,5
+V60,2016,T6 R-Design,45800,gas,I6,21.0,5,5
+V60,2016,T6 R-Design Platinum,49200,gas,I6,21.0,5,5
+V60 Cross Country,2016,T5,41200,gas,I5,23.0,5,5
+V60 Cross Country,2016,T5 Platinum,44850,gas,I5,23.0,5,5
+XC70,2016,T5,38600,gas,I5,22.0,5,5
+XC70,2016,T5 Classic Platinum,48175,gas,I5,22.0,5,5
+XC70,2016,T5 Classic Premier,43050,gas,I5,22.0,5,5
+XC70,2016,T5 Drive-E,37100,gas,I4,26.0,5,5
+XC70,2016,T5 Drive-E Classic Platinum,46675,gas,I4,26.0,5,5
+XC70,2016,T5 Drive-E Classic Premier,41550,gas,I4,26.0,5,5
+XC70,2016,T5 Drive-E Platinum,45675,gas,I4,26.0,5,5
+XC70,2016,T5 Drive-E Premier,40550,gas,I4,26.0,5,5
+XC70,2016,T5 Platinum,47175,gas,I5,22.0,5,5
+XC70,2016,T5 Premier,42050,gas,I5,22.0,5,5
+V60,2015,T5,37250,gas,I5,23.0,5,5
+V60,2015,T5,37450,gas,I5,23.0,5,5
+V60,2015,T5 Drive-E,35950,gas,I4,29.0,5,5
+V60,2015,T5 Drive-E,35750,gas,I4,29.0,5,5
+V60,2015,T6 R-Design,45400,gas,I6,22.0,5,5
+V60,2015,T6 R-Design,45150,gas,I6,22.0,5,5
+V60 Cross Country,2015,T5,41000,gas,I5,23.0,5,5
+V60 Cross Country,2015,T5 Platinum,44650,gas,I5,23.0,5,5
+XC70,2015,3.2,36900,gas,I6,21.0,5,5
+XC70,2015,3.2,37550,gas,I6,21.0,5,5
+XC70,2015,T5 Drive-E,35400,gas,I4,27.0,5,5
+XC70,2015,T5 Drive-E,36050,gas,I4,27.0,5,5
+XC70,2015,T6,42050,gas,I6,20.0,5,5
+XC70,2015,T6,41800,gas,I6,20.0,5,5

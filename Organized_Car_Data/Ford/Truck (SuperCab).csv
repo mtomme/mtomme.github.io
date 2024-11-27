@@ -1,0 +1,269 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+F-150,2020,Lariat,46675,gas,V6,20.0,4,6
+F-150,2020,Lariat,47925,flex-fuel (FFV),V8,18.0,4,6
+F-150,2020,Lariat,43550,gas,V6,22.0,4,6
+F-150,2020,Lariat,43250,gas,V6,22.0,4,6
+F-150,2020,Raptor,53455,gas,V6,16.0,4,5
+F-150,2020,XL,36260,gas,V6,20.0,4,6
+F-150,2020,XL,38515,flex-fuel (FFV),V8,18.0,4,6
+F-150,2020,XL,34135,gas,V6,22.0,4,6
+F-150,2020,XL,32830,gas,V6,22.0,4,6
+F-150,2020,XLT,43350,flex-fuel (FFV),V8,18.0,4,6
+F-150,2020,XLT,41095,gas,V6,20.0,4,6
+F-150,2020,XLT,38975,gas,V6,22.0,4,6
+F-150,2020,XLT,37670,gas,V6,22.0,4,6
+F-250 Super Duty,2020,Lariat,46930,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2020,Lariat,47130,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2020,Lariat,50115,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2020,Lariat,50320,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2020,XL,39370,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2020,XL,36370,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2020,XL,36570,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2020,XL,39160,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2020,XLT,44485,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2020,XLT,44285,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2020,XLT,41680,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2020,XLT,41480,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,Lariat,53325,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2020,Lariat,51840,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2020,Lariat,51640,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2020,Lariat,50135,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2020,Lariat,48650,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2020,Lariat,48450,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2020,XL,37885,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,XL,38090,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,XL,39575,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,XL,40690,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,XL,40885,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,XL,42370,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,XLT,44480,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,XLT,43000,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,XLT,43200,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,XLT,45805,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,XLT,46010,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2020,XLT,47275,flex-fuel (FFV),V8,,4,6
+Ranger,2020,Lariat,32500,gas,I4,23.0,4,4
+Ranger,2020,Lariat,36500,gas,I4,22.0,4,4
+Ranger,2020,XL,28570,gas,I4,22.0,4,4
+Ranger,2020,XL,24410,gas,I4,23.0,4,4
+Ranger,2020,XLT,32460,gas,I4,22.0,4,4
+Ranger,2020,XLT,28460,gas,I4,23.0,4,4
+F-150,2019,Lariat,42500,gas,V6,22.0,4,6
+F-150,2019,Lariat,42200,gas,V6,22.0,4,6
+F-150,2019,Lariat,45625,gas,V6,21.0,4,6
+F-150,2019,Lariat,46875,flex-fuel (FFV),V8,18.0,4,6
+F-150,2019,Raptor,52855,gas,V6,16.0,4,5
+F-150,2019,XL,35670,gas,V6,20.0,4,6
+F-150,2019,XL,32240,gas,V6,22.0,4,6
+F-150,2019,XL,33545,gas,V6,22.0,4,6
+F-150,2019,XL,37925,flex-fuel (FFV),V8,18.0,4,6
+F-150,2019,XLT,37070,gas,V6,22.0,4,6
+F-150,2019,XLT,42750,flex-fuel (FFV),V8,18.0,4,6
+F-150,2019,XLT,40495,gas,V6,20.0,4,6
+F-150,2019,XLT,38375,gas,V6,22.0,4,6
+F-250 Super Duty,2019,Lariat,49530,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2019,Lariat,49325,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2019,Lariat,46340,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2019,Lariat,46140,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2019,XL,38490,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2019,XL,38280,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2019,XL,35485,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2019,XL,35685,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2019,XLT,42835,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2019,XLT,40030,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2019,XLT,43035,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2019,XLT,40230,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,Lariat,47310,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2019,Lariat,48995,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2019,Lariat,47510,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2019,Lariat,50500,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2019,Lariat,50700,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2019,Lariat,52185,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2019,XL,36660,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,XL,38345,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,XL,36860,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,XL,39460,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,XL,41140,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,XL,39660,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,XLT,41405,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,XLT,45480,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,XLT,42680,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,XLT,44210,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,XLT,41205,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2019,XLT,44010,flex-fuel (FFV),V8,,4,6
+Ranger,2019,Lariat,36390,gas,I4,22.0,4,4
+Ranger,2019,Lariat,32390,gas,I4,23.0,4,4
+Ranger,2019,XL,28460,gas,I4,22.0,4,4
+Ranger,2019,XL,24300,gas,I4,23.0,4,4
+Ranger,2019,XLT,28120,gas,I4,23.0,4,4
+Ranger,2019,XLT,32120,gas,I4,22.0,4,4
+F-150,2018,Lariat,44940,gas,V6,21.0,4,6
+F-150,2018,Lariat,41815,gas,V6,22.0,4,6
+F-150,2018,Lariat,46190,gas,V8,18.0,4,6
+F-150,2018,Lariat,41515,gas,V6,22.0,4,6
+F-150,2018,Raptor,50115,gas,V6,16.0,4,5
+F-150,2018,XL,31790,gas,V6,22.0,4,6
+F-150,2018,XL,33095,gas,V6,22.0,4,6
+F-150,2018,XL,37475,gas,V8,18.0,4,6
+F-150,2018,XL,35220,gas,V6,20.0,4,6
+F-150,2018,XLT,41890,gas,V8,18.0,4,6
+F-150,2018,XLT,39635,gas,V6,20.0,4,6
+F-150,2018,XLT,37515,gas,V6,22.0,4,6
+F-150,2018,XLT,36210,gas,V6,22.0,4,6
+F-250 Super Duty,2018,Lariat,45645,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2018,Lariat,45845,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2018,Lariat,48830,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2018,Lariat,49035,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2018,XL,38115,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2018,XL,35520,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2018,XL,35320,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2018,XL,38325,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2018,XLT,42525,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2018,XLT,39720,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2018,XLT,39920,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2018,XLT,42725,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,Lariat,47015,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2018,Lariat,46815,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2018,Lariat,48500,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2018,Lariat,50005,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2018,Lariat,50205,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2018,Lariat,51690,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2018,XL,40957,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,XL,39495,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,XL,39295,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,XL,38180,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,XL,36695,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,XL,36495,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,XLT,45175,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,XLT,43900,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,XLT,43705,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,XLT,42370,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,XLT,40900,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2018,XLT,41100,flex-fuel (FFV),V8,,4,6
+F-150,2017,Lariat,44290,gas,V6,20.0,4,6
+F-150,2017,Lariat,45340,flex-fuel (FFV),V8,17.0,4,6
+F-150,2017,Lariat,41165,gas,V6,22.0,4,6
+F-150,2017,Lariat,40865,gas,V6,22.0,4,6
+F-150,2017,Raptor,49265,gas,V6,16.0,4,5
+F-150,2017,XL,36660,flex-fuel (FFV),V8,17.0,4,6
+F-150,2017,XL,34625,flex-fuel (FFV),V6,19.0,4,6
+F-150,2017,XL,32500,gas,V6,22.0,4,6
+F-150,2017,XL,31195,flex-fuel (FFV),V6,20.0,4,6
+F-150,2017,XLT,35390,flex-fuel (FFV),V6,20.0,4,6
+F-150,2017,XLT,36695,gas,V6,22.0,4,6
+F-150,2017,XLT,38815,flex-fuel (FFV),V6,19.0,4,6
+F-150,2017,XLT,40870,flex-fuel (FFV),V8,17.0,4,6
+F-250 Super Duty,2017,Lariat,45305,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2017,Lariat,45505,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2017,Lariat,48490,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2017,Lariat,48695,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2017,XL,34870,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2017,XL,35070,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2017,XL,37670,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2017,XL,37875,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2017,XLT,39600,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2017,XLT,42205,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2017,XLT,42405,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2017,XLT,39400,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,Lariat,49665,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2017,Lariat,49865,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2017,Lariat,51350,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2017,Lariat,46475,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2017,Lariat,46675,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2017,Lariat,48160,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2017,XL,36045,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,XL,36245,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,XL,37730,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,XL,38845,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,XL,39045,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,XL,40525,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,XLT,42050,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,XLT,43385,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,XLT,40580,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,XLT,40780,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,XLT,44855,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2017,XLT,43580,flex-fuel (FFV),V8,,4,6
+F-150,2016,Lariat,40065,gas,V6,22.0,4,6
+F-150,2016,Lariat,40365,gas,V6,22.0,4,6
+F-150,2016,Lariat,43490,gas,V6,20.0,4,6
+F-150,2016,Lariat,44540,flex-fuel (FFV),V8,17.0,4,6
+F-150,2016,XL,31710,gas,V6,22.0,4,6
+F-150,2016,XL,30600,flex-fuel (FFV),V6,20.0,4,6
+F-150,2016,XL,34025,flex-fuel (FFV),V6,19.0,4,6
+F-150,2016,XL,35870,flex-fuel (FFV),V8,17.0,4,6
+F-150,2016,XLT,38215,flex-fuel (FFV),V6,19.0,4,6
+F-150,2016,XLT,40070,flex-fuel (FFV),V8,17.0,4,6
+F-150,2016,XLT,35895,gas,V6,22.0,4,6
+F-150,2016,XLT,34790,flex-fuel (FFV),V6,20.0,4,6
+F-250 Super Duty,2016,Lariat,44995,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2016,Lariat,44795,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2016,Lariat,47980,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2016,Lariat,48185,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2016,XL,34780,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2016,XL,34580,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2016,XL,37380,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2016,XL,37585,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2016,XLT,38875,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2016,XLT,39075,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2016,XLT,41680,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2016,XLT,41880,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,Lariat,48880,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2016,Lariat,47090,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2016,Lariat,49080,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2016,Lariat,50280,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2016,Lariat,45690,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2016,Lariat,45890,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2016,XL,38280,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,XL,35480,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,XL,35680,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,XL,36885,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,XL,38480,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,XL,39680,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,XLT,39775,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,XLT,39975,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,XLT,40965,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,XLT,42580,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,XLT,42775,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2016,XLT,43770,flex-fuel (FFV),V8,,4,6
+F-150,2015,Lariat,39610,gas,V6,22.0,4,6
+F-150,2015,Lariat,42735,gas,V6,20.0,4,6
+F-150,2015,Lariat,39310,gas,V6,22.0,4,6
+F-150,2015,Lariat,43785,flex-fuel (FFV),V8,17.0,4,6
+F-150,2015,XL,35360,flex-fuel (FFV),V8,17.0,4,6
+F-150,2015,XL,33515,flex-fuel (FFV),V6,19.0,4,6
+F-150,2015,XL,31200,gas,V6,22.0,4,6
+F-150,2015,XL,30090,flex-fuel (FFV),V6,20.0,4,6
+F-150,2015,XLT,34205,flex-fuel (FFV),V6,20.0,4,6
+F-150,2015,XLT,35310,gas,V6,22.0,4,6
+F-150,2015,XLT,37630,flex-fuel (FFV),V6,19.0,4,6
+F-150,2015,XLT,39485,flex-fuel (FFV),V8,17.0,4,6
+F-250 Super Duty,2015,Lariat,46485,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2015,Lariat,46690,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2015,Lariat,43500,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2015,Lariat,43300,flex-fuel (FFV),V8,,4,5
+F-250 Super Duty,2015,XL,36435,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2015,XL,33430,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2015,XL,36230,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2015,XL,33630,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2015,XLT,40500,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2015,XLT,37495,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2015,XLT,37695,flex-fuel (FFV),V8,,4,6
+F-250 Super Duty,2015,XLT,40300,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,Lariat,47385,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2015,Lariat,48785,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2015,Lariat,47585,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2015,Lariat,45595,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2015,Lariat,44395,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2015,Lariat,44195,flex-fuel (FFV),V8,,4,5
+F-350 Super Duty,2015,XL,38530,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,XL,37330,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,XL,37130,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,XL,35735,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,XL,34530,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,XL,34330,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,XLT,42390,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,XLT,41395,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,XLT,41200,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,XLT,39585,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,XLT,38595,flex-fuel (FFV),V8,,4,6
+F-350 Super Duty,2015,XLT,38395,flex-fuel (FFV),V8,,4,6

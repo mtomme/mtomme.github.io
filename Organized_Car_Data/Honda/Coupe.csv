@@ -1,0 +1,82 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Civic,2020,EX,23500,gas,I4,35.0,2,5
+Civic,2020,LX,20950,gas,I4,33.0,2,5
+Civic,2020,Si,25000,gas,I4,30.0,2,5
+Civic,2020,Si,25200,gas,I4,30.0,2,5
+Civic,2020,Sport,21750,gas,I4,29.0,2,5
+Civic,2020,Sport,22550,gas,I4,32.0,2,5
+Civic,2020,Touring,27150,gas,I4,33.0,2,5
+Civic,2019,EX,23300,gas,I4,35.0,2,5
+Civic,2019,LX,20750,gas,I4,33.0,2,5
+Civic,2019,Si,24300,gas,I4,32.0,2,5
+Civic,2019,Sport,21550,gas,I4,29.0,2,5
+Civic,2019,Sport,22350,gas,I4,32.0,2,5
+Civic,2019,Touring,26950,gas,I4,35.0,2,5
+Civic,2018,EX-L,23725,gas,I4,35.0,2,5
+Civic,2018,EX-T,22600,gas,I4,35.0,2,5
+Civic,2018,EX-T,21800,gas,I4,35.0,2,5
+Civic,2018,LX,19350,gas,I4,32.0,2,5
+Civic,2018,LX,20150,gas,I4,34.0,2,5
+Civic,2018,LX-P,21150,gas,I4,34.0,2,5
+Civic,2018,Si,24300,gas,I4,32.0,2,5
+Civic,2018,Si,24100,gas,I4,32.0,2,5
+Civic,2018,Touring,26425,gas,I4,35.0,2,5
+Accord,2017,EX,26150,gas,I4,26.0,2,5
+Accord,2017,EX,27000,gas,I4,29.0,2,5
+Accord,2017,EX,28000,gas,I4,29.0,2,5
+Accord,2017,EX-L,30995,gas,I4,29.0,2,5
+Accord,2017,EX-L,28995,gas,I4,29.0,2,5
+Accord,2017,EX-L V-6,33175,gas,V6,24.0,2,5
+Accord,2017,EX-L V-6,31175,gas,V6,24.0,2,5
+Accord,2017,EX-L V-6,31175,gas,V6,21.0,2,5
+Accord,2017,LX-S,24025,gas,I4,26.0,2,5
+Accord,2017,LX-S,24875,gas,I4,29.0,2,5
+Accord,2017,LX-S,25875,gas,I4,29.0,2,5
+Accord,2017,Touring V-6,34375,gas,V6,24.0,2,5
+Civic,2017,EX-L,23525,gas,I4,35.0,2,5
+Civic,2017,EX-T,21600,gas,I4,35.0,2,5
+Civic,2017,EX-T,22400,gas,I4,35.0,2,5
+Civic,2017,LX,19150,gas,I4,32.0,2,5
+Civic,2017,LX,19950,gas,I4,34.0,2,5
+Civic,2017,LX-P,20950,gas,I4,34.0,2,5
+Civic,2017,Si,24100,gas,I4,32.0,2,5
+Civic,2017,Si,23900,gas,I4,32.0,2,5
+Civic,2017,Touring,26225,gas,I4,35.0,2,5
+Accord,2016,EX,26000,gas,I4,27.0,2,5
+Accord,2016,EX,26850,gas,I4,30.0,2,5
+Accord,2016,EX,27850,gas,I4,30.0,2,5
+Accord,2016,EX-L,30845,gas,I4,30.0,2,5
+Accord,2016,EX-L,28845,gas,I4,30.0,2,5
+Accord,2016,EX-L V-6,33025,gas,V6,25.0,2,5
+Accord,2016,EX-L V-6,31025,gas,V6,22.0,2,5
+Accord,2016,EX-L V-6,31025,gas,V6,25.0,2,5
+Accord,2016,LX-S,25725,gas,I4,30.0,2,5
+Accord,2016,LX-S,23875,gas,I4,27.0,2,5
+Accord,2016,LX-S,24725,gas,I4,30.0,2,5
+Accord,2016,Touring V-6,34225,gas,V6,25.0,2,5
+Civic,2016,EX-L,23425,gas,I4,35.0,2,5
+Civic,2016,EX-T,22300,gas,I4,35.0,2,5
+Civic,2016,LX,19050,gas,I4,31.0,2,5
+Civic,2016,LX,19850,gas,I4,34.0,2,5
+Civic,2016,LX-P,20850,gas,I4,34.0,2,5
+Civic,2016,Touring,26125,gas,I4,35.0,2,5
+Accord,2015,EX,25450,gas,I4,27.0,2,5
+Accord,2015,EX,26300,gas,I4,29.0,2,5
+Accord,2015,EX-L,28495,gas,I4,29.0,2,5
+Accord,2015,EX-L,30270,gas,I4,29.0,2,5
+Accord,2015,EX-L V-6,32550,gas,V6,25.0,2,5
+Accord,2015,EX-L V-6,32550,gas,V6,22.0,2,5
+Accord,2015,EX-L V-6,30775,gas,V6,22.0,2,5
+Accord,2015,EX-L V-6,30775,gas,V6,25.0,2,5
+Accord,2015,LX-S,24625,gas,I4,29.0,2,5
+Accord,2015,LX-S,23775,gas,I4,27.0,2,5
+Civic,2015,EX,20390,gas,I4,31.0,2,5
+Civic,2015,EX,21190,gas,I4,33.0,2,5
+Civic,2015,EX-L,22640,gas,I4,33.0,2,5
+Civic,2015,EX-L,24140,gas,I4,33.0,2,5
+Civic,2015,LX,19090,gas,I4,33.0,2,5
+Civic,2015,LX,18290,gas,I4,31.0,2,5
+Civic,2015,Si,24590,gas,I4,25.0,2,5
+Civic,2015,Si,24390,gas,I4,25.0,2,5
+Civic,2015,Si,23090,gas,I4,25.0,2,5
+Civic,2015,Si,22890,gas,I4,25.0,2,5

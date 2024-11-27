@@ -1,0 +1,61 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Pacifica,2020,AWD Launch Edition,40240,gas,V6,20.0,5,7
+Pacifica,2020,Hybrid Limited,45845,plug-in hybrid,V6,30.0,5,7
+Pacifica,2020,Hybrid Limited 35th Anniversary Edition,46540,plug-in hybrid,V6,30.0,5,7
+Pacifica,2020,Hybrid Red S,49140,plug-in hybrid,V6,30.0,5,7
+Pacifica,2020,Hybrid Touring,39995,plug-in hybrid,V6,30.0,5,7
+Pacifica,2020,Hybrid Touring L,42295,plug-in hybrid,V6,30.0,5,7
+Pacifica,2020,Hybrid Touring L 35th Anniversary Edition,43785,plug-in hybrid,V6,30.0,5,7
+Pacifica,2020,Limited,44795,gas,V6,22.0,5,7
+Pacifica,2020,Limited 35th Anniversary Edition,45240,gas,V6,22.0,5,7
+Pacifica,2020,Red S,48990,gas,V6,22.0,5,7
+Pacifica,2020,Touring,34045,gas,V6,22.0,5,7
+Pacifica,2020,Touring L,37145,gas,V6,22.0,5,7
+Pacifica,2020,Touring L 35th Anniversary Edition,38735,gas,V6,22.0,5,8
+Pacifica,2020,Touring L Plus,40245,gas,V6,22.0,5,7
+Pacifica,2020,Touring L Plus 35th Anniversary Edition,40840,gas,V6,22.0,5,8
+Voyager,2020,L,26985,gas,V6,22.0,5,7
+Voyager,2020,LX,29795,gas,V6,22.0,5,7
+Voyager,2020,LXi Fleet,32995,gas,V6,22.0,5,7
+Pacifica,2019,L,26985,gas,V6,22.0,5,7
+Pacifica,2019,Limited,44445,gas,V6,22.0,5,7
+Pacifica,2019,LX,29795,gas,V6,22.0,5,7
+Pacifica,2019,Touring Fleet,31295,gas,V6,22.0,5,7
+Pacifica,2019,Touring L,36545,gas,V6,22.0,5,7
+Pacifica,2019,Touring L Plus,39395,gas,V6,22.0,5,7
+Pacifica,2019,Touring Plus,33245,gas,V6,22.0,5,7
+Pacifica Hybrid,2019,Limited,45545,plug-in hybrid,V6,30.0,5,7
+Pacifica Hybrid,2019,Touring L,42195,plug-in hybrid,V6,30.0,5,7
+Pacifica Hybrid,2019,Touring Plus,39995,plug-in hybrid,V6,30.0,5,7
+Pacifica,2018,L,26995,gas,V6,22.0,5,7
+Pacifica,2018,Limited,43795,gas,V6,22.0,5,7
+Pacifica,2018,LX,29795,gas,V6,22.0,5,7
+Pacifica,2018,Touring Fleet,31295,gas,V6,22.0,5,7
+Pacifica,2018,Touring L,35695,gas,V6,22.0,5,7
+Pacifica,2018,Touring L Plus,38895,gas,V6,22.0,5,7
+Pacifica,2018,Touring Plus,32595,gas,V6,22.0,5,7
+Pacifica Hybrid,2018,Limited,44995,plug-in hybrid,V6,32.0,5,7
+Pacifica Hybrid,2018,Touring L,41995,plug-in hybrid,V6,32.0,5,7
+Pacifica Hybrid,2018,Touring Plus,39995,plug-in hybrid,V6,32.0,5,7
+Pacifica,2017,Limited,42895,gas,V6,22.0,5,7
+Pacifica,2017,LX,28995,gas,V6,22.0,5,7
+Pacifica,2017,Touring,30995,gas,V6,22.0,5,7
+Pacifica,2017,Touring Plus,32360,gas,V6,22.0,5,7
+Pacifica,2017,Touring-L,34995,gas,V6,22.0,5,7
+Pacifica,2017,Touring-L Plus,38295,gas,V6,22.0,5,7
+Pacifica Hybrid,2017,Platinum,44995,plug-in hybrid,V6,32.0,5,7
+Pacifica Hybrid,2017,Premium,41995,plug-in hybrid,V6,32.0,5,7
+Pacifica Hybrid,2017,Touring Plus Fleet,40000,plug-in hybrid,V6,32.0,5,7
+Town and Country,2016,Anniversary Edition,37345,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2016,Limited,38445,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2016,Limited Platinum,40645,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2016,LX,29995,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2016,S,34145,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2016,Touring,31875,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2016,Touring-L,35845,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2015,Limited,37945,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2015,Limited Platinum,40295,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2015,LX,29995,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2015,S,33695,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2015,Touring,31465,flex-fuel (FFV),V6,20.0,5,7
+Town and Country,2015,Touring-L,35315,flex-fuel (FFV),V6,20.0,5,7

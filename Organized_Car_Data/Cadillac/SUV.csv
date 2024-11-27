@@ -1,0 +1,163 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Escalade,2020,Base,75195,gas,V8,17.0,5,7
+Escalade,2020,Base,78195,gas,V8,17.0,5,7
+Escalade,2020,Luxury,80795,gas,V8,17.0,5,7
+Escalade,2020,Luxury,83795,gas,V8,17.0,5,7
+Escalade,2020,Platinum,92295,gas,V8,17.0,5,7
+Escalade,2020,Platinum,95295,gas,V8,17.0,5,7
+Escalade,2020,Premium Luxury,88195,gas,V8,17.0,5,7
+Escalade,2020,Premium Luxury,85195,gas,V8,17.0,5,7
+Escalade ESV,2020,Base,78195,gas,V8,17.0,5,7
+Escalade ESV,2020,Base,81195,gas,V8,17.0,5,7
+Escalade ESV,2020,Luxury,83795,gas,V8,17.0,5,7
+Escalade ESV,2020,Luxury,86795,gas,V8,17.0,5,7
+Escalade ESV,2020,Platinum,95295,gas,V8,17.0,5,7
+Escalade ESV,2020,Platinum,98295,gas,V8,17.0,5,7
+Escalade ESV,2020,Premium Luxury,91195,gas,V8,17.0,5,7
+Escalade ESV,2020,Premium Luxury,88195,gas,V8,17.0,5,7
+XT4,2020,Luxury,35695,gas,I4,26.0,5,5
+XT4,2020,Luxury,38195,gas,I4,24.0,5,5
+XT4,2020,Premium Luxury,39795,gas,I4,26.0,5,5
+XT4,2020,Premium Luxury,42295,gas,I4,24.0,5,5
+XT4,2020,Sport,39795,gas,I4,26.0,5,5
+XT4,2020,Sport,42295,gas,I4,24.0,5,5
+XT5,2020,Luxury,44095,gas,I4,24.0,5,5
+XT5,2020,Luxury,46195,gas,I4,23.0,5,5
+XT5,2020,Premium Luxury,48795,gas,I4,24.0,5,5
+XT5,2020,Premium Luxury,50795,gas,I4,23.0,5,5
+XT5,2020,Sport,55095,gas,V6,20.0,5,5
+XT6,2020,Premium Luxury,52695,gas,V6,20.0,5,7
+XT6,2020,Premium Luxury,54695,gas,V6,20.0,5,7
+XT6,2020,Sport,57095,gas,V6,20.0,5,7
+Escalade,2019,Base,75195,gas,V8,17.0,5,7
+Escalade,2019,Base,78195,gas,V8,17.0,5,7
+Escalade,2019,Luxury,80795,gas,V8,17.0,5,7
+Escalade,2019,Luxury,83795,gas,V8,17.0,5,7
+Escalade,2019,Platinum,97295,gas,V8,17.0,5,7
+Escalade,2019,Platinum,94295,gas,V8,17.0,5,7
+Escalade,2019,Premium Luxury,85195,gas,V8,17.0,5,7
+Escalade,2019,Premium Luxury,88195,gas,V8,17.0,5,7
+Escalade ESV,2019,Base,81195,gas,V8,17.0,5,7
+Escalade ESV,2019,Base,78195,gas,V8,17.0,5,7
+Escalade ESV,2019,Luxury,86795,gas,V8,17.0,5,7
+Escalade ESV,2019,Luxury,83795,gas,V8,17.0,5,7
+Escalade ESV,2019,Platinum,97295,gas,V8,17.0,5,7
+Escalade ESV,2019,Platinum,100295,gas,V8,17.0,5,7
+Escalade ESV,2019,Premium Luxury,88195,gas,V8,17.0,5,7
+Escalade ESV,2019,Premium Luxury,91195,gas,V8,17.0,5,7
+XT4,2019,Luxury,34795,gas,I4,26.0,5,5
+XT4,2019,Luxury,37295,gas,I4,24.0,5,5
+XT4,2019,Premium Luxury,39295,gas,I4,26.0,5,5
+XT4,2019,Premium Luxury,41795,gas,I4,24.0,5,5
+XT4,2019,Sport,41795,gas,I4,24.0,5,5
+XT4,2019,Sport,39295,gas,I4,26.0,5,5
+XT5,2019,Base,41695,gas,V6,22.0,5,5
+XT5,2019,Base,44695,gas,V6,21.0,5,5
+XT5,2019,Luxury,48495,gas,V6,22.0,5,5
+XT5,2019,Luxury,50995,gas,V6,21.0,5,5
+XT5,2019,Platinum,65895,gas,V6,21.0,5,5
+XT5,2019,Premium Luxury,54195,gas,V6,22.0,5,5
+XT5,2019,Premium Luxury,56695,gas,V6,21.0,5,5
+Escalade,2018,Base,76995,gas,V8,17.0,5,7
+Escalade,2018,Base,73995,gas,V8,17.0,5,7
+Escalade,2018,Luxury,79395,gas,V8,17.0,5,7
+Escalade,2018,Luxury,82395,gas,V8,17.0,5,7
+Escalade,2018,Platinum,96095,gas,V8,17.0,5,7
+Escalade,2018,Platinum,93095,gas,V8,17.0,5,7
+Escalade,2018,Premium Luxury,86995,gas,V8,17.0,5,7
+Escalade,2018,Premium Luxury,83995,gas,V8,17.0,5,7
+Escalade ESV,2018,Base,76995,gas,V8,17.0,5,7
+Escalade ESV,2018,Base,79995,gas,V8,17.0,5,7
+Escalade ESV,2018,Luxury,85395,gas,V8,17.0,5,7
+Escalade ESV,2018,Luxury,82395,gas,V8,17.0,5,7
+Escalade ESV,2018,Platinum,96095,gas,V8,17.0,5,7
+Escalade ESV,2018,Platinum,99095,gas,V8,17.0,5,7
+Escalade ESV,2018,Premium Luxury,86995,gas,V8,17.0,5,7
+Escalade ESV,2018,Premium Luxury,89995,gas,V8,17.0,5,7
+XT5,2018,Base,42995,gas,V6,21.0,5,5
+XT5,2018,Base,39995,gas,V6,22.0,5,5
+XT5,2018,Luxury,45995,gas,V6,22.0,5,5
+XT5,2018,Luxury,48495,gas,V6,21.0,5,5
+XT5,2018,Platinum,62995,gas,V6,21.0,5,5
+XT5,2018,Premium Luxury,54995,gas,V6,21.0,5,5
+XT5,2018,Premium Luxury,52495,gas,V6,22.0,5,5
+Escalade,2017,Base,76395,gas,V8,17.0,5,7
+Escalade,2017,Base,73395,gas,V8,17.0,5,7
+Escalade,2017,Luxury,81395,gas,V8,17.0,5,7
+Escalade,2017,Luxury,78395,gas,V8,17.0,5,7
+Escalade,2017,Platinum,92195,gas,V8,17.0,5,7
+Escalade,2017,Platinum,95195,gas,V8,17.0,5,7
+Escalade,2017,Premium Luxury,85895,gas,V8,17.0,5,7
+Escalade,2017,Premium Luxury,82895,gas,V8,17.0,5,7
+Escalade ESV,2017,Base,76395,gas,V8,17.0,5,7
+Escalade ESV,2017,Base,79395,gas,V8,17.0,5,7
+Escalade ESV,2017,Luxury,81395,gas,V8,17.0,5,7
+Escalade ESV,2017,Luxury,84395,gas,V8,17.0,5,7
+Escalade ESV,2017,Platinum,95195,gas,V8,17.0,5,7
+Escalade ESV,2017,Platinum,98195,gas,V8,17.0,5,7
+Escalade ESV,2017,Premium Luxury,88895,gas,V8,17.0,5,7
+Escalade ESV,2017,Premium Luxury,85895,gas,V8,17.0,5,7
+XT5,2017,Base,39395,gas,V6,22.0,5,5
+XT5,2017,Luxury,47795,gas,V6,21.0,5,5
+XT5,2017,Luxury,45295,gas,V6,22.0,5,5
+XT5,2017,Platinum,62895,gas,V6,21.0,5,5
+XT5,2017,Premium Luxury,54795,gas,V6,21.0,5,5
+XT5,2017,Premium Luxury,52295,gas,V6,22.0,5,5
+Escalade,2016,Luxury,79645,gas,V8,17.0,5,7
+Escalade,2016,Luxury,77045,gas,V8,17.0,5,7
+Escalade,2016,Platinum,91950,gas,V8,17.0,5,7
+Escalade,2016,Platinum,89350,gas,V8,17.0,5,7
+Escalade,2016,Premium,84145,gas,V8,17.0,5,7
+Escalade,2016,Premium,81545,gas,V8,17.0,5,7
+Escalade,2016,Standard,72970,gas,V8,17.0,5,7
+Escalade,2016,Standard,75570,gas,V8,17.0,5,7
+Escalade ESV,2016,Luxury,80045,gas,V8,17.0,5,7
+Escalade ESV,2016,Luxury,82645,gas,V8,17.0,5,7
+Escalade ESV,2016,Platinum,92350,gas,V8,17.0,5,7
+Escalade ESV,2016,Platinum,94950,gas,V8,17.0,5,7
+Escalade ESV,2016,Premium,84545,gas,V8,17.0,5,7
+Escalade ESV,2016,Premium,87145,gas,V8,17.0,5,7
+Escalade ESV,2016,Standard,75970,gas,V8,17.0,5,7
+Escalade ESV,2016,Standard,78570,gas,V8,17.0,5,7
+SRX,2016,Luxury,46135,gas,V6,18.0,5,5
+SRX,2016,Luxury,43640,gas,V6,19.0,5,5
+SRX,2016,Performance,48840,gas,V6,18.0,5,5
+SRX,2016,Performance,46030,gas,V6,19.0,5,5
+SRX,2016,Premium,48920,gas,V6,19.0,5,5
+SRX,2016,Premium,51730,gas,V6,18.0,5,5
+SRX,2016,Standard,37605,gas,V6,19.0,5,5
+Escalade,2015,Base,75570,flex-fuel (FFV),V8,17.0,5,7
+Escalade,2015,Base,74295,flex-fuel (FFV),V8,16.0,5,7
+Escalade,2015,Base,71695,flex-fuel (FFV),V8,17.0,5,7
+Escalade,2015,Base,72970,flex-fuel (FFV),V8,17.0,5,7
+Escalade,2015,Luxury,76970,flex-fuel (FFV),V8,17.0,5,7
+Escalade,2015,Luxury,75695,flex-fuel (FFV),V8,17.0,5,7
+Escalade,2015,Luxury,79570,flex-fuel (FFV),V8,17.0,5,7
+Escalade,2015,Luxury,78295,flex-fuel (FFV),V8,16.0,5,7
+Escalade,2015,Platinum,89275,flex-fuel (FFV),V8,17.0,5,7
+Escalade,2015,Platinum,91875,flex-fuel (FFV),V8,17.0,5,7
+Escalade,2015,Premium,82795,flex-fuel (FFV),V8,16.0,5,7
+Escalade,2015,Premium,84070,flex-fuel (FFV),V8,17.0,5,7
+Escalade,2015,Premium,81470,flex-fuel (FFV),V8,17.0,5,7
+Escalade,2015,Premium,80195,flex-fuel (FFV),V8,17.0,5,7
+Escalade ESV,2015,Base,74695,flex-fuel (FFV),V8,17.0,5,7
+Escalade ESV,2015,Base,78570,flex-fuel (FFV),V8,16.0,5,7
+Escalade ESV,2015,Base,77295,flex-fuel (FFV),V8,16.0,5,7
+Escalade ESV,2015,Base,75970,flex-fuel (FFV),V8,17.0,5,7
+Escalade ESV,2015,Luxury,82570,flex-fuel (FFV),V8,16.0,5,7
+Escalade ESV,2015,Luxury,81295,flex-fuel (FFV),V8,16.0,5,7
+Escalade ESV,2015,Luxury,79970,flex-fuel (FFV),V8,17.0,5,7
+Escalade ESV,2015,Luxury,78695,flex-fuel (FFV),V8,17.0,5,7
+Escalade ESV,2015,Platinum,94875,flex-fuel (FFV),V8,16.0,5,7
+Escalade ESV,2015,Platinum,92275,flex-fuel (FFV),V8,17.0,5,7
+Escalade ESV,2015,Premium,83195,flex-fuel (FFV),V8,17.0,5,7
+Escalade ESV,2015,Premium,84470,flex-fuel (FFV),V8,17.0,5,7
+Escalade ESV,2015,Premium,85795,flex-fuel (FFV),V8,16.0,5,7
+Escalade ESV,2015,Premium,87070,flex-fuel (FFV),V8,16.0,5,7
+SRX,2015,Luxury,46135,gas,V6,18.0,5,5
+SRX,2015,Luxury,43640,gas,V6,19.0,5,5
+SRX,2015,Performance,48840,gas,V6,18.0,5,5
+SRX,2015,Performance,46030,gas,V6,19.0,5,5
+SRX,2015,Premium,51730,gas,V6,18.0,5,5
+SRX,2015,Premium,48920,gas,V6,19.0,5,5
+SRX,2015,Standard,37605,gas,V6,19.0,5,5

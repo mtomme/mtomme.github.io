@@ -1,0 +1,127 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Enclave,2020,Avenir,56100,gas,V6,20.0,5,7
+Enclave,2020,Avenir,53800,gas,V6,21.0,5,7
+Enclave,2020,Essence,44000,gas,V6,20.0,5,7
+Enclave,2020,Essence,42000,gas,V6,21.0,5,7
+Enclave,2020,Preferred,40000,gas,V6,21.0,5,7
+Enclave,2020,Premium,50700,gas,V6,20.0,5,7
+Enclave,2020,Premium,48400,gas,V6,21.0,5,7
+Encore,2020,1SV,23200,gas,I4,27.0,5,5
+Encore,2020,Essence,29300,gas,I4,27.0,5,5
+Encore,2020,Essence,30800,gas,I4,26.0,5,5
+Encore,2020,Preferred,26100,gas,I4,26.0,5,5
+Encore,2020,Preferred,24600,gas,I4,27.0,5,5
+Encore,2020,Sport Touring,25800,gas,I4,27.0,5,5
+Encore,2020,Sport Touring,27300,gas,I4,26.0,5,5
+Encore GX,2020,Essence,30500,gas,I3,28.0,5,5
+Encore GX,2020,Essence,28500,gas,I3,28.0,5,5
+Encore GX,2020,Preferred,26100,gas,I3,28.0,5,5
+Encore GX,2020,Preferred,24100,gas,I3,28.0,5,5
+Encore GX,2020,Select,27700,gas,I3,28.0,5,5
+Encore GX,2020,Select,25700,gas,I3,28.0,5,5
+Envision,2020,1SV,31995,gas,I4,25.0,5,5
+Envision,2020,Essence,37550,gas,I4,24.0,5,5
+Envision,2020,Essence,35800,gas,I4,25.0,5,5
+Envision,2020,Preferred,35250,gas,I4,24.0,5,5
+Envision,2020,Preferred,33500,gas,I4,25.0,5,5
+Envision,2020,Premium,40700,gas,I4,22.0,5,5
+Envision,2020,Premium II,43600,gas,I4,22.0,5,5
+Enclave,2019,Avenir,55800,gas,V6,20.0,5,7
+Enclave,2019,Avenir,53500,gas,V6,21.0,5,7
+Enclave,2019,Essence,44000,gas,V6,20.0,5,7
+Enclave,2019,Essence,42000,gas,V6,21.0,5,7
+Enclave,2019,Preferred,40000,gas,V6,21.0,5,7
+Enclave,2019,Premium,48100,gas,V6,21.0,5,7
+Enclave,2019,Premium,50400,gas,V6,20.0,5,7
+Encore,2019,1SV,23200,gas,I4,28.0,5,5
+Encore,2019,Essence,30800,gas,I4,27.0,5,5
+Encore,2019,Essence,29300,gas,I4,28.0,5,5
+Encore,2019,Preferred,24600,gas,I4,28.0,5,5
+Encore,2019,Preferred,26100,gas,I4,27.0,5,5
+Encore,2019,Sport Touring,25800,gas,I4,28.0,5,5
+Encore,2019,Sport Touring,27300,gas,I4,27.0,5,5
+Envision,2019,1SV,31995,gas,I4,25.0,5,5
+Envision,2019,Essence,35800,gas,I4,25.0,5,5
+Envision,2019,Essence,37550,gas,I4,24.0,5,5
+Envision,2019,Preferred,33500,gas,I4,25.0,5,5
+Envision,2019,Preferred,35250,gas,I4,24.0,5,5
+Envision,2019,Premium,40700,gas,I4,22.0,5,5
+Envision,2019,Premium II,43600,gas,I4,22.0,5,5
+Enclave,2018,Avenir,53415,gas,V6,21.0,5,7
+Enclave,2018,Avenir,55715,gas,V6,20.0,5,7
+Enclave,2018,Base,39995,gas,V6,21.0,5,7
+Enclave,2018,Essence,46215,gas,V6,20.0,5,7
+Enclave,2018,Essence,44215,gas,V6,21.0,5,7
+Enclave,2018,Premium,48015,gas,V6,21.0,5,7
+Enclave,2018,Premium,50315,gas,V6,20.0,5,7
+Encore,2018,1SV,22990,gas,I4,28.0,5,5
+Encore,2018,Essence,30565,gas,I4,27.0,5,5
+Encore,2018,Essence,29065,gas,I4,28.0,5,5
+Encore,2018,Preferred,25865,gas,I4,27.0,5,5
+Encore,2018,Preferred,24365,gas,I4,28.0,5,5
+Encore,2018,Preferred II,28365,gas,I4,27.0,5,5
+Encore,2018,Preferred II,26865,gas,I4,28.0,5,5
+Encore,2018,Premium,32015,gas,I4,27.0,5,5
+Encore,2018,Premium,30515,gas,I4,28.0,5,5
+Encore,2018,Sport Touring,25565,gas,I4,28.0,5,5
+Encore,2018,Sport Touring,27065,gas,I4,27.0,5,5
+Envision,2018,Base,33995,flex-fuel (FFV),I4,25.0,5,5
+Envision,2018,Essence,39570,flex-fuel (FFV),I4,24.0,5,5
+Envision,2018,Essence,37720,flex-fuel (FFV),I4,25.0,5,5
+Envision,2018,Preferred,37720,flex-fuel (FFV),I4,24.0,5,5
+Envision,2018,Preferred,35870,flex-fuel (FFV),I4,25.0,5,5
+Envision,2018,Premium,42320,gas,I4,22.0,5,5
+Envision,2018,Premium II,44960,gas,I4,22.0,5,5
+Enclave,2017,Convenience Group,39065,gas,V6,18.0,5,7
+Enclave,2017,Leather Group,43765,gas,V6,18.0,5,7
+Enclave,2017,Leather Group,45765,gas,V6,17.0,5,7
+Enclave,2017,Premium Group,47625,gas,V6,18.0,5,7
+Enclave,2017,Premium Group,49625,gas,V6,17.0,5,7
+Encore,2017,1SV,22990,gas,I4,28.0,5,5
+Encore,2017,Essence,29065,gas,I4,28.0,5,5
+Encore,2017,Essence,30565,gas,I4,27.0,5,5
+Encore,2017,Preferred,24365,gas,I4,28.0,5,5
+Encore,2017,Preferred,25865,gas,I4,27.0,5,5
+Encore,2017,Preferred II,26865,gas,I4,28.0,5,5
+Encore,2017,Preferred II,28365,gas,I4,27.0,5,5
+Encore,2017,Premium,30465,gas,I4,28.0,5,5
+Encore,2017,Premium,31965,gas,I4,27.0,5,5
+Encore,2017,Sport Touring,27065,gas,I4,27.0,5,5
+Encore,2017,Sport Touring,25565,gas,I4,28.0,5,5
+Envision,2017,Base,34065,flex-fuel (FFV),I4,25.0,5,5
+Envision,2017,Essence,39570,flex-fuel (FFV),I4,24.0,5,5
+Envision,2017,Essence,37720,flex-fuel (FFV),I4,25.0,5,5
+Envision,2017,Preferred,37720,flex-fuel (FFV),I4,24.0,5,5
+Envision,2017,Preferred,35870,flex-fuel (FFV),I4,25.0,5,5
+Envision,2017,Premium I,42320,gas,I4,22.0,5,5
+Envision,2017,Premium II,44960,gas,I4,22.0,5,5
+Enclave,2016,Convenience Group,39065,gas,V6,18.0,5,7
+Enclave,2016,Leather Group,45660,gas,V6,17.0,5,7
+Enclave,2016,Leather Group,43660,gas,V6,18.0,5,7
+Enclave,2016,Premium Group,47515,gas,V6,18.0,5,7
+Enclave,2016,Premium Group,49515,gas,V6,17.0,5,7
+Encore,2016,Base,24065,gas,I4,28.0,5,5
+Encore,2016,Base,25565,gas,I4,26.0,5,5
+Encore,2016,Convenience,26355,gas,I4,28.0,5,5
+Encore,2016,Convenience,27855,gas,I4,26.0,5,5
+Encore,2016,Leather,29800,gas,I4,26.0,5,5
+Encore,2016,Leather,28300,gas,I4,28.0,5,5
+Encore,2016,Premium,29785,gas,I4,28.0,5,5
+Encore,2016,Premium,31285,gas,I4,26.0,5,5
+Encore,2016,Sport Touring,28850,gas,I4,29.0,5,5
+Encore,2016,Sport Touring,27350,gas,I4,30.0,5,5
+Envision,2016,Premium I,42070,gas,I4,22.0,5,5
+Envision,2016,Premium II,44710,gas,I4,22.0,5,5
+Enclave,2015,Convenience Group,39050,gas,V6,19.0,5,7
+Enclave,2015,Leather Group,43450,gas,V6,19.0,5,7
+Enclave,2015,Leather Group,45450,gas,V6,18.0,5,7
+Enclave,2015,Premium Group,47305,gas,V6,19.0,5,7
+Enclave,2015,Premium Group,49305,gas,V6,18.0,5,7
+Encore,2015,Base,24065,gas,I4,28.0,5,5
+Encore,2015,Base,25565,gas,I4,26.0,5,5
+Encore,2015,Convenience,26155,gas,I4,28.0,5,5
+Encore,2015,Convenience,27655,gas,I4,26.0,5,5
+Encore,2015,Leather,29450,gas,I4,26.0,5,5
+Encore,2015,Leather,27950,gas,I4,28.0,5,5
+Encore,2015,Premium,29435,gas,I4,28.0,5,5
+Encore,2015,Premium,30935,gas,I4,26.0,5,5

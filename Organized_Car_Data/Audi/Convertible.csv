@@ -1,0 +1,83 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+A5,2020,Premium,49900,gas,I4,26.0,2,4
+A5,2020,Premium Plus,53700,gas,I4,26.0,2,4
+A5,2020,Prestige,59600,gas,I4,26.0,2,4
+R8,2020,performance Spyder,208100,gas,V10,16.0,2,2
+R8,2020,Spyder,182100,gas,V10,16.0,2,2
+S5,2020,Premium,60200,gas,V6,22.0,2,4
+S5,2020,Premium Plus,62700,gas,V6,22.0,2,4
+S5,2020,Prestige,68600,gas,V6,22.0,2,4
+TT,2020,Base,49000,gas,I4,26.0,2,2
+A3,2019,2.0 TFSI Premium,38900,gas,I4,29.0,2,4
+A3,2019,2.0 TFSI Premium Plus,42300,gas,I4,29.0,2,4
+A3,2019,2.0 TFSI Premium Plus quattro,45100,gas,I4,25.0,2,4
+A3,2019,2.0 TFSI Premium quattro,41700,gas,I4,25.0,2,4
+A3,2019,2.0 TFSI Prestige,47100,gas,I4,29.0,2,4
+A3,2019,2.0 TFSI Prestige quattro,49900,gas,I4,25.0,2,4
+A5,2019,2.0 TFSI Premium Plus quattro,55600,gas,I4,27.0,2,4
+A5,2019,2.0 TFSI Premium quattro,51200,gas,I4,27.0,2,4
+A5,2019,2.0 TFSI Prestige quattro,59300,gas,I4,27.0,2,4
+S5,2019,3.0 TFSI Premium Plus quattro,65100,gas,V6,24.0,2,4
+S5,2019,3.0 TFSI Prestige quattro,68800,gas,V6,24.0,2,4
+TT,2019,2.0 TFSI quattro,48400,gas,I4,26.0,2,2
+A3,2018,2.0 TFSI Premium,38350,gas,I4,28.0,2,4
+A3,2018,2.0 TFSI Premium Plus,41600,gas,I4,28.0,2,4
+A3,2018,2.0 TFSI Premium Plus quattro,44300,gas,I4,25.0,2,4
+A3,2018,2.0 TFSI Premium Plus quattro Summer of Audi,46200,gas,I4,25.0,2,4
+A3,2018,2.0 TFSI Premium Plus Summer of Audi,43500,gas,I4,28.0,2,4
+A3,2018,2.0 TFSI Premium quattro,41050,gas,I4,25.0,2,4
+A3,2018,2.0 TFSI Premium quattro Summer of Audi,42750,gas,I4,25.0,2,4
+A3,2018,2.0 TFSI Premium Summer of Audi,40050,gas,I4,28.0,2,4
+A3,2018,2.0 TFSI Prestige,46800,gas,I4,28.0,2,4
+A3,2018,2.0 TFSI Prestige quattro,49500,gas,I4,25.0,2,4
+A5,2018,Premium Plus quattro,52600,gas,I4,27.0,2,4
+A5,2018,Premium quattro,49600,gas,I4,27.0,2,4
+A5,2018,Prestige quattro,57200,gas,I4,27.0,2,4
+R8,2018,V10 plus quattro Spyder,208100,gas,V10,17.0,2,2
+R8,2018,V10 quattro Spyder,177100,gas,V10,17.0,2,2
+S5,2018,Premium Plus quattro,62300,gas,V6,23.0,2,4
+S5,2018,Prestige quattro,66700,gas,V6,23.0,2,4
+TT,2018,2.0T quattro,47450,gas,I4,26.0,2,2
+A3,2017,2.0 TFSI Premium,37600,gas,I4,28.0,2,4
+A3,2017,2.0 TFSI Premium Plus,40850,gas,I4,28.0,2,4
+A3,2017,2.0 TFSI Premium Plus quattro,43550,gas,I4,28.0,2,4
+A3,2017,2.0 TFSI Premium quattro,40300,gas,I4,28.0,2,4
+A3,2017,2.0 TFSI Prestige,46550,gas,I4,28.0,2,4
+A3,2017,2.0 TFSI Prestige quattro,49250,gas,I4,28.0,2,4
+A5,2017,Sport quattro,48600,flex-fuel (FFV),I4,24.0,2,5
+R8,2017,V10 quattro Spyder,175100,gas,V10,17.0,2,2
+S5,2017,quattro,61100,gas,V6,21.0,2,4
+TT,2017,2.0T quattro,47000,gas,I4,26.0,2,2
+A3,2016,1.8 TFSI Premium,36600,gas,I4,28.0,2,4
+A3,2016,1.8 TFSI Premium Plus,39300,gas,I4,28.0,2,4
+A3,2016,1.8 TFSI Premium Plus S Line,40100,gas,I4,28.0,2,4
+A3,2016,1.8 TFSI Prestige,45450,gas,I4,28.0,2,4
+A3,2016,2.0 TFSI Premium Plus quattro,42300,gas,I4,26.0,2,4
+A3,2016,2.0 TFSI Premium Plus S Line quattro,43100,gas,I4,26.0,2,4
+A3,2016,2.0 TFSI Premium quattro,39600,gas,I4,26.0,2,4
+A3,2016,2.0 TFSI Prestige quattro,48450,gas,I4,26.0,2,4
+A5,2016,2.0T Premium Plus quattro,50200,gas,I4,24.0,2,4
+A5,2016,2.0T Premium quattro,47900,gas,I4,24.0,2,4
+S5,2016,Premium Plus quattro,61100,gas,V6,21.0,2,4
+S5,2016,Prestige quattro,67350,gas,V6,21.0,2,4
+TT,2016,2.0T quattro,46400,gas,I4,26.0,2,2
+A3,2015,1.8 TFSI Premium,35600,gas,I4,28.0,2,4
+A3,2015,1.8 TFSI Premium Plus,38150,gas,I4,28.0,2,4
+A3,2015,1.8 TFSI Prestige,44050,gas,I4,28.0,2,4
+A3,2015,2.0 TFSI Premium Plus quattro,41150,gas,I4,26.0,2,4
+A3,2015,2.0 TFSI Premium quattro,38600,gas,I4,26.0,2,4
+A3,2015,2.0 TFSI Prestige quattro,47050,gas,I4,26.0,2,4
+A5,2015,2.0T Premium Plus quattro,49900,gas,I4,23.0,2,4
+A5,2015,2.0T Premium quattro,47600,gas,I4,23.0,2,4
+A5,2015,2.0T Prestige quattro,56000,gas,I4,23.0,2,4
+R8,2015,V10 Carbon quattro Spyder,190600,gas,V10,14.0,2,2
+R8,2015,V10 Carbon quattro Spyder,199600,gas,V10,16.0,2,2
+R8,2015,V10 quattro Spyder,175100,gas,V10,16.0,2,2
+R8,2015,V10 quattro Spyder,166100,gas,V10,14.0,2,2
+R8,2015,V8 quattro Spyder,129400,gas,V8,14.0,2,2
+R8,2015,V8 quattro Spyder,138400,gas,V8,17.0,2,2
+RS 5,2015,quattro,79200,gas,V8,18.0,2,4
+S5,2015,Premium Plus quattro,60900,gas,V6,21.0,2,4
+S5,2015,Prestige quattro,67150,gas,V6,21.0,2,4
+TT,2015,2.0T quattro,43350,gas,I4,26.0,2,2
+TTS,2015,quattro,51700,gas,I4,26.0,2,2

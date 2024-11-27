@@ -1,0 +1,84 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+300,2020,C,41995,gas,V8,19.0,4,5
+300,2020,Limited,38595,gas,V6,23.0,4,5
+300,2020,Limited,41345,gas,V6,21.0,4,5
+300,2020,S,36995,gas,V6,23.0,4,5
+300,2020,S,39445,gas,V6,21.0,4,5
+300,2020,Touring,30040,gas,V6,23.0,4,5
+300,2020,Touring,32790,gas,V6,21.0,4,5
+300,2020,Touring L,33315,gas,V6,23.0,4,5
+300,2020,Touring L,36065,gas,V6,21.0,4,5
+300,2019,C,41945,gas,V8,19.0,4,5
+300,2019,Limited,40995,gas,V6,21.0,4,5
+300,2019,Limited,38495,gas,V6,23.0,4,5
+300,2019,S,39145,gas,V6,21.0,4,5
+300,2019,S,36645,gas,V6,23.0,4,5
+300,2019,Touring,31970,gas,V6,21.0,4,5
+300,2019,Touring,29470,gas,V6,23.0,4,5
+300,2019,Touring L,35615,gas,V6,21.0,4,5
+300,2019,Touring L,33115,gas,V6,23.0,4,5
+300,2018,C,40995,gas,V8,19.0,4,5
+300,2018,Limited,37545,gas,V6,23.0,4,5
+300,2018,Limited,40045,gas,V6,21.0,4,5
+300,2018,S,38795,gas,V6,21.0,4,5
+300,2018,S,36295,gas,V6,23.0,4,5
+300,2018,Touring,28995,gas,V6,23.0,4,5
+300,2018,Touring,31495,gas,V6,21.0,4,5
+300,2018,Touring L,35140,gas,V6,21.0,4,5
+300,2018,Touring L,32640,gas,V6,23.0,4,5
+200,2017,C,31785,flex-fuel (FFV),V6,22.0,4,5
+200,2017,C,27570,flex-fuel (FFV),I4,27.0,4,5
+200,2017,C Platinum,27795,flex-fuel (FFV),I4,27.0,4,5
+200,2017,C Platinum,31785,flex-fuel (FFV),V6,22.0,4,5
+200,2017,Limited,24610,flex-fuel (FFV),I4,27.0,4,5
+200,2017,Limited Platinum,24610,flex-fuel (FFV),I4,27.0,4,5
+200,2017,LX,22115,flex-fuel (FFV),I4,27.0,4,5
+200,2017,S,25690,flex-fuel (FFV),I4,27.0,4,5
+200,2017,S,29905,flex-fuel (FFV),V6,22.0,4,5
+200,2017,S Alloy Edition,26685,flex-fuel (FFV),I4,27.0,4,5
+200,2017,S Alloy Edition,30900,flex-fuel (FFV),V6,22.0,4,5
+200,2017,Touring,22610,flex-fuel (FFV),I4,27.0,4,5
+300,2017,Alloy,36170,gas,V6,23.0,4,5
+300,2017,Alloy,38670,gas,V6,21.0,4,5
+300,2017,C,38635,gas,V6,23.0,4,5
+300,2017,C,41135,gas,V6,21.0,4,5
+300,2017,C Platinum,45270,gas,V6,21.0,4,5
+300,2017,C Platinum,42770,gas,V6,23.0,4,5
+300,2017,Limited,34840,gas,V6,21.0,4,5
+300,2017,Limited,32340,gas,V6,23.0,4,5
+300,2017,S,38175,gas,V6,21.0,4,5
+300,2017,S,35675,gas,V6,23.0,4,5
+200,2016,C,27570,flex-fuel (FFV),I4,28.0,4,5
+200,2016,C,31785,flex-fuel (FFV),V6,22.0,4,5
+200,2016,C Platinum,27795,flex-fuel (FFV),I4,28.0,4,5
+200,2016,Limited,24490,flex-fuel (FFV),I4,28.0,4,5
+200,2016,LX,21995,flex-fuel (FFV),I4,28.0,4,5
+200,2016,S,25690,flex-fuel (FFV),I4,28.0,4,5
+200,2016,S,29905,flex-fuel (FFV),V6,22.0,4,5
+200,2016,Touring,22490,flex-fuel (FFV),I4,28.0,4,5
+300,2016,Alloy,36090,gas,V6,23.0,4,5
+300,2016,Alloy,38590,gas,V6,21.0,4,5
+300,2016,Anniversary Package,35255,gas,V6,23.0,4,5
+300,2016,Anniversary Package,37755,gas,V6,21.0,4,5
+300,2016,C,38555,gas,V6,23.0,4,5
+300,2016,C,41055,gas,V6,21.0,4,5
+300,2016,C Platinum,42690,gas,V6,23.0,4,5
+300,2016,C Platinum,45190,gas,V6,21.0,4,5
+300,2016,Limited,34760,gas,V6,21.0,4,5
+300,2016,Limited,32260,gas,V6,23.0,4,5
+300,2016,S,35595,gas,V6,23.0,4,5
+300,2016,S,38095,gas,V6,21.0,4,5
+200,2015,C,30825,flex-fuel (FFV),V6,22.0,4,5
+200,2015,C,26625,flex-fuel (FFV),I4,28.0,4,5
+200,2015,Limited,23950,flex-fuel (FFV),I4,28.0,4,5
+200,2015,LX,21995,flex-fuel (FFV),I4,28.0,4,5
+200,2015,S,29370,flex-fuel (FFV),V6,22.0,4,5
+200,2015,S,25170,flex-fuel (FFV),I4,28.0,4,5
+300,2015,C,38070,gas,V6,23.0,4,5
+300,2015,C,40570,gas,V6,21.0,4,5
+300,2015,C Platinum,42395,gas,V6,23.0,4,5
+300,2015,C Platinum,44895,gas,V6,21.0,4,5
+300,2015,Limited,31695,gas,V6,23.0,4,5
+300,2015,Limited,34195,gas,V6,21.0,4,5
+300,2015,S,35070,gas,V6,23.0,4,5
+300,2015,S,37570,gas,V6,21.0,4,5

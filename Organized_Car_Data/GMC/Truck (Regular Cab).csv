@@ -1,0 +1,98 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Sierra 1500,2020,Base,34200,flex-fuel (FFV),V6,17.0,2,3
+Sierra 1500,2020,Base,29600,flex-fuel (FFV),V6,17.0,2,3
+Sierra 2500HD,2020,Base,38400,gas,V8,,2,3
+Sierra 2500HD,2020,Base,35600,gas,V8,,2,3
+Sierra 2500HD,2020,SLE,40000,gas,V8,,2,3
+Sierra 2500HD,2020,SLE,42800,gas,V8,,2,3
+Sierra 3500HD,2020,Base,40800,gas,V8,,2,3
+Sierra 3500HD,2020,Base,39600,gas,V8,,2,3
+Sierra 3500HD,2020,Base,38000,gas,V8,,2,3
+Sierra 3500HD,2020,Base,36800,gas,V8,,2,3
+Sierra 3500HD,2020,SLE,41200,gas,V8,,2,3
+Sierra 3500HD,2020,SLE,42400,gas,V8,,2,3
+Sierra 3500HD,2020,SLE,44000,gas,V8,,2,3
+Sierra 3500HD,2020,SLE,45200,gas,V8,,2,3
+Sierra 1500,2019,Base,29600,flex-fuel (FFV),V6,17.0,2,3
+Sierra 1500,2019,Base,34200,flex-fuel (FFV),V6,17.0,2,3
+Sierra 2500HD,2019,Base,38600,flex-fuel (FFV),V8,,2,3
+Sierra 1500,2018,Base,32945,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2018,Base,32645,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2018,Base,29095,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2018,Base,28705,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2018,SLE,35530,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2018,SLE,35405,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2018,SLE,39610,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2018,SLE,39310,flex-fuel (FFV),V6,19.0,2,3
+Sierra 2500HD,2018,Base,37695,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2018,Base,34740,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2018,SLE,40140,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2018,SLE,43270,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2018,Base,35900,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2018,Base,36700,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2018,Base,38800,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2018,Base,39600,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2018,SLE,40400,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2018,SLE,44500,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2018,SLE,43500,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2018,SLE,41400,flex-fuel (FFV),V8,,2,3
+Sierra 1500,2017,Base,32445,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2017,Base,32145,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2017,Base,28595,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2017,Base,28205,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2017,SLE,39160,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2017,SLE,38860,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2017,SLE,35080,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2017,SLE,34955,flex-fuel (FFV),V6,20.0,2,3
+Sierra 2500HD,2017,Base,36945,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2017,Base,33990,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2017,SLE,42720,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2017,SLE,39590,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2017,Base,38825,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2017,Base,38045,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2017,Base,35870,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2017,Base,35090,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2017,SLE,39785,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2017,SLE,40800,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2017,SLE,42915,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2017,SLE,43930,flex-fuel (FFV),V8,,2,3
+Sierra 1500,2016,Base,27715,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2016,Base,28105,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2016,Base,31655,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2016,Base,31955,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2016,SLE,34590,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2016,SLE,34465,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2016,SLE,38670,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2016,SLE,38370,flex-fuel (FFV),V6,19.0,2,3
+Sierra 2500HD,2016,Base,33535,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2016,Base,36490,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2016,SLE,39135,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2016,SLE,42265,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2016,Base,34635,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2016,Base,35415,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2016,Base,37590,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2016,Base,38370,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2016,SLE,39330,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2016,SLE,40345,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2016,SLE,42460,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2016,SLE,43475,flex-fuel (FFV),V8,,2,3
+Sierra 1500,2015,Base,30910,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2015,Base,30610,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2015,Base,27060,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2015,Base,26670,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2015,SLE,33595,flex-fuel (FFV),V6,20.0,2,3
+Sierra 1500,2015,SLE,37800,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2015,SLE,37500,flex-fuel (FFV),V6,19.0,2,3
+Sierra 1500,2015,SLE,33720,flex-fuel (FFV),V6,20.0,2,3
+Sierra 2500HD,2015,Base,33195,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2015,Base,36150,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2015,SLE,41555,flex-fuel (FFV),V8,,2,3
+Sierra 2500HD,2015,SLE,38425,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2015,Base,34295,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2015,Base,37250,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2015,Base,35075,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2015,Base,38030,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2015,SLE,39635,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2015,SLE,38620,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2015,SLE,42765,flex-fuel (FFV),V8,,2,3
+Sierra 3500HD,2015,SLE,41750,flex-fuel (FFV),V8,,2,3

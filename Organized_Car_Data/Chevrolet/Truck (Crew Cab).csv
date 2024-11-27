@@ -1,0 +1,472 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Colorado,2020,LT,35300,gas,V6,19.0,4,5
+Colorado,2020,LT,29700,gas,I4,22.0,4,5
+Colorado,2020,LT,31900,gas,V6,20.0,4,5
+Colorado,2020,LT,34400,gas,V6,19.0,4,5
+Colorado,2020,Work Truck,32600,gas,V6,19.0,4,5
+Colorado,2020,Work Truck,31700,gas,V6,19.0,4,5
+Colorado,2020,Work Truck,29000,gas,V6,20.0,4,5
+Colorado,2020,Work Truck,26700,gas,I4,22.0,4,5
+Colorado,2020,Z71,37100,gas,V6,19.0,4,5
+Colorado,2020,Z71,37700,gas,V6,19.0,4,5
+Colorado,2020,Z71,33900,gas,V6,20.0,4,5
+Colorado,2020,ZR2,43000,gas,V6,17.0,4,5
+Silverado 1500,2020,Custom,37000,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2020,Custom,37300,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2020,Custom,40300,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2020,Custom,40600,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2020,Custom Trail Boss,42200,flex-fuel (FFV),V6,16.0,4,6
+Silverado 1500,2020,Custom Trail Boss,41900,flex-fuel (FFV),V6,16.0,4,6
+Silverado 1500,2020,High Country,56500,gas,V8,19.0,4,5
+Silverado 1500,2020,High Country,53300,gas,V8,20.0,4,5
+Silverado 1500,2020,High Country,53000,gas,V8,20.0,4,5
+Silverado 1500,2020,LT,39300,gas,I4,21.0,4,6
+Silverado 1500,2020,LT,39600,gas,I4,21.0,4,6
+Silverado 1500,2020,LT,42600,gas,I4,20.0,4,6
+Silverado 1500,2020,LT,42900,gas,I4,20.0,4,6
+Silverado 1500,2020,LT Trail Boss,48800,gas,V8,18.0,4,6
+Silverado 1500,2020,LT Trail Boss,48500,gas,V8,18.0,4,6
+Silverado 1500,2020,LTZ,49000,gas,V8,18.0,4,6
+Silverado 1500,2020,LTZ,48700,gas,V8,18.0,4,6
+Silverado 1500,2020,LTZ,45700,gas,V8,20.0,4,6
+Silverado 1500,2020,LTZ,45400,gas,V8,20.0,4,6
+Silverado 1500,2020,RST,41200,gas,I4,21.0,4,6
+Silverado 1500,2020,RST,41500,gas,I4,21.0,4,6
+Silverado 1500,2020,RST,44800,gas,I4,20.0,4,6
+Silverado 1500,2020,RST,44500,gas,I4,20.0,4,6
+Silverado 1500,2020,Work Truck,34600,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2020,Work Truck,34900,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2020,Work Truck,37900,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2020,Work Truck,38200,flex-fuel (FFV),V6,17.0,4,6
+Silverado 2500HD,2020,Custom,43800,gas,V8,,4,6
+Silverado 2500HD,2020,Custom,43600,gas,V8,,4,6
+Silverado 2500HD,2020,Custom,41000,gas,V8,,4,6
+Silverado 2500HD,2020,Custom,40800,gas,V8,,4,6
+Silverado 2500HD,2020,High Country,61300,gas,V8,,4,5
+Silverado 2500HD,2020,High Country,61100,gas,V8,,4,5
+Silverado 2500HD,2020,LT,44600,gas,V8,,4,6
+Silverado 2500HD,2020,LT,42000,gas,V8,,4,6
+Silverado 2500HD,2020,LT,41800,gas,V8,,4,6
+Silverado 2500HD,2020,LT,44800,gas,V8,,4,6
+Silverado 2500HD,2020,LTZ,53300,gas,V8,,4,6
+Silverado 2500HD,2020,LTZ,50700,gas,V8,,4,6
+Silverado 2500HD,2020,LTZ,50500,gas,V8,,4,6
+Silverado 2500HD,2020,LTZ,53500,gas,V8,,4,6
+Silverado 2500HD,2020,Work Truck,38300,gas,V8,,4,6
+Silverado 2500HD,2020,Work Truck,41300,gas,V8,,4,6
+Silverado 2500HD,2020,Work Truck,41100,gas,V8,,4,6
+Silverado 2500HD,2020,Work Truck,38500,gas,V8,,4,6
+Silverado 3500HD,2020,High Country,63700,gas,V8,,4,5
+Silverado 3500HD,2020,High Country,62500,gas,V8,,4,5
+Silverado 3500HD,2020,High Country,62300,gas,V8,,4,5
+Silverado 3500HD,2020,LT,45800,gas,V8,,4,6
+Silverado 3500HD,2020,LT,43000,gas,V8,,4,6
+Silverado 3500HD,2020,LT,43200,gas,V8,,4,6
+Silverado 3500HD,2020,LT,44400,gas,V8,,4,6
+Silverado 3500HD,2020,LT,46000,gas,V8,,4,6
+Silverado 3500HD,2020,LT,47200,gas,V8,,4,6
+Silverado 3500HD,2020,LTZ,51700,gas,V8,,4,6
+Silverado 3500HD,2020,LTZ,51900,gas,V8,,4,6
+Silverado 3500HD,2020,LTZ,53100,gas,V8,,4,6
+Silverado 3500HD,2020,LTZ,54500,gas,V8,,4,6
+Silverado 3500HD,2020,LTZ,54700,gas,V8,,4,6
+Silverado 3500HD,2020,LTZ,55900,gas,V8,,4,6
+Silverado 3500HD,2020,Work Truck,42300,gas,V8,,4,6
+Silverado 3500HD,2020,Work Truck,39500,gas,V8,,4,6
+Silverado 3500HD,2020,Work Truck,39700,gas,V8,,4,6
+Silverado 3500HD,2020,Work Truck,40900,gas,V8,,4,6
+Silverado 3500HD,2020,Work Truck,42500,gas,V8,,4,6
+Silverado 3500HD,2020,Work Truck,43700,gas,V8,,4,6
+Colorado,2019,LT,34600,gas,V6,19.0,4,5
+Colorado,2019,LT,34300,gas,V6,19.0,4,5
+Colorado,2019,LT,31200,gas,V6,20.0,4,5
+Colorado,2019,LT,29600,gas,I4,22.0,4,5
+Colorado,2019,Work Truck,26700,gas,I4,22.0,4,5
+Colorado,2019,Work Truck,28400,gas,V6,20.0,4,5
+Colorado,2019,Work Truck,31700,gas,V6,19.0,4,5
+Colorado,2019,Work Truck,32000,gas,V6,19.0,4,5
+Colorado,2019,Z71,37300,gas,V6,19.0,4,5
+Colorado,2019,Z71,32600,gas,I4,22.0,4,5
+Colorado,2019,Z71,34000,gas,V6,20.0,4,5
+Colorado,2019,Z71,37000,gas,V6,19.0,4,5
+Colorado,2019,ZR2,42900,gas,V6,17.0,4,5
+Silverado 1500,2019,Custom,37300,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2019,Custom,40300,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2019,Custom,40600,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2019,Custom,37000,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2019,Custom Trail Boss,42200,flex-fuel (FFV),V6,16.0,4,6
+Silverado 1500,2019,Custom Trail Boss,41900,flex-fuel (FFV),V6,16.0,4,6
+Silverado 1500,2019,High Country,53300,gas,V8,19.0,4,5
+Silverado 1500,2019,High Country,53000,gas,V8,19.0,4,5
+Silverado 1500,2019,High Country,56300,gas,V8,18.0,4,5
+Silverado 1500,2019,High Country,56600,gas,V8,18.0,4,5
+Silverado 1500,2019,LT,39300,gas,I4,21.0,4,6
+Silverado 1500,2019,LT,39600,gas,I4,21.0,4,6
+Silverado 1500,2019,LT,42600,gas,I4,20.0,4,6
+Silverado 1500,2019,LT,42900,gas,I4,20.0,4,6
+Silverado 1500,2019,LT Trail Boss,48300,gas,V8,17.0,4,6
+Silverado 1500,2019,LT Trail Boss,48600,gas,V8,17.0,4,6
+Silverado 1500,2019,LTZ,45400,gas,V8,19.0,4,6
+Silverado 1500,2019,LTZ,45700,gas,V8,19.0,4,6
+Silverado 1500,2019,LTZ,48700,gas,V8,18.0,4,6
+Silverado 1500,2019,LTZ,49000,gas,V8,18.0,4,6
+Silverado 1500,2019,RST,44500,gas,I4,20.0,4,6
+Silverado 1500,2019,RST,41200,gas,I4,21.0,4,6
+Silverado 1500,2019,RST,41500,gas,I4,21.0,4,6
+Silverado 1500,2019,RST,44800,gas,I4,20.0,4,6
+Silverado 1500,2019,Work Truck,38200,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2019,Work Truck,37900,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2019,Work Truck,34900,flex-fuel (FFV),V6,17.0,4,6
+Silverado 1500,2019,Work Truck,34600,flex-fuel (FFV),V6,17.0,4,6
+Silverado 2500HD,2019,High Country,59000,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2019,High Country,55900,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2019,LT,43700,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2019,LT,43900,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2019,LT,47000,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2019,LT,47200,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2019,LTZ,49500,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2019,LTZ,49700,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2019,LTZ,52700,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2019,LTZ,52900,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2019,Work Truck,41500,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2019,Work Truck,38400,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2019,Work Truck,38600,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2019,Work Truck,41300,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,High Country,60100,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2019,High Country,56000,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2019,High Country,56200,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2019,High Country,57000,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2019,High Country,59200,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2019,High Country,59400,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2019,LT,45400,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,LT,45600,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,LT,46700,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,LT,48500,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,LT,48700,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,LT,49900,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,LTZ,54500,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,LTZ,50700,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,LTZ,51400,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,LTZ,53600,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,LTZ,53800,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,LTZ,50500,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,Work Truck,43200,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,Work Truck,40300,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,Work Truck,40500,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,Work Truck,41000,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,Work Truck,43400,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2019,Work Truck,43900,flex-fuel (FFV),V8,,4,6
+Colorado,2018,LT,29100,gas,I4,22.0,4,5
+Colorado,2018,LT,34300,gas,V6,19.0,4,5
+Colorado,2018,LT,34000,gas,V6,19.0,4,5
+Colorado,2018,LT,30700,gas,V6,20.0,4,5
+Colorado,2018,Work Truck,26300,gas,I4,22.0,4,5
+Colorado,2018,Work Truck,28000,gas,V6,20.0,4,5
+Colorado,2018,Work Truck,31500,gas,V6,19.0,4,5
+Colorado,2018,Work Truck,31800,gas,V6,19.0,4,5
+Colorado,2018,Z71,36500,gas,V6,19.0,4,5
+Colorado,2018,Z71,36200,gas,V6,19.0,4,5
+Colorado,2018,Z71,33000,gas,V6,20.0,4,5
+Colorado,2018,Z71,31600,gas,I4,22.0,4,5
+Colorado,2018,ZR2,42000,gas,V6,17.0,4,5
+Silverado 1500,2018,Custom,41215,gas,V8,18.0,4,6
+Silverado 1500,2018,Custom,39820,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2018,Custom,38065,gas,V8,19.0,4,6
+Silverado 1500,2018,Custom,36670,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2018,High Country,52000,gas,V8,18.0,4,5
+Silverado 1500,2018,High Country,52300,gas,V8,18.0,4,5
+Silverado 1500,2018,High Country,55275,gas,V8,17.0,4,5
+Silverado 1500,2018,High Country,55575,gas,V8,17.0,4,5
+Silverado 1500,2018,LS,41130,gas,V8,18.0,4,6
+Silverado 1500,2018,LS,39735,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2018,LS,37980,gas,V8,19.0,4,6
+Silverado 1500,2018,LS,36585,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2018,LT,44600,gas,V8,18.0,4,6
+Silverado 1500,2018,LT,43205,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2018,LT,41025,gas,V8,19.0,4,6
+Silverado 1500,2018,LT,39630,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2018,LTZ,48125,gas,V8,18.0,4,6
+Silverado 1500,2018,LTZ,47825,gas,V8,18.0,4,6
+Silverado 1500,2018,LTZ,45000,gas,V8,18.0,4,6
+Silverado 1500,2018,LTZ,44700,gas,V8,18.0,4,6
+Silverado 1500,2018,Work Truck,37935,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2018,Work Truck,39330,gas,V8,18.0,4,6
+Silverado 1500,2018,Work Truck,36180,gas,V8,19.0,4,6
+Silverado 1500,2018,Work Truck,34785,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2018,Z71 LT,46510,gas,V8,18.0,4,6
+Silverado 1500,2018,Z71 LT,45115,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2018,Z71 LTZ,49690,gas,V8,17.0,4,6
+Silverado 1500,2018,Z71 LTZ,49390,gas,V8,17.0,4,6
+Silverado 2500HD,2018,High Country,58165,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2018,High Country,58360,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2018,High Country,55210,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2018,High Country,55015,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2018,LT,43080,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2018,LT,46570,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2018,LT,46375,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2018,LT,43275,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2018,LTZ,48675,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2018,LTZ,48870,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2018,LTZ,51825,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2018,LTZ,52020,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2018,Work Truck,37745,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2018,Work Truck,40895,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2018,Work Truck,37940,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2018,Work Truck,40700,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,High Country,56315,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2018,High Country,59465,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2018,High Country,58710,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2018,High Country,58515,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2018,High Country,55560,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2018,High Country,55365,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2018,LT,44950,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,LT,45145,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,LT,46295,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,LT,48100,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,LT,48295,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,LT,49445,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,LTZ,52975,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,LTZ,49825,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,LTZ,50020,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,LTZ,50725,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,LTZ,53170,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,LTZ,53875,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,Work Truck,43500,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,Work Truck,42970,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,Work Truck,42775,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,Work Truck,40545,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,Work Truck,40015,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2018,Work Truck,39820,flex-fuel (FFV),V8,,4,6
+Colorado,2017,LT,28715,gas,I4,22.0,4,5
+Colorado,2017,LT,30385,gas,V6,20.0,4,5
+Colorado,2017,LT,33675,gas,V6,19.0,4,5
+Colorado,2017,LT,33975,gas,V6,19.0,4,5
+Colorado,2017,Work Truck,27455,gas,V6,20.0,4,5
+Colorado,2017,Work Truck,25785,gas,I4,22.0,4,5
+Colorado,2017,Work Truck,31270,gas,V6,19.0,4,5
+Colorado,2017,Work Truck,30970,gas,V6,19.0,4,5
+Colorado,2017,Z71,36080,gas,V6,19.0,4,5
+Colorado,2017,Z71,35780,gas,V6,19.0,4,5
+Colorado,2017,Z71,32615,gas,V6,20.0,4,5
+Colorado,2017,Z71,31230,gas,I4,22.0,4,5
+Colorado,2017,ZR2,41625,gas,V6,17.0,4,5
+Silverado 1500,2017,High Country,54925,gas,V8,17.0,4,5
+Silverado 1500,2017,High Country,54625,gas,V8,17.0,4,5
+Silverado 1500,2017,High Country,51650,gas,V8,18.0,4,5
+Silverado 1500,2017,High Country,51350,gas,V8,18.0,4,5
+Silverado 1500,2017,LS,42380,gas,V8,18.0,4,6
+Silverado 1500,2017,LS,40985,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2017,LS,39230,gas,V8,19.0,4,6
+Silverado 1500,2017,LS,37835,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2017,LT,38980,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2017,LT,40375,gas,V8,19.0,4,6
+Silverado 1500,2017,LT,42555,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2017,LT,43950,gas,V8,18.0,4,6
+Silverado 1500,2017,LTZ,44050,gas,V8,18.0,4,6
+Silverado 1500,2017,LTZ,44350,gas,V8,18.0,4,6
+Silverado 1500,2017,LTZ,47175,gas,V8,17.0,4,6
+Silverado 1500,2017,LTZ,47475,gas,V8,17.0,4,6
+Silverado 1500,2017,Work Truck,40580,gas,V8,18.0,4,6
+Silverado 1500,2017,Work Truck,39185,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2017,Work Truck,37430,gas,V8,19.0,4,6
+Silverado 1500,2017,Work Truck,36035,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2017,Z71 LT,45860,gas,V8,18.0,4,6
+Silverado 1500,2017,Z71 LT,44465,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2017,Z71 LTZ,49040,gas,V8,17.0,4,6
+Silverado 1500,2017,Z71 LTZ,48740,gas,V8,17.0,4,6
+Silverado 2500HD,2017,High Country,54565,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2017,High Country,54760,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2017,High Country,57715,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2017,High Country,57910,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2017,LT,46120,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2017,LT,45925,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2017,LT,42825,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2017,LT,42630,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2017,LTZ,51570,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2017,LTZ,51375,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2017,LTZ,48420,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2017,LTZ,48225,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2017,Work Truck,37095,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2017,Work Truck,40050,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2017,Work Truck,40245,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2017,Work Truck,37290,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,High Country,58160,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2017,High Country,58915,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2017,High Country,54815,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2017,High Country,55010,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2017,High Country,55765,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2017,High Country,57965,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2017,LT,44400,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,LT,44595,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,LT,48895,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,LT,47745,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,LT,47550,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,LT,45745,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,LTZ,49275,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,LTZ,52620,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,LTZ,53325,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,LTZ,49470,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,LTZ,50175,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,LTZ,52425,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,Work Truck,39070,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,Work Truck,42750,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,Work Truck,39265,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,Work Truck,39795,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,Work Truck,42025,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2017,Work Truck,42220,flex-fuel (FFV),V8,,4,6
+Colorado,2016,LT,27920,gas,I4,22.0,4,5
+Colorado,2016,LT,33195,gas,V6,20.0,4,5
+Colorado,2016,LT,29440,gas,V6,21.0,4,5
+Colorado,2016,LT,32895,gas,V6,20.0,4,5
+Colorado,2016,Work Truck,24990,gas,I4,22.0,4,5
+Colorado,2016,Work Truck,26510,gas,V6,21.0,4,5
+Colorado,2016,Work Truck,30365,gas,V6,20.0,4,5
+Colorado,2016,Work Truck,30665,gas,V6,20.0,4,5
+Colorado,2016,Z71,30435,gas,I4,22.0,4,5
+Colorado,2016,Z71,31670,gas,V6,21.0,4,5
+Colorado,2016,Z71,35000,gas,V6,20.0,4,5
+Colorado,2016,Z71,35300,gas,V6,20.0,4,5
+Silverado 1500,2016,High Country,53315,gas,V8,18.0,4,5
+Silverado 1500,2016,High Country,53015,gas,V8,18.0,4,5
+Silverado 1500,2016,High Country,50040,gas,V8,19.0,4,5
+Silverado 1500,2016,High Country,49740,gas,V8,19.0,4,5
+Silverado 1500,2016,LS,37345,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2016,LS,38740,gas,V8,19.0,4,6
+Silverado 1500,2016,LS,40495,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2016,LS,41890,gas,V8,18.0,4,6
+Silverado 1500,2016,LT,38290,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2016,LT,43260,gas,V8,18.0,4,6
+Silverado 1500,2016,LT,41865,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2016,LT,39685,gas,V8,19.0,4,6
+Silverado 1500,2016,LTZ,43710,gas,V8,19.0,4,6
+Silverado 1500,2016,LTZ,44010,gas,V8,19.0,4,6
+Silverado 1500,2016,LTZ,46835,gas,V8,18.0,4,6
+Silverado 1500,2016,LTZ,47135,gas,V8,18.0,4,6
+Silverado 1500,2016,Work Truck,38695,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2016,Work Truck,35545,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2016,Work Truck,36940,gas,V8,19.0,4,6
+Silverado 1500,2016,Work Truck,40090,gas,V8,18.0,4,6
+Silverado 1500,2016,Z71 LT,43775,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2016,Z71 LT,45170,gas,V8,18.0,4,6
+Silverado 1500,2016,Z71 LTZ,48500,gas,V8,18.0,4,6
+Silverado 1500,2016,Z71 LTZ,48200,gas,V8,18.0,4,6
+Silverado 2500HD,2016,High Country,53785,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2016,High Country,53590,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2016,High Country,56740,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2016,High Country,56935,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2016,LT,45565,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2016,LT,45370,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2016,LT,42270,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2016,LT,42075,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2016,LTZ,47870,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2016,LTZ,48065,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2016,LTZ,51020,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2016,LTZ,51215,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2016,Work Truck,39695,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2016,Work Truck,36935,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2016,Work Truck,36740,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2016,Work Truck,39890,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,High Country,53740,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2016,High Country,57840,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2016,High Country,57085,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2016,High Country,56890,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2016,High Country,54690,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2016,High Country,53935,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2016,LT,48240,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,LT,47090,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,LT,46895,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,LT,45090,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,LT,43940,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,LT,43745,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,LTZ,48820,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,LTZ,49015,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,LTZ,49720,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,LTZ,52870,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,LTZ,51970,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,LTZ,52165,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,Work Truck,38810,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,Work Truck,39340,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,Work Truck,41570,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,Work Truck,41765,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,Work Truck,42295,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2016,Work Truck,38615,flex-fuel (FFV),V8,,4,6
+Colorado,2015,LT,32085,gas,V6,20.0,4,5
+Colorado,2015,LT,28630,gas,V6,21.0,4,5
+Colorado,2015,LT,27110,gas,I4,22.0,4,5
+Colorado,2015,LT,32385,gas,V6,20.0,4,5
+Colorado,2015,Work Truck,30005,gas,V6,20.0,4,5
+Colorado,2015,Work Truck,29705,gas,V6,20.0,4,5
+Colorado,2015,Work Truck,25850,gas,V6,21.0,4,5
+Colorado,2015,Work Truck,24330,gas,I4,22.0,4,5
+Colorado,2015,Z71,34115,gas,V6,20.0,4,5
+Colorado,2015,Z71,30785,gas,V6,21.0,4,5
+Colorado,2015,Z71,29550,gas,I4,22.0,4,5
+Colorado,2015,Z71,34415,gas,V6,20.0,4,5
+Silverado 1500,2015,High Country,47875,gas,V8,19.0,4,5
+Silverado 1500,2015,High Country,47575,gas,V8,19.0,4,5
+Silverado 1500,2015,High Country,50850,gas,V8,18.0,4,5
+Silverado 1500,2015,High Country,51150,gas,V8,18.0,4,5
+Silverado 1500,2015,LS,36090,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2015,LS,36390,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2015,LS,39240,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2015,LS,39540,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2015,LT,40620,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2015,LT,40320,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2015,LT,37045,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2015,LT,36745,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2015,LTZ,41970,gas,V8,19.0,4,6
+Silverado 1500,2015,LTZ,42270,gas,V8,19.0,4,6
+Silverado 1500,2015,LTZ,45420,gas,V8,18.0,4,6
+Silverado 1500,2015,LTZ,45120,gas,V8,18.0,4,6
+Silverado 1500,2015,Work Truck,34230,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2015,Work Truck,34530,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2015,Work Truck,37380,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2015,Work Truck,37680,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2015,Z71 LT,42010,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2015,Z71 LT,38335,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2015,Z71 LT,42310,flex-fuel (FFV),V6,19.0,4,6
+Silverado 1500,2015,Z71 LT,38635,flex-fuel (FFV),V6,20.0,4,6
+Silverado 1500,2015,Z71 LTZ,42860,gas,V8,19.0,4,6
+Silverado 1500,2015,Z71 LTZ,46110,gas,V8,18.0,4,6
+Silverado 1500,2015,Z71 LTZ,45810,gas,V8,18.0,4,6
+Silverado 1500,2015,Z71 LTZ,42560,gas,V8,19.0,4,6
+Silverado 2500HD,2015,High Country,55875,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2015,High Country,55680,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2015,High Country,52725,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2015,High Country,52530,flex-fuel (FFV),V8,,4,5
+Silverado 2500HD,2015,LT,44490,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2015,LT,41390,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2015,LT,44685,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2015,LT,41195,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2015,LTZ,46675,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2015,LTZ,46870,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2015,LTZ,49825,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2015,LTZ,50020,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2015,Work Truck,36765,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2015,Work Truck,36960,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2015,Work Truck,39720,flex-fuel (FFV),V8,,4,6
+Silverado 2500HD,2015,Work Truck,39915,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,High Country,54925,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2015,High Country,51580,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2015,High Country,51775,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2015,High Country,52930,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2015,High Country,54730,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2015,High Country,56080,flex-fuel (FFV),V8,,4,5
+Silverado 3500HD,2015,LT,43510,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,LT,44915,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,LT,41765,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,LT,41960,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,LT,45110,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,LT,46660,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,LTZ,50270,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,LTZ,48225,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,LTZ,47120,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,LTZ,51375,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,LTZ,50075,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,LTZ,46925,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,Work Truck,41620,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,Work Truck,41090,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,Work Truck,40895,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,Work Truck,37940,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,Work Truck,38135,flex-fuel (FFV),V8,,4,6
+Silverado 3500HD,2015,Work Truck,38665,flex-fuel (FFV),V8,,4,6

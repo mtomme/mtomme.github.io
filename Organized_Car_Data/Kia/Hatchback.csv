@@ -1,0 +1,32 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Rio,2020,S,16790,gas,I4,36.0,5,5
+Rio,2019,S,16490,gas,I4,32.0,5,5
+Forte,2018,EX,22200,gas,I4,28.0,5,5
+Forte,2018,LX,18300,gas,I4,28.0,5,5
+Forte,2018,SX,23900,gas,I4,27.0,5,5
+Forte,2018,SX,26100,gas,I4,25.0,5,5
+Rio,2018,EX,18700,gas,I4,32.0,5,5
+Rio,2018,LX,14200,gas,I4,32.0,5,5
+Rio,2018,LX,15290,gas,I4,32.0,5,5
+Rio,2018,S,16400,gas,I4,32.0,5,5
+Forte,2017,EX,22100,gas,I4,28.0,5,5
+Forte,2017,LX,18200,gas,I4,28.0,5,5
+Forte,2017,SX,26000,gas,I4,25.0,5,5
+Forte,2017,SX,23800,gas,I4,27.0,5,5
+Rio,2017,EX,17905,gas,I4,30.0,5,5
+Rio,2017,LX,15495,gas,I4,30.0,5,5
+Rio,2017,SX,20905,gas,I4,30.0,5,5
+Forte,2016,EX,20390,gas,I4,28.0,5,5
+Forte,2016,LX,18090,gas,I4,28.0,5,5
+Forte,2016,SX,21990,gas,I4,24.0,5,5
+Forte,2016,SX,20990,gas,I4,24.0,5,5
+Rio,2016,EX,17905,gas,I4,31.0,5,5
+Rio,2016,LX,15495,gas,I4,31.0,5,5
+Rio,2016,SX,20905,gas,I4,31.0,5,5
+Forte,2015,Forte5 EX,19690,gas,I4,28.0,5,5
+Forte,2015,Forte5 SX,21890,gas,I4,24.0,5,5
+Forte,2015,Forte5 SX,20890,gas,I4,24.0,5,5
+Rio,2015,EX,17190,gas,I4,31.0,5,5
+Rio,2015,LX,15290,gas,I4,31.0,5,5
+Rio,2015,LX,13990,gas,I4,31.0,5,5
+Rio,2015,SX,18290,gas,I4,31.0,5,5

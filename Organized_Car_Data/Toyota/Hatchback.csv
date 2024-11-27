@@ -1,0 +1,115 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Corolla Hatchback,2020,Nightshade Edition,22290,gas,I4,35.0,5,5
+Corolla Hatchback,2020,SE,20290,gas,I4,31.0,5,5
+Corolla Hatchback,2020,SE,21390,gas,I4,35.0,5,5
+Corolla Hatchback,2020,XSE,24340,gas,I4,33.0,5,5
+Corolla Hatchback,2020,XSE,23240,gas,I4,31.0,5,5
+Prius,2020,L Eco,24325,hybrid,I4,56.0,5,5
+Prius,2020,LE,25535,hybrid,I4,52.0,5,5
+Prius,2020,LE AWD-e,26935,hybrid,I4,50.0,5,5
+Prius,2020,Limited,32500,hybrid,I4,52.0,5,5
+Prius,2020,XLE,28375,hybrid,I4,52.0,5,5
+Prius,2020,XLE AWD-e,29375,hybrid,I4,50.0,5,5
+Prius Prime,2020,LE,27600,plug-in hybrid,I4,54.0,5,5
+Prius Prime,2020,Limited,33500,plug-in hybrid,I4,54.0,5,5
+Prius Prime,2020,XLE,29500,plug-in hybrid,I4,54.0,5,5
+Yaris Hatchback,2020,LE,17750,gas,I4,35.0,5,5
+Yaris Hatchback,2020,XLE,18750,gas,I4,35.0,5,5
+Corolla Hatchback,2019,SE,20140,gas,I4,31.0,5,5
+Corolla Hatchback,2019,SE,21240,gas,I4,36.0,5,5
+Corolla Hatchback,2019,XSE,23140,gas,I4,31.0,5,5
+Corolla Hatchback,2019,XSE,24240,gas,I4,33.0,5,5
+Prius,2019,L Eco,23770,hybrid,I4,56.0,5,5
+Prius,2019,LE,24980,hybrid,I4,52.0,5,5
+Prius,2019,LE AWD-e,26380,hybrid,I4,50.0,5,5
+Prius,2019,Limited,32200,hybrid,I4,52.0,5,5
+Prius,2019,XLE,27820,hybrid,I4,52.0,5,5
+Prius,2019,XLE AWD-e,28820,hybrid,I4,50.0,5,5
+Prius c,2019,L,21530,hybrid,I4,46.0,5,5
+Prius c,2019,LE,22955,hybrid,I4,46.0,5,5
+Prius Prime,2019,Advanced,33350,plug-in hybrid,I4,54.0,5,4
+Prius Prime,2019,Plus,27350,plug-in hybrid,I4,54.0,5,4
+Prius Prime,2019,Premium,29050,plug-in hybrid,I4,54.0,5,4
+Corolla iM,2018,Base,19590,gas,I4,31.0,5,5
+Corolla iM,2018,Base,18850,gas,I4,30.0,5,5
+Prius,2018,Four,29685,hybrid,I4,52.0,5,5
+Prius,2018,Four Touring,30565,hybrid,I4,52.0,5,5
+Prius,2018,One,23475,hybrid,I4,52.0,5,5
+Prius,2018,Three,26735,hybrid,I4,52.0,5,5
+Prius,2018,Three Touring,28115,hybrid,I4,52.0,5,5
+Prius,2018,Two,24685,hybrid,I4,52.0,5,5
+Prius,2018,Two Eco,25165,hybrid,I4,56.0,5,5
+Prius c,2018,Four,24965,hybrid,I4,46.0,5,5
+Prius c,2018,One,20630,hybrid,I4,46.0,5,5
+Prius c,2018,Three,22855,hybrid,I4,46.0,5,5
+Prius c,2018,Two,21430,hybrid,I4,46.0,5,5
+Prius Prime,2018,Advanced,33300,plug-in hybrid,I4,54.0,5,4
+Prius Prime,2018,Plus,27300,plug-in hybrid,I4,54.0,5,4
+Prius Prime,2018,Premium,29000,plug-in hybrid,I4,54.0,5,4
+Yaris,2018,L,16760,gas,I4,32.0,5,5
+Yaris,2018,L,16385,gas,I4,32.0,3,5
+Yaris,2018,L,15635,gas,I4,33.0,3,5
+Yaris,2018,LE,17660,gas,I4,32.0,5,5
+Yaris,2018,LE,17285,gas,I4,32.0,3,5
+Yaris,2018,SE,19060,gas,I4,32.0,5,5
+Yaris,2018,SE,18260,gas,I4,33.0,5,5
+Corolla iM,2017,Base,18750,gas,I4,30.0,5,5
+Corolla iM,2017,Base,19490,gas,I4,31.0,5,5
+Prius,2017,Four,29135,hybrid,I4,52.0,5,5
+Prius,2017,Four Touring,30015,hybrid,I4,52.0,5,5
+Prius,2017,One,23475,hybrid,I4,52.0,5,5
+Prius,2017,Three,26735,hybrid,I4,52.0,5,5
+Prius,2017,Three Touring,28115,hybrid,I4,52.0,5,5
+Prius,2017,Two,24685,hybrid,I4,52.0,5,5
+Prius,2017,Two Eco,25165,hybrid,I4,56.0,5,5
+Prius c,2017,Four,24965,hybrid,I4,46.0,5,5
+Prius c,2017,One,20150,hybrid,I4,46.0,5,5
+Prius c,2017,Three,22375,hybrid,I4,46.0,5,5
+Prius c,2017,Two,20950,hybrid,I4,46.0,5,5
+Prius Prime,2017,Advanced,33100,plug-in hybrid,I4,54.0,5,4
+Prius Prime,2017,Plus,27100,plug-in hybrid,I4,54.0,5,4
+Prius Prime,2017,Premium,28800,plug-in hybrid,I4,54.0,5,4
+Yaris,2017,L,15250,gas,I4,33.0,3,5
+Yaris,2017,L,16375,gas,I4,32.0,5,5
+Yaris,2017,L,16000,gas,I4,32.0,3,5
+Yaris,2017,LE,17285,gas,I4,32.0,5,5
+Yaris,2017,LE,16910,gas,I4,32.0,3,5
+Yaris,2017,SE,17200,gas,I4,33.0,5,5
+Yaris,2017,SE,18000,gas,I4,32.0,5,5
+Prius,2016,Four,28650,hybrid,I4,52.0,5,5
+Prius,2016,Four Touring,30000,hybrid,I4,52.0,5,5
+Prius,2016,Three,26250,hybrid,I4,52.0,5,5
+Prius,2016,Three Touring,28100,hybrid,I4,52.0,5,5
+Prius,2016,Two,24200,hybrid,I4,52.0,5,5
+Prius,2016,Two Eco,24700,hybrid,I4,56.0,5,5
+Prius c,2016,Four,24495,hybrid,I4,50.0,5,5
+Prius c,2016,One,19560,hybrid,I4,50.0,5,5
+Prius c,2016,Persona Series Special Edition,21355,hybrid,I4,50.0,5,5
+Prius c,2016,Three,21785,hybrid,I4,50.0,5,5
+Prius c,2016,Two,20360,hybrid,I4,50.0,5,5
+Yaris,2016,L,15995,gas,I4,32.0,5,5
+Yaris,2016,L,15620,gas,I4,32.0,3,5
+Yaris,2016,L,14895,gas,I4,33.0,3,5
+Yaris,2016,LE,16555,gas,I4,32.0,3,5
+Yaris,2016,LE,16930,gas,I4,32.0,5,5
+Yaris,2016,SE,16870,gas,I4,33.0,5,5
+Yaris,2016,SE,17670,gas,I4,32.0,5,5
+Prius,2015,Five,30005,hybrid,I4,50.0,5,5
+Prius,2015,Four,28435,hybrid,I4,50.0,5,5
+Prius,2015,One,23215,hybrid,I4,50.0,5,5
+Prius,2015,Persona Series Special Edition,26985,hybrid,I4,50.0,5,5
+Prius,2015,Three,25765,hybrid,I4,50.0,5,5
+Prius,2015,Two,24200,hybrid,I4,50.0,5,5
+Prius c,2015,Four,24475,hybrid,I4,50.0,5,5
+Prius c,2015,One,19540,hybrid,I4,50.0,5,5
+Prius c,2015,Three,21765,hybrid,I4,50.0,5,5
+Prius c,2015,Two,20340,hybrid,I4,50.0,5,5
+Prius Plug-in,2015,Advanced,34905,plug-in hybrid,I4,95.0,5,5
+Prius Plug-in,2015,Base,29990,plug-in hybrid,I4,95.0,5,5
+Yaris,2015,L,14845,gas,I4,33.0,3,5
+Yaris,2015,L,15945,gas,I4,32.0,5,5
+Yaris,2015,L,15570,gas,I4,32.0,3,5
+Yaris,2015,LE,16880,gas,I4,32.0,5,5
+Yaris,2015,LE,16505,gas,I4,32.0,3,5
+Yaris,2015,SE,17620,gas,I4,32.0,5,5
+Yaris,2015,SE,16820,gas,I4,33.0,5,5

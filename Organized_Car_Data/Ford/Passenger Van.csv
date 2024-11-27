@@ -1,0 +1,53 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Transit Wagon,2018,150 XL Low Roof,35250,gas,V6,,4,8
+Transit Wagon,2018,150 XL Low Roof,35100,gas,V6,,4,8
+Transit Wagon,2018,150 XLT Low Roof,36545,gas,V6,,4,8
+Transit Wagon,2018,150 XLT Low Roof,36395,gas,V6,,4,8
+Transit Wagon,2018,350 XL Low Roof,38900,gas,V6,,4,12
+Transit Wagon,2018,350 XL Low Roof,38750,gas,V6,,4,12
+Transit Wagon,2018,350 XLT Low Roof,40195,gas,V6,,4,12
+Transit Wagon,2018,350 XLT Low Roof,40045,gas,V6,,4,12
+Transit Wagon,2017,150 XL Low Roof,34515,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2017,150 XL Low Roof,34365,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2017,150 XL Medium Roof,35825,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2017,150 XLT Low Roof,35810,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2017,150 XLT Low Roof,35660,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2017,150 XLT Medium Roof,37120,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2017,350 XL High Roof,40925,gas,V6,16.0,4,12
+Transit Wagon,2017,350 XL Low Roof,38165,gas,V6,16.0,4,12
+Transit Wagon,2017,350 XL Low Roof,38015,gas,V6,16.0,4,12
+Transit Wagon,2017,350 XL Medium Roof,39475,gas,V6,16.0,4,12
+Transit Wagon,2017,350 XLT High Roof,42220,gas,V6,16.0,4,12
+Transit Wagon,2017,350 XLT Low Roof,39310,gas,V6,16.0,4,12
+Transit Wagon,2017,350 XLT Low Roof,39460,gas,V6,16.0,4,12
+Transit Wagon,2017,350 XLT Medium Roof,40770,gas,V6,16.0,4,12
+Transit Wagon,2016,150 XL Low Roof,33175,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2016,150 XL Low Roof,33325,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2016,150 XL Medium Roof,34635,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2016,150 XLT Low Roof,34470,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2016,150 XLT Low Roof,34620,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2016,150 XLT Medium Roof,35930,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2016,350 XL High Roof,39735,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2016,350 XL Low Roof,36975,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2016,350 XL Low Roof,36825,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2016,350 XL Medium Roof,38285,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2016,350 XLT High Roof,41030,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2016,350 XLT Low Roof,38120,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2016,350 XLT Low Roof,38270,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2016,350 XLT Medium Roof,39580,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2015,150 XL Low Roof,32270,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2015,150 XL Low Roof,32420,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2015,150 XL Medium Roof,33930,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2015,150 XLT Low Roof,33770,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2015,150 XLT Low Roof,33920,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2015,150 XLT Medium Roof,35430,flex-fuel (FFV),V6,16.0,4,8
+Transit Wagon,2015,350 HD XL High Roof,42295,gas,V6,16.0,4,15
+Transit Wagon,2015,350 HD XLT High Roof,43795,gas,V6,16.0,4,15
+Transit Wagon,2015,350 XL High Roof,39330,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2015,350 XL Low Roof,35920,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2015,350 XL Low Roof,36070,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2015,350 XL Medium Roof,37580,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2015,350 XLT High Roof,40830,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2015,350 XLT Low Roof,37420,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2015,350 XLT Low Roof,37570,flex-fuel (FFV),V6,16.0,4,12
+Transit Wagon,2015,350 XLT Medium Roof,39080,flex-fuel (FFV),V6,16.0,4,12

@@ -1,0 +1,99 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Camaro,2020,1LS,25000,gas,I4,23.0,2,4
+Camaro,2020,1LT,25500,gas,I4,23.0,2,4
+Camaro,2020,1SS,37000,gas,V8,19.0,2,4
+Camaro,2020,2LT,27500,gas,I4,23.0,2,4
+Camaro,2020,2SS,42000,gas,V8,19.0,2,4
+Camaro,2020,3LT,31500,gas,I4,23.0,2,4
+Camaro,2020,LT1,34000,gas,V8,19.0,2,4
+Camaro,2020,ZL1,62000,gas,V8,16.0,2,4
+Corvette,2020,Stingray,70850,gas,V8,19.0,2,2
+Corvette,2020,Stingray,66200,gas,V8,19.0,2,2
+Corvette,2020,Stingray,58900,gas,V8,19.0,2,2
+Camaro,2019,1LS,25000,gas,I4,23.0,2,4
+Camaro,2019,1LT,25500,gas,I4,23.0,2,4
+Camaro,2019,1SS,37000,gas,V8,19.0,2,4
+Camaro,2019,2LT,27500,gas,I4,23.0,2,4
+Camaro,2019,2SS,42000,gas,V8,19.0,2,4
+Camaro,2019,3LT,31000,gas,V6,20.0,2,4
+Camaro,2019,ZL1,62000,gas,V8,16.0,2,4
+Corvette,2019,Grand Sport,65900,gas,V8,19.0,2,2
+Corvette,2019,Grand Sport,75645,gas,V8,19.0,2,2
+Corvette,2019,Grand Sport,70355,gas,V8,19.0,2,2
+Corvette,2019,Stingray,55900,gas,V8,19.0,2,2
+Corvette,2019,Stingray,65645,gas,V8,19.0,2,2
+Corvette,2019,Stingray,60355,gas,V8,19.0,2,2
+Corvette,2019,Stingray Z51,65355,gas,V8,19.0,2,2
+Corvette,2019,Stingray Z51,70645,gas,V8,19.0,2,2
+Corvette,2019,Stingray Z51,60900,gas,V8,19.0,2,2
+Corvette,2019,Z06,89845,gas,V8,17.0,2,2
+Corvette,2019,Z06,80900,gas,V8,17.0,2,2
+Corvette,2019,Z06,84465,gas,V8,17.0,2,2
+Corvette,2019,ZR1,120900,gas,V8,15.0,2,2
+Corvette,2019,ZR1,130900,gas,V8,15.0,2,2
+Camaro,2018,1LS,25905,gas,I4,23.0,2,4
+Camaro,2018,1LT,26700,gas,I4,25.0,2,4
+Camaro,2018,1SS,37000,gas,V8,19.0,2,4
+Camaro,2018,2LT,30500,gas,I4,23.0,2,4
+Camaro,2018,2SS,42000,gas,V8,19.0,2,4
+Camaro,2018,ZL1,61500,gas,V8,16.0,2,4
+Corvette,2018,Grand Sport,65495,gas,V8,19.0,2,2
+Corvette,2018,Grand Sport,69950,gas,V8,19.0,2,2
+Corvette,2018,Grand Sport,75240,gas,V8,19.0,2,2
+Corvette,2018,Stingray,65240,gas,V8,19.0,2,2
+Corvette,2018,Stingray,59950,gas,V8,19.0,2,2
+Corvette,2018,Stingray,55495,gas,V8,19.0,2,2
+Corvette,2018,Stingray Z51,64950,gas,V8,19.0,2,2
+Corvette,2018,Stingray Z51,70240,gas,V8,19.0,2,2
+Corvette,2018,Stingray Z51,60495,gas,V8,19.0,2,2
+Corvette,2018,Z06,88440,gas,V8,18.0,2,2
+Corvette,2018,Z06,83060,gas,V8,18.0,2,2
+Corvette,2018,Z06,79495,gas,V8,18.0,2,2
+Camaro,2017,1LS,25905,gas,I4,23.0,2,4
+Camaro,2017,1LT,26600,gas,I4,25.0,2,4
+Camaro,2017,1SS,36905,gas,V8,19.0,2,4
+Camaro,2017,2LT,30405,gas,I4,23.0,2,4
+Camaro,2017,2SS,41905,gas,V8,19.0,2,4
+Camaro,2017,ZL1,61140,gas,V8,16.0,2,4
+Corvette,2017,Grand Sport,65450,gas,V8,19.0,2,2
+Corvette,2017,Grand Sport,69905,gas,V8,19.0,2,2
+Corvette,2017,Grand Sport,75195,gas,V8,19.0,2,2
+Corvette,2017,Stingray,55450,gas,V8,19.0,2,2
+Corvette,2017,Stingray,59905,gas,V8,19.0,2,2
+Corvette,2017,Stingray,65195,gas,V8,19.0,2,2
+Corvette,2017,Stingray Z51,60450,gas,V8,19.0,2,2
+Corvette,2017,Stingray Z51,64905,gas,V8,19.0,2,2
+Corvette,2017,Stingray Z51,70195,gas,V8,19.0,2,2
+Corvette,2017,Z06,83015,gas,V8,18.0,2,2
+Corvette,2017,Z06,88395,gas,V8,18.0,2,2
+Corvette,2017,Z06,79450,gas,V8,18.0,2,2
+Camaro,2016,LT,25700,gas,I4,24.0,2,4
+Camaro,2016,LT,29800,gas,I4,24.0,2,4
+Camaro,2016,SS,41300,gas,V8,19.0,2,4
+Camaro,2016,SS,36300,gas,V8,19.0,2,4
+Corvette,2016,Stingray,55400,gas,V8,21.0,2,2
+Corvette,2016,Stingray,59855,gas,V8,21.0,2,2
+Corvette,2016,Stingray,65145,gas,V8,21.0,2,2
+Corvette,2016,Stingray Z51,70145,gas,V8,21.0,2,2
+Corvette,2016,Stingray Z51,64855,gas,V8,21.0,2,2
+Corvette,2016,Stingray Z51,60400,gas,V8,21.0,2,2
+Corvette,2016,Z06,79400,gas,V8,18.0,2,2
+Corvette,2016,Z06,82965,gas,V8,18.0,2,2
+Corvette,2016,Z06,88345,gas,V8,18.0,2,2
+Camaro,2015,LS,23705,gas,V6,20.0,2,4
+Camaro,2015,LS,25145,gas,V6,22.0,2,4
+Camaro,2015,LT,26005,gas,V6,20.0,2,4
+Camaro,2015,LT,29205,gas,V6,20.0,2,4
+Camaro,2015,SS,37305,gas,V8,19.0,2,4
+Camaro,2015,SS,33505,gas,V8,19.0,2,4
+Camaro,2015,Z/28,72305,gas,V8,15.0,2,4
+Camaro,2015,ZL1,55505,gas,V8,16.0,2,4
+Corvette,2015,Stingray,59160,gas,V8,21.0,2,2
+Corvette,2015,Stingray,64450,gas,V8,21.0,2,2
+Corvette,2015,Stingray,55000,gas,V8,21.0,2,2
+Corvette,2015,Stingray Z51,60000,gas,V8,21.0,2,2
+Corvette,2015,Stingray Z51,64160,gas,V8,21.0,2,2
+Corvette,2015,Stingray Z51,69450,gas,V8,21.0,2,2
+Corvette,2015,Z06,79000,gas,V8,18.0,2,2
+Corvette,2015,Z06,82270,gas,V8,18.0,2,2
+Corvette,2015,Z06,87650,gas,V8,18.0,2,2

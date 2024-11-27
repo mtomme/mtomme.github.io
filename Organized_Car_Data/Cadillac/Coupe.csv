@@ -1,0 +1,56 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+ATS Coupe,2019,Base,38995,gas,I4,25.0,2,4
+ATS Coupe,2019,Base,41395,gas,I4,24.0,2,4
+ATS Coupe,2019,Luxury,42795,gas,I4,25.0,2,4
+ATS Coupe,2019,Luxury,44795,gas,I4,24.0,2,4
+ATS Coupe,2019,Premium Luxury,50395,gas,V6,21.0,2,4
+ATS Coupe,2019,Premium Luxury,48395,gas,V6,23.0,2,4
+ATS Coupe,2019,Premium Performance,50895,gas,V6,23.0,2,4
+ATS-V,2019,Base,67795,gas,V6,19.0,2,4
+ATS Coupe,2018,Base,37895,gas,I4,25.0,2,4
+ATS Coupe,2018,Base,40295,gas,I4,25.0,2,4
+ATS Coupe,2018,Luxury,43695,gas,I4,25.0,2,4
+ATS Coupe,2018,Luxury,41695,gas,I4,25.0,2,4
+ATS Coupe,2018,Premium Luxury,47295,gas,V6,24.0,2,4
+ATS Coupe,2018,Premium Luxury,49295,gas,V6,22.0,2,4
+ATS Coupe,2018,Premium Performance,49795,gas,V6,24.0,2,4
+ATS-V,2018,Base,63195,gas,V6,19.0,2,4
+ATS Coupe,2017,Base,37595,gas,I4,25.0,2,4
+ATS Coupe,2017,Base,39995,gas,I4,25.0,2,4
+ATS Coupe,2017,Luxury,41395,gas,I4,25.0,2,4
+ATS Coupe,2017,Luxury,43395,gas,I4,25.0,2,4
+ATS Coupe,2017,Premium Luxury,46995,gas,V6,24.0,2,4
+ATS Coupe,2017,Premium Luxury,48995,gas,V6,22.0,2,4
+ATS Coupe,2017,Premium Performance,49495,gas,V6,24.0,2,4
+ATS-V,2017,Base,62895,gas,V6,19.0,2,4
+ATS Coupe,2016,Luxury,45150,gas,V6,24.0,2,4
+ATS Coupe,2016,Luxury,44520,gas,I4,25.0,2,4
+ATS Coupe,2016,Luxury,41920,gas,I4,26.0,2,4
+ATS Coupe,2016,Luxury,47750,gas,V6,22.0,2,4
+ATS Coupe,2016,Performance,45445,gas,I4,26.0,2,4
+ATS Coupe,2016,Performance,47445,gas,I4,25.0,2,4
+ATS Coupe,2016,Performance,48675,gas,V6,24.0,2,4
+ATS Coupe,2016,Performance,50675,gas,V6,22.0,2,4
+ATS Coupe,2016,Premium,47605,gas,I4,26.0,2,4
+ATS Coupe,2016,Premium,51945,gas,V6,22.0,2,4
+ATS Coupe,2016,Premium,50835,gas,V6,24.0,2,4
+ATS Coupe,2016,Premium,48715,gas,I4,25.0,2,4
+ATS Coupe,2016,Standard,37995,gas,I4,26.0,2,4
+ATS Coupe,2016,Standard,40445,gas,I4,25.0,2,4
+ATS-V,2016,Base,62665,gas,V6,19.0,2,4
+ELR,2016,Base,65000,plug-in hybrid,I4,32.0,2,4
+ATS Coupe,2015,Luxury,44520,gas,I4,23.0,2,4
+ATS Coupe,2015,Luxury,45150,flex-fuel (FFV),V6,22.0,2,4
+ATS Coupe,2015,Luxury,47750,flex-fuel (FFV),V6,21.0,2,4
+ATS Coupe,2015,Luxury,41920,gas,I4,24.0,2,4
+ATS Coupe,2015,Performance,44935,gas,I4,24.0,2,4
+ATS Coupe,2015,Performance,46935,gas,I4,23.0,2,4
+ATS Coupe,2015,Performance,48165,flex-fuel (FFV),V6,22.0,2,4
+ATS Coupe,2015,Performance,50165,flex-fuel (FFV),V6,21.0,2,4
+ATS Coupe,2015,Premium,48205,gas,I4,23.0,2,4
+ATS Coupe,2015,Premium,50325,flex-fuel (FFV),V6,22.0,2,4
+ATS Coupe,2015,Premium,51435,flex-fuel (FFV),V6,21.0,2,4
+ATS Coupe,2015,Premium,47095,gas,I4,24.0,2,4
+ATS Coupe,2015,Standard,37995,gas,I4,24.0,2,4
+ATS Coupe,2015,Standard,40445,gas,I4,23.0,2,4
+CTS-V Coupe,2015,Base,69900,gas,V8,16.0,2,4

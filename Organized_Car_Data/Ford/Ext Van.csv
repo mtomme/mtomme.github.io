@@ -1,0 +1,53 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Transit Cargo Van,2020,250 High Roof,45950,flex-fuel (FFV),V6,,4,2
+Transit Cargo Van,2020,250 High Roof,41255,flex-fuel (FFV),V6,,4,2
+Transit Cargo Van,2020,350 HD High Roof,43260,flex-fuel (FFV),V6,,4,2
+Transit Cargo Van,2020,350 HD High Roof,43610,flex-fuel (FFV),V6,,4,2
+Transit Cargo Van,2020,350 HD High Roof,48840,flex-fuel (FFV),V6,,4,2
+Transit Cargo Van,2020,350 HD High Roof,50905,gas,V6,,4,2
+Transit Cargo Van,2020,350 High Roof,42505,flex-fuel (FFV),V6,,4,2
+Transit Cargo Van,2020,350 High Roof,47200,flex-fuel (FFV),V6,,4,2
+Transit Crew Van,2020,350 HD High Roof,45470,flex-fuel (FFV),V6,,4,5
+Transit Crew Van,2020,350 HD High Roof,45820,flex-fuel (FFV),V6,,4,5
+Transit Crew Van,2020,350 HD High Roof,50165,flex-fuel (FFV),V6,,4,5
+Transit Crew Van,2020,350 HD High Roof,52230,gas,V6,,4,5
+Transit Passenger Van,2020,350 HD XL High Roof,45160,flex-fuel (FFV),V6,,4,15
+Transit Passenger Van,2020,350 HD XL High Roof,52455,gas,V6,,4,15
+Transit Passenger Van,2020,350 HD XLT High Roof,47040,flex-fuel (FFV),V6,,4,15
+Transit Passenger Van,2020,350 HD XLT High Roof,54340,gas,V6,,4,15
+Transit Passenger Van,2019,350 HD XL High Roof,43770,gas,V6,15.0,4,15
+Transit Passenger Van,2019,350 HD XLT High Roof,45065,gas,V6,15.0,4,15
+Transit Van,2019,250 High Roof,39715,gas,V6,,4,2
+Transit Van,2019,250 High Roof,40365,gas,V6,,5,2
+Transit Van,2019,350 HD High Roof,42205,gas,V6,,5,2
+Transit Van,2019,350 HD High Roof,41855,gas,V6,,5,2
+Transit Van,2019,350 HD High Roof,41205,gas,V6,,4,2
+Transit Van,2019,350 HD High Roof,41555,gas,V6,,4,2
+Transit Van,2019,350 High Roof,40965,gas,V6,,4,2
+Transit Van,2019,350 High Roof,41615,gas,V6,,5,2
+Transit Van,2018,250 High Roof,39600,flex-fuel (FFV),V6,,5,2
+Transit Van,2018,250 High Roof,38950,flex-fuel (FFV),V6,,4,2
+Transit Van,2018,350 High Roof,40850,flex-fuel (FFV),V6,,5,2
+Transit Van,2018,350 High Roof,40200,flex-fuel (FFV),V6,,4,2
+Transit Wagon,2018,350 HD XL High Roof,42950,gas,V6,,4,15
+Transit Wagon,2018,350 HD XLT High Roof,44245,gas,V6,,4,15
+Transit Van,2017,250 High Roof,38040,flex-fuel (FFV),V6,,4,2
+Transit Van,2017,250 High Roof,38690,flex-fuel (FFV),V6,,5,2
+Transit Van,2017,350 High Roof,39290,flex-fuel (FFV),V6,,4,2
+Transit Van,2017,350 High Roof,39940,flex-fuel (FFV),V6,,5,2
+Transit Wagon,2017,350 HD XL High Roof,42075,gas,V6,16.0,4,15
+Transit Wagon,2017,350 HD XLT High Roof,43370,gas,V6,16.0,4,15
+Transit Van,2016,250 High Roof,37390,flex-fuel (FFV),V6,,4,2
+Transit Van,2016,250 High Roof,38040,flex-fuel (FFV),V6,,5,2
+Transit Van,2016,350 HD High Roof,40690,flex-fuel (FFV),V6,,4,2
+Transit Van,2016,350 HD High Roof,41040,gas,V6,,4,2
+Transit Van,2016,350 HD High Roof,41340,flex-fuel (FFV),V6,,5,2
+Transit Van,2016,350 HD High Roof,41690,gas,V6,,5,2
+Transit Van,2016,350 High Roof,38640,flex-fuel (FFV),V6,,4,2
+Transit Van,2016,350 High Roof,39290,flex-fuel (FFV),V6,,5,2
+Transit Wagon,2016,350 HD XL High Roof,42700,gas,V6,16.0,4,15
+Transit Wagon,2016,350 HD XLT High Roof,43995,gas,V6,16.0,4,15
+Transit Van,2015,350 HD High Roof,40965,gas,V6,,5,2
+Transit Van,2015,350 HD High Roof,39965,gas,V6,,4,2
+Transit Van,2015,350 HD High Roof,40315,gas,V6,,4,2
+Transit Van,2015,350 HD High Roof,40615,gas,V6,,5,2

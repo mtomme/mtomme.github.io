@@ -1,0 +1,96 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+2 Series,2020,230i,35300,gas,I4,27.0,2,4
+2 Series,2020,230i xDrive,37300,gas,I4,24.0,2,4
+2 Series,2020,M2 Competition,58900,gas,I6,20.0,2,4
+2 Series,2020,M2 CS,83600,gas,I6,20.0,2,4
+2 Series,2020,M240i,45800,gas,I6,25.0,2,4
+2 Series,2020,M240i xDrive,47800,gas,I6,25.0,2,4
+4 Series,2020,430i,44950,gas,I4,27.0,2,4
+4 Series,2020,430i xDrive,46950,gas,I4,24.0,2,4
+4 Series,2020,440i,51350,gas,I6,22.0,2,4
+4 Series,2020,440i xDrive,53350,gas,I6,21.0,2,4
+4 Series,2020,M4,103100,gas,I6,19.0,2,4
+4 Series,2020,M4,69150,gas,I6,20.0,2,4
+8 Series,2020,840i,87900,gas,I6,25.0,2,4
+8 Series,2020,840i xDrive,90800,gas,I6,23.0,2,4
+8 Series,2020,M8,133000,gas,V8,17.0,2,4
+8 Series,2020,M8 Competition,146000,gas,V8,17.0,2,4
+8 Series,2020,M850i xDrive,111900,gas,V8,20.0,2,4
+i8,2020,Base,147500,plug-in hybrid,I3,27.0,2,4
+2 Series,2019,230i,35300,gas,I4,28.0,2,4
+2 Series,2019,230i xDrive,37300,gas,I4,27.0,2,4
+2 Series,2019,M2 Competition,58900,gas,I6,20.0,2,4
+2 Series,2019,M240i,45800,gas,I6,24.0,2,4
+2 Series,2019,M240i xDrive,47800,gas,I6,24.0,2,4
+4 Series,2019,430i,44800,gas,I4,27.0,2,4
+4 Series,2019,430i xDrive,46800,gas,I4,27.0,2,4
+4 Series,2019,440i,51200,gas,I6,25.0,2,4
+4 Series,2019,440i xDrive,53200,gas,I6,24.0,2,4
+4 Series,2019,M4,69150,gas,I6,20.0,2,4
+4 Series,2019,M4,103100,gas,I6,19.0,2,4
+8 Series,2019,M850i xDrive,111900,gas,V8,20.0,2,4
+i8,2019,Base,147500,plug-in hybrid,I3,27.0,2,4
+2 Series,2018,230i,34950,gas,I4,28.0,2,4
+2 Series,2018,230i xDrive,36950,gas,I4,27.0,2,4
+2 Series,2018,M2,54500,gas,I6,21.0,2,4
+2 Series,2018,M240i,45450,gas,I6,24.0,2,4
+2 Series,2018,M240i xDrive,47450,gas,I6,24.0,2,4
+4 Series,2018,430i,43500,gas,I4,27.0,2,4
+4 Series,2018,430i xDrive,45500,gas,I4,27.0,2,4
+4 Series,2018,440i,49900,gas,I6,25.0,2,4
+4 Series,2018,440i xDrive,51900,gas,I6,25.0,2,4
+4 Series,2018,M4,68700,gas,I6,20.0,2,4
+2 Series,2017,230i SULEV,33150,gas,I4,28.0,2,4
+2 Series,2017,230i xDrive SULEV,35150,gas,I4,27.0,2,4
+2 Series,2017,M2,52500,gas,I6,21.0,2,4
+2 Series,2017,M240i,44450,gas,I6,25.0,2,4
+2 Series,2017,M240i xDrive,46450,gas,I6,25.0,2,4
+4 Series,2017,430i SULEV,42150,gas,I4,27.0,2,4
+4 Series,2017,430i xDrive SULEV,44150,gas,I4,26.0,2,4
+4 Series,2017,440i,48500,gas,I6,25.0,2,4
+4 Series,2017,440i xDrive,50500,gas,I6,25.0,2,4
+4 Series,2017,M4,66200,gas,I6,20.0,2,4
+6 Series,2017,640i,77600,gas,I6,24.0,2,4
+6 Series,2017,640i xDrive,80600,gas,I6,22.0,2,4
+6 Series,2017,650i,89000,gas,V8,19.0,2,4
+6 Series,2017,650i xDrive,92000,gas,V8,19.0,2,4
+6 Series,2017,M6,113700,gas,V8,16.0,2,4
+i8,2017,Base,143400,plug-in hybrid,I3,28.0,2,4
+2 Series,2016,228i,32850,gas,I4,26.0,2,4
+2 Series,2016,228i SULEV,32850,gas,I4,27.0,2,4
+2 Series,2016,228i xDrive SULEV,34850,gas,I4,27.0,2,4
+2 Series,2016,M2,51700,gas,I6,21.0,2,4
+2 Series,2016,M235i,44150,gas,I6,24.0,2,4
+2 Series,2016,M235i xDrive,46150,gas,I6,23.0,2,4
+4 Series,2016,428i,41850,gas,I4,26.0,2,4
+4 Series,2016,428i SULEV,41850,gas,I4,27.0,2,4
+4 Series,2016,428i xDrive SULEV,43850,gas,I4,26.0,2,4
+4 Series,2016,435i,48150,gas,I6,24.0,2,4
+4 Series,2016,435i xDrive,50150,gas,I6,23.0,2,4
+4 Series,2016,M4,65700,gas,I6,20.0,2,4
+4 Series,2016,M4,133205,gas,I6,19.0,2,2
+6 Series,2016,640i,77300,gas,I6,24.0,2,4
+6 Series,2016,640i xDrive,80300,gas,I6,23.0,2,4
+6 Series,2016,650i,88700,gas,V8,20.0,2,4
+6 Series,2016,650i xDrive,91700,gas,V8,19.0,2,4
+6 Series,2016,M6,113400,gas,V8,16.0,2,4
+i8,2016,Base,140700,plug-in hybrid,I3,28.0,2,4
+2 Series,2015,228i,32100,gas,I4,28.0,2,4
+2 Series,2015,228i SULEV,32100,gas,I4,28.0,2,4
+2 Series,2015,228i xDrive,33900,gas,I4,27.0,2,4
+2 Series,2015,228i xDrive SULEV,33900,gas,I4,27.0,2,4
+2 Series,2015,M235i,43100,gas,I6,25.0,2,4
+2 Series,2015,M235i xDrive,44900,gas,I6,24.0,2,4
+4 Series,2015,428i,40750,gas,I4,27.0,2,4
+4 Series,2015,428i SULEV,40750,gas,I4,27.0,2,4
+4 Series,2015,428i xDrive,42750,gas,I4,26.0,2,4
+4 Series,2015,428i xDrive SULEV,42750,gas,I4,26.0,2,4
+4 Series,2015,435i,46250,gas,I6,25.0,2,4
+4 Series,2015,435i xDrive,48250,gas,I6,24.0,2,4
+4 Series,2015,M4,64200,gas,I6,20.0,2,4
+6 Series,2015,640i,76100,gas,I6,25.0,2,4
+6 Series,2015,640i xDrive,79100,gas,I6,23.0,2,4
+6 Series,2015,650i,87400,gas,V8,20.0,2,4
+6 Series,2015,650i xDrive,90400,gas,V8,19.0,2,4
+6 Series,2015,M6,111900,gas,V8,16.0,2,4
+i8,2015,Base,136500,plug-in hybrid,I3,28.0,2,4

@@ -1,0 +1,149 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Cadenza,2020,Limited,43550,gas,V6,23.0,4,5
+Cadenza,2020,Technology,37850,gas,V6,23.0,4,5
+Forte,2020,EX,22090,gas,I4,33.0,4,5
+Forte,2020,FE,17890,gas,I4,31.0,4,5
+Forte,2020,FE,18790,gas,I4,35.0,4,5
+Forte,2020,GT,22490,gas,I4,30.0,4,5
+Forte,2020,GT,23090,gas,I4,28.0,4,5
+Forte,2020,GT-Line,20490,gas,I4,33.0,4,5
+Forte,2020,LXS,19290,gas,I4,33.0,4,5
+K900,2020,Luxury,59900,gas,V6,21.0,4,5
+Optima,2020,EX,27190,gas,I4,31.0,4,5
+Optima,2020,EX Premium,30190,gas,I4,31.0,4,5
+Optima,2020,LX,23390,gas,I4,29.0,4,5
+Optima,2020,S,24890,gas,I4,27.0,4,5
+Optima,2020,SE,26390,gas,I4,27.0,4,5
+Optima,2020,SX,32190,gas,I4,24.0,4,5
+Optima Hybrid,2020,EX,29310,hybrid,I4,42.0,4,5
+Optima Plug-In Hybrid,2020,EX,36090,plug-in hybrid,I4,41.0,4,5
+Rio,2020,LX,15850,gas,I4,36.0,4,5
+Rio,2020,S,16490,gas,I4,36.0,4,5
+Stinger,2020,GT,39500,gas,V6,20.0,4,5
+Stinger,2020,GT,41700,gas,V6,20.0,4,5
+Stinger,2020,GT-Line,35290,gas,I4,24.0,4,5
+Stinger,2020,GT-Line,33090,gas,I4,25.0,4,5
+Stinger,2020,GT1,47600,gas,V6,20.0,4,5
+Stinger,2020,GT1,45400,gas,V6,20.0,4,5
+Stinger,2020,GT2,50300,gas,V6,20.0,4,5
+Stinger,2020,GT2,52500,gas,V6,20.0,4,5
+Cadenza,2019,Limited,44100,gas,V6,23.0,4,5
+Cadenza,2019,Premium,33100,gas,V6,23.0,4,5
+Cadenza,2019,Technology,38200,gas,V6,23.0,4,5
+Forte,2019,EX,21990,gas,I4,34.0,4,5
+Forte,2019,FE,18690,gas,I4,35.0,4,5
+Forte,2019,FE,17790,gas,I4,31.0,4,5
+Forte,2019,LXS,19190,gas,I4,34.0,4,5
+Forte,2019,S,20290,gas,I4,34.0,4,5
+K900,2019,Luxury,59900,gas,V6,21.0,4,5
+Optima,2019,EX,26890,gas,I4,31.0,4,5
+Optima,2019,LX,22990,gas,I4,27.0,4,5
+Optima,2019,S,24990,gas,I4,27.0,4,5
+Optima,2019,SX,31990,gas,I4,24.0,4,5
+Optima Hybrid,2019,EX,28090,hybrid,I4,41.0,4,5
+Optima Plug-In Hybrid,2019,EX,35390,plug-in hybrid,I4,40.0,4,5
+Rio,2019,LX,15390,gas,I4,32.0,4,5
+Rio,2019,S,16190,gas,I4,32.0,4,5
+Stinger,2019,Base,32990,gas,I4,25.0,4,5
+Stinger,2019,Base,35190,gas,I4,24.0,4,5
+Stinger,2019,GT,39300,gas,V6,20.0,4,5
+Stinger,2019,GT,41500,gas,V6,20.0,4,5
+Stinger,2019,GT1,47500,gas,V6,20.0,4,5
+Stinger,2019,GT1,45300,gas,V6,20.0,4,5
+Stinger,2019,GT2,50200,gas,V6,20.0,4,5
+Stinger,2019,GT2,52400,gas,V6,20.0,4,5
+Stinger,2019,GTS,46400,gas,V6,20.0,4,5
+Stinger,2019,GTS,44000,gas,V6,20.0,4,5
+Stinger,2019,Premium,39190,gas,I4,25.0,4,5
+Stinger,2019,Premium,41390,gas,I4,24.0,4,5
+Cadenza,2018,Limited,44690,gas,V6,23.0,4,5
+Cadenza,2018,Premium,32290,gas,V6,23.0,4,5
+Cadenza,2018,Technology,39290,gas,V6,23.0,4,5
+Forte,2018,EX,21700,gas,I4,28.0,4,5
+Forte,2018,LX,16800,gas,I4,28.0,4,5
+Forte,2018,LX,17900,gas,I4,32.0,4,5
+Forte,2018,S,19400,gas,I4,32.0,4,5
+K900,2018,Luxury V6,59900,gas,V6,20.0,4,5
+K900,2018,Luxury V8,61900,gas,V8,18.0,4,5
+K900,2018,Premium V6,50900,gas,V6,20.0,4,5
+Optima,2018,EX,25700,gas,I4,28.0,4,5
+Optima,2018,LX,22600,gas,I4,29.0,4,5
+Optima,2018,LX Turbo,24400,gas,I4,31.0,4,5
+Optima,2018,S,23600,gas,I4,26.0,4,5
+Optima,2018,SX Turbo,30600,gas,I4,25.0,4,5
+Optima Hybrid,2018,EX,30990,hybrid,I4,42.0,4,5
+Optima Hybrid,2018,Premium,25995,hybrid,I4,42.0,4,5
+Optima Plug-In Hybrid,2018,EX,35210,plug-in hybrid,I4,40.0,4,5
+Rio,2018,EX,18400,gas,I4,32.0,4,5
+Rio,2018,LX,14990,gas,I4,32.0,4,5
+Rio,2018,LX,13900,gas,I4,32.0,4,5
+Rio,2018,S,16100,gas,I4,32.0,4,5
+Stinger,2018,Base,34100,gas,I4,24.0,4,5
+Stinger,2018,Base,31900,gas,I4,25.0,4,5
+Stinger,2018,GT,38350,gas,V6,20.0,4,5
+Stinger,2018,GT,40550,gas,V6,20.0,4,5
+Stinger,2018,GT1,45450,gas,V6,20.0,4,5
+Stinger,2018,GT1,43250,gas,V6,20.0,4,5
+Stinger,2018,GT2,51400,gas,V6,20.0,4,5
+Stinger,2018,GT2,49200,gas,V6,20.0,4,5
+Stinger,2018,Premium,39300,gas,I4,24.0,4,5
+Stinger,2018,Premium,37100,gas,I4,25.0,4,5
+Cadenza,2017,Limited,44390,gas,V6,23.0,4,5
+Cadenza,2017,Premium,31990,gas,V6,23.0,4,5
+Cadenza,2017,Technology,38990,gas,V6,23.0,4,5
+Forte,2017,EX,21300,gas,I4,28.0,4,5
+Forte,2017,LX,16600,gas,I4,28.0,4,5
+Forte,2017,LX,17600,gas,I4,32.0,4,5
+Forte,2017,S,19300,gas,I4,32.0,4,5
+K900,2017,Luxury V6,54900,gas,V6,20.0,4,5
+K900,2017,Luxury V8,61900,gas,V8,18.0,4,5
+K900,2017,Premium V6,49900,gas,V6,20.0,4,5
+Optima,2017,EX,25440,gas,I4,28.0,4,5
+Optima,2017,LX,22200,gas,I4,28.0,4,5
+Optima,2017,LX Turbo,24140,gas,I4,31.0,4,5
+Optima,2017,SX Turbo,29940,gas,I4,25.0,4,5
+Optima,2017,SXL Turbo,36090,gas,I4,25.0,4,5
+Optima Hybrid,2017,EX,30990,hybrid,I4,42.0,4,5
+Optima Hybrid,2017,Premium,25995,hybrid,I4,42.0,4,5
+Optima Plug-In Hybrid,2017,EX,35210,plug-in hybrid,I4,40.0,4,5
+Rio,2017,EX,17755,gas,I4,30.0,4,5
+Rio,2017,LX,15395,gas,I4,30.0,4,5
+Rio,2017,LX,14165,gas,I4,31.0,4,5
+Cadenza,2016,Base,32990,gas,V6,22.0,4,5
+Cadenza,2016,Limited,44090,gas,V6,22.0,4,5
+Cadenza,2016,Premium,35990,gas,V6,22.0,4,5
+Forte,2016,EX,19990,gas,I4,28.0,4,5
+Forte,2016,LX,15990,gas,I4,30.0,4,5
+Forte,2016,LX,17700,gas,I4,31.0,4,5
+K900,2016,Luxury V6,54900,gas,V6,20.0,4,5
+K900,2016,Luxury V8,61900,gas,V8,18.0,4,5
+K900,2016,Premium V6,49000,gas,V6,20.0,4,5
+Optima,2016,EX,25140,gas,I4,28.0,4,5
+Optima,2016,LX,22140,gas,I4,28.0,4,5
+Optima,2016,LX Turbo,24140,gas,I4,32.0,4,5
+Optima,2016,SX Turbo,29940,gas,I4,25.0,4,5
+Optima,2016,SXL Turbo,36040,gas,I4,25.0,4,5
+Optima Hybrid,2016,Base,25995,hybrid,I4,38.0,4,5
+Optima Hybrid,2016,EX,32195,hybrid,I4,37.0,4,5
+Rio,2016,EX,17755,gas,I4,31.0,4,5
+Rio,2016,LX,15395,gas,I4,31.0,4,5
+Rio,2016,LX,14165,gas,I4,31.0,4,5
+Rio,2016,SX,20755,gas,I4,31.0,4,5
+Cadenza,2015,Limited,43800,gas,V6,22.0,4,5
+Cadenza,2015,Premium,34900,gas,V6,22.0,4,5
+Forte,2015,EX,19390,gas,I4,29.0,4,5
+Forte,2015,LX,15890,gas,I4,30.0,4,5
+Forte,2015,LX,17490,gas,I4,31.0,4,5
+K900,2015,Luxury,59900,gas,V8,18.0,4,5
+K900,2015,Premium,54500,gas,V8,18.0,4,5
+Optima,2015,EX,24340,gas,I4,27.0,4,5
+Optima,2015,LX,21840,gas,I4,27.0,4,5
+Optima,2015,SX,25790,gas,I4,27.0,4,5
+Optima,2015,SX Turbo,27700,gas,I4,24.0,4,5
+Optima,2015,SXL Turbo,35500,gas,I4,24.0,4,5
+Optima Hybrid,2015,Base,25990,hybrid,I4,38.0,4,5
+Optima Hybrid,2015,EX,32150,hybrid,I4,37.0,4,5
+Rio,2015,EX,16990,gas,I4,31.0,4,5
+Rio,2015,LX,15190,gas,I4,31.0,4,5
+Rio,2015,LX,13990,gas,I4,31.0,4,5
+Rio,2015,SX,18090,gas,I4,31.0,4,5

@@ -1,0 +1,88 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Challenger,2020,GT,34095,gas,V6,21.0,2,5
+Challenger,2020,GT,31095,gas,V6,23.0,2,5
+Challenger,2020,R/T,34995,gas,V8,18.0,2,5
+Challenger,2020,R/T 50th Anniversary,39990,gas,V8,18.0,2,5
+Challenger,2020,R/T Scat Pack,38995,gas,V8,17.0,2,5
+Challenger,2020,R/T Scat Pack 50th Anniversary,44490,gas,V8,17.0,2,5
+Challenger,2020,R/T Scat Pack 50th Anniversary Widebody,50490,gas,V8,17.0,2,5
+Challenger,2020,R/T Scat Pack Widebody,44995,gas,V8,17.0,2,5
+Challenger,2020,SRT Hellcat,58995,gas,V8,16.0,2,5
+Challenger,2020,SRT Hellcat Redeye,70595,gas,V8,16.0,2,5
+Challenger,2020,SRT Hellcat Redeye Widebody,76595,gas,V8,15.0,2,5
+Challenger,2020,SRT Hellcat Widebody,64995,gas,V8,16.0,2,5
+Challenger,2020,SRT Super Stock,79595,gas,V8,15.0,2,5
+Challenger,2020,SXT,28095,gas,V6,23.0,2,5
+Challenger,2020,SXT,31095,gas,V6,21.0,2,5
+Challenger,2019,GT,30395,gas,V6,21.0,2,5
+Challenger,2019,GT,33445,gas,V6,21.0,2,5
+Challenger,2019,R/T,34295,gas,V8,18.0,2,5
+Challenger,2019,R/T Scat Pack,38995,gas,V8,17.0,2,5
+Challenger,2019,SRT Hellcat,58995,gas,V8,16.0,2,5
+Challenger,2019,SRT Hellcat Redeye,69995,gas,V8,16.0,2,5
+Challenger,2019,SXT,27845,gas,V6,23.0,2,5
+Challenger,2019,SXT,30895,gas,V6,21.0,2,5
+Challenger,2018,392 Hemi Scat Pack Shaker,41795,gas,V8,17.0,2,5
+Challenger,2018,GT,33995,gas,V6,21.0,2,5
+Challenger,2018,R/T,33995,gas,V8,18.0,2,5
+Challenger,2018,R/T Plus,36995,gas,V8,18.0,2,5
+Challenger,2018,R/T Plus Shaker,40495,gas,V8,18.0,2,5
+Challenger,2018,R/T Scat Pack,38995,gas,V8,17.0,2,5
+Challenger,2018,R/T Shaker,37495,gas,V8,18.0,2,5
+Challenger,2018,SRT 392,49495,gas,V8,17.0,2,5
+Challenger,2018,SRT Demon,83295,gas,V8,16.0,2,1
+Challenger,2018,SRT Hellcat,64295,gas,V8,16.0,2,5
+Challenger,2018,SRT Hellcat Widebody,70295,gas,V8,16.0,2,5
+Challenger,2018,SXT,27295,gas,V6,23.0,2,5
+Challenger,2018,SXT Plus,30295,gas,V6,23.0,2,5
+Challenger,2018,T/A,37995,gas,V8,18.0,2,5
+Challenger,2018,T/A 392,43995,gas,V8,17.0,2,5
+Challenger,2018,T/A Plus,40995,gas,V8,18.0,2,5
+Challenger,2017,392 Hemi Scat Pack Shaker,42795,gas,V8,17.0,2,5
+Challenger,2017,GT,33395,gas,V6,21.0,2,5
+Challenger,2017,R/T,32995,gas,V8,18.0,2,5
+Challenger,2017,R/T Plus,35995,gas,V8,18.0,2,5
+Challenger,2017,R/T Plus Shaker,39995,gas,V8,18.0,2,5
+Challenger,2017,R/T Scat Pack,37995,gas,V8,17.0,2,5
+Challenger,2017,R/T Shaker,36995,gas,V8,18.0,2,5
+Challenger,2017,SRT 392,49195,gas,V8,17.0,2,5
+Challenger,2017,SRT Hellcat,62495,gas,V8,16.0,2,5
+Challenger,2017,SXT,26995,gas,V6,23.0,2,5
+Challenger,2017,SXT Plus,29995,gas,V6,23.0,2,5
+Challenger,2017,T/A,37395,gas,V8,18.0,2,5
+Challenger,2017,T/A 392,43995,gas,V8,17.0,2,5
+Challenger,2017,T/A Plus,40195,gas,V8,18.0,2,5
+Viper,2017,ACR,118795,gas,V10,14.0,2,2
+Viper,2017,GT,95895,gas,V10,14.0,2,2
+Viper,2017,GTC,95895,gas,V10,14.0,2,2
+Viper,2017,GTS,107995,gas,V10,14.0,2,2
+Viper,2017,SRT,87895,gas,V10,14.0,2,2
+Challenger,2016,392 Hemi Scat Pack Shaker,42795,gas,V8,17.0,2,5
+Challenger,2016,R/T,31995,gas,V8,18.0,2,5
+Challenger,2016,R/T Plus,34995,gas,V8,18.0,2,5
+Challenger,2016,R/T Plus Shaker,38995,gas,V8,18.0,2,5
+Challenger,2016,R/T Scat Pack,37995,gas,V8,17.0,2,5
+Challenger,2016,R/T Shaker,35995,gas,V8,18.0,2,5
+Challenger,2016,SRT 392,49195,gas,V8,17.0,2,5
+Challenger,2016,SRT Hellcat,65945,gas,V8,16.0,2,5
+Challenger,2016,SXT,26995,gas,V6,23.0,2,5
+Challenger,2016,SXT Plus,29995,gas,V6,23.0,2,5
+Viper,2016,ACR,118795,gas,V10,15.0,2,2
+Viper,2016,GT,95895,gas,V10,15.0,2,2
+Viper,2016,GTC,95895,gas,V10,15.0,2,2
+Viper,2016,GTS,107995,gas,V10,15.0,2,2
+Viper,2016,SRT,87895,gas,V10,15.0,2,2
+Challenger,2015,R/T,31995,gas,V8,18.0,2,5
+Challenger,2015,R/T Plus,34995,gas,V8,18.0,2,5
+Challenger,2015,R/T Plus Shaker,38795,gas,V8,18.0,2,5
+Challenger,2015,R/T Scat Pack,37995,gas,V8,17.0,2,5
+Challenger,2015,R/T Scat Pack Shaker,42595,gas,V8,17.0,2,5
+Challenger,2015,R/T Shaker,35795,gas,V8,18.0,2,5
+Challenger,2015,SRT 392,45695,gas,V8,17.0,2,5
+Challenger,2015,SRT Hellcat,58295,gas,V8,16.0,2,5
+Challenger,2015,SXT,26995,gas,V6,23.0,2,5
+Challenger,2015,SXT Plus,29995,gas,V6,23.0,2,5
+Viper,2015,GT,94995,gas,V10,15.0,2,2
+Viper,2015,GTC,94995,gas,V10,15.0,2,2
+Viper,2015,GTS,107995,gas,V10,15.0,2,2
+Viper,2015,SRT,84995,gas,V10,15.0,2,2

@@ -1,0 +1,190 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Avalon,2020,Limited,42175,gas,V6,25.0,4,5
+Avalon,2020,Touring,42575,gas,V6,25.0,4,5
+Avalon,2020,TRD,42375,gas,V6,25.0,4,5
+Avalon,2020,XLE,35875,gas,V6,26.0,4,5
+Avalon,2020,XSE,38375,gas,V6,25.0,4,5
+Avalon Hybrid,2020,Limited,43300,hybrid,I4,43.0,4,5
+Avalon Hybrid,2020,XLE,37000,hybrid,I4,44.0,4,5
+Avalon Hybrid,2020,XSE,39500,hybrid,I4,43.0,4,5
+Camry,2020,L,24425,gas,I4,34.0,4,5
+Camry,2020,LE,24970,gas,I4,32.0,4,5
+Camry,2020,LE,26370,gas,I4,29.0,4,5
+Camry,2020,SE,26170,gas,I4,32.0,4,5
+Camry,2020,SE,27570,gas,I4,29.0,4,5
+Camry,2020,SE Nightshade Edition,26870,gas,I4,32.0,4,5
+Camry,2020,SE Nightshade Edition,28270,gas,I4,29.0,4,5
+Camry,2020,TRD,31170,gas,V6,25.0,4,5
+Camry,2020,XLE,29455,gas,I4,31.0,4,5
+Camry,2020,XLE,30855,gas,I4,28.0,4,5
+Camry,2020,XLE,34580,gas,V6,26.0,4,5
+Camry,2020,XSE,35130,gas,V6,26.0,4,5
+Camry,2020,XSE,30005,gas,I4,31.0,4,5
+Camry,2020,XSE,31405,gas,I4,28.0,4,5
+Camry Hybrid,2020,LE,28430,hybrid,I4,52.0,4,5
+Camry Hybrid,2020,SE,30130,hybrid,I4,46.0,4,5
+Camry Hybrid,2020,XLE,32730,hybrid,I4,46.0,4,5
+Corolla,2020,L,19600,gas,I4,33.0,4,5
+Corolla,2020,LE,20050,gas,I4,33.0,4,5
+Corolla,2020,SE,22050,gas,I4,34.0,4,5
+Corolla,2020,SE,22750,gas,I4,32.0,4,5
+Corolla,2020,SE Nightshade,22750,gas,I4,34.0,4,5
+Corolla,2020,XLE,24050,gas,I4,32.0,4,5
+Corolla,2020,XSE,25550,gas,I4,34.0,4,5
+Corolla Hybrid,2020,LE,23100,hybrid,I4,52.0,4,5
+Mirai,2020,Base,58550,electric (fuel cell),,,4,4
+Yaris,2020,L,15650,gas,I4,34.0,4,5
+Yaris,2020,L,16750,gas,I4,35.0,4,5
+Yaris,2020,LE,16650,gas,I4,34.0,4,5
+Yaris,2020,LE,17750,gas,I4,35.0,4,5
+Yaris,2020,XLE,18750,gas,I4,35.0,4,5
+Avalon,2019,Limited,41950,gas,V6,25.0,4,5
+Avalon,2019,Touring,42350,gas,V6,25.0,4,5
+Avalon,2019,XLE,35650,gas,V6,26.0,4,5
+Avalon,2019,XSE,38150,gas,V6,25.0,4,5
+Avalon Hybrid,2019,Limited,42950,hybrid,I4,43.0,4,5
+Avalon Hybrid,2019,XLE,36650,hybrid,I4,44.0,4,5
+Avalon Hybrid,2019,XSE,39150,hybrid,I4,43.0,4,5
+Camry,2019,L,24095,gas,I4,34.0,4,5
+Camry,2019,LE,24600,gas,I4,32.0,4,5
+Camry,2019,SE,25800,gas,I4,32.0,4,5
+Camry,2019,XLE,34300,gas,V6,26.0,4,5
+Camry,2019,XLE,29175,gas,I4,32.0,4,5
+Camry,2019,XSE,34850,gas,V6,26.0,4,5
+Camry,2019,XSE,29725,gas,I4,32.0,4,5
+Camry Hybrid,2019,LE,28400,hybrid,I4,52.0,4,5
+Camry Hybrid,2019,SE,30100,hybrid,I4,46.0,4,5
+Camry Hybrid,2019,XLE,32975,hybrid,I4,46.0,4,5
+Corolla,2019,L,18700,gas,I4,32.0,4,5
+Corolla,2019,LE,19135,gas,I4,32.0,4,5
+Corolla,2019,LE Eco,19535,gas,I4,34.0,4,5
+Corolla,2019,LE Eco w/Premium Package,21500,gas,I4,34.0,4,5
+Corolla,2019,SE,20645,gas,I4,31.0,4,5
+Corolla,2019,SE,21865,gas,I4,30.0,4,5
+Corolla,2019,XLE,22135,gas,I4,32.0,4,5
+Corolla,2019,XSE,22880,gas,I4,31.0,4,5
+Mirai,2019,Base,58500,electric (fuel cell),,,4,4
+Yaris,2019,L,16700,gas,I4,35.0,4,5
+Yaris,2019,L,15600,gas,I4,34.0,4,5
+Yaris,2019,LE,17700,gas,I4,35.0,4,5
+Yaris,2019,LE,16600,gas,I4,34.0,4,5
+Yaris,2019,XLE,18700,gas,I4,35.0,4,5
+Avalon,2018,Limited,41300,gas,V6,24.0,4,5
+Avalon,2018,Touring,37900,gas,V6,24.0,4,5
+Avalon,2018,XLE,33500,gas,V6,24.0,4,5
+Avalon,2018,XLE Plus,35250,gas,V6,24.0,4,5
+Avalon,2018,XLE Premium,36700,gas,V6,24.0,4,5
+Avalon Hybrid,2018,Limited,42800,hybrid,I4,40.0,4,5
+Avalon Hybrid,2018,XLE Plus,37500,hybrid,I4,40.0,4,5
+Avalon Hybrid,2018,XLE Premium,38950,hybrid,I4,40.0,4,5
+Camry,2018,L,23645,gas,I4,34.0,4,5
+Camry,2018,LE,24150,gas,I4,32.0,4,5
+Camry,2018,SE,25350,gas,I4,32.0,4,5
+Camry,2018,XLE,28600,gas,I4,32.0,4,5
+Camry,2018,XLE,34550,gas,V6,26.0,4,5
+Camry,2018,XSE,29150,gas,I4,32.0,4,5
+Camry,2018,XSE,35100,gas,V6,26.0,4,5
+Camry Hybrid,2018,LE,27950,hybrid,I4,52.0,4,5
+Camry Hybrid,2018,SE,29650,hybrid,I4,46.0,4,5
+Camry Hybrid,2018,XLE,32400,hybrid,I4,46.0,4,5
+Corolla,2018,L,18600,gas,I4,32.0,4,5
+Corolla,2018,LE,19035,gas,I4,32.0,4,5
+Corolla,2018,LE Eco,19435,gas,I4,34.0,4,5
+Corolla,2018,LE Eco w/Premium Package,21400,gas,I4,34.0,4,5
+Corolla,2018,SE,21765,gas,I4,30.0,4,5
+Corolla,2018,SE,20545,gas,I4,31.0,4,5
+Corolla,2018,XLE,22035,gas,I4,32.0,4,5
+Corolla,2018,XSE,22780,gas,I4,31.0,4,5
+Mirai,2018,Base,58365,electric (fuel cell),,,4,4
+Yaris iA,2018,Base,15950,gas,I4,34.0,4,5
+Yaris iA,2018,Base,17050,gas,I4,35.0,4,5
+Avalon,2017,Limited,41100,gas,V6,24.0,4,5
+Avalon,2017,Touring,37700,gas,V6,24.0,4,5
+Avalon,2017,XLE,33300,gas,V6,24.0,4,5
+Avalon,2017,XLE Plus,35050,gas,V6,24.0,4,5
+Avalon,2017,XLE Premium,36500,gas,V6,24.0,4,5
+Avalon Hybrid,2017,Limited,42600,hybrid,I4,40.0,4,5
+Avalon Hybrid,2017,XLE Plus,37300,hybrid,I4,40.0,4,5
+Avalon Hybrid,2017,XLE Premium,38750,hybrid,I4,40.0,4,5
+Camry,2017,LE,23070,gas,I4,27.0,4,5
+Camry,2017,SE,23840,gas,I4,27.0,4,5
+Camry,2017,XLE,26310,gas,I4,27.0,4,5
+Camry,2017,XLE,31370,gas,V6,24.0,4,5
+Camry,2017,XSE,26310,gas,I4,27.0,4,5
+Camry,2017,XSE,31370,gas,V6,24.0,4,5
+Camry Hybrid,2017,LE,26790,hybrid,I4,40.0,4,5
+Camry Hybrid,2017,SE,27995,hybrid,I4,38.0,4,5
+Camry Hybrid,2017,XLE,30140,hybrid,I4,38.0,4,5
+Corolla,2017,50th Anniversary Special Edition,21900,gas,I4,31.0,4,5
+Corolla,2017,L,18500,gas,I4,32.0,4,5
+Corolla,2017,LE,18935,gas,I4,32.0,4,5
+Corolla,2017,LE Eco,19335,gas,I4,34.0,4,5
+Corolla,2017,LE Eco w/Premium Package,21300,gas,I4,34.0,4,5
+Corolla,2017,SE,21665,gas,I4,30.0,4,5
+Corolla,2017,SE,20445,gas,I4,31.0,4,5
+Corolla,2017,XLE,21825,gas,I4,32.0,4,5
+Corolla,2017,XSE,22680,gas,I4,31.0,4,5
+Mirai,2017,Base,57500,electric (fuel cell),,,4,4
+Yaris iA,2017,Base,17050,gas,I4,35.0,4,5
+Yaris iA,2017,Base,15950,gas,I4,34.0,4,5
+Avalon,2016,Limited,40450,gas,V6,24.0,4,5
+Avalon,2016,Touring,37050,gas,V6,24.0,4,5
+Avalon,2016,XLE,32650,gas,V6,24.0,4,5
+Avalon,2016,XLE Plus,34400,gas,V6,24.0,4,5
+Avalon,2016,XLE Premium,35850,gas,V6,24.0,4,5
+Avalon Hybrid,2016,Limited,41950,hybrid,I4,40.0,4,5
+Avalon Hybrid,2016,XLE Plus,36650,hybrid,I4,40.0,4,5
+Avalon Hybrid,2016,XLE Premium,38100,hybrid,I4,40.0,4,5
+Camry,2016,LE,23070,gas,I4,28.0,4,5
+Camry,2016,SE,23840,gas,I4,28.0,4,5
+Camry,2016,Special Edition,25715,gas,I4,28.0,4,5
+Camry,2016,XLE,26310,gas,I4,28.0,4,5
+Camry,2016,XLE,31370,gas,V6,25.0,4,5
+Camry,2016,XSE,31370,gas,V6,25.0,4,5
+Camry,2016,XSE,26310,gas,I4,28.0,4,5
+Camry Hybrid,2016,LE,26790,hybrid,I4,41.0,4,5
+Camry Hybrid,2016,SE,27995,hybrid,I4,40.0,4,5
+Camry Hybrid,2016,XLE,30140,hybrid,I4,40.0,4,5
+Corolla,2016,L,17900,gas,I4,31.0,4,5
+Corolla,2016,L,17300,gas,I4,31.0,4,5
+Corolla,2016,LE,18735,gas,I4,32.0,4,5
+Corolla,2016,LE Eco,19135,gas,I4,35.0,4,5
+Corolla,2016,LE Eco Plus,19835,gas,I4,34.0,4,5
+Corolla,2016,LE Eco Premium,22895,gas,I4,34.0,4,5
+Corolla,2016,LE Plus,19135,gas,I4,32.0,4,5
+Corolla,2016,LE Premium,22195,gas,I4,32.0,4,5
+Corolla,2016,S,19365,gas,I4,32.0,4,5
+Corolla,2016,S Plus,21665,gas,I4,31.0,4,5
+Corolla,2016,S Plus,20065,gas,I4,32.0,4,5
+Corolla,2016,S Premium,23125,gas,I4,32.0,4,5
+Corolla,2016,Special Edition,20635,gas,I4,32.0,4,5
+Mirai,2016,Base,57500,electric (fuel cell),,,4,4
+Avalon,2015,Limited,39980,gas,V6,24.0,4,5
+Avalon,2015,XLE,32285,gas,V6,24.0,4,5
+Avalon,2015,XLE Premium,34140,gas,V6,24.0,4,5
+Avalon,2015,XLE Touring,36080,gas,V6,24.0,4,5
+Avalon,2015,XLE Touring SE,37170,gas,V6,24.0,4,5
+Avalon Hybrid,2015,Limited,41700,hybrid,I4,40.0,4,5
+Avalon Hybrid,2015,XLE Premium,36470,hybrid,I4,40.0,4,5
+Avalon Hybrid,2015,XLE Touring,37800,hybrid,I4,40.0,4,5
+Camry,2015,LE,22970,gas,I4,28.0,4,5
+Camry,2015,SE,23840,gas,I4,28.0,4,5
+Camry,2015,XLE,31370,gas,V6,25.0,4,5
+Camry,2015,XLE,26150,gas,I4,28.0,4,5
+Camry,2015,XSE,31370,gas,V6,25.0,4,5
+Camry,2015,XSE,26150,gas,I4,28.0,4,5
+Camry Hybrid,2015,LE,26790,hybrid,I4,41.0,4,5
+Camry Hybrid,2015,SE,27995,hybrid,I4,40.0,4,5
+Camry Hybrid,2015,XLE,29980,hybrid,I4,40.0,4,5
+Corolla,2015,L,16950,gas,I4,31.0,4,5
+Corolla,2015,L,17550,gas,I4,31.0,4,5
+Corolla,2015,LE,18565,gas,I4,32.0,4,5
+Corolla,2015,LE Eco,18965,gas,I4,35.0,4,5
+Corolla,2015,LE Eco Plus,19665,gas,I4,34.0,4,5
+Corolla,2015,LE Eco Premium,22725,gas,I4,34.0,4,5
+Corolla,2015,LE Plus,18965,gas,I4,32.0,4,5
+Corolla,2015,LE Premium,22025,gas,I4,32.0,4,5
+Corolla,2015,S,19195,gas,I4,32.0,4,5
+Corolla,2015,S Plus,19895,gas,I4,32.0,4,5
+Corolla,2015,S Plus,21495,gas,I4,31.0,4,5
+Corolla,2015,S Premium,22955,gas,I4,32.0,4,5

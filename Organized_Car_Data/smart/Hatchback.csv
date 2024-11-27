@@ -1,0 +1,22 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+EQ fortwo,2019,passion,25390,electric,,,3,2
+EQ fortwo,2019,prime,26740,electric,,,3,2
+EQ fortwo,2019,pure,23900,electric,,,3,2
+fortwo,2018,electric drive passion,25290,electric,,,3,2
+fortwo,2018,electric drive prime,26640,electric,,,3,2
+fortwo,2018,electric drive pure,23800,electric,,,3,2
+fortwo,2017,electric drive passion,25290,electric,,,3,2
+fortwo,2017,electric drive prime,26640,electric,,,3,2
+fortwo,2017,electric drive pure,23800,electric,,,3,2
+fortwo,2017,passion,16140,gas,I3,34.0,3,2
+fortwo,2017,prime,17490,gas,I3,34.0,3,2
+fortwo,2017,proxy,18480,gas,I3,34.0,3,2
+fortwo,2017,pure,14650,gas,I3,34.0,3,2
+fortwo,2016,electric drive coupe,25000,electric,,,3,2
+fortwo,2016,passion,16140,gas,I3,35.0,3,2
+fortwo,2016,prime,17490,gas,I3,35.0,3,2
+fortwo,2016,proxy,18480,gas,I3,35.0,3,2
+fortwo,2016,pure,14650,gas,I3,35.0,3,2
+fortwo,2015,electric drive coupe,25000,electric,,,3,2
+fortwo,2015,passion coupe,14930,gas,I3,36.0,3,2
+fortwo,2015,pure coupe,13270,gas,I3,36.0,3,2

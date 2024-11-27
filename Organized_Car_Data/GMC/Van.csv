@@ -1,0 +1,45 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Savana,2020,LS 2500,34900,gas,V6,,4,12
+Savana,2020,LS 3500,37200,gas,V6,,4,12
+Savana,2020,LT 2500,37000,gas,V6,,4,12
+Savana,2020,LT 3500,38900,gas,V6,,4,12
+Savana Cargo,2020,2500,32000,gas,V6,,4,2
+Savana Cargo,2020,3500,35100,gas,V6,,4,2
+Savana,2019,LS 2500,34900,gas,V6,,4,12
+Savana,2019,LS 3500,37200,gas,V6,,4,12
+Savana,2019,LT 2500,36500,gas,V6,,4,12
+Savana,2019,LT 3500,38400,gas,V6,,4,12
+Savana Cargo,2019,2500,31900,gas,V6,,4,2
+Savana Cargo,2019,3500,35000,gas,V6,,4,2
+Savana,2018,LS 2500,33515,gas,V6,,4,12
+Savana,2018,LS 3500,35810,gas,V6,,4,12
+Savana,2018,LT 2500,35340,gas,V6,,4,12
+Savana,2018,LT 3500,37240,gas,V6,,4,12
+Savana Cargo,2018,2500,31295,gas,V6,,4,2
+Savana Cargo,2018,3500,34615,gas,V6,,4,2
+Savana,2017,LS 2500,33140,flex-fuel (FFV),V8,13.0,4,12
+Savana,2017,LS 3500,35435,flex-fuel (FFV),V8,12.0,4,12
+Savana,2017,LT 2500,34965,flex-fuel (FFV),V8,13.0,4,12
+Savana,2017,LT 3500,36865,flex-fuel (FFV),V8,12.0,4,12
+Savana Cargo,2017,2500,30745,flex-fuel (FFV),V8,,4,2
+Savana Cargo,2017,3500,34065,flex-fuel (FFV),V8,,4,2
+Savana,2016,LS 2500,32990,flex-fuel (FFV),V8,13.0,4,12
+Savana,2016,LS 3500,48225,diesel,V8,,4,12
+Savana,2016,LS 3500,35285,flex-fuel (FFV),V8,12.0,4,12
+Savana,2016,LT 2500,34815,flex-fuel (FFV),V8,13.0,4,12
+Savana,2016,LT 3500,49655,diesel,V8,,4,12
+Savana,2016,LT 3500,36715,flex-fuel (FFV),V8,12.0,4,12
+Savana Cargo,2016,2500,42540,diesel,V8,,4,2
+Savana Cargo,2016,2500,30595,flex-fuel (FFV),V8,13.0,4,2
+Savana Cargo,2016,3500,45860,diesel,V8,,4,2
+Savana Cargo,2016,3500,33915,flex-fuel (FFV),V8,13.0,4,2
+Savana,2015,LS 2500,32190,flex-fuel (FFV),V8,13.0,4,12
+Savana,2015,LS 3500,34485,flex-fuel (FFV),V8,13.0,4,12
+Savana,2015,LS 3500,47425,diesel,V8,,4,12
+Savana,2015,LT 2500,34015,flex-fuel (FFV),V8,13.0,4,12
+Savana,2015,LT 3500,35915,flex-fuel (FFV),V8,13.0,4,12
+Savana,2015,LT 3500,48855,diesel,V8,,4,12
+Savana Cargo,2015,2500,29555,flex-fuel (FFV),V8,13.0,4,2
+Savana Cargo,2015,2500,41500,diesel,V8,,4,2
+Savana Cargo,2015,3500,32875,flex-fuel (FFV),V8,13.0,4,2
+Savana Cargo,2015,3500,44820,diesel,V8,,4,2

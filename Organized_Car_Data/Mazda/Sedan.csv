@@ -1,0 +1,84 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+3,2020,Base,21500,gas,I4,30.0,4,5
+3,2020,Preferred,24200,gas,I4,30.0,4,5
+3,2020,Preferred,25600,gas,I4,28.0,4,5
+3,2020,Premium,27900,gas,I4,28.0,4,5
+3,2020,Premium,26500,gas,I4,30.0,4,5
+3,2020,Select,22700,gas,I4,30.0,4,5
+3,2020,Select,24100,gas,I4,28.0,4,5
+6,2020,Grand Touring,29800,gas,I4,26.0,4,5
+6,2020,Grand Touring Reserve,32300,gas,I4,26.0,4,5
+6,2020,Signature,35400,gas,I4,26.0,4,5
+6,2020,Sport,24100,gas,I4,29.0,4,5
+6,2020,Touring,26700,gas,I4,29.0,4,5
+3,2019,Base,21000,gas,I4,30.0,4,5
+3,2019,Preferred,24200,gas,I4,30.0,4,5
+3,2019,Preferred,25600,gas,I4,28.0,4,5
+3,2019,Premium,27900,gas,I4,28.0,4,5
+3,2019,Premium,26500,gas,I4,30.0,4,5
+3,2019,Select,22600,gas,I4,30.0,4,5
+3,2019,Select,24000,gas,I4,28.0,4,5
+6,2019,Grand Touring,29500,gas,I4,26.0,4,5
+6,2019,Grand Touring Reserve,32000,gas,I4,26.0,4,5
+6,2019,Signature,35100,gas,I4,26.0,4,5
+6,2019,Sport,23800,gas,I4,29.0,4,5
+6,2019,Touring,26400,gas,I4,29.0,4,5
+3,2018,Grand Touring,24195,gas,I4,30.0,4,5
+3,2018,Grand Touring,23145,gas,I4,29.0,4,5
+3,2018,Sport,18095,gas,I4,31.0,4,5
+3,2018,Sport,19145,gas,I4,31.0,4,5
+3,2018,Touring,21140,gas,I4,30.0,4,5
+3,2018,Touring,20090,gas,I4,29.0,4,5
+6,2018,Grand Touring,29200,gas,I4,26.0,4,5
+6,2018,Grand Touring Reserve,31700,gas,I4,26.0,4,5
+6,2018,Signature,34750,gas,I4,26.0,4,5
+6,2018,Sport,21950,gas,I4,27.0,4,5
+6,2018,Sport,23000,gas,I4,29.0,4,5
+6,2018,Touring,25700,gas,I4,29.0,4,5
+3,2017,Grand Touring,23145,gas,I4,29.0,4,5
+3,2017,Grand Touring,24195,gas,I4,30.0,4,5
+3,2017,Sport,17845,gas,I4,31.0,4,5
+3,2017,Sport,18895,gas,I4,32.0,4,5
+3,2017,Touring,21495,gas,I4,32.0,4,5
+3,2017,Touring,20445,gas,I4,31.0,4,5
+6,2017,Grand Touring,30695,gas,I4,29.0,4,5
+6,2017,Grand Touring,30695,gas,I4,29.0,4,5
+6,2017,Sport,21945,gas,I4,28.0,4,5
+6,2017,Sport,22995,gas,I4,29.0,4,5
+6,2017,Sport,22995,gas,I4,29.0,4,5
+6,2017,Sport,21945,gas,I4,28.0,4,5
+6,2017,Touring,24195,gas,I4,28.0,4,5
+6,2017,Touring,25245,gas,I4,29.0,4,5
+6,2017,Touring,24195,gas,I4,28.0,4,5
+6,2017,Touring,25245,gas,I4,29.0,4,5
+3,2016,i Grand Touring,22545,gas,I4,33.0,4,5
+3,2016,i Grand Touring,23595,gas,I4,34.0,4,5
+3,2016,i Sport,18895,gas,I4,34.0,4,5
+3,2016,i Sport,17845,gas,I4,33.0,4,5
+3,2016,i Touring,20045,gas,I4,33.0,4,5
+3,2016,i Touring,21095,gas,I4,34.0,4,5
+3,2016,s Grand Touring,24745,gas,I4,29.0,4,5
+3,2016,s Grand Touring,25795,gas,I4,32.0,4,5
+3,2016,s Touring,24795,gas,I4,32.0,4,5
+6,2016,i Grand Touring,30195,gas,I4,31.0,4,5
+6,2016,i Sport,21495,gas,I4,29.0,4,5
+6,2016,i Sport,22995,gas,I4,31.0,4,5
+6,2016,i Touring,23945,gas,I4,29.0,4,5
+6,2016,i Touring,24995,gas,I4,31.0,4,5
+3,2015,i Grand Touring,23795,gas,I4,34.0,4,5
+3,2015,i Grand Touring,22745,gas,I4,33.0,4,5
+3,2015,i Sport,18445,gas,I4,33.0,4,5
+3,2015,i Sport,19495,gas,I4,34.0,4,5
+3,2015,i SV,16945,gas,I4,33.0,4,5
+3,2015,i SV,17995,gas,I4,34.0,4,5
+3,2015,i Touring,19595,gas,I4,33.0,4,5
+3,2015,i Touring,20645,gas,I4,34.0,4,5
+3,2015,s Grand Touring,26095,gas,I4,32.0,4,5
+3,2015,s Grand Touring,25045,gas,I4,29.0,4,5
+3,2015,s Touring,23845,gas,I4,29.0,4,5
+3,2015,s Touring,24895,gas,I4,32.0,4,5
+6,2015,i Grand Touring,29895,gas,I4,32.0,4,5
+6,2015,i Sport,21190,gas,I4,29.0,4,5
+6,2015,i Sport,22895,gas,I4,30.0,4,5
+6,2015,i Touring,23845,gas,I4,29.0,4,5
+6,2015,i Touring,24895,gas,I4,30.0,4,5

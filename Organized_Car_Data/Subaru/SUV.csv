@@ -1,0 +1,137 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Ascent,2020,Base,31995,gas,flat 4,23.0,5,8
+Ascent,2020,Limited,39345,gas,flat 4,22.0,5,7
+Ascent,2020,Limited,39345,gas,flat 4,22.0,5,8
+Ascent,2020,Limited,42295,gas,flat 4,22.0,5,7
+Ascent,2020,Limited,42295,gas,flat 4,22.0,5,8
+Ascent,2020,Premium,38655,gas,flat 4,23.0,5,7
+Ascent,2020,Premium,35855,gas,flat 4,23.0,5,8
+Ascent,2020,Premium,35855,gas,flat 4,23.0,5,7
+Ascent,2020,Premium,34395,gas,flat 4,23.0,5,8
+Ascent,2020,Premium,38655,gas,flat 4,23.0,5,8
+Ascent,2020,Touring,45045,gas,flat 4,22.0,5,7
+Crosstrek,2020,Base,23495,gas,flat 4,30.0,5,5
+Crosstrek,2020,Base,22145,gas,flat 4,25.0,5,5
+Crosstrek,2020,Hybrid,35145,plug-in hybrid,flat 4,35.0,5,5
+Crosstrek,2020,Limited,27395,gas,flat 4,29.0,5,5
+Crosstrek,2020,Premium,23195,gas,flat 4,25.0,5,5
+Crosstrek,2020,Premium,24545,gas,flat 4,30.0,5,5
+Forester,2020,Base,24495,gas,flat 4,29.0,5,5
+Forester,2020,Limited,31095,gas,flat 4,29.0,5,5
+Forester,2020,Premium,27395,gas,flat 4,29.0,5,5
+Forester,2020,Sport,28995,gas,flat 4,29.0,5,5
+Forester,2020,Touring,34595,gas,flat 4,29.0,5,5
+Outback,2020,Base,26645,gas,flat 4,29.0,5,5
+Outback,2020,Limited,33445,gas,flat 4,29.0,5,5
+Outback,2020,Limited XT,37745,gas,flat 4,26.0,5,5
+Outback,2020,Onyx Edition XT,34895,gas,flat 4,26.0,5,5
+Outback,2020,Premium,28895,gas,flat 4,29.0,5,5
+Outback,2020,Touring,37345,gas,flat 4,29.0,5,5
+Outback,2020,Touring XT,39695,gas,flat 4,26.0,5,5
+Ascent,2019,Base,31995,gas,flat 4,23.0,5,8
+Ascent,2019,Limited,41945,gas,flat 4,22.0,5,8
+Ascent,2019,Limited,41945,gas,flat 4,22.0,5,7
+Ascent,2019,Limited,38995,gas,flat 4,22.0,5,7
+Ascent,2019,Limited,38995,gas,flat 4,22.0,5,8
+Ascent,2019,Premium,34195,gas,flat 4,23.0,5,8
+Ascent,2019,Premium,38455,gas,flat 4,22.0,5,8
+Ascent,2019,Premium,38455,gas,flat 4,22.0,5,7
+Ascent,2019,Premium,35655,gas,flat 4,23.0,5,8
+Ascent,2019,Premium,35655,gas,flat 4,23.0,5,7
+Ascent,2019,Touring,44695,gas,flat 4,22.0,5,7
+Crosstrek,2019,2.0i,22895,gas,flat 4,29.0,5,5
+Crosstrek,2019,2.0i,21895,gas,flat 4,25.0,5,5
+Crosstrek,2019,2.0i Limited,27195,gas,flat 4,29.0,5,5
+Crosstrek,2019,2.0i Premium,23895,gas,flat 4,29.0,5,5
+Crosstrek,2019,2.0i Premium,22895,gas,flat 4,25.0,5,5
+Crosstrek,2019,Hybrid,34995,plug-in hybrid,flat 4,35.0,5,5
+Forester,2019,Base,24295,gas,flat 4,29.0,5,5
+Forester,2019,Limited,30795,gas,flat 4,29.0,5,5
+Forester,2019,Premium,26695,gas,flat 4,29.0,5,5
+Forester,2019,Sport,28795,gas,flat 4,29.0,5,5
+Forester,2019,Touring,34295,gas,flat 4,29.0,5,5
+Outback,2019,2.5i,26345,gas,flat 4,28.0,5,5
+Outback,2019,2.5i Limited,32845,gas,flat 4,28.0,5,5
+Outback,2019,2.5i Premium,28445,gas,flat 4,28.0,5,5
+Outback,2019,2.5i Touring,36795,gas,flat 4,28.0,5,5
+Outback,2019,3.6R Limited,34995,gas,flat 6,22.0,5,5
+Outback,2019,3.6R Touring,38995,gas,flat 6,22.0,5,5
+Crosstrek,2018,2.0i,22795,gas,flat 4,29.0,5,5
+Crosstrek,2018,2.0i,21795,gas,flat 4,25.0,5,5
+Crosstrek,2018,2.0i Limited,26295,gas,flat 4,29.0,5,5
+Crosstrek,2018,2.0i Premium,22595,gas,flat 4,25.0,5,5
+Crosstrek,2018,2.0i Premium,23595,gas,flat 4,29.0,5,5
+Forester,2018,2.0XT Premium,29495,gas,flat 4,25.0,5,5
+Forester,2018,2.0XT Touring,36090,gas,flat 4,25.0,5,5
+Forester,2018,2.5i,22795,gas,flat 4,24.0,5,5
+Forester,2018,2.5i,23795,gas,flat 4,28.0,5,5
+Forester,2018,2.5i Limited,29395,gas,flat 4,28.0,5,5
+Forester,2018,2.5i Premium,26195,gas,flat 4,28.0,5,5
+Forester,2018,2.5i Premium,25695,gas,flat 4,24.0,5,5
+Forester,2018,2.5i Touring,33090,gas,flat 4,28.0,5,5
+Outback,2018,2.5i,25895,gas,flat 4,28.0,5,5
+Outback,2018,2.5i Limited,32695,gas,flat 4,28.0,5,5
+Outback,2018,2.5i Premium,27995,gas,flat 4,28.0,5,5
+Outback,2018,2.5i Touring,36490,gas,flat 4,28.0,5,5
+Outback,2018,3.6R Limited,35395,gas,flat 6,22.0,5,5
+Outback,2018,3.6R Touring,38690,gas,flat 6,22.0,5,5
+Crosstrek,2017,2.0i Limited PZEV,25195,gas,flat 4,29.0,5,5
+Crosstrek,2017,2.0i Premium PZEV,22495,gas,flat 4,26.0,5,5
+Crosstrek,2017,2.0i Premium PZEV,23495,gas,flat 4,29.0,5,5
+Crosstrek,2017,2.0i PZEV,21695,gas,flat 4,26.0,5,5
+Forester,2017,2.0XT Premium,29295,gas,flat 4,25.0,5,5
+Forester,2017,2.0XT Touring,34295,gas,flat 4,25.0,5,5
+Forester,2017,2.5i Limited PZEV,29195,gas,flat 4,28.0,5,5
+Forester,2017,2.5i Premium PZEV,25995,gas,flat 4,28.0,5,5
+Forester,2017,2.5i Premium PZEV,25495,gas,flat 4,24.0,5,5
+Forester,2017,2.5i PZEV,23595,gas,flat 4,28.0,5,5
+Forester,2017,2.5i PZEV,22595,gas,flat 4,24.0,5,5
+Forester,2017,2.5i Touring PZEV,31295,gas,flat 4,28.0,5,5
+Outback,2017,2.5i,25645,gas,flat 4,28.0,5,5
+Outback,2017,2.5i Limited,32390,gas,flat 4,28.0,5,5
+Outback,2017,2.5i Premium,27695,gas,flat 4,28.0,5,5
+Outback,2017,2.5i Touring,35995,gas,flat 4,28.0,5,5
+Outback,2017,3.6R Limited,34995,gas,flat 6,22.0,5,5
+Outback,2017,3.6R Touring,38195,gas,flat 6,22.0,5,5
+Crosstrek,2016,2.0i Limited PZEV,25095,gas,flat 4,29.0,5,5
+Crosstrek,2016,2.0i Premium PZEV,22395,gas,flat 4,26.0,5,5
+Crosstrek,2016,2.0i Premium PZEV,23395,gas,flat 4,29.0,5,5
+Crosstrek,2016,2.0i PZEV,21595,gas,flat 4,26.0,5,5
+Crosstrek,2016,Hybrid,26395,hybrid,flat 4,31.0,5,5
+Crosstrek,2016,Hybrid Touring,29995,hybrid,flat 4,31.0,5,5
+Forester,2016,2.0XT Premium,29195,gas,flat 4,25.0,5,5
+Forester,2016,2.0XT Touring,33795,gas,flat 4,25.0,5,5
+Forester,2016,2.5i Limited PZEV,28795,gas,flat 4,27.0,5,5
+Forester,2016,2.5i Premium PZEV,25795,gas,flat 4,27.0,5,5
+Forester,2016,2.5i Premium PZEV,25295,gas,flat 4,25.0,5,5
+Forester,2016,2.5i PZEV,23395,gas,flat 4,27.0,5,5
+Forester,2016,2.5i PZEV,22395,gas,flat 4,25.0,5,5
+Forester,2016,2.5i Touring PZEV,30795,gas,flat 4,27.0,5,5
+Outback,2016,2.5i,24995,gas,flat 4,28.0,5,5
+Outback,2016,2.5i Limited,30395,gas,flat 4,28.0,5,5
+Outback,2016,2.5i Limited PZEV,30695,gas,flat 4,28.0,5,5
+Outback,2016,2.5i Premium,27395,gas,flat 4,28.0,5,5
+Outback,2016,2.5i Premium PZEV,27695,gas,flat 4,28.0,5,5
+Outback,2016,2.5i PZEV,25295,gas,flat 4,28.0,5,5
+Outback,2016,3.6R Limited,33395,gas,flat 6,22.0,5,5
+Forester,2015,2.0XT Premium,28495,gas,flat 4,25.0,5,5
+Forester,2015,2.0XT Touring,33095,gas,flat 4,25.0,5,5
+Forester,2015,2.5i Limited PZEV,28095,gas,flat 4,27.0,5,5
+Forester,2015,2.5i Premium PZEV,25095,gas,flat 4,27.0,5,5
+Forester,2015,2.5i Premium PZEV,24595,gas,flat 4,25.0,5,5
+Forester,2015,2.5i PZEV,22195,gas,flat 4,25.0,5,5
+Forester,2015,2.5i PZEV,23195,gas,flat 4,27.0,5,5
+Forester,2015,2.5i Touring PZEV,30095,gas,flat 4,27.0,5,5
+Outback,2015,2.5i,24895,gas,flat 4,28.0,5,5
+Outback,2015,2.5i Limited,29995,gas,flat 4,28.0,5,5
+Outback,2015,2.5i Limited PZEV,30295,gas,flat 4,28.0,5,5
+Outback,2015,2.5i Premium,26995,gas,flat 4,28.0,5,5
+Outback,2015,2.5i Premium PZEV,27295,gas,flat 4,28.0,5,5
+Outback,2015,2.5i PZEV,25195,gas,flat 4,28.0,5,5
+Outback,2015,3.6R Limited,32995,gas,flat 6,22.0,5,5
+XV Crosstrek,2015,2.0i Limited PZEV,24795,gas,flat 4,29.0,5,5
+XV Crosstrek,2015,2.0i Premium PZEV,22295,gas,flat 4,26.0,5,5
+XV Crosstrek,2015,2.0i Premium PZEV,23295,gas,flat 4,29.0,5,5
+XV Crosstrek,2015,2.0i PZEV,21595,gas,flat 4,26.0,5,5
+XV Crosstrek,2015,Hybrid,25995,hybrid,flat 4,31.0,5,5
+XV Crosstrek,2015,Hybrid Touring,29295,hybrid,flat 4,31.0,5,5

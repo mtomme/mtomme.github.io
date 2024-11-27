@@ -1,0 +1,73 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Ghibli,2020,Base,75500,gas,V6,19.0,4,5
+Ghibli,2020,GranLusso,83000,gas,V6,19.0,4,5
+Ghibli,2020,GranSport,83000,gas,V6,19.0,4,5
+Ghibli,2020,S,80500,gas,V6,19.0,4,5
+Ghibli,2020,S GranLusso,87300,gas,V6,19.0,4,5
+Ghibli,2020,S GranSport,87300,gas,V6,19.0,4,5
+Ghibli,2020,S Q4,83000,gas,V6,19.0,4,5
+Ghibli,2020,S Q4 GranLusso,89800,gas,V6,19.0,4,5
+Ghibli,2020,S Q4 GranSport,89800,gas,V6,19.0,4,5
+Quattroporte,2020,GTS GranLusso,140500,gas,V8,17.0,4,5
+Quattroporte,2020,GTS GranSport,140500,gas,V8,17.0,4,5
+Quattroporte,2020,S,109500,gas,V6,19.0,4,5
+Quattroporte,2020,S GranLusso,116500,gas,V6,19.0,4,5
+Quattroporte,2020,S GranSport,116500,gas,V6,19.0,4,5
+Quattroporte,2020,S Q4,114500,gas,V6,18.0,4,5
+Quattroporte,2020,S Q4 GranLusso,121500,gas,V6,18.0,4,5
+Quattroporte,2020,S Q4 GranSport,121500,gas,V6,18.0,4,5
+Ghibli,2019,Base,74980,gas,V6,19.0,4,5
+Ghibli,2019,GranLusso,80980,gas,V6,19.0,4,5
+Ghibli,2019,GranSport,80980,gas,V6,19.0,4,5
+Ghibli,2019,S,79980,gas,V6,19.0,4,5
+Ghibli,2019,S GranLusso,85280,gas,V6,19.0,4,5
+Ghibli,2019,S GranSport,85280,gas,V6,19.0,4,5
+Ghibli,2019,S Q4,82480,gas,V6,19.0,4,5
+Ghibli,2019,S Q4 GranLusso,87780,gas,V6,19.0,4,5
+Ghibli,2019,S Q4 GranSport,87780,gas,V6,19.0,4,5
+Quattroporte,2019,GTS GranLusso,137980,gas,V8,17.0,4,5
+Quattroporte,2019,GTS GranSport,137980,gas,V8,17.0,4,5
+Quattroporte,2019,S,107680,gas,V6,18.0,4,5
+Quattroporte,2019,S GranLusso,113880,gas,V6,18.0,4,5
+Quattroporte,2019,S GranSport,113880,gas,V6,18.0,4,5
+Quattroporte,2019,S Q4,113680,gas,V6,18.0,4,5
+Quattroporte,2019,S Q4 GranLusso,119780,gas,V6,18.0,4,5
+Quattroporte,2019,S Q4 GranSport,119780,gas,V6,18.0,4,5
+Ghibli,2018,Base,73050,gas,V6,19.0,4,5
+Ghibli,2018,GranLusso,79050,gas,V6,19.0,4,5
+Ghibli,2018,GranSport,79050,gas,V6,19.0,4,5
+Ghibli,2018,S,78750,gas,V6,19.0,4,5
+Ghibli,2018,S GranLusso,84250,gas,V6,19.0,4,5
+Ghibli,2018,S GranSport,84250,gas,V6,19.0,4,5
+Ghibli,2018,S Q4,81250,gas,V6,19.0,4,5
+Ghibli,2018,S Q4 GranLusso,86750,gas,V6,19.0,4,5
+Ghibli,2018,S Q4 GranSport,86750,gas,V6,19.0,4,5
+Quattroporte,2018,GTS GranLusso,136600,gas,V8,17.0,4,5
+Quattroporte,2018,GTS GranSport,136600,gas,V8,17.0,4,5
+Quattroporte,2018,S,105600,gas,V6,18.0,4,5
+Quattroporte,2018,S GranLusso,112400,gas,V6,18.0,4,5
+Quattroporte,2018,S GranSport,112400,gas,V6,18.0,4,5
+Quattroporte,2018,S Q4,111800,gas,V6,18.0,4,5
+Quattroporte,2018,S Q4 GranLusso,118600,gas,V6,18.0,4,5
+Quattroporte,2018,S Q4 GranSport,118600,gas,V6,18.0,4,5
+Ghibli,2017,Base,71600,gas,V6,19.0,4,5
+Ghibli,2017,S,77200,gas,V6,19.0,4,5
+Ghibli,2017,S Q4,79700,gas,V6,19.0,4,5
+Quattroporte,2017,GTS GranLusso,145500,gas,V8,17.0,4,5
+Quattroporte,2017,GTS GranSport,145500,gas,V8,17.0,4,5
+Quattroporte,2017,S,103400,gas,V6,18.0,4,5
+Quattroporte,2017,S GranLusso,109900,gas,V6,18.0,4,5
+Quattroporte,2017,S GranSport,109900,gas,V6,18.0,4,5
+Quattroporte,2017,S Q4,109500,gas,V6,18.0,4,5
+Quattroporte,2017,S Q4 GranLusso,116000,gas,V6,18.0,4,5
+Quattroporte,2017,S Q4 GranSport,116000,gas,V6,18.0,4,5
+Ghibli,2016,Base,70600,gas,V6,19.0,4,5
+Ghibli,2016,S,76050,gas,V6,19.0,4,5
+Ghibli,2016,S Q4,78550,gas,V6,19.0,4,5
+Quattroporte,2016,GTS,141500,gas,V8,17.0,4,5
+Quattroporte,2016,S,99900,gas,V6,18.0,4,5
+Quattroporte,2016,S Q4,107900,gas,V6,18.0,4,5
+Ghibli,2015,Base,69800,gas,V6,19.0,4,5
+Ghibli,2015,S Q4,77900,gas,V6,18.0,4,5
+Quattroporte,2015,GTS,140500,gas,V8,16.0,4,5
+Quattroporte,2015,S Q4,106900,gas,V6,18.0,4,5

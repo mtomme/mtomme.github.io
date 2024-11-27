@@ -1,0 +1,412 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Canyon,2020,All Terrain,37900,gas,V6,19.0,4,5
+Canyon,2020,All Terrain,39900,gas,V6,19.0,4,5
+Canyon,2020,All Terrain,39300,gas,V6,19.0,4,5
+Canyon,2020,All Terrain,38500,gas,V6,19.0,4,5
+Canyon,2020,Base,27600,gas,I4,22.0,4,5
+Canyon,2020,Denali,40500,gas,V6,20.0,4,5
+Canyon,2020,Denali,44000,gas,V6,19.0,4,5
+Canyon,2020,Denali,44300,gas,V6,19.0,4,5
+Canyon,2020,SLE,36700,gas,V6,19.0,4,5
+Canyon,2020,SLE,36100,gas,V6,19.0,4,5
+Canyon,2020,SLE,31000,gas,I4,22.0,4,5
+Canyon,2020,SLT,40000,gas,V6,19.0,4,5
+Canyon,2020,SLT,39400,gas,V6,19.0,4,5
+Canyon,2020,SLT,35900,gas,V6,20.0,4,5
+Sierra 1500,2020,AT4,53700,gas,V8,18.0,4,5
+Sierra 1500,2020,AT4,53400,gas,V8,18.0,4,5
+Sierra 1500,2020,Base,39500,flex-fuel (FFV),V6,17.0,4,6
+Sierra 1500,2020,Base,39200,flex-fuel (FFV),V6,17.0,4,6
+Sierra 1500,2020,Base,36200,flex-fuel (FFV),V6,17.0,4,6
+Sierra 1500,2020,Base,35900,flex-fuel (FFV),V6,17.0,4,6
+Sierra 1500,2020,Denali,54700,gas,V8,19.0,4,5
+Sierra 1500,2020,Denali,55000,gas,V8,19.0,4,5
+Sierra 1500,2020,Denali,58200,gas,V8,19.0,4,5
+Sierra 1500,2020,Denali,58500,gas,V8,19.0,4,5
+Sierra 1500,2020,Elevation,46000,gas,I4,20.0,4,6
+Sierra 1500,2020,Elevation,42700,gas,I4,20.0,4,6
+Sierra 1500,2020,Elevation,43000,gas,I4,20.0,4,6
+Sierra 1500,2020,Elevation,46300,gas,I4,20.0,4,6
+Sierra 1500,2020,SLE,40500,gas,I4,20.0,4,6
+Sierra 1500,2020,SLE,40200,gas,I4,20.0,4,6
+Sierra 1500,2020,SLE,43800,gas,I4,20.0,4,6
+Sierra 1500,2020,SLE,43500,gas,I4,20.0,4,6
+Sierra 1500,2020,SLT,50200,gas,V8,19.0,4,6
+Sierra 1500,2020,SLT,50500,gas,V8,19.0,4,6
+Sierra 1500,2020,SLT,46700,gas,V8,19.0,4,6
+Sierra 1500,2020,SLT,47000,gas,V8,19.0,4,6
+Sierra 2500HD,2020,AT4,57900,gas,V8,,4,5
+Sierra 2500HD,2020,AT4,57700,gas,V8,,4,5
+Sierra 2500HD,2020,Base,40000,gas,V8,,4,6
+Sierra 2500HD,2020,Base,40200,gas,V8,,4,6
+Sierra 2500HD,2020,Base,42800,gas,V8,,4,6
+Sierra 2500HD,2020,Base,43000,gas,V8,,4,6
+Sierra 2500HD,2020,Denali,63700,gas,V8,,4,5
+Sierra 2500HD,2020,Denali,63900,gas,V8,,4,5
+Sierra 2500HD,2020,SLE,43800,gas,V8,,4,6
+Sierra 2500HD,2020,SLE,44000,gas,V8,,4,6
+Sierra 2500HD,2020,SLE,46600,gas,V8,,4,6
+Sierra 2500HD,2020,SLE,46800,gas,V8,,4,6
+Sierra 2500HD,2020,SLT,55400,gas,V8,,4,6
+Sierra 2500HD,2020,SLT,55200,gas,V8,,4,6
+Sierra 2500HD,2020,SLT,52600,gas,V8,,4,6
+Sierra 2500HD,2020,SLT,52400,gas,V8,,4,6
+Sierra 3500HD,2020,AT4,59100,gas,V8,,4,5
+Sierra 3500HD,2020,AT4,58900,gas,V8,,4,5
+Sierra 3500HD,2020,Base,44200,gas,V8,,4,6
+Sierra 3500HD,2020,Base,41200,gas,V8,,4,6
+Sierra 3500HD,2020,Base,41400,gas,V8,,4,6
+Sierra 3500HD,2020,Base,42600,gas,V8,,4,6
+Sierra 3500HD,2020,Base,44000,gas,V8,,4,6
+Sierra 3500HD,2020,Base,45400,gas,V8,,4,6
+Sierra 3500HD,2020,Denali,66300,gas,V8,,4,5
+Sierra 3500HD,2020,Denali,64900,gas,V8,,4,5
+Sierra 3500HD,2020,Denali,65100,gas,V8,,4,5
+Sierra 3500HD,2020,SLE,48000,gas,V8,,4,6
+Sierra 3500HD,2020,SLE,47800,gas,V8,,4,6
+Sierra 3500HD,2020,SLE,46400,gas,V8,,4,6
+Sierra 3500HD,2020,SLE,45200,gas,V8,,4,6
+Sierra 3500HD,2020,SLE,49200,gas,V8,,4,6
+Sierra 3500HD,2020,SLE,45000,gas,V8,,4,6
+Sierra 3500HD,2020,SLT,53600,gas,V8,,4,6
+Sierra 3500HD,2020,SLT,53800,gas,V8,,4,6
+Sierra 3500HD,2020,SLT,55000,gas,V8,,4,6
+Sierra 3500HD,2020,SLT,56400,gas,V8,,4,6
+Sierra 3500HD,2020,SLT,56600,gas,V8,,4,6
+Sierra 3500HD,2020,SLT,57800,gas,V8,,4,6
+Canyon,2019,All Terrain,38100,gas,V6,19.0,4,5
+Canyon,2019,All Terrain,39500,gas,V6,19.0,4,5
+Canyon,2019,All Terrain,39200,gas,V6,19.0,4,5
+Canyon,2019,All Terrain,37800,gas,V6,19.0,4,5
+Canyon,2019,Base,27600,gas,I4,22.0,4,5
+Canyon,2019,Base,29200,gas,V6,20.0,4,5
+Canyon,2019,Denali,44200,gas,V6,19.0,4,5
+Canyon,2019,Denali,43900,gas,V6,19.0,4,5
+Canyon,2019,Denali,40900,gas,V6,20.0,4,5
+Canyon,2019,Denali,40400,gas,V6,20.0,4,5
+Canyon,2019,SLE,30900,gas,I4,22.0,4,5
+Canyon,2019,SLE,36000,gas,V6,19.0,4,5
+Canyon,2019,SLE,36300,gas,V6,19.0,4,5
+Canyon,2019,SLE,32600,gas,V6,20.0,4,5
+Canyon,2019,SLT,35800,gas,V6,20.0,4,5
+Canyon,2019,SLT,36300,gas,V6,20.0,4,5
+Canyon,2019,SLT,39300,gas,V6,19.0,4,5
+Canyon,2019,SLT,39600,gas,V6,19.0,4,5
+Sierra 1500,2019,AT4,53200,gas,V8,17.0,4,5
+Sierra 1500,2019,AT4,53500,gas,V8,17.0,4,5
+Sierra 1500,2019,Base,35900,flex-fuel (FFV),V6,17.0,4,6
+Sierra 1500,2019,Base,36200,flex-fuel (FFV),V6,17.0,4,6
+Sierra 1500,2019,Base,39200,flex-fuel (FFV),V6,17.0,4,6
+Sierra 1500,2019,Base,39500,flex-fuel (FFV),V6,17.0,4,6
+Sierra 1500,2019,Denali,55000,gas,V8,19.0,4,5
+Sierra 1500,2019,Denali,54700,gas,V8,19.0,4,5
+Sierra 1500,2019,Denali,58300,gas,V8,17.0,4,5
+Sierra 1500,2019,Denali,58000,gas,V8,17.0,4,5
+Sierra 1500,2019,SLE,40200,gas,I4,21.0,4,6
+Sierra 1500,2019,SLE,40500,gas,I4,21.0,4,6
+Sierra 1500,2019,SLE,43500,gas,I4,20.0,4,6
+Sierra 1500,2019,SLE,43800,gas,I4,20.0,4,6
+Sierra 1500,2019,SLT,46700,gas,V8,19.0,4,6
+Sierra 1500,2019,SLT,47000,gas,V8,19.0,4,6
+Sierra 1500,2019,SLT,50000,gas,V8,17.0,4,6
+Sierra 1500,2019,SLT,50300,gas,V8,17.0,4,6
+Sierra 2500HD,2019,Base,42100,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2019,Base,41900,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2019,Base,39200,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2019,Base,39000,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2019,Denali,59800,flex-fuel (FFV),V8,,4,5
+Sierra 2500HD,2019,Denali,56600,flex-fuel (FFV),V8,,4,5
+Sierra 2500HD,2019,SLE,45300,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2019,SLE,45500,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2019,SLE,48600,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2019,SLE,48800,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2019,SLT,50700,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2019,SLT,50500,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2019,SLT,53600,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2019,SLT,53800,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,Base,44500,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,Base,44000,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,Base,40800,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,Base,41000,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,Base,41600,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,Base,43800,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,Denali,56600,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2019,Denali,60100,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2019,Denali,59900,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2019,Denali,59500,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2019,Denali,56800,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2019,Denali,56600,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2019,SLE,51000,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,SLE,49800,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,SLE,47900,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,SLE,46700,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,SLE,46500,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,SLE,49600,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,SLT,54900,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,SLT,54700,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,SLT,52100,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,SLT,51700,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,SLT,51600,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2019,SLT,55200,flex-fuel (FFV),V8,,4,6
+Canyon,2018,All Terrain,37550,gas,V6,19.0,4,5
+Canyon,2018,All Terrain,37250,gas,V6,19.0,4,5
+Canyon,2018,Base,28580,gas,V6,20.0,4,5
+Canyon,2018,Base,26910,gas,I4,22.0,4,5
+Canyon,2018,Denali,39305,gas,V6,20.0,4,5
+Canyon,2018,Denali,39880,gas,V6,20.0,4,5
+Canyon,2018,Denali,43070,gas,V6,19.0,4,5
+Canyon,2018,Denali,43370,gas,V6,19.0,4,5
+Canyon,2018,SLE,35785,gas,V6,19.0,4,5
+Canyon,2018,SLE,30200,gas,I4,22.0,4,5
+Canyon,2018,SLE,31870,gas,V6,20.0,4,5
+Canyon,2018,SLE,35485,gas,V6,19.0,4,5
+Canyon,2018,SLT,38565,gas,V6,19.0,4,5
+Canyon,2018,SLT,34505,gas,V6,20.0,4,5
+Canyon,2018,SLT,35075,gas,V6,20.0,4,5
+Canyon,2018,SLT,38265,gas,V6,19.0,4,5
+Sierra 1500,2018,Base,38620,flex-fuel (FFV),V6,19.0,4,6
+Sierra 1500,2018,Base,35470,flex-fuel (FFV),V6,20.0,4,6
+Sierra 1500,2018,Base,40015,gas,V8,18.0,4,6
+Sierra 1500,2018,Denali,56055,gas,V8,17.0,4,5
+Sierra 1500,2018,Denali,52605,gas,V8,18.0,4,5
+Sierra 1500,2018,Denali,55755,gas,V8,17.0,4,5
+Sierra 1500,2018,SLE,45840,gas,V8,18.0,4,6
+Sierra 1500,2018,SLE,44445,flex-fuel (FFV),V6,19.0,4,6
+Sierra 1500,2018,SLE,40475,flex-fuel (FFV),V6,20.0,4,6
+Sierra 1500,2018,SLT,48440,gas,V8,18.0,4,6
+Sierra 1500,2018,SLT,44990,gas,V8,19.0,4,6
+Sierra 1500,2018,SLT,48140,gas,V8,18.0,4,6
+Sierra 2500HD,2018,Base,41675,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2018,Base,41480,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2018,Base,38720,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2018,Base,38525,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2018,Denali,55945,flex-fuel (FFV),V8,,4,5
+Sierra 2500HD,2018,Denali,59145,flex-fuel (FFV),V8,,4,5
+Sierra 2500HD,2018,SLE,45080,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2018,SLE,48145,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2018,SLE,44885,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2018,SLE,48340,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2018,SLT,49820,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2018,SLT,50010,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2018,SLT,52940,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2018,SLT,53135,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,Base,44100,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,Base,43600,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,Base,43400,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,Base,41200,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,Base,40600,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,Base,40400,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,Denali,56000,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2018,Denali,56000,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2018,Denali,56200,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2018,Denali,58900,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2018,Denali,59300,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2018,Denali,59500,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2018,SLE,50600,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,SLE,49400,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,SLE,49200,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,SLE,47500,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,SLE,46300,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,SLE,46100,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,SLT,51000,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,SLT,54600,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,SLT,54300,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,SLT,54100,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,SLT,51500,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2018,SLT,51100,flex-fuel (FFV),V8,,4,6
+Canyon,2017,Base,26660,gas,I4,22.0,4,5
+Canyon,2017,Base,28330,gas,V6,20.0,4,5
+Canyon,2017,Denali,43270,gas,V6,19.0,4,5
+Canyon,2017,Denali,39205,gas,V6,20.0,4,5
+Canyon,2017,Denali,39780,gas,V6,20.0,4,5
+Canyon,2017,Denali,42970,gas,V6,19.0,4,5
+Canyon,2017,SLE,35325,gas,V6,19.0,4,5
+Canyon,2017,SLE,31710,gas,V6,20.0,4,5
+Canyon,2017,SLE,35625,gas,V6,19.0,4,5
+Canyon,2017,SLE,30040,gas,I4,22.0,4,5
+Canyon,2017,SLT,34405,gas,V6,20.0,4,5
+Canyon,2017,SLT,34975,gas,V6,20.0,4,5
+Canyon,2017,SLT,38165,gas,V6,19.0,4,5
+Canyon,2017,SLT,38465,gas,V6,19.0,4,5
+Sierra 1500,2017,Base,36720,flex-fuel (FFV),V6,20.0,4,6
+Sierra 1500,2017,Base,38115,gas,V8,19.0,4,6
+Sierra 1500,2017,Base,39870,flex-fuel (FFV),V6,19.0,4,6
+Sierra 1500,2017,Base,41265,gas,V8,18.0,4,6
+Sierra 1500,2017,Denali,52155,gas,V8,18.0,4,5
+Sierra 1500,2017,Denali,52455,gas,V8,18.0,4,5
+Sierra 1500,2017,Denali,55305,gas,V8,17.0,4,5
+Sierra 1500,2017,Denali,55605,gas,V8,17.0,4,5
+Sierra 1500,2017,SLE,45390,gas,V8,18.0,4,6
+Sierra 1500,2017,SLE,43995,flex-fuel (FFV),V6,19.0,4,6
+Sierra 1500,2017,SLE,41420,gas,V8,19.0,4,6
+Sierra 1500,2017,SLE,40025,flex-fuel (FFV),V6,20.0,4,6
+Sierra 1500,2017,SLT,47990,gas,V8,18.0,4,6
+Sierra 1500,2017,SLT,47690,gas,V8,18.0,4,6
+Sierra 1500,2017,SLT,44840,gas,V8,19.0,4,6
+Sierra 1500,2017,SLT,44540,gas,V8,19.0,4,6
+Sierra 2500HD,2017,Base,40925,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2017,Base,40730,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2017,Base,37970,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2017,Base,37775,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2017,Denali,58595,flex-fuel (FFV),V8,,4,5
+Sierra 2500HD,2017,Denali,55395,flex-fuel (FFV),V8,,4,5
+Sierra 2500HD,2017,SLE,47790,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2017,SLE,44335,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2017,SLE,44530,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2017,SLE,47595,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2017,SLT,49460,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2017,SLT,49270,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2017,SLT,52390,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2017,SLT,52585,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,Base,43330,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,Base,42800,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,Base,42605,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,Base,40375,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,Base,39845,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,Base,39650,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,Denali,58325,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2017,Denali,55575,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2017,Denali,55415,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2017,Denali,55380,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2017,Denali,58735,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2017,Denali,58930,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2017,SLE,45710,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,SLE,46860,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,SLE,48625,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,SLE,48820,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,SLE,49970,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,SLE,45515,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,SLT,54025,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,SLT,53675,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,SLT,53480,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,SLT,50900,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,SLT,50550,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2017,SLT,50355,flex-fuel (FFV),V8,,4,6
+Canyon,2016,Base,25865,gas,I4,22.0,4,5
+Canyon,2016,Base,27385,gas,V6,21.0,4,5
+Canyon,2016,SLE,29245,gas,I4,22.0,4,5
+Canyon,2016,SLE,30765,gas,V6,21.0,4,5
+Canyon,2016,SLE,34720,gas,V6,20.0,4,5
+Canyon,2016,SLE,35020,gas,V6,20.0,4,5
+Canyon,2016,SLT,34280,gas,V6,21.0,4,5
+Canyon,2016,SLT,33460,gas,V6,21.0,4,5
+Canyon,2016,SLT,37810,gas,V6,20.0,4,5
+Canyon,2016,SLT,38110,gas,V6,20.0,4,5
+Sierra 1500,2016,Base,40775,gas,V8,18.0,4,6
+Sierra 1500,2016,Base,39380,flex-fuel (FFV),V6,19.0,4,6
+Sierra 1500,2016,Base,36230,flex-fuel (FFV),V6,20.0,4,6
+Sierra 1500,2016,Base,37625,gas,V8,19.0,4,6
+Sierra 1500,2016,Denali,51090,gas,V8,19.0,4,5
+Sierra 1500,2016,Denali,51390,gas,V8,19.0,4,5
+Sierra 1500,2016,Denali,54240,gas,V8,18.0,4,5
+Sierra 1500,2016,Denali,54540,gas,V8,18.0,4,5
+Sierra 1500,2016,SLE,39535,flex-fuel (FFV),V6,20.0,4,6
+Sierra 1500,2016,SLE,40930,gas,V8,19.0,4,6
+Sierra 1500,2016,SLE,43505,flex-fuel (FFV),V6,19.0,4,6
+Sierra 1500,2016,SLE,44900,gas,V8,18.0,4,6
+Sierra 1500,2016,SLT,44420,gas,V8,19.0,4,6
+Sierra 1500,2016,SLT,44120,gas,V8,19.0,4,6
+Sierra 1500,2016,SLT,47270,gas,V8,18.0,4,6
+Sierra 1500,2016,SLT,47570,gas,V8,18.0,4,6
+Sierra 2500HD,2016,Base,40275,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2016,Base,37320,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2016,Base,37515,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2016,Base,40470,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2016,Denali,57790,flex-fuel (FFV),V8,,4,5
+Sierra 2500HD,2016,Denali,54590,flex-fuel (FFV),V8,,4,5
+Sierra 2500HD,2016,SLE,47140,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2016,SLE,47335,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2016,SLE,44075,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2016,SLE,43880,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2016,SLT,52050,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2016,SLT,51855,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2016,SLT,48925,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2016,SLT,48735,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,Base,39195,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,Base,39390,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,Base,39920,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,Base,42150,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,Base,42345,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,Base,42875,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,Denali,54575,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2016,Denali,54610,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2016,Denali,54770,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2016,Denali,57520,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2016,Denali,57930,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2016,Denali,58125,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2016,SLE,49515,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,SLE,48365,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,SLE,48170,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,SLE,46405,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,SLE,45060,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,SLE,45255,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,SLT,53490,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,SLT,49820,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,SLT,50015,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,SLT,50365,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,SLT,52945,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2016,SLT,53140,flex-fuel (FFV),V8,,4,6
+Canyon,2015,Base,25205,gas,I4,22.0,4,5
+Canyon,2015,Base,26725,gas,V6,21.0,4,5
+Canyon,2015,SLE,34310,gas,V6,20.0,4,5
+Canyon,2015,SLE,34010,gas,V6,20.0,4,5
+Canyon,2015,SLE,30055,gas,V6,21.0,4,5
+Canyon,2015,SLE,28535,gas,I4,22.0,4,5
+Canyon,2015,SLT,31650,gas,I4,22.0,4,5
+Canyon,2015,SLT,33420,gas,V6,21.0,4,5
+Canyon,2015,SLT,36950,gas,V6,20.0,4,5
+Canyon,2015,SLT,37250,gas,V6,20.0,4,5
+Sierra 1500,2015,Base,35390,flex-fuel (FFV),V6,20.0,4,6
+Sierra 1500,2015,Base,35690,flex-fuel (FFV),V6,20.0,4,6
+Sierra 1500,2015,Base,38540,flex-fuel (FFV),V6,19.0,4,6
+Sierra 1500,2015,Base,38840,flex-fuel (FFV),V6,19.0,4,6
+Sierra 1500,2015,Denali,52815,gas,V8,18.0,4,5
+Sierra 1500,2015,Denali,53115,gas,V8,18.0,4,5
+Sierra 1500,2015,Denali,49665,gas,V8,19.0,4,5
+Sierra 1500,2015,Denali,49965,gas,V8,19.0,4,5
+Sierra 1500,2015,SLE,38665,flex-fuel (FFV),V6,20.0,4,6
+Sierra 1500,2015,SLE,42935,flex-fuel (FFV),V6,19.0,4,6
+Sierra 1500,2015,SLE,42635,flex-fuel (FFV),V6,19.0,4,6
+Sierra 1500,2015,SLE,38965,flex-fuel (FFV),V6,20.0,4,6
+Sierra 1500,2015,SLT,43360,gas,V8,19.0,4,6
+Sierra 1500,2015,SLT,43660,gas,V8,19.0,4,6
+Sierra 1500,2015,SLT,46510,gas,V8,18.0,4,6
+Sierra 1500,2015,SLT,46810,gas,V8,18.0,4,6
+Sierra 2500HD,2015,Base,39935,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2015,Base,37175,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2015,Base,36980,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2015,Base,40130,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2015,Denali,53000,flex-fuel (FFV),V8,,4,5
+Sierra 2500HD,2015,Denali,56200,flex-fuel (FFV),V8,,4,5
+Sierra 2500HD,2015,SLE,46290,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2015,SLE,46095,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2015,SLE,43030,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2015,SLE,42835,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2015,SLT,51065,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2015,SLT,47750,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2015,SLT,50870,flex-fuel (FFV),V8,,4,6
+Sierra 2500HD,2015,SLT,47940,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,Base,38855,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,Base,39050,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,Base,39580,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,Base,41810,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,Base,42005,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,Base,42535,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,Denali,52985,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2015,Denali,53020,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2015,Denali,53180,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2015,Denali,55930,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2015,Denali,56340,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2015,Denali,56535,flex-fuel (FFV),V8,,4,5
+Sierra 3500HD,2015,SLE,44210,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,SLE,48470,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,SLE,47320,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,SLE,47125,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,SLE,45360,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,SLE,44015,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,SLT,52505,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,SLT,52155,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,SLT,51960,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,SLT,49380,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,SLT,49030,flex-fuel (FFV),V8,,4,6
+Sierra 3500HD,2015,SLT,48835,flex-fuel (FFV),V8,,4,6

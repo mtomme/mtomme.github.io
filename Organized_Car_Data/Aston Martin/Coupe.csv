@@ -1,0 +1,40 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+DB11,2020,AMR,245900,gas,V12,17.0,2,4
+DB11,2020,V8,205600,gas,V8,20.0,2,4
+DBS Superleggera,2020,Base,311100,gas,V12,17.0,2,4
+Vantage,2020,AMR 59 Edition,204995,gas,V8,17.0,2,2
+Vantage,2020,AMR Hero,179995,gas,V8,17.0,2,2
+Vantage,2020,Base,152995,gas,V8,20.0,2,2
+DB11,2019,AMR,241000,gas,V12,17.0,2,4
+DB11,2019,V8,201495,gas,V8,20.0,2,4
+DBS Superleggera,2019,Base,303995,gas,V12,17.0,2,4
+DBS Superleggera,2019,TAG Heuer Edition,388695,gas,V12,17.0,2,4
+Vantage,2019,Base,149995,gas,V8,21.0,2,2
+DB11,2018,V12,216495,gas,V12,17.0,2,4
+DB11,2018,V8,198995,gas,V8,20.0,2,4
+Vanquish S,2018,Base,293650,gas,V12,16.0,2,2
+DB11,2017,Base,211995,gas,V12,,2,4
+V12 Vantage S,2017,Base,186195,gas,V12,14.0,2,2
+V12 Vantage S,2017,Base,197395,gas,V12,12.0,2,2
+Vanquish,2017,Base,287650,gas,V12,16.0,2,2
+DB9 GT,2016,Base,198250,gas,V12,15.0,2,4
+DB9 GT,2016,Bond Edition,235307,gas,V12,15.0,2,4
+V12 Vantage S,2016,Base,183695,gas,V12,14.0,2,2
+V8 Vantage,2016,Base,126995,gas,V8,16.0,2,2
+V8 Vantage,2016,Base,121295,gas,V8,15.0,2,2
+V8 Vantage,2016,GT,109000,gas,V8,16.0,2,2
+V8 Vantage,2016,GT,103300,gas,V8,15.0,2,2
+V8 Vantage,2016,S,139995,gas,V8,16.0,2,2
+V8 Vantage,2016,S,134295,gas,V8,15.0,2,2
+Vanquish,2016,Base,287650,gas,V12,16.0,2,2
+Vanquish,2016,Carbon,302695,gas,V12,16.0,2,2
+DB9,2015,Base,188295,gas,V12,15.0,2,4
+DB9,2015,Carbon Edition,198295,gas,V12,15.0,2,4
+V12 Vantage S,2015,Base,182395,gas,V12,14.0,2,2
+V8 Vantage,2015,Base,123695,gas,V8,16.0,2,2
+V8 Vantage,2015,Base,117995,gas,V8,15.0,2,2
+V8 Vantage,2015,GT,103900,gas,V8,16.0,2,2
+V8 Vantage,2015,GT,98200,gas,V8,15.0,2,2
+V8 Vantage,2015,S,132995,gas,V8,15.0,2,2
+V8 Vantage,2015,S,138695,gas,V8,16.0,2,2
+Vanquish,2015,Base,283695,gas,V12,16.0,2,2

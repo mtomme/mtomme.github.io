@@ -1,0 +1,33 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Savana,2020,LS 3500,38000,gas,V6,,4,12
+Savana,2020,LT 3500,39700,gas,V6,,4,12
+Savana Cargo,2020,2500,33900,gas,V6,,4,2
+Savana Cargo,2020,3500,35900,gas,V6,,4,2
+Savana,2019,LS 3500,38000,gas,V6,,4,12
+Savana,2019,LT 3500,39200,gas,V6,,4,12
+Savana Cargo,2019,2500,33800,gas,V6,,4,2
+Savana Cargo,2019,3500,35800,gas,V6,,4,2
+Savana,2018,LS 3500,37680,gas,V6,,4,12
+Savana,2018,LT 3500,38025,gas,V6,,4,12
+Savana Cargo,2018,2500,33155,gas,V6,,4,2
+Savana Cargo,2018,3500,35500,gas,V6,,4,2
+Savana,2017,LS 3500,37305,flex-fuel (FFV),V8,12.0,4,12
+Savana,2017,LT 3500,37650,flex-fuel (FFV),V8,12.0,4,12
+Savana Cargo,2017,2500,32605,flex-fuel (FFV),V8,,4,2
+Savana Cargo,2017,3500,34950,flex-fuel (FFV),V8,,4,2
+Savana,2016,LS 3500,50095,diesel,V8,,4,12
+Savana,2016,LS 3500,37155,flex-fuel (FFV),V8,12.0,4,12
+Savana,2016,LT 3500,37500,flex-fuel (FFV),V8,12.0,4,12
+Savana,2016,LT 3500,50440,diesel,V8,,4,12
+Savana Cargo,2016,2500,44400,diesel,V8,,4,2
+Savana Cargo,2016,2500,32455,flex-fuel (FFV),V8,13.0,4,2
+Savana Cargo,2016,3500,46745,diesel,V8,,4,2
+Savana Cargo,2016,3500,34800,flex-fuel (FFV),V8,13.0,4,2
+Savana,2015,LS 3500,36355,flex-fuel (FFV),V8,13.0,4,12
+Savana,2015,LS 3500,49295,diesel,V8,,4,12
+Savana,2015,LT 3500,49640,diesel,V8,,4,12
+Savana,2015,LT 3500,36700,flex-fuel (FFV),V8,13.0,4,12
+Savana Cargo,2015,2500,43360,diesel,V8,,4,2
+Savana Cargo,2015,2500,31415,flex-fuel (FFV),V8,13.0,4,2
+Savana Cargo,2015,3500,33760,flex-fuel (FFV),V8,13.0,4,2
+Savana Cargo,2015,3500,45705,diesel,V8,,4,2

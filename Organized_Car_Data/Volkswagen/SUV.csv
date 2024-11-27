@@ -1,0 +1,148 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Atlas,2020,S,34745,gas,V6,19.0,5,7
+Atlas,2020,S,31545,gas,I4,22.0,5,7
+Atlas,2020,SE,36095,gas,V6,19.0,5,7
+Atlas,2020,SE,37895,gas,V6,19.0,5,7
+Atlas,2020,SE,34695,gas,I4,22.0,5,7
+Atlas,2020,SE w/Technology,37045,gas,I4,22.0,5,7
+Atlas,2020,SE w/Technology,38445,gas,V6,19.0,5,7
+Atlas,2020,SE w/Technology,40245,gas,V6,19.0,5,7
+Atlas,2020,SE w/Technology R-Line,42445,gas,V6,19.0,5,7
+Atlas,2020,SE w/Technology R-Line,40645,gas,V6,19.0,5,7
+Atlas,2020,SEL,42595,gas,V6,19.0,5,7
+Atlas,2020,SEL,44395,gas,V6,19.0,5,7
+Atlas,2020,SEL,40795,gas,I4,22.0,5,7
+Atlas,2020,SEL Premium,49195,gas,V6,19.0,5,7
+Atlas,2020,SEL R-Line,44295,gas,V6,19.0,5,7
+Atlas,2020,SEL R-Line,46095,gas,V6,19.0,5,7
+Atlas Cross Sport,2020,S,30545,gas,I4,22.0,5,5
+Atlas Cross Sport,2020,S,32445,gas,I4,20.0,5,5
+Atlas Cross Sport,2020,SE,33945,gas,I4,22.0,5,5
+Atlas Cross Sport,2020,SE,35845,gas,I4,20.0,5,5
+Atlas Cross Sport,2020,SE w/Technology,35945,gas,I4,22.0,5,5
+Atlas Cross Sport,2020,SE w/Technology,37345,gas,V6,19.0,5,5
+Atlas Cross Sport,2020,SE w/Technology,37845,gas,I4,20.0,5,5
+Atlas Cross Sport,2020,SE w/Technology,39245,gas,V6,19.0,5,5
+Atlas Cross Sport,2020,SE w/Technology R-Line,37345,gas,I4,22.0,5,5
+Atlas Cross Sport,2020,SE w/Technology R-Line,38745,gas,V6,19.0,5,5
+Atlas Cross Sport,2020,SE w/Technology R-Line,39245,gas,I4,20.0,5,5
+Atlas Cross Sport,2020,SE w/Technology R-Line,40645,gas,V6,19.0,5,5
+Atlas Cross Sport,2020,SEL,43245,gas,V6,19.0,5,5
+Atlas Cross Sport,2020,SEL,39545,gas,I4,22.0,5,5
+Atlas Cross Sport,2020,SEL,41345,gas,V6,19.0,5,5
+Atlas Cross Sport,2020,SEL,41445,gas,I4,20.0,5,5
+Atlas Cross Sport,2020,SEL Premium,48095,gas,V6,19.0,5,5
+Atlas Cross Sport,2020,SEL Premium,46295,gas,I4,20.0,5,5
+Atlas Cross Sport,2020,SEL Premium R-Line,49795,gas,V6,19.0,5,5
+Atlas Cross Sport,2020,SEL Premium R-Line,47995,gas,I4,20.0,5,5
+Atlas Cross Sport,2020,SEL R-Line,41245,gas,I4,22.0,5,5
+Atlas Cross Sport,2020,SEL R-Line,43145,gas,I4,20.0,5,5
+Atlas Cross Sport,2020,SEL R-Line,43045,gas,V6,19.0,5,5
+Atlas Cross Sport,2020,SEL R-Line,44945,gas,V6,19.0,5,5
+Tiguan,2020,S,24945,gas,I4,25.0,5,7
+Tiguan,2020,S,26245,gas,I4,23.0,5,5
+Tiguan,2020,SE,27095,gas,I4,25.0,5,7
+Tiguan,2020,SE,28395,gas,I4,23.0,5,5
+Tiguan,2020,SE R-Line Black,30295,gas,I4,25.0,5,7
+Tiguan,2020,SE R-Line Black,31595,gas,I4,23.0,5,5
+Tiguan,2020,SEL,32245,gas,I4,25.0,5,7
+Tiguan,2020,SEL,33545,gas,I4,23.0,5,5
+Tiguan,2020,SEL Premium R-Line,38795,gas,I4,23.0,5,5
+Atlas,2019,S,30895,gas,I4,22.0,5,7
+Atlas,2019,SE,34095,gas,I4,22.0,5,7
+Atlas,2019,SE w/Technology,35895,gas,I4,22.0,5,7
+Atlas,2019,V6 S 4MOTION,34095,gas,V6,19.0,5,7
+Atlas,2019,V6 SE,35495,gas,V6,19.0,5,7
+Atlas,2019,V6 SE 4MOTION,37295,gas,V6,19.0,5,7
+Atlas,2019,V6 SE w/Technology,37295,gas,V6,19.0,5,7
+Atlas,2019,V6 SE w/Technology 4MOTION,39095,gas,V6,19.0,5,7
+Atlas,2019,V6 SE w/Technology R-Line,39245,gas,V6,19.0,5,7
+Atlas,2019,V6 SE w/Technology R-Line 4MOTION,41045,gas,V6,19.0,5,7
+Atlas,2019,V6 SEL,41395,gas,V6,19.0,5,7
+Atlas,2019,V6 SEL 4MOTION,43195,gas,V6,19.0,5,7
+Atlas,2019,V6 SEL Premium 4MOTION,48395,gas,V6,19.0,5,7
+Atlas,2019,V6 SEL R-Line,43345,gas,V6,19.0,5,7
+Atlas,2019,V6 SEL R-Line 4MOTION,45145,gas,V6,19.0,5,7
+Tiguan,2019,S,24295,gas,I4,25.0,5,7
+Tiguan,2019,S 4MOTION,25595,gas,I4,24.0,5,5
+Tiguan,2019,SE,26695,gas,I4,25.0,5,7
+Tiguan,2019,SE 4MOTION,27995,gas,I4,24.0,5,5
+Tiguan,2019,SEL,31795,gas,I4,25.0,5,7
+Tiguan,2019,SEL 4MOTION,33095,gas,I4,24.0,5,5
+Tiguan,2019,SEL Premium 4MOTION,37195,gas,I4,24.0,5,5
+Tiguan,2019,SEL Premium R-Line 4MOTION,38895,gas,I4,24.0,5,5
+Tiguan,2019,SEL R-Line,33645,gas,I4,25.0,5,7
+Tiguan,2019,SEL R-Line 4MOTION,34945,gas,I4,24.0,5,5
+Tiguan,2019,SEL R-Line Jet-Black,33695,gas,I4,25.0,5,7
+Tiguan,2019,SEL R-Line Jet-Black 4MOTION,34995,gas,I4,24.0,5,5
+Atlas,2018,S,30750,gas,I4,24.0,5,7
+Atlas,2018,SE,33840,gas,I4,24.0,5,7
+Atlas,2018,SE w/Technology,35940,gas,I4,24.0,5,7
+Atlas,2018,SEL,39410,gas,I4,24.0,5,7
+Atlas,2018,V6 Launch Edition,33750,gas,V6,20.0,5,7
+Atlas,2018,V6 Launch Edition,35550,gas,V6,19.0,5,7
+Atlas,2018,V6 S,33950,gas,V6,19.0,5,7
+Atlas,2018,V6 S,32150,gas,V6,20.0,5,7
+Atlas,2018,V6 SE,37040,gas,V6,19.0,5,7
+Atlas,2018,V6 SE,35240,gas,V6,20.0,5,7
+Atlas,2018,V6 SE w/Technology,37340,gas,V6,20.0,5,7
+Atlas,2018,V6 SE w/Technology,39140,gas,V6,19.0,5,7
+Atlas,2018,V6 SEL,42940,gas,V6,19.0,5,7
+Atlas,2018,V6 SEL,41140,gas,V6,20.0,5,7
+Atlas,2018,V6 SEL Premium,48740,gas,V6,19.0,5,7
+Tiguan,2018,S,24595,gas,I4,24.0,5,7
+Tiguan,2018,S 4Motion,25895,gas,I4,23.0,5,5
+Tiguan,2018,SE,26750,gas,I4,24.0,5,7
+Tiguan,2018,SE 4Motion,28050,gas,I4,23.0,5,5
+Tiguan,2018,SEL,31090,gas,I4,24.0,5,7
+Tiguan,2018,SEL 4Motion,32390,gas,I4,23.0,5,5
+Tiguan,2018,SEL Premium,36250,gas,I4,24.0,5,7
+Tiguan,2018,SEL Premium 4Motion,37550,gas,I4,23.0,5,5
+Tiguan Limited,2018,2.0T,22250,gas,I4,23.0,5,5
+Tiguan Limited,2018,2.0T 4Motion,24225,gas,I4,22.0,5,5
+Tiguan,2017,S,24995,gas,I4,22.0,5,5
+Tiguan,2017,S 4Motion,26970,gas,I4,21.0,5,5
+Tiguan,2017,SEL,34500,gas,I4,22.0,5,5
+Tiguan,2017,SEL 4Motion,36475,gas,I4,21.0,5,5
+Tiguan,2017,Sport,32605,gas,I4,22.0,5,5
+Tiguan,2017,Sport 4Motion,34580,gas,I4,21.0,5,5
+Tiguan,2017,Wolfsburg Edition,30095,gas,I4,22.0,5,5
+Tiguan,2017,Wolfsburg Edition 4Motion,32070,gas,I4,21.0,5,5
+Tiguan Limited,2017,S,21995,gas,I4,22.0,5,5
+Tiguan Limited,2017,S 4Motion,23970,gas,I4,21.0,5,5
+Touareg,2017,V6 Executive,60195,gas,V6,19.0,5,5
+Touareg,2017,V6 Sport w/Technology,49495,gas,V6,19.0,5,5
+Touareg,2017,V6 Wolfsburg Edition,52795,gas,V6,19.0,5,5
+Tiguan,2016,R-Line,28700,gas,I4,23.0,5,5
+Tiguan,2016,R-Line 4Motion,30675,gas,I4,23.0,5,5
+Tiguan,2016,S,24890,gas,I4,23.0,5,5
+Tiguan,2016,S 4Motion,26865,gas,I4,23.0,5,5
+Tiguan,2016,SE,31390,gas,I4,23.0,5,5
+Tiguan,2016,SE 4Motion,33365,gas,I4,23.0,5,5
+Tiguan,2016,SEL,34445,gas,I4,23.0,5,5
+Tiguan,2016,SEL 4Motion,36420,gas,I4,23.0,5,5
+Touareg,2016,TDI Executive,63245,diesel,V6,24.0,5,5
+Touareg,2016,TDI Lux,54950,diesel,V6,24.0,5,5
+Touareg,2016,TDI Sport w/Technology,50245,diesel,V6,24.0,5,5
+Touareg,2016,VR6 Executive,59745,gas,V6,19.0,5,5
+Touareg,2016,VR6 Lux,51450,gas,V6,19.0,5,5
+Touareg,2016,VR6 Sport,42705,gas,V6,19.0,5,5
+Touareg,2016,VR6 Sport w/Technology,46745,gas,V6,19.0,5,5
+Tiguan,2015,R-Line,37650,gas,I4,23.0,5,5
+Tiguan,2015,R-Line 4Motion,39625,gas,I4,23.0,5,5
+Tiguan,2015,S,26255,gas,I4,23.0,5,5
+Tiguan,2015,S 4Motion,28230,gas,I4,23.0,5,5
+Tiguan,2015,SE,28250,gas,I4,23.0,5,5
+Tiguan,2015,SE 4Motion,30225,gas,I4,23.0,5,5
+Tiguan,2015,SE 4Motion w/Appearance,33235,gas,I4,23.0,5,5
+Tiguan,2015,SE w/Appearance,31260,gas,I4,23.0,5,5
+Tiguan,2015,SEL,33590,gas,I4,23.0,5,5
+Tiguan,2015,SEL 4Motion,35565,gas,I4,23.0,5,5
+Touareg,2015,TDI Executive,62200,diesel,V6,23.0,5,5
+Touareg,2015,TDI Lux,56670,diesel,V6,23.0,5,5
+Touareg,2015,TDI Sport w/Technology,52245,diesel,V6,23.0,5,5
+Touareg,2015,V6 Executive,58700,gas,V6,19.0,5,5
+Touareg,2015,V6 Hybrid,66995,hybrid,V6,21.0,5,5
+Touareg,2015,V6 Lux,53170,gas,V6,19.0,5,5
+Touareg,2015,V6 Sport,44705,gas,V6,19.0,5,5
+Touareg,2015,V6 Sport w/Technology,48745,gas,V6,19.0,5,5

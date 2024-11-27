@@ -1,0 +1,151 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+XC40,2020,T4 Inscription,40450,gas,I4,27.0,5,5
+XC40,2020,T4 Momentum,33700,gas,I4,27.0,5,5
+XC40,2020,T4 R-Design,39950,gas,I4,27.0,5,5
+XC40,2020,T5 Inscription,42450,gas,I4,25.0,5,5
+XC40,2020,T5 Momentum,35700,gas,I4,25.0,5,5
+XC40,2020,T5 R-Design,41950,gas,I4,25.0,5,5
+XC60,2020,T5 Inscription,49150,gas,I4,23.0,5,5
+XC60,2020,T5 Inscription,46850,gas,I4,24.0,5,5
+XC60,2020,T5 Momentum,42450,gas,I4,23.0,5,5
+XC60,2020,T5 Momentum,40150,gas,I4,24.0,5,5
+XC60,2020,T5 R-Design,49150,gas,I4,23.0,5,5
+XC60,2020,T5 R-Design,46850,gas,I4,24.0,5,5
+XC60,2020,T6 Inscription,52650,gas,I4,22.0,5,5
+XC60,2020,T6 Momentum,45950,gas,I4,22.0,5,5
+XC60,2020,T6 R-Design,52650,gas,I4,22.0,5,5
+XC60,2020,T8 Inscription Twin Engine Plug-In Hybrid,60650,plug-in hybrid,I4,27.0,5,5
+XC60,2020,T8 Momentum Twin Engine Plug-In Hybrid,53950,plug-in hybrid,I4,27.0,5,5
+XC60,2020,T8 Polestar Engineered,69500,plug-in hybrid,I4,27.0,5,5
+XC60,2020,T8 R-Design Twin Engine Plug-In Hybrid,60650,plug-in hybrid,I4,27.0,5,5
+XC90,2020,T5 Momentum,48350,gas,I4,25.0,5,7
+XC90,2020,T5 Momentum,50850,gas,I4,23.0,5,7
+XC90,2020,T5 R-Design,56100,gas,I4,25.0,5,7
+XC90,2020,T5 R-Design,58600,gas,I4,23.0,5,7
+XC90,2020,T6 Inscription,63100,gas,I4,21.0,5,6
+XC90,2020,T6 Inscription,62600,gas,I4,21.0,5,7
+XC90,2020,T6 Momentum,56300,gas,I4,21.0,5,7
+XC90,2020,T6 Momentum,56800,gas,I4,21.0,5,6
+XC90,2020,T6 R-Design,62000,gas,I4,21.0,5,7
+XC90,2020,T8 Inscription Twin Engine Plug-In Hybrid,73800,plug-in hybrid,I4,27.0,5,6
+XC90,2020,T8 Inscription Twin Engine Plug-In Hybrid,73300,plug-in hybrid,I4,27.0,5,7
+XC90,2020,T8 Momentum Twin Engine Plug-In Hybrid,67000,plug-in hybrid,I4,27.0,5,7
+XC90,2020,T8 Momentum Twin Engine Plug-In Hybrid,67500,plug-in hybrid,I4,27.0,5,6
+XC90,2020,T8 R-Design Twin Engine Plug-In Hybrid,72700,plug-in hybrid,I4,27.0,5,7
+XC40,2019,T4 Inscription,37750,gas,I4,27.0,5,5
+XC40,2019,T4 Momentum,33200,gas,I4,27.0,5,5
+XC40,2019,T4 R-Design,35700,gas,I4,27.0,5,5
+XC40,2019,T5 Inscription,39750,gas,I4,26.0,5,5
+XC40,2019,T5 Momentum,35200,gas,I4,26.0,5,5
+XC40,2019,T5 R-Design,37700,gas,I4,26.0,5,5
+XC60,2019,T5 Inscription,46550,gas,I4,24.0,5,5
+XC60,2019,T5 Momentum,39200,gas,I4,24.0,5,5
+XC60,2019,T5 R-Design,46050,gas,I4,24.0,5,5
+XC60,2019,T6 Inscription,52250,gas,I4,22.0,5,5
+XC60,2019,T6 Momentum,44900,gas,I4,22.0,5,5
+XC60,2019,T6 R-Design,51750,gas,I4,22.0,5,5
+XC60,2019,T8 Inscription Twin Engine Plug-In Hybrid,60250,plug-in hybrid,I4,26.0,5,5
+XC60,2019,T8 Momentum Twin Engine Plug-In Hybrid,52900,plug-in hybrid,I4,26.0,5,5
+XC60,2019,T8 R-Design Twin Engine Plug-In Hybrid,59750,plug-in hybrid,I4,26.0,5,5
+XC90,2019,T5 Momentum,47200,gas,I4,24.0,5,7
+XC90,2019,T5 R-Design,54450,gas,I4,24.0,5,7
+XC90,2019,T6 Inscription,61750,gas,I4,22.0,5,7
+XC90,2019,T6 Momentum,55700,gas,I4,22.0,5,7
+XC90,2019,T6 R-Design,60650,gas,I4,22.0,5,7
+XC90,2019,T8 Excellence Twin Engine Plug-In Hybrid,104900,plug-in hybrid,I4,25.0,5,4
+XC90,2019,T8 Inscription Twin Engine Plug-In Hybrid,72350,plug-in hybrid,I4,25.0,5,7
+XC90,2019,T8 Momentum Twin Engine Plug-In Hybrid,66300,plug-in hybrid,I4,25.0,5,7
+XC90,2019,T8 R-Design Twin Engine Plug-In Hybrid,71250,plug-in hybrid,I4,25.0,5,7
+XC60,2018,T5 Inscription,45300,gas,I4,24.0,5,5
+XC60,2018,T5 Momentum,41500,gas,I4,24.0,5,5
+XC60,2018,T5 R-Design,44800,gas,I4,24.0,5,5
+XC60,2018,T6 Inscription,48700,gas,I4,23.0,5,5
+XC60,2018,T6 Momentum,44900,gas,I4,23.0,5,5
+XC60,2018,T6 R-Design,48200,gas,I4,23.0,5,5
+XC60,2018,T8 Inscription Twin Engine Plug-In Hybrid,56700,plug-in hybrid,I4,26.0,5,5
+XC60,2018,T8 Momentum Twin Engine Plug-In Hybrid,52900,plug-in hybrid,I4,26.0,5,5
+XC60,2018,T8 R-Design Twin Engine Plug-In Hybrid,56200,plug-in hybrid,I4,26.0,5,5
+XC90,2018,T5 Momentum,46900,gas,I4,25.0,5,7
+XC90,2018,T5 R-Design,52300,gas,I4,25.0,5,7
+XC90,2018,T6 Inscription,59150,gas,I4,23.0,5,7
+XC90,2018,T6 Momentum,54050,gas,I4,23.0,5,7
+XC90,2018,T6 R-Design,58050,gas,I4,23.0,5,7
+XC90,2018,T8 Excellence Twin Engine Plug-In Hybrid,104900,plug-in hybrid,I4,27.0,5,4
+XC90,2018,T8 Inscription Twin Engine Plug-In Hybrid,70050,plug-in hybrid,I4,27.0,5,7
+XC90,2018,T8 Momentum Twin Engine Plug-In Hybrid,64950,plug-in hybrid,I4,27.0,5,7
+XC90,2018,T8 R-Design Twin Engine Plug-In Hybrid,68950,plug-in hybrid,I4,27.0,5,7
+XC60,2017,T5 Dynamic,40950,gas,I4,26.0,5,5
+XC60,2017,T5 Inscription,40950,gas,I4,26.0,5,5
+XC60,2017,T6 Dynamic,46350,gas,I4,23.0,5,5
+XC60,2017,T6 Inscription,46350,gas,I4,23.0,5,5
+XC60,2017,T6 R-Design,51000,gas,I4,23.0,5,5
+XC90,2017,T5 Momentum,45750,gas,I4,24.0,5,5
+XC90,2017,T5 R-Design,51150,gas,I4,24.0,5,5
+XC90,2017,T6 Inscription,57350,gas,I4,22.0,5,7
+XC90,2017,T6 Momentum,52250,gas,I4,22.0,5,7
+XC90,2017,T6 R-Design,56250,gas,I4,22.0,5,7
+XC90,2017,T8 Excellence Twin Engine Plug-In Hybrid,104900,plug-in hybrid,I4,25.0,5,4
+XC90,2017,T8 Inscription Twin Engine Plug-In Hybrid,68900,plug-in hybrid,I4,25.0,5,7
+XC90,2017,T8 R-Design Twin Engine Plug-In Hybrid,67800,plug-in hybrid,I4,25.0,5,7
+XC60,2016,T5,38100,gas,I5,22.0,5,5
+XC60,2016,T5 Drive-E,36600,gas,I4,26.0,5,5
+XC60,2016,T5 Drive-E Platinum,44150,gas,I4,26.0,5,5
+XC60,2016,T5 Drive-E Premier,39850,gas,I4,26.0,5,5
+XC60,2016,T5 Platinum,45650,gas,I5,22.0,5,5
+XC60,2016,T5 Premier,41350,gas,I5,22.0,5,5
+XC60,2016,T6,42650,gas,I6,20.0,5,5
+XC60,2016,T6 Drive-E,41350,gas,I4,24.0,5,5
+XC60,2016,T6 Drive-E,43350,gas,I4,23.0,5,5
+XC60,2016,T6 Drive-E Platinum,47750,gas,I4,23.0,5,5
+XC60,2016,T6 Drive-E Platinum,45750,gas,I4,24.0,5,5
+XC60,2016,T6 Drive-E R-Design,47200,gas,I4,23.0,5,5
+XC60,2016,T6 Drive-E R-Design Platinum,51300,gas,I4,23.0,5,5
+XC60,2016,T6 Platinum,47050,gas,I6,20.0,5,5
+XC60,2016,T6 R-Design,46950,gas,I6,20.0,5,5
+XC60,2016,T6 R-Design Platinum,51050,gas,I6,20.0,5,5
+XC90,2016,T5 Inscription,51250,gas,I4,24.0,5,5
+XC90,2016,T5 Inscription,53250,gas,I4,23.0,5,5
+XC90,2016,T5 Momentum,45950,gas,I4,23.0,5,5
+XC90,2016,T5 Momentum,43950,gas,I4,24.0,5,5
+XC90,2016,T5 R-Design,51350,gas,I4,23.0,5,5
+XC90,2016,T5 R-Design,49350,gas,I4,24.0,5,5
+XC90,2016,T6 First Edition,65700,gas,I4,22.0,5,7
+XC90,2016,T6 Inscription,55400,gas,I4,22.0,5,7
+XC90,2016,T6 Momentum,49800,gas,I4,22.0,5,7
+XC90,2016,T6 R-Design,53800,gas,I4,22.0,5,7
+XC90,2016,T8 Inscription Twin Engine Plug-In Hybrid,71600,plug-in hybrid,I4,25.0,5,7
+XC90,2016,T8 Momentum Twin Engine Plug-In Hybrid,68100,plug-in hybrid,I4,25.0,5,7
+XC90,2016,T8 R-Design Twin Engine Plug-In Hybrid,70000,plug-in hybrid,I4,25.0,5,7
+XC60,2015,3.2,37250,gas,I6,20.0,5,5
+XC60,2015,3.2 Platinum,44350,gas,I6,20.0,5,5
+XC60,2015,3.2 Premier,40350,gas,I6,20.0,5,5
+XC60,2015,3.2 Premier Plus,41750,gas,I6,20.0,5,5
+XC60,2015,T5,37900,gas,I5,21.0,5,5
+XC60,2015,T5 Drive-E,36400,gas,I4,27.0,5,5
+XC60,2015,T5 Drive-E,35750,gas,I4,27.0,5,5
+XC60,2015,T5 Drive-E Platinum,42850,gas,I4,27.0,5,5
+XC60,2015,T5 Drive-E Platinum,43900,gas,I4,27.0,5,5
+XC60,2015,T5 Drive-E Premier,39650,gas,I4,27.0,5,5
+XC60,2015,T5 Drive-E Premier,38850,gas,I4,27.0,5,5
+XC60,2015,T5 Drive-E Premier Plus,40250,gas,I4,27.0,5,5
+XC60,2015,T5 Platinum,45400,gas,I5,21.0,5,5
+XC60,2015,T5 Premier,41150,gas,I5,21.0,5,5
+XC60,2015,T6,41550,gas,I6,20.0,5,5
+XC60,2015,T6,42650,gas,I6,20.0,5,5
+XC60,2015,T6 Drive-E,41150,gas,I4,25.0,5,5
+XC60,2015,T6 Drive-E,40050,gas,I4,25.0,5,5
+XC60,2015,T6 Drive-E Platinum,45550,gas,I4,25.0,5,5
+XC60,2015,T6 Drive-E Platinum,44050,gas,I4,25.0,5,5
+XC60,2015,T6 Drive-E Premier Plus,41450,gas,I4,25.0,5,5
+XC60,2015,T6 Drive-E Volvo Ocean Race,42350,gas,I4,25.0,5,5
+XC60,2015,T6 Drive-E Volvo Ocean Race Platinum,46750,gas,I4,25.0,5,5
+XC60,2015,T6 Platinum,45550,gas,I6,20.0,5,5
+XC60,2015,T6 Platinum,47050,gas,I6,20.0,5,5
+XC60,2015,T6 Premier Plus,42950,gas,I6,20.0,5,5
+XC60,2015,T6 R-Design,45800,gas,I6,20.0,5,5
+XC60,2015,T6 R-Design,46950,gas,I6,20.0,5,5
+XC60,2015,T6 R-Design Platinum,49800,gas,I6,20.0,5,5
+XC60,2015,T6 R-Design Platinum,51050,gas,I6,20.0,5,5
+XC60,2015,T6 R-Design Premier Plus,47200,gas,I6,20.0,5,5
+XC60,2015,T6 Volvo Ocean Race,43850,gas,I6,20.0,5,5
+XC60,2015,T6 Volvo Ocean Race Platinum,48250,gas,I6,20.0,5,5

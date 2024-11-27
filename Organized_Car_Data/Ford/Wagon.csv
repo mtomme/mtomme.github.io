@@ -1,0 +1,43 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Flex,2019,Limited,40740,gas,V6,18.0,5,7
+Flex,2019,Limited,38790,gas,V6,19.0,5,7
+Flex,2019,Limited,43590,gas,V6,17.0,5,7
+Flex,2019,SE,30575,gas,V6,19.0,5,7
+Flex,2019,SEL,35240,gas,V6,18.0,5,7
+Flex,2019,SEL,33290,gas,V6,19.0,5,7
+C-Max Hybrid,2018,SE,24120,hybrid,I4,40.0,5,5
+C-Max Hybrid,2018,Titanium,27175,hybrid,I4,40.0,5,5
+Flex,2018,Limited,43295,gas,V6,17.0,5,7
+Flex,2018,Limited,40445,gas,V6,18.0,5,7
+Flex,2018,Limited,38495,gas,V6,19.0,5,7
+Flex,2018,SE,30285,gas,V6,19.0,5,7
+Flex,2018,SEL,32995,gas,V6,19.0,5,7
+Flex,2018,SEL,34945,gas,V6,18.0,5,7
+C-Max Energi,2017,SE,27120,plug-in hybrid,I4,39.0,5,5
+C-Max Energi,2017,Titanium,30120,plug-in hybrid,I4,39.0,5,5
+C-Max Hybrid,2017,SE,24120,hybrid,I4,40.0,5,5
+C-Max Hybrid,2017,Titanium,27120,hybrid,I4,40.0,5,5
+Flex,2017,Limited,38230,gas,V6,19.0,5,7
+Flex,2017,Limited,40180,gas,V6,18.0,5,7
+Flex,2017,Limited,43030,gas,V6,17.0,5,7
+Flex,2017,SE,30025,gas,V6,19.0,5,7
+Flex,2017,SEL,32730,gas,V6,19.0,5,7
+Flex,2017,SEL,34680,gas,V6,18.0,5,7
+C-Max Energi,2016,SEL,31770,plug-in hybrid,I4,38.0,5,5
+C-Max Hybrid,2016,SE,24170,hybrid,I4,40.0,5,5
+C-Max Hybrid,2016,SEL,27170,hybrid,I4,40.0,5,5
+Flex,2016,Limited,42600,gas,V6,17.0,5,7
+Flex,2016,Limited,37800,gas,V6,19.0,5,7
+Flex,2016,Limited,39750,gas,V6,18.0,5,7
+Flex,2016,SE,29600,gas,V6,19.0,5,7
+Flex,2016,SEL,32300,gas,V6,19.0,5,7
+Flex,2016,SEL,34250,gas,V6,18.0,5,7
+C-Max Energi,2015,SEL,31770,plug-in hybrid,I4,38.0,5,5
+C-Max Hybrid,2015,SE,24170,hybrid,I4,40.0,5,5
+C-Max Hybrid,2015,SEL,27170,hybrid,I4,40.0,5,5
+Flex,2015,Limited,42400,gas,V6,18.0,5,7
+Flex,2015,Limited,37700,gas,V6,20.0,5,7
+Flex,2015,Limited,39650,gas,V6,19.0,5,7
+Flex,2015,SE,29100,gas,V6,20.0,5,7
+Flex,2015,SEL,32100,gas,V6,20.0,5,7
+Flex,2015,SEL,34050,gas,V6,19.0,5,7

@@ -1,0 +1,119 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Impreza,2020,Base,18695,gas,flat 4,26.0,4,5
+Impreza,2020,Base,19995,gas,flat 4,31.0,4,5
+Impreza,2020,Limited,25795,gas,flat 4,31.0,4,5
+Impreza,2020,Premium,22095,gas,flat 4,31.0,4,5
+Impreza,2020,Sport,23495,gas,flat 4,30.0,4,5
+Legacy,2020,Base,22745,gas,flat 4,30.0,4,5
+Legacy,2020,Limited,29745,gas,flat 4,30.0,4,5
+Legacy,2020,Limited XT,34195,gas,flat 4,27.0,4,5
+Legacy,2020,Premium,24995,gas,flat 4,30.0,4,5
+Legacy,2020,Sport,26945,gas,flat 4,30.0,4,5
+Legacy,2020,Touring XT,35895,gas,flat 4,27.0,4,5
+WRX,2020,Base,27495,gas,flat 4,23.0,4,5
+WRX,2020,Limited,32095,gas,flat 4,23.0,4,5
+WRX,2020,Limited,33995,gas,flat 4,21.0,4,5
+WRX,2020,Premium,29795,gas,flat 4,23.0,4,5
+WRX,2020,Premium,31695,gas,flat 4,21.0,4,5
+WRX,2020,Series.White,33995,gas,flat 4,23.0,4,5
+WRX,2020,STI,36995,gas,flat 4,19.0,4,5
+WRX,2020,STI Limited,41695,gas,flat 4,19.0,4,5
+WRX,2020,STI Limited,41695,gas,flat 4,19.0,4,5
+WRX,2020,STI Series.White,42695,gas,flat 4,19.0,4,5
+Impreza,2019,2.0i,19595,gas,flat 4,32.0,4,5
+Impreza,2019,2.0i,18595,gas,flat 4,27.0,4,5
+Impreza,2019,2.0i Limited,25190,gas,flat 4,32.0,4,5
+Impreza,2019,2.0i Premium,21595,gas,flat 4,32.0,4,5
+Impreza,2019,2.0i Sport,22195,gas,flat 4,26.0,4,5
+Impreza,2019,2.0i Sport,22995,gas,flat 4,30.0,4,5
+Legacy,2019,2.5i,22545,gas,flat 4,29.0,4,5
+Legacy,2019,2.5i Limited,29245,gas,flat 4,29.0,4,5
+Legacy,2019,2.5i Premium,24695,gas,flat 4,29.0,4,5
+Legacy,2019,2.5i Sport,26795,gas,flat 4,29.0,4,5
+Legacy,2019,3.6R Limited,31545,gas,flat 6,23.0,4,5
+WRX,2019,Base,27195,gas,flat 4,23.0,4,5
+WRX,2019,Limited,31795,gas,flat 4,23.0,4,5
+WRX,2019,Limited,33695,gas,flat 4,21.0,4,5
+WRX,2019,Premium,31395,gas,flat 4,21.0,4,5
+WRX,2019,Premium,29495,gas,flat 4,23.0,4,5
+WRX,2019,STI,36595,gas,flat 4,19.0,4,5
+WRX,2019,STI Limited,41395,gas,flat 4,19.0,4,5
+WRX,2019,STI Limited,41395,gas,flat 4,19.0,4,5
+WRX,2019,STI S209,63995,gas,flat 4,17.0,4,5
+Impreza,2018,2.0i,19495,gas,flat 4,32.0,4,5
+Impreza,2018,2.0i,18495,gas,flat 4,27.0,4,5
+Impreza,2018,2.0i Limited,24195,gas,flat 4,32.0,4,5
+Impreza,2018,2.0i Premium,21295,gas,flat 4,32.0,4,5
+Impreza,2018,2.0i Sport,22895,gas,flat 4,30.0,4,5
+Impreza,2018,2.0i Sport,22095,gas,flat 4,26.0,4,5
+Legacy,2018,2.5i,22195,gas,flat 4,29.0,4,5
+Legacy,2018,2.5i Limited,29095,gas,flat 4,29.0,4,5
+Legacy,2018,2.5i Premium,24295,gas,flat 4,29.0,4,5
+Legacy,2018,2.5i Sport,26345,gas,flat 4,29.0,4,5
+Legacy,2018,3.6R Limited,31945,gas,flat 6,23.0,4,5
+WRX,2018,Base,26995,gas,flat 4,23.0,4,5
+WRX,2018,Limited,31595,gas,flat 4,23.0,4,5
+WRX,2018,Limited,32795,gas,flat 4,21.0,4,5
+WRX,2018,Premium,29295,gas,flat 4,23.0,4,5
+WRX,2018,Premium,30495,gas,flat 4,21.0,4,5
+WRX,2018,STI,36095,gas,flat 4,19.0,4,5
+WRX,2018,STI Limited,40895,gas,flat 4,19.0,4,5
+WRX,2018,STI Limited,40895,gas,flat 4,19.0,4,5
+Impreza,2017,2.0i,19395,gas,flat 4,32.0,4,5
+Impreza,2017,2.0i,18395,gas,flat 4,27.0,4,5
+Impreza,2017,2.0i Limited,24095,gas,flat 4,32.0,4,5
+Impreza,2017,2.0i Premium,21195,gas,flat 4,32.0,4,5
+Impreza,2017,2.0i Sport,22795,gas,flat 4,30.0,4,5
+Impreza,2017,2.0i Sport,21995,gas,flat 4,26.0,4,5
+Legacy,2017,2.5i,21995,gas,flat 4,29.0,4,5
+Legacy,2017,2.5i Limited,28840,gas,flat 4,29.0,4,5
+Legacy,2017,2.5i Premium,23995,gas,flat 4,29.0,4,5
+Legacy,2017,2.5i Sport,25995,gas,flat 4,29.0,4,5
+Legacy,2017,3.6R Limited,31640,gas,flat 6,23.0,4,5
+WRX,2017,Base,26695,gas,flat 4,23.0,4,5
+WRX,2017,Limited,30995,gas,flat 4,23.0,4,5
+WRX,2017,Limited,32195,gas,flat 4,21.0,4,5
+WRX,2017,Premium,28995,gas,flat 4,23.0,4,5
+WRX,2017,Premium,30195,gas,flat 4,21.0,4,5
+WRX,2017,STI,35195,gas,flat 4,19.0,4,5
+WRX,2017,STI Limited,39995,gas,flat 4,19.0,4,5
+WRX,2017,STI Limited,39995,gas,flat 4,19.0,4,5
+Impreza,2016,2.0i Limited PZEV,22595,gas,flat 4,31.0,4,5
+Impreza,2016,2.0i Premium PZEV,21095,gas,flat 4,31.0,4,5
+Impreza,2016,2.0i PZEV,19295,gas,flat 4,31.0,4,5
+Impreza,2016,2.0i PZEV,18295,gas,flat 4,28.0,4,5
+Legacy,2016,2.5i,21745,gas,flat 4,30.0,4,5
+Legacy,2016,2.5i Limited,26845,gas,flat 4,30.0,4,5
+Legacy,2016,2.5i Limited PZEV,27145,gas,flat 4,30.0,4,5
+Legacy,2016,2.5i Premium,23845,gas,flat 4,30.0,4,5
+Legacy,2016,2.5i Premium PZEV,24145,gas,flat 4,30.0,4,5
+Legacy,2016,2.5i PZEV,22045,gas,flat 4,30.0,4,5
+Legacy,2016,3.6R Limited,29945,gas,flat 6,23.0,4,5
+WRX,2016,Base,26595,gas,flat 4,23.0,4,5
+WRX,2016,Limited,30395,gas,flat 4,23.0,4,5
+WRX,2016,Limited,31595,gas,flat 4,21.0,4,5
+WRX,2016,Premium,30095,gas,flat 4,21.0,4,5
+WRX,2016,Premium,28895,gas,flat 4,23.0,4,5
+WRX,2016,STI,34695,gas,flat 4,19.0,4,5
+WRX,2016,STI Limited,39995,gas,flat 4,19.0,4,5
+WRX,2016,STI Limited,39995,gas,flat 4,19.0,4,5
+WRX,2016,STI Series.HyperBlue,38995,gas,flat 4,19.0,4,5
+Impreza,2015,2.0i Limited PZEV,22295,gas,flat 4,31.0,4,5
+Impreza,2015,2.0i Premium PZEV,20995,gas,flat 4,31.0,4,5
+Impreza,2015,2.0i PZEV,19195,gas,flat 4,31.0,4,5
+Impreza,2015,2.0i PZEV,18195,gas,flat 4,28.0,4,5
+Legacy,2015,2.5i,21695,gas,flat 4,30.0,4,5
+Legacy,2015,2.5i Limited,26495,gas,flat 4,30.0,4,5
+Legacy,2015,2.5i Limited PZEV,26795,gas,flat 4,30.0,4,5
+Legacy,2015,2.5i Premium,23495,gas,flat 4,30.0,4,5
+Legacy,2015,2.5i Premium PZEV,23795,gas,flat 4,30.0,4,5
+Legacy,2015,2.5i PZEV,21995,gas,flat 4,30.0,4,5
+Legacy,2015,3.6R Limited,29595,gas,flat 6,23.0,4,5
+WRX,2015,Base,26295,gas,flat 4,24.0,4,5
+WRX,2015,Limited,31195,gas,flat 4,21.0,4,5
+WRX,2015,Limited,29995,gas,flat 4,24.0,4,5
+WRX,2015,Premium,29695,gas,flat 4,21.0,4,5
+WRX,2015,Premium,28495,gas,flat 4,24.0,4,5
+WRX,2015,STI,34495,gas,flat 4,19.0,4,5
+WRX,2015,STI Launch Edition,37395,gas,flat 4,19.0,4,5
+WRX,2015,STI Limited,38495,gas,flat 4,19.0,4,5

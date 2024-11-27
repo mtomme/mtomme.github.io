@@ -1,0 +1,251 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+A3,2020,Premium Plus S line,39500,gas,I4,25.0,4,5
+A3,2020,Premium S line,36500,gas,I4,25.0,4,5
+A3,2020,Sport Premium,33300,gas,I4,30.0,4,5
+A3,2020,Sport Premium Plus,36300,gas,I4,30.0,4,5
+A4,2020,Premium,37400,gas,I4,30.0,4,5
+A4,2020,Premium,40900,gas,I4,27.0,4,5
+A4,2020,Premium Plus,44000,gas,I4,27.0,4,5
+A4,2020,Premium Plus,41000,gas,I4,30.0,4,5
+A4,2020,Prestige,46950,gas,I4,30.0,4,5
+A4,2020,Prestige,49950,gas,I4,27.0,4,5
+A6,2020,Premium,54900,mild hybrid,I4,27.0,4,5
+A6,2020,Premium,59800,mild hybrid,V6,24.0,4,5
+A6,2020,Premium Plus,58600,mild hybrid,I4,27.0,4,5
+A6,2020,Premium Plus,63500,mild hybrid,V6,24.0,4,5
+A6,2020,Prestige,69700,mild hybrid,V6,24.0,4,5
+A6,2020,Prestige,64800,mild hybrid,I4,27.0,4,5
+A7,2020,Premium,69000,mild hybrid,V6,24.0,4,5
+A7,2020,Premium Plus,73600,mild hybrid,V6,24.0,4,5
+A7,2020,Prestige,79700,mild hybrid,V6,24.0,4,5
+A8,2020,L,96800,mild hybrid,V8,18.0,4,5
+A8,2020,L,94000,plug-in hybrid,V6,23.0,4,5
+A8,2020,L,85200,mild hybrid,V6,21.0,4,5
+RS 3,2020,Base,56200,gas,I5,23.0,4,5
+S3,2020,Premium,43000,gas,I4,25.0,4,5
+S3,2020,Premium Plus,45600,gas,I4,25.0,4,5
+S4,2020,Premium,49900,gas,V6,23.0,4,5
+S4,2020,Premium Plus,52400,gas,V6,23.0,4,5
+S4,2020,Prestige,58350,gas,V6,23.0,4,5
+S6,2020,Premium Plus,73900,mild hybrid,V6,22.0,4,5
+S6,2020,Prestige,79600,mild hybrid,V6,22.0,4,5
+S7,2020,Premium Plus,83900,mild hybrid,V6,22.0,4,5
+S7,2020,Prestige,89500,mild hybrid,V6,22.0,4,5
+S8,2020,Base,129500,mild hybrid,V8,16.0,4,5
+A3,2019,2.0 TFSI Premium,32500,gas,I4,29.0,4,5
+A3,2019,2.0 TFSI Premium Plus,36500,gas,I4,29.0,4,5
+A3,2019,2.0 TFSI Premium Plus quattro,39600,gas,I4,25.0,4,5
+A3,2019,2.0 TFSI Premium quattro,35600,gas,I4,25.0,4,5
+A3,2019,2.0 TFSI Prestige,41700,gas,I4,29.0,4,5
+A3,2019,2.0 TFSI Prestige quattro,44800,gas,I4,25.0,4,5
+A3,2019,2.0 TFSI Titanium,33300,gas,I4,29.0,4,5
+A4,2019,2.0 TFSI Premium,37400,gas,I4,30.0,4,5
+A4,2019,2.0 TFSI Premium Plus,42900,gas,I4,30.0,4,5
+A4,2019,2.0 TFSI Premium Plus quattro,47500,gas,I4,27.0,4,5
+A4,2019,2.0 TFSI Premium quattro,42000,gas,I4,27.0,4,5
+A4,2019,2.0 TFSI Prestige,46200,gas,I4,30.0,4,5
+A4,2019,2.0 TFSI Prestige quattro,50800,gas,I4,27.0,4,5
+A4,2019,2.0 TFSI Titanium,39200,gas,I4,30.0,4,5
+A6,2019,2.0 TFSI Premium Plus quattro,57800,mild hybrid,I4,27.0,4,5
+A6,2019,2.0 TFSI Premium quattro,54100,mild hybrid,I4,27.0,4,5
+A6,2019,3.0 TFSI Premium Plus quattro,62700,mild hybrid,V6,25.0,4,5
+A6,2019,3.0 TFSI Premium quattro,58900,mild hybrid,V6,25.0,4,5
+A6,2019,3.0 TFSI Prestige quattro,67100,mild hybrid,V6,25.0,4,5
+A7,2019,3.0 TFSI Premium Plus quattro,72400,mild hybrid,V6,25.0,4,5
+A7,2019,3.0 TFSI Premium quattro,68000,mild hybrid,V6,25.0,4,5
+A7,2019,3.0 TFSI Prestige quattro,76300,mild hybrid,V6,25.0,4,5
+A8,2019,L 3.0 TFSI quattro,83800,mild hybrid,V6,22.0,4,5
+A8,2019,L 4.0 TFSI quattro,96800,mild hybrid,V8,18.0,4,5
+RS 3,2019,quattro,56200,gas,I5,22.0,4,5
+S3,2019,2.0 TFSI Premium Plus quattro,44500,gas,I4,25.0,4,5
+S3,2019,2.0 TFSI Prestige quattro,49800,gas,I4,25.0,4,5
+S4,2019,Premium Plus quattro,54500,gas,V6,24.0,4,5
+S4,2019,Premium quattro,50200,gas,V6,24.0,4,5
+S4,2019,Prestige quattro,57800,gas,V6,24.0,4,5
+A3,2018,2.0 TFSI Premium,31950,gas,I4,29.0,4,5
+A3,2018,2.0 TFSI Premium Plus,35200,gas,I4,29.0,4,5
+A3,2018,2.0 TFSI Premium Plus quattro,38200,gas,I4,27.0,4,5
+A3,2018,2.0 TFSI Premium Plus quattro Summer of Audi,40100,gas,I4,27.0,4,5
+A3,2018,2.0 TFSI Premium Plus Summer of Audi,37100,gas,I4,29.0,4,5
+A3,2018,2.0 TFSI Premium quattro,34950,gas,I4,27.0,4,5
+A3,2018,2.0 TFSI Premium quattro Summer of Audi,36650,gas,I4,27.0,4,5
+A3,2018,2.0 TFSI Premium Summer of Audi,33650,gas,I4,29.0,4,5
+A3,2018,2.0 TFSI Prestige,40700,gas,I4,29.0,4,5
+A3,2018,2.0 TFSI Prestige quattro,43700,gas,I4,27.0,4,5
+A4,2018,2.0 TFSI Premium Plus quattro,43700,gas,I4,27.0,4,5
+A4,2018,2.0 TFSI Premium Plus quattro,43700,gas,I4,27.0,4,5
+A4,2018,2.0 TFSI Premium Plus quattro Summer of Audi,45400,gas,I4,27.0,4,5
+A4,2018,2.0 TFSI Premium Plus quattro Summer of Audi,45400,gas,I4,27.0,4,5
+A4,2018,2.0 TFSI Premium quattro,40500,gas,I4,27.0,4,5
+A4,2018,2.0 TFSI Premium quattro,40500,gas,I4,27.0,4,5
+A4,2018,2.0 TFSI Premium quattro Summer of Audi,43200,gas,I4,27.0,4,5
+A4,2018,2.0 TFSI Premium quattro Summer of Audi,43200,gas,I4,27.0,4,5
+A4,2018,2.0 TFSI Prestige quattro,50000,gas,I4,27.0,4,5
+A4,2018,2.0 TFSI Prestige quattro,50000,gas,I4,27.0,4,5
+A4,2018,2.0 TFSI ultra Premium,36000,gas,I4,28.0,4,5
+A4,2018,2.0 TFSI ultra Premium Plus,39200,gas,I4,28.0,4,5
+A4,2018,2.0 TFSI ultra Premium Plus Summer of Audi,40900,gas,I4,31.0,4,5
+A4,2018,2.0 TFSI ultra Premium Summer of Audi,38700,gas,I4,31.0,4,5
+A4,2018,2.0 TFSI ultra Prestige,45500,gas,I4,31.0,4,5
+A6,2018,2.0 TFSI Premium,49700,gas,I4,28.0,4,5
+A6,2018,2.0 TFSI Premium Plus,51900,gas,I4,28.0,4,5
+A6,2018,2.0 TFSI Premium Plus quattro,54100,gas,I4,26.0,4,5
+A6,2018,2.0 TFSI Premium quattro,51900,gas,I4,26.0,4,5
+A6,2018,2.0 TFSI Sport,51200,gas,I4,28.0,4,5
+A6,2018,2.0 TFSI Sport quattro,53400,gas,I4,26.0,4,5
+A6,2018,3.0 TFSI Premium Plus quattro,58700,gas,V6,23.0,4,5
+A6,2018,3.0 TFSI Premium quattro,56500,gas,V6,23.0,4,5
+A6,2018,3.0 TFSI Prestige quattro,61400,gas,V6,23.0,4,5
+A6,2018,3.0 TFSI Sport quattro,58000,gas,V6,23.0,4,5
+A7,2018,Premium Plus quattro,69700,gas,V6,23.0,4,5
+A7,2018,Prestige quattro,72400,gas,V6,23.0,4,5
+A8,2018,L 3.0T quattro,82500,gas,V6,22.0,4,4
+A8,2018,L 4.0T Sport quattro,92000,gas,V8,19.0,4,4
+RS 3,2018,quattro,54900,gas,I5,22.0,4,5
+RS 7,2018,performance quattro,130700,gas,V8,17.0,4,4
+RS 7,2018,quattro,113900,gas,V8,17.0,4,4
+S3,2018,2.0 TFSI Premium Plus quattro,43650,gas,I4,25.0,4,5
+S3,2018,2.0 TFSI Premium Plus quattro Summer of Audi,45550,gas,I4,25.0,4,5
+S3,2018,2.0 TFSI Prestige quattro,48950,gas,I4,25.0,4,5
+S3,2018,2.0 TFSI Prestige quattro Summer of Audi,47650,gas,I4,25.0,4,5
+S4,2018,Premium Plus quattro,51400,gas,V6,24.0,4,5
+S4,2018,Prestige quattro,55800,gas,V6,24.0,4,5
+S6,2018,Premium Plus quattro,71900,gas,V8,18.0,4,5
+S6,2018,Prestige quattro,74400,gas,V8,18.0,4,5
+S7,2018,Premium Plus quattro,81200,gas,V8,18.0,4,4
+S7,2018,Prestige quattro,83150,gas,V8,18.0,4,4
+S8,2018,plus quattro,115900,gas,V8,18.0,4,5
+A3,2017,2.0 TFSI Premium,31200,gas,I4,29.0,4,5
+A3,2017,2.0 TFSI Premium Plus,34450,gas,I4,29.0,4,5
+A3,2017,2.0 TFSI Premium Plus quattro,37450,gas,I4,29.0,4,5
+A3,2017,2.0 TFSI Premium quattro,34200,gas,I4,29.0,4,5
+A3,2017,2.0 TFSI Prestige,40150,gas,I4,29.0,4,5
+A3,2017,2.0 TFSI Prestige quattro,43150,gas,I4,29.0,4,5
+A4,2017,2.0 TFSI Premium,37300,gas,I4,28.0,4,5
+A4,2017,2.0 TFSI Premium Plus,41100,gas,I4,28.0,4,5
+A4,2017,2.0 TFSI Premium Plus quattro,43200,gas,I4,27.0,4,5
+A4,2017,2.0 TFSI Premium Plus quattro,43200,gas,I4,27.0,4,5
+A4,2017,2.0 TFSI Premium quattro,39400,gas,I4,27.0,4,5
+A4,2017,2.0 TFSI Premium quattro,39400,gas,I4,27.0,4,5
+A4,2017,2.0 TFSI Premium quattro Season of Audi Selection,42350,gas,I4,27.0,4,5
+A4,2017,2.0 TFSI Prestige,45900,gas,I4,28.0,4,5
+A4,2017,2.0 TFSI Prestige quattro,48000,gas,I4,27.0,4,5
+A4,2017,2.0 TFSI Prestige quattro,48000,gas,I4,27.0,4,5
+A4,2017,2.0 TFSI ultra Premium,34900,gas,I4,31.0,4,5
+A4,2017,2.0 TFSI ultra Premium Plus,38700,gas,I4,31.0,4,5
+A4,2017,2.0 TFSI ultra Premium Season of Audi Selection,37850,gas,I4,31.0,4,5
+A6,2017,2.0T Premium,47600,gas,I4,28.0,4,5
+A6,2017,2.0T Premium Plus,51600,gas,I4,28.0,4,5
+A6,2017,2.0T Premium Plus quattro,53800,gas,I4,25.0,4,5
+A6,2017,2.0T Premium quattro,49800,gas,I4,26.0,4,5
+A6,2017,3.0T Competition Prestige quattro,67600,gas,V6,25.0,4,5
+A6,2017,3.0T Premium Plus quattro,58600,gas,V6,24.0,4,5
+A6,2017,3.0T Prestige quattro,61600,gas,V6,25.0,4,5
+A7,2017,Competition Prestige quattro,76550,gas,V6,,4,4
+A7,2017,Premium Plus quattro,68800,gas,V6,24.0,4,5
+A7,2017,Prestige quattro,71350,gas,V6,24.0,4,5
+A8,2017,L 3.0T quattro,82500,gas,V6,22.0,4,4
+A8,2017,L 4.0T Sport quattro,91500,gas,V8,22.0,4,4
+RS 3,2017,quattro,54500,gas,I5,,4,5
+RS 7,2017,performance Prestige quattro,129500,gas,V8,18.0,4,4
+RS 7,2017,Prestige quattro,110700,gas,V8,18.0,4,4
+S3,2017,2.0 TFSI Premium Plus quattro,42900,gas,I4,24.0,4,5
+S3,2017,2.0 TFSI Prestige quattro,48400,gas,I4,24.0,4,5
+S6,2017,Premium Plus quattro,70900,gas,V8,21.0,4,5
+S6,2017,Prestige quattro,74100,gas,V8,21.0,4,5
+S7,2017,Premium Plus quattro,79900,gas,V8,21.0,4,4
+S7,2017,Prestige quattro,82900,gas,V8,21.0,4,4
+S8,2017,plus quattro,115900,gas,V8,18.0,4,5
+A3,2016,1.8 TFSI Premium,30900,gas,I4,27.0,4,5
+A3,2016,1.8 TFSI Premium Plus,33600,gas,I4,27.0,4,5
+A3,2016,1.8 TFSI Premium Plus S Line,34400,gas,I4,27.0,4,5
+A3,2016,1.8 TFSI Prestige,39750,gas,I4,27.0,4,5
+A3,2016,2.0 TDI Premium,33200,diesel,I4,36.0,4,5
+A3,2016,2.0 TDI Premium Plus,35900,diesel,I4,36.0,4,5
+A3,2016,2.0 TDI Premium Plus S Line,36700,diesel,I4,36.0,4,5
+A3,2016,2.0 TDI Prestige,42050,diesel,I4,36.0,4,5
+A3,2016,2.0 TFSI Premium Plus quattro,36900,gas,I4,27.0,4,5
+A3,2016,2.0 TFSI Premium Plus S Line quattro,37700,gas,I4,27.0,4,5
+A3,2016,2.0 TFSI Premium quattro,34200,gas,I4,27.0,4,5
+A3,2016,2.0 TFSI Prestige quattro,43050,gas,I4,27.0,4,5
+A4,2016,2.0T Premium,35900,gas,I4,25.0,4,5
+A4,2016,2.0T Premium Plus,38000,gas,I4,25.0,4,5
+A4,2016,2.0T Premium Plus quattro,39100,gas,I4,26.0,4,5
+A4,2016,2.0T Premium Plus quattro,40100,gas,I4,25.0,4,5
+A4,2016,2.0T Premium quattro,37000,gas,I4,26.0,4,5
+A4,2016,2.0T Premium quattro,38000,gas,I4,25.0,4,5
+A6,2016,2.0T Premium,46200,gas,I4,28.0,4,5
+A6,2016,2.0T Premium Plus,49900,gas,I4,28.0,4,5
+A6,2016,2.0T Premium Plus quattro,52100,gas,I4,26.0,4,5
+A6,2016,2.0T Premium quattro,48400,gas,I4,26.0,4,5
+A6,2016,3.0T Premium Plus quattro,57400,gas,V6,24.0,4,5
+A6,2016,3.0T Prestige quattro,61600,gas,V6,24.0,4,5
+A6,2016,TDI Premium Plus quattro,59500,diesel,V6,30.0,4,5
+A6,2016,TDI Prestige quattro,63700,diesel,V6,30.0,4,5
+A7,2016,Premium Plus quattro,68300,gas,V6,24.0,4,5
+A7,2016,Prestige quattro,70950,gas,V6,24.0,4,5
+A7,2016,TDI Premium Plus quattro,70400,diesel,V6,30.0,4,5
+A7,2016,TDI Prestige quattro,73050,diesel,V6,28.0,4,5
+A8,2016,L 3.0T quattro,81500,gas,V6,21.0,4,5
+A8,2016,L 4.0T Sport quattro,90500,gas,V8,22.0,4,5
+A8,2016,L TDI quattro,85200,diesel,V6,28.0,4,5
+A8,2016,L W12 quattro,137900,gas,W12,17.0,4,4
+RS 7,2016,performance Prestige quattro,129000,gas,V8,,4,4
+RS 7,2016,Prestige quattro,108900,gas,V8,18.0,4,4
+S3,2016,2.0T Premium Plus quattro,42500,gas,I4,26.0,4,5
+S3,2016,2.0T Prestige quattro,48650,gas,I4,26.0,4,5
+S4,2016,Premium Plus quattro,49200,gas,V6,20.0,4,5
+S4,2016,Premium Plus quattro,50200,gas,V6,21.0,4,5
+S4,2016,Prestige quattro,56100,gas,V6,21.0,4,5
+S4,2016,Prestige quattro,55100,gas,V6,20.0,4,5
+S6,2016,Premium Plus quattro,70900,gas,V8,21.0,4,5
+S6,2016,Prestige quattro,75300,gas,V8,21.0,4,5
+S7,2016,quattro,82900,gas,V8,21.0,4,4
+S8,2016,plus quattro,114900,gas,V8,19.0,4,5
+S8,2016,quattro,114900,gas,V8,19.0,4,5
+A3,2015,1.8 TFSI Premium,29900,gas,I4,27.0,4,5
+A3,2015,1.8 TFSI Premium Plus,32450,gas,I4,27.0,4,5
+A3,2015,1.8 TFSI Prestige,38350,gas,I4,27.0,4,5
+A3,2015,2.0 TDI Premium,32600,diesel,I4,36.0,4,5
+A3,2015,2.0 TDI Premium Plus,35150,diesel,I4,36.0,4,5
+A3,2015,2.0 TDI Prestige,41050,diesel,I4,36.0,4,5
+A3,2015,2.0 TFSI Premium Plus quattro,35750,gas,I4,27.0,4,5
+A3,2015,2.0 TFSI Premium quattro,33200,gas,I4,27.0,4,5
+A3,2015,2.0 TFSI Prestige quattro,41650,gas,I4,27.0,4,5
+A4,2015,2.0T Premium,35500,gas,I4,27.0,4,5
+A4,2015,2.0T Premium Plus,37600,gas,I4,27.0,4,5
+A4,2015,2.0T Premium Plus quattro,38500,gas,I4,26.0,4,5
+A4,2015,2.0T Premium Plus quattro,39700,gas,I4,25.0,4,5
+A4,2015,2.0T Premium quattro,36400,gas,I4,26.0,4,5
+A4,2015,2.0T Premium quattro,37600,gas,I4,25.0,4,5
+A4,2015,2.0T Prestige,42900,gas,I4,27.0,4,5
+A4,2015,2.0T Prestige quattro,45000,gas,I4,25.0,4,5
+A4,2015,2.0T Prestige quattro,43800,gas,I4,26.0,4,5
+A6,2015,2.0T Premium,44800,gas,I4,28.0,4,5
+A6,2015,2.0T Premium Plus,48350,gas,I4,28.0,4,5
+A6,2015,2.0T Premium Plus quattro,50450,gas,I4,23.0,4,5
+A6,2015,2.0T Premium quattro,46900,gas,I4,23.0,4,5
+A6,2015,3.0T Premium Plus quattro,56300,gas,V6,22.0,4,5
+A6,2015,3.0T Prestige quattro,60100,gas,V6,22.0,4,5
+A6,2015,TDI Premium Plus quattro,58700,diesel,V6,29.0,4,5
+A6,2015,TDI Prestige quattro,62500,diesel,V6,29.0,4,5
+A7,2015,Premium Plus quattro,65900,gas,V6,21.0,4,5
+A7,2015,Prestige quattro,69750,gas,V6,21.0,4,5
+A7,2015,TDI Premium Plus quattro,68300,diesel,V6,29.0,4,5
+A7,2015,TDI Prestige quattro,72150,diesel,V6,29.0,4,5
+A8,2015,3.0T quattro,77400,gas,V6,22.0,4,5
+A8,2015,4.0T quattro,86400,gas,V8,22.0,4,5
+A8,2015,L 3.0T quattro,81400,gas,V6,22.0,4,5
+A8,2015,L 4.0T quattro,90400,gas,V8,22.0,4,5
+A8,2015,L TDI quattro,85100,diesel,V6,28.0,4,5
+A8,2015,L W12 quattro,137900,gas,W12,17.0,4,5
+RS 7,2015,Prestige quattro,106500,gas,V8,19.0,4,4
+S3,2015,2.0T Premium Plus quattro,41100,gas,I4,26.0,4,5
+S3,2015,2.0T Prestige quattro,47000,gas,I4,26.0,4,5
+S4,2015,Premium Plus quattro,48400,gas,V6,20.0,4,5
+S4,2015,Premium Plus quattro,49800,gas,V6,21.0,4,5
+S4,2015,Prestige quattro,55700,gas,V6,21.0,4,5
+S4,2015,Prestige quattro,54300,gas,V6,20.0,4,5
+S6,2015,quattro,75500,gas,V8,20.0,4,5
+S7,2015,quattro,82500,gas,V8,20.0,4,4
+S8,2015,quattro,114900,gas,V8,20.0,4,5

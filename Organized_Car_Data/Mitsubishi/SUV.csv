@@ -1,0 +1,137 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Eclipse Cross,2020,ES,24595,gas,I4,26.0,5,5
+Eclipse Cross,2020,ES,22995,gas,I4,27.0,5,5
+Eclipse Cross,2020,LE,25695,gas,I4,25.0,5,5
+Eclipse Cross,2020,LE,24095,gas,I4,26.0,5,5
+Eclipse Cross,2020,SE,25645,gas,I4,26.0,5,5
+Eclipse Cross,2020,SE,27245,gas,I4,25.0,5,5
+Eclipse Cross,2020,SEL,27145,gas,I4,26.0,5,5
+Eclipse Cross,2020,SEL,28745,gas,I4,25.0,5,5
+Eclipse Cross,2020,SP,25295,gas,I4,26.0,5,5
+Eclipse Cross,2020,SP,26895,gas,I4,25.0,5,5
+Outlander,2020,ES,26895,gas,I4,26.0,5,7
+Outlander,2020,ES,24895,gas,I4,27.0,5,7
+Outlander,2020,GT,33745,gas,V6,22.0,5,7
+Outlander,2020,LE,29295,gas,I4,26.0,5,7
+Outlander,2020,LE,27295,gas,I4,27.0,5,7
+Outlander,2020,SE,28095,gas,I4,26.0,5,7
+Outlander,2020,SE,26095,gas,I4,27.0,5,7
+Outlander,2020,SEL,27495,gas,I4,27.0,5,7
+Outlander,2020,SEL,29495,gas,I4,26.0,5,7
+Outlander,2020,SP,30495,gas,I4,26.0,5,7
+Outlander,2020,SP,28495,gas,I4,27.0,5,7
+Outlander PHEV,2020,GT,41695,plug-in hybrid,I4,25.0,5,5
+Outlander PHEV,2020,SEL,36295,plug-in hybrid,I4,25.0,5,5
+Outlander Sport,2020,2.0 BE,26895,gas,I4,26.0,5,5
+Outlander Sport,2020,2.0 BE,25395,gas,I4,27.0,5,5
+Outlander Sport,2020,2.0 ES,24095,gas,I4,26.0,5,5
+Outlander Sport,2020,2.0 ES,22595,gas,I4,27.0,5,5
+Outlander Sport,2020,2.0 SE,25795,gas,I4,26.0,5,5
+Outlander Sport,2020,2.0 SE,24295,gas,I4,27.0,5,5
+Outlander Sport,2020,2.0 SP,26145,gas,I4,26.0,5,5
+Outlander Sport,2020,2.0 SP,24645,gas,I4,27.0,5,5
+Outlander Sport,2020,2.4 GT,25495,gas,I4,25.0,5,5
+Outlander Sport,2020,2.4 GT,26995,gas,I4,25.0,5,5
+Eclipse Cross,2019,ES,24195,gas,I4,26.0,5,5
+Eclipse Cross,2019,ES,23595,gas,I4,27.0,5,5
+Eclipse Cross,2019,LE,25195,gas,I4,25.0,5,5
+Eclipse Cross,2019,SE,26695,gas,I4,25.0,5,5
+Eclipse Cross,2019,SEL,28195,gas,I4,25.0,5,5
+Eclipse Cross,2019,SEL Touring,30695,gas,I4,25.0,5,5
+Eclipse Cross,2019,SP,26190,gas,I4,25.0,5,5
+Outlander,2019,ES,26195,gas,I4,26.0,5,7
+Outlander,2019,ES,24695,gas,I4,27.0,5,7
+Outlander,2019,GT,33195,gas,V6,22.0,5,7
+Outlander,2019,LE,28895,gas,I4,26.0,5,7
+Outlander,2019,LE,26895,gas,I4,27.0,5,7
+Outlander,2019,SE,25695,gas,I4,27.0,5,7
+Outlander,2019,SE,27695,gas,I4,26.0,5,7
+Outlander,2019,SEL,29095,gas,I4,26.0,5,7
+Outlander,2019,SEL,27095,gas,I4,27.0,5,7
+Outlander PHEV,2019,GT,41495,plug-in hybrid,I4,25.0,5,5
+Outlander PHEV,2019,SEL,35795,plug-in hybrid,I4,25.0,5,5
+Outlander Sport,2019,2.0 ES,20945,gas,I4,25.0,5,5
+Outlander Sport,2019,2.0 ES,22145,gas,I4,27.0,5,5
+Outlander Sport,2019,2.0 ES,23645,gas,I4,26.0,5,5
+Outlander Sport,2019,2.0 LE,24645,gas,I4,26.0,5,5
+Outlander Sport,2019,2.0 LE,23145,gas,I4,27.0,5,5
+Outlander Sport,2019,2.0 SE,25045,gas,I4,26.0,5,5
+Outlander Sport,2019,2.0 SE,23545,gas,I4,27.0,5,5
+Outlander Sport,2019,2.0 SP,25045,gas,I4,26.0,5,5
+Outlander Sport,2019,2.0 SP,23545,gas,I4,27.0,5,5
+Outlander Sport,2019,2.4 GT,26545,gas,I4,25.0,5,5
+Outlander Sport,2019,2.4 GT,25045,gas,I4,25.0,5,5
+Eclipse Cross,2018,ES,23895,gas,I4,26.0,5,5
+Eclipse Cross,2018,ES,23295,gas,I4,27.0,5,5
+Eclipse Cross,2018,LE,24895,gas,I4,25.0,5,5
+Eclipse Cross,2018,SE,26395,gas,I4,25.0,5,5
+Eclipse Cross,2018,SEL,27895,gas,I4,25.0,5,5
+Eclipse Cross,2018,SEL Touring,30395,gas,I4,25.0,5,5
+Outlander,2018,ES,23945,gas,I4,27.0,5,7
+Outlander,2018,ES,25445,gas,I4,26.0,5,7
+Outlander,2018,GT,32245,gas,V6,23.0,5,7
+Outlander,2018,LE,26145,gas,I4,27.0,5,7
+Outlander,2018,LE,28145,gas,I4,26.0,5,7
+Outlander,2018,SE,24945,gas,I4,27.0,5,7
+Outlander,2018,SE,26945,gas,I4,26.0,5,7
+Outlander,2018,SEL,26145,gas,I4,27.0,5,7
+Outlander,2018,SEL,28145,gas,I4,26.0,5,7
+Outlander PHEV,2018,GT,40295,plug-in hybrid,I4,25.0,5,5
+Outlander PHEV,2018,SEL,34595,plug-in hybrid,I4,25.0,5,5
+Outlander Sport,2018,2.0 ES,21595,gas,I4,27.0,5,5
+Outlander Sport,2018,2.0 ES,20395,gas,I4,25.0,5,5
+Outlander Sport,2018,2.0 ES,23095,gas,I4,26.0,5,5
+Outlander Sport,2018,2.0 LE,22595,gas,I4,27.0,5,5
+Outlander Sport,2018,2.0 LE,24095,gas,I4,26.0,5,5
+Outlander Sport,2018,2.4 SE,22995,gas,I4,25.0,5,5
+Outlander Sport,2018,2.4 SE,24495,gas,I4,25.0,5,5
+Outlander Sport,2018,2.4 SEL,24495,gas,I4,25.0,5,5
+Outlander Sport,2018,2.4 SEL,25895,gas,I4,25.0,5,5
+Outlander,2017,ES,23495,gas,I4,27.0,5,7
+Outlander,2017,ES,24995,gas,I4,26.0,5,7
+Outlander,2017,GT,31695,gas,V6,23.0,5,7
+Outlander,2017,SE,26495,gas,I4,26.0,5,7
+Outlander,2017,SE,24495,gas,I4,27.0,5,7
+Outlander,2017,SEL,27495,gas,I4,26.0,5,7
+Outlander,2017,SEL,25495,gas,I4,27.0,5,7
+Outlander Sport,2017,2.0 ES,22495,gas,I4,26.0,5,5
+Outlander Sport,2017,2.0 ES,20995,gas,I4,27.0,5,5
+Outlander Sport,2017,2.0 ES,19795,gas,I4,25.0,5,5
+Outlander Sport,2017,2.0 LE,21995,gas,I4,27.0,5,5
+Outlander Sport,2017,2.0 LE,23495,gas,I4,26.0,5,5
+Outlander Sport,2017,2.4 GT,27695,gas,I4,24.0,5,5
+Outlander Sport,2017,2.4 SE,24195,gas,I4,24.0,5,5
+Outlander Sport,2017,2.4 SE,22695,gas,I4,25.0,5,5
+Outlander Sport,2017,2.4 SEL,24195,gas,I4,25.0,5,5
+Outlander Sport,2017,2.4 SEL,25695,gas,I4,24.0,5,5
+Outlander,2016,ES,24995,gas,I4,27.0,5,7
+Outlander,2016,ES,22995,gas,I4,27.0,5,7
+Outlander,2016,GT,30995,gas,V6,23.0,5,7
+Outlander,2016,SE,25995,gas,I4,26.0,5,7
+Outlander,2016,SE,23995,gas,I4,27.0,5,7
+Outlander,2016,SEL,24995,gas,I4,27.0,5,7
+Outlander,2016,SEL,26995,gas,I4,26.0,5,7
+Outlander Sport,2016,2.0 ES,22195,gas,I4,26.0,5,5
+Outlander Sport,2016,2.0 ES,19595,gas,I4,25.0,5,5
+Outlander Sport,2016,2.0 ES,20795,gas,I4,27.0,5,5
+Outlander Sport,2016,2.4 ES,22695,gas,I4,24.0,5,5
+Outlander Sport,2016,2.4 ES,21295,gas,I4,25.0,5,5
+Outlander Sport,2016,2.4 GT,27395,gas,I4,24.0,5,5
+Outlander Sport,2016,2.4 GT,25995,gas,I4,25.0,5,5
+Outlander Sport,2016,2.4 SE,23895,gas,I4,24.0,5,5
+Outlander Sport,2016,2.4 SE,22495,gas,I4,25.0,5,5
+Outlander Sport,2016,2.4 SEL,25395,gas,I4,24.0,5,5
+Outlander Sport,2016,2.4 SEL,23995,gas,I4,25.0,5,5
+Outlander,2015,ES,23195,gas,I4,27.0,5,7
+Outlander,2015,GT,28195,gas,V6,23.0,5,7
+Outlander,2015,SE,24195,gas,I4,27.0,5,7
+Outlander,2015,SE,26195,gas,I4,26.0,5,7
+Outlander Sport,2015,2.4 ES,21295,gas,I4,25.0,5,5
+Outlander Sport,2015,2.4 ES,22695,gas,I4,24.0,5,5
+Outlander Sport,2015,2.4 GT,23595,gas,I4,25.0,5,5
+Outlander Sport,2015,2.4 GT,24995,gas,I4,24.0,5,5
+Outlander Sport,2015,ES,20795,gas,I4,28.0,5,5
+Outlander Sport,2015,ES,22195,gas,I4,27.0,5,5
+Outlander Sport,2015,ES,19595,gas,I4,26.0,5,5
+Outlander Sport,2015,SE,22795,gas,I4,28.0,5,5
+Outlander Sport,2015,SE,24195,gas,I4,27.0,5,5

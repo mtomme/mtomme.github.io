@@ -1,0 +1,181 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Accord,2020,EX,27770,gas,I4,33.0,4,5
+Accord,2020,EX-L,32270,gas,I4,27.0,4,5
+Accord,2020,EX-L,30270,gas,I4,33.0,4,5
+Accord,2020,LX,23870,gas,I4,33.0,4,5
+Accord,2020,Sport,26530,gas,I4,30.0,4,5
+Accord,2020,Sport,26530,gas,I4,31.0,4,5
+Accord,2020,Sport,31060,gas,I4,26.0,4,5
+Accord,2020,Sport,31060,gas,I4,26.0,4,5
+Accord,2020,Touring,36100,gas,I4,26.0,4,5
+Accord Hybrid,2020,Base,25470,hybrid,I4,48.0,4,5
+Accord Hybrid,2020,EX,29370,hybrid,I4,48.0,4,5
+Accord Hybrid,2020,EX-L,31870,hybrid,I4,48.0,4,5
+Accord Hybrid,2020,Touring,35140,hybrid,I4,48.0,4,5
+Civic,2020,EX,23700,gas,I4,36.0,4,5
+Civic,2020,EX-L,24900,gas,I4,36.0,4,5
+Civic,2020,LX,19750,gas,I4,29.0,4,5
+Civic,2020,LX,20550,gas,I4,33.0,4,5
+Civic,2020,Si,25000,gas,I4,30.0,4,5
+Civic,2020,Si,25200,gas,I4,30.0,4,5
+Civic,2020,Sport,22250,gas,I4,32.0,4,5
+Civic,2020,Sport,21450,gas,I4,29.0,4,5
+Civic,2020,Touring,27600,gas,I4,33.0,4,5
+Clarity,2020,Fuel Cell,58490,electric (fuel cell),,,4,5
+Clarity,2020,Plug-In Hybrid,33400,plug-in hybrid,I4,42.0,4,5
+Clarity,2020,Touring Plug-In Hybrid,36600,plug-in hybrid,I4,42.0,4,5
+Insight,2020,EX,24310,hybrid,I4,52.0,4,5
+Insight,2020,LX,22930,hybrid,I4,52.0,4,5
+Insight,2020,Touring,28340,hybrid,I4,48.0,4,5
+Accord,2019,EX,27620,gas,I4,33.0,4,5
+Accord,2019,EX-L,32120,gas,I4,27.0,4,5
+Accord,2019,EX-L,30120,gas,I4,33.0,4,5
+Accord,2019,LX,23720,gas,I4,33.0,4,5
+Accord,2019,Sport,26180,gas,I4,30.0,4,5
+Accord,2019,Sport,26180,gas,I4,31.0,4,5
+Accord,2019,Sport,30710,gas,I4,26.0,4,5
+Accord,2019,Sport,30710,gas,I4,26.0,4,5
+Accord,2019,Touring,35950,gas,I4,26.0,4,5
+Accord Hybrid,2019,Base,25320,hybrid,I4,48.0,4,5
+Accord Hybrid,2019,EX,29220,hybrid,I4,48.0,4,5
+Accord Hybrid,2019,EX-L,31720,hybrid,I4,48.0,4,5
+Accord Hybrid,2019,Touring,34990,hybrid,I4,48.0,4,5
+Civic,2019,EX,23500,gas,I4,36.0,4,5
+Civic,2019,EX-L,24700,gas,I4,36.0,4,5
+Civic,2019,LX,19550,gas,I4,29.0,4,5
+Civic,2019,LX,20350,gas,I4,33.0,4,5
+Civic,2019,Si,24300,gas,I4,32.0,4,5
+Civic,2019,Sport,21250,gas,I4,29.0,4,5
+Civic,2019,Sport,22050,gas,I4,32.0,4,5
+Civic,2019,Touring,27400,gas,I4,33.0,4,5
+Clarity,2019,Electric,36620,electric,,,4,5
+Clarity,2019,Fuel Cell,58490,electric (fuel cell),,,4,5
+Clarity,2019,Plug-In Hybrid,33400,plug-in hybrid,I4,42.0,4,5
+Clarity,2019,Touring Plug-In Hybrid,36600,plug-in hybrid,I4,42.0,4,5
+Insight,2019,EX,24160,hybrid,I4,52.0,4,5
+Insight,2019,LX,22930,hybrid,I4,52.0,4,5
+Insight,2019,Touring,28190,hybrid,I4,48.0,4,5
+Accord,2018,EX,27470,gas,I4,33.0,4,5
+Accord,2018,EX-L,29970,gas,I4,33.0,4,5
+Accord,2018,EX-L,31970,gas,I4,27.0,4,5
+Accord,2018,EX-L,30970,gas,I4,33.0,4,5
+Accord,2018,EX-L,32970,gas,I4,27.0,4,5
+Accord,2018,LX,23570,gas,I4,33.0,4,5
+Accord,2018,Sport,30310,gas,I4,26.0,4,5
+Accord,2018,Sport,25780,gas,I4,31.0,4,5
+Accord,2018,Sport,25780,gas,I4,30.0,4,5
+Accord,2018,Sport,30310,gas,I4,26.0,4,5
+Accord,2018,Touring,35800,gas,I4,26.0,4,5
+Accord,2018,Touring,33800,gas,I4,31.0,4,5
+Accord Hybrid,2018,Base,25100,hybrid,I4,47.0,4,5
+Accord Hybrid,2018,EX,28890,hybrid,I4,47.0,4,5
+Accord Hybrid,2018,EX-L,31440,hybrid,I4,47.0,4,5
+Accord Hybrid,2018,EX-L,32440,hybrid,I4,47.0,4,5
+Accord Hybrid,2018,Touring,34710,hybrid,I4,47.0,4,5
+Civic,2018,EX,22340,gas,I4,34.0,4,5
+Civic,2018,EX,21340,gas,I4,34.0,4,5
+Civic,2018,EX-L,24000,gas,I4,36.0,4,5
+Civic,2018,EX-L,25000,gas,I4,36.0,4,5
+Civic,2018,EX-L,25000,gas,I4,36.0,4,5
+Civic,2018,EX-T,21700,gas,I4,35.0,4,5
+Civic,2018,EX-T,23500,gas,I4,36.0,4,5
+Civic,2018,EX-T,22500,gas,I4,36.0,4,5
+Civic,2018,LX,20740,gas,I4,34.0,4,5
+Civic,2018,LX,19740,gas,I4,34.0,4,5
+Civic,2018,LX,18940,gas,I4,32.0,4,5
+Civic,2018,Si,24100,gas,I4,32.0,4,5
+Civic,2018,Si,24300,gas,I4,32.0,4,5
+Civic,2018,Touring,26800,gas,I4,36.0,4,5
+Clarity,2018,Electric,36620,electric,,,4,5
+Clarity,2018,Plug-In Hybrid,33400,plug-in hybrid,I4,42.0,4,5
+Clarity,2018,Touring Plug-In Hybrid,36600,plug-in hybrid,I4,42.0,4,5
+Accord,2017,EX,26530,gas,I4,30.0,4,5
+Accord,2017,EX,27530,gas,I4,30.0,4,5
+Accord,2017,EX,25730,gas,I4,26.0,4,5
+Accord,2017,EX-L,28820,gas,I4,30.0,4,5
+Accord,2017,EX-L,30820,gas,I4,30.0,4,5
+Accord,2017,EX-L V-6,32895,gas,V6,25.0,4,5
+Accord,2017,EX-L V-6,30895,gas,V6,25.0,4,5
+Accord,2017,LX,22355,gas,I4,26.0,4,5
+Accord,2017,LX,23155,gas,I4,30.0,4,5
+Accord,2017,LX,24155,gas,I4,30.0,4,5
+Accord,2017,Sport,26215,gas,I4,29.0,4,5
+Accord,2017,Sport,24415,gas,I4,26.0,4,5
+Accord,2017,Sport,25215,gas,I4,29.0,4,5
+Accord,2017,Sport Special Edition,26215,gas,I4,29.0,4,5
+Accord,2017,Sport Special Edition,25415,gas,I4,26.0,4,5
+Accord,2017,Touring V-6,34830,gas,V6,25.0,4,5
+Accord Hybrid,2017,Base,29605,hybrid,I4,48.0,4,5
+Accord Hybrid,2017,EX-L,32905,hybrid,I4,48.0,4,5
+Accord Hybrid,2017,Touring,35955,hybrid,I4,48.0,4,5
+Civic,2017,EX,22140,gas,I4,34.0,4,5
+Civic,2017,EX,21140,gas,I4,34.0,4,5
+Civic,2017,EX-L,23800,gas,I4,36.0,4,5
+Civic,2017,EX-L,24800,gas,I4,36.0,4,5
+Civic,2017,EX-L,24800,gas,I4,36.0,4,5
+Civic,2017,EX-T,21500,gas,I4,35.0,4,5
+Civic,2017,EX-T,22300,gas,I4,36.0,4,5
+Civic,2017,EX-T,23300,gas,I4,36.0,4,5
+Civic,2017,LX,20540,gas,I4,34.0,4,5
+Civic,2017,LX,18740,gas,I4,32.0,4,5
+Civic,2017,LX,19540,gas,I4,34.0,4,5
+Civic,2017,Si,24100,gas,I4,32.0,4,5
+Civic,2017,Si,23900,gas,I4,32.0,4,5
+Civic,2017,Touring,26600,gas,I4,36.0,4,5
+Clarity,2017,Electric,36620,electric,,,4,5
+Clarity,2017,Fuel Cell,58490,electric (fuel cell),,,4,5
+Accord,2016,EX,25580,gas,I4,27.0,4,5
+Accord,2016,EX,26380,gas,I4,31.0,4,5
+Accord,2016,EX,27380,gas,I4,31.0,4,5
+Accord,2016,EX-L,28670,gas,I4,31.0,4,5
+Accord,2016,EX-L,30670,gas,I4,31.0,4,5
+Accord,2016,EX-L V-6,32745,gas,V6,26.0,4,5
+Accord,2016,EX-L V-6,30745,gas,V6,26.0,4,5
+Accord,2016,LX,24005,gas,I4,31.0,4,5
+Accord,2016,LX,23005,gas,I4,31.0,4,5
+Accord,2016,LX,22205,gas,I4,27.0,4,5
+Accord,2016,Sport,26065,gas,I4,30.0,4,5
+Accord,2016,Sport,25065,gas,I4,30.0,4,5
+Accord,2016,Sport,24265,gas,I4,27.0,4,5
+Accord,2016,Touring V-6,34680,gas,V6,26.0,4,5
+Civic,2016,EX,21040,gas,I4,35.0,4,5
+Civic,2016,EX,22040,gas,I4,35.0,4,5
+Civic,2016,EX-L,24700,gas,I4,35.0,4,5
+Civic,2016,EX-L,24700,gas,I4,35.0,4,5
+Civic,2016,EX-L,23700,gas,I4,35.0,4,5
+Civic,2016,EX-T,23200,gas,I4,35.0,4,5
+Civic,2016,EX-T,22200,gas,I4,35.0,4,5
+Civic,2016,LX,20440,gas,I4,35.0,4,5
+Civic,2016,LX,18640,gas,I4,31.0,4,5
+Civic,2016,LX,19440,gas,I4,35.0,4,5
+Civic,2016,Touring,26500,gas,I4,35.0,4,5
+Accord,2015,EX,25030,gas,I4,27.0,4,5
+Accord,2015,EX,25830,gas,I4,31.0,4,5
+Accord,2015,EX-L,28420,gas,I4,31.0,4,5
+Accord,2015,EX-L,30195,gas,I4,31.0,4,5
+Accord,2015,EX-L V-6,32270,gas,V6,26.0,4,5
+Accord,2015,EX-L V-6,30495,gas,V6,26.0,4,5
+Accord,2015,LX,22905,gas,I4,31.0,4,5
+Accord,2015,LX,22105,gas,I4,27.0,4,5
+Accord,2015,Sport,24665,gas,I4,29.0,4,5
+Accord,2015,Sport,23865,gas,I4,27.0,4,5
+Accord,2015,Touring V-6,33630,gas,V6,26.0,4,5
+Accord Hybrid,2015,Base,29305,hybrid,I4,47.0,4,5
+Accord Hybrid,2015,EX-L,32055,hybrid,I4,47.0,4,5
+Accord Hybrid,2015,Touring,35055,hybrid,I4,47.0,4,5
+Civic,2015,EX,21190,gas,I4,33.0,4,5
+Civic,2015,EX-L,22840,gas,I4,33.0,4,5
+Civic,2015,EX-L,24340,gas,I4,33.0,4,5
+Civic,2015,HF,20040,gas,I4,35.0,4,5
+Civic,2015,Hybrid,24735,mild hybrid,I4,44.0,4,5
+Civic,2015,Hybrid,27435,mild hybrid,I4,44.0,4,5
+Civic,2015,Hybrid,25935,mild hybrid,I4,44.0,4,5
+Civic,2015,Hybrid,26235,mild hybrid,I4,44.0,4,5
+Civic,2015,LX,19290,gas,I4,33.0,4,5
+Civic,2015,LX,18490,gas,I4,31.0,4,5
+Civic,2015,Natural Gas,29390,natural gas (CNG),I4,31.0,4,5
+Civic,2015,Natural Gas,26740,natural gas (CNG),I4,31.0,4,5
+Civic,2015,SE,19990,gas,I4,33.0,4,5
+Civic,2015,Si,24590,gas,I4,25.0,4,5
+Civic,2015,Si,23290,gas,I4,25.0,4,5
+Civic,2015,Si,23090,gas,I4,25.0,4,5

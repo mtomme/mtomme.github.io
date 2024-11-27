@@ -1,0 +1,124 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+MDX,2020,Base,44500,gas,V6,23.0,5,7
+MDX,2020,Base,49500,gas,V6,23.0,5,7
+MDX,2020,Base,56250,gas,V6,23.0,5,6
+MDX,2020,SH-AWD,60250,gas,V6,22.0,5,7
+MDX,2020,SH-AWD,58250,gas,V6,22.0,5,6
+MDX,2020,SH-AWD,53500,gas,V6,22.0,5,6
+MDX,2020,SH-AWD,51500,gas,V6,22.0,5,7
+MDX,2020,SH-AWD,46500,gas,V6,22.0,5,7
+MDX,2020,SH-AWD A-Spec,55000,gas,V6,21.0,5,7
+MDX,2020,SH-AWD PMC Edition,61750,gas,V6,22.0,5,6
+MDX,2020,Sport Hybrid SH-AWD,53000,hybrid,V6,27.0,5,7
+MDX,2020,Sport Hybrid SH-AWD,59750,hybrid,V6,27.0,5,6
+RDX,2020,A-Spec,44000,gas,I4,24.0,5,5
+RDX,2020,Base,45900,gas,I4,24.0,5,5
+RDX,2020,Base,41000,gas,I4,24.0,5,5
+RDX,2020,Base,37800,gas,I4,24.0,5,5
+RDX,2020,SH-AWD,43000,gas,I4,23.0,5,5
+RDX,2020,SH-AWD,47900,gas,I4,23.0,5,5
+RDX,2020,SH-AWD,39800,gas,I4,23.0,5,5
+RDX,2020,SH-AWD A-Spec,46000,gas,I4,23.0,5,5
+MDX,2019,Advance and Entertainment Packages,58050,gas,V6,23.0,5,7
+MDX,2019,Advance Package,56050,gas,V6,23.0,5,6
+MDX,2019,Base,44300,gas,V6,23.0,5,7
+MDX,2019,SH-AWD,58050,gas,V6,22.0,5,6
+MDX,2019,SH-AWD,60050,gas,V6,22.0,5,7
+MDX,2019,SH-AWD,53300,gas,V6,22.0,5,6
+MDX,2019,SH-AWD,51300,gas,V6,22.0,5,7
+MDX,2019,SH-AWD,46300,gas,V6,22.0,5,7
+MDX,2019,SH-AWD A-Spec,54800,gas,V6,21.0,5,7
+MDX,2019,Sport Hybrid SH-AWD,59550,hybrid,V6,27.0,5,6
+MDX,2019,Sport Hybrid SH-AWD,52800,hybrid,V6,27.0,5,7
+MDX,2019,Technology and Entertainment Packages,51300,gas,V6,23.0,5,6
+MDX,2019,Technology Package,49300,gas,V6,23.0,5,7
+RDX,2019,A-Spec,43600,gas,I4,24.0,5,5
+RDX,2019,Advance Package,45500,gas,I4,24.0,5,5
+RDX,2019,Base,37400,gas,I4,24.0,5,5
+RDX,2019,SH-AWD,39400,gas,I4,23.0,5,5
+RDX,2019,SH-AWD,42600,gas,I4,23.0,5,5
+RDX,2019,SH-AWD,47500,gas,I4,23.0,5,5
+RDX,2019,SH-AWD A-Spec,45600,gas,I4,23.0,5,5
+RDX,2019,Technology Package,40600,gas,I4,24.0,5,5
+MDX,2018,Advance and Entertainment Packages,56650,gas,V6,23.0,5,6
+MDX,2018,Advance Package,54650,gas,V6,23.0,5,6
+MDX,2018,Base,44200,gas,V6,22.0,5,7
+MDX,2018,SH-AWD,58650,gas,V6,22.0,5,6
+MDX,2018,SH-AWD,56650,gas,V6,22.0,5,6
+MDX,2018,SH-AWD,46200,gas,V6,21.0,5,7
+MDX,2018,SH-AWD,52600,gas,V6,21.0,5,7
+MDX,2018,SH-AWD,50600,gas,V6,21.0,5,7
+MDX,2018,Sport Hybrid SH-AWD,58150,hybrid,V6,27.0,5,6
+MDX,2018,Sport Hybrid SH-AWD,52100,hybrid,V6,27.0,5,7
+MDX,2018,Technology and Entertainment Packages,50600,gas,V6,22.0,5,7
+MDX,2018,Technology Package,48600,gas,V6,22.0,5,7
+RDX,2018,AcuraWatch Plus Package,37100,gas,V6,23.0,5,5
+RDX,2018,AcuraWatch Plus Package,38600,gas,V6,22.0,5,5
+RDX,2018,Advance Package,44000,gas,V6,22.0,5,5
+RDX,2018,Advance Package,42500,gas,V6,23.0,5,5
+RDX,2018,Base,35800,gas,V6,23.0,5,5
+RDX,2018,Base,37300,gas,V6,22.0,5,5
+RDX,2018,Technology and AcuraWatch Plus Packages,42300,gas,V6,22.0,5,5
+RDX,2018,Technology and AcuraWatch Plus Packages,40800,gas,V6,23.0,5,5
+RDX,2018,Technology Package,41000,gas,V6,22.0,5,5
+RDX,2018,Technology Package,39500,gas,V6,23.0,5,5
+MDX,2017,Advance and Entertainment Packages,56500,gas,V6,23.0,5,6
+MDX,2017,Advance Package,54500,gas,V6,23.0,5,6
+MDX,2017,Base,44050,gas,V6,22.0,5,7
+MDX,2017,SH-AWD,58500,gas,V6,22.0,5,6
+MDX,2017,SH-AWD,56500,gas,V6,22.0,5,6
+MDX,2017,SH-AWD,52460,gas,V6,21.0,5,7
+MDX,2017,SH-AWD,46050,gas,V6,21.0,5,7
+MDX,2017,SH-AWD,50460,gas,V6,21.0,5,7
+MDX,2017,Sport Hybrid SH-AWD,51960,hybrid,V6,27.0,5,7
+MDX,2017,Sport Hybrid SH-AWD,58000,hybrid,V6,27.0,5,6
+MDX,2017,Technology and Entertainment Packages,50460,gas,V6,22.0,5,7
+MDX,2017,Technology Package,48460,gas,V6,22.0,5,7
+RDX,2017,AcuraWatch Plus Package,36970,gas,V6,23.0,5,5
+RDX,2017,AcuraWatch Plus Package,38470,gas,V6,22.0,5,5
+RDX,2017,Advance Package,43820,gas,V6,22.0,5,5
+RDX,2017,Advance Package,42320,gas,V6,23.0,5,5
+RDX,2017,Base,35670,gas,V6,23.0,5,5
+RDX,2017,Base,37170,gas,V6,22.0,5,5
+RDX,2017,Technology and AcuraWatch Plus Packages,42170,gas,V6,22.0,5,5
+RDX,2017,Technology and AcuraWatch Plus Packages,40670,gas,V6,23.0,5,5
+RDX,2017,Technology Package,40870,gas,V6,22.0,5,5
+RDX,2017,Technology Package,39370,gas,V6,23.0,5,5
+MDX,2016,AcuraWatch Plus Package,44515,gas,V6,22.0,5,7
+MDX,2016,Advance and Entertainment Packages,55230,gas,V6,23.0,5,7
+MDX,2016,Advance Package,53230,gas,V6,23.0,5,7
+MDX,2016,Base,43015,gas,V6,22.0,5,7
+MDX,2016,SH-AWD,57230,gas,V6,22.0,5,7
+MDX,2016,SH-AWD,51440,gas,V6,21.0,5,7
+MDX,2016,SH-AWD,50640,gas,V6,21.0,5,7
+MDX,2016,SH-AWD,49440,gas,V6,21.0,5,7
+MDX,2016,SH-AWD,52640,gas,V6,21.0,5,7
+MDX,2016,SH-AWD,46515,gas,V6,21.0,5,7
+MDX,2016,SH-AWD,45015,gas,V6,21.0,5,7
+MDX,2016,SH-AWD,55230,gas,V6,22.0,5,7
+MDX,2016,Technology and AcuraWatch Plus Packages,48640,gas,V6,22.0,5,7
+MDX,2016,Technology and Entertainment Packages,49440,gas,V6,22.0,5,7
+MDX,2016,Technology Package,47440,gas,V6,22.0,5,7
+MDX,2016,"Technology, Entertainment and AcuraWatch Plus Packages",50640,gas,V6,22.0,5,7
+RDX,2016,AcuraWatch Plus Package,36670,gas,V6,23.0,5,5
+RDX,2016,AcuraWatch Plus Package,38170,gas,V6,22.0,5,5
+RDX,2016,Advance Package,43520,gas,V6,22.0,5,5
+RDX,2016,Advance Package,42020,gas,V6,23.0,5,5
+RDX,2016,Base,36870,gas,V6,22.0,5,5
+RDX,2016,Base,35370,gas,V6,23.0,5,5
+RDX,2016,Technology and AcuraWatch Plus Packages,40370,gas,V6,23.0,5,5
+RDX,2016,Technology and AcuraWatch Plus Packages,41870,gas,V6,22.0,5,5
+RDX,2016,Technology Package,40570,gas,V6,22.0,5,5
+RDX,2016,Technology Package,39070,gas,V6,23.0,5,5
+MDX,2015,Advance and Entertainment Packages,54780,gas,V6,23.0,5,7
+MDX,2015,Base,42565,gas,V6,23.0,5,7
+MDX,2015,SH-AWD,50840,gas,V6,21.0,5,7
+MDX,2015,SH-AWD,44565,gas,V6,21.0,5,7
+MDX,2015,SH-AWD,48840,gas,V6,21.0,5,7
+MDX,2015,SH-AWD,56780,gas,V6,21.0,5,7
+MDX,2015,Technology and Entertainment Packages,48840,gas,V6,23.0,5,7
+MDX,2015,Technology Package,46840,gas,V6,23.0,5,7
+RDX,2015,Base,35095,gas,V6,23.0,5,5
+RDX,2015,Base,36495,gas,V6,22.0,5,5
+RDX,2015,Technology Package,40195,gas,V6,22.0,5,5
+RDX,2015,Technology Package,38795,gas,V6,23.0,5,5

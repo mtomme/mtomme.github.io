@@ -1,0 +1,231 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Tacoma,2020,Limited,38790,gas,V6,21.0,4,5
+Tacoma,2020,Limited,41865,gas,V6,20.0,4,5
+Tacoma,2020,SR,32315,gas,V6,20.0,4,5
+Tacoma,2020,SR,26880,gas,I4,21.0,4,5
+Tacoma,2020,SR5,28715,gas,I4,21.0,4,5
+Tacoma,2020,SR5,32115,gas,V6,21.0,4,5
+Tacoma,2020,SR5,32615,gas,V6,21.0,4,5
+Tacoma,2020,SR5,35190,gas,V6,20.0,4,5
+Tacoma,2020,SR5,35690,gas,V6,20.0,4,5
+Tacoma,2020,TRD Off Road,34000,gas,V6,21.0,4,5
+Tacoma,2020,TRD Off Road,35335,gas,V6,18.0,4,5
+Tacoma,2020,TRD Off Road,36965,gas,V6,20.0,4,5
+Tacoma,2020,TRD Off Road,37575,gas,V6,20.0,4,5
+Tacoma,2020,TRD PRO,46665,gas,V6,20.0,4,5
+Tacoma,2020,TRD PRO,43960,gas,V6,18.0,4,5
+Tacoma,2020,TRD Sport,34500,gas,V6,21.0,4,5
+Tacoma,2020,TRD Sport,35335,gas,V6,18.0,4,5
+Tacoma,2020,TRD Sport,34000,gas,V6,21.0,4,5
+Tacoma,2020,TRD Sport,36965,gas,V6,20.0,4,5
+Tacoma,2020,TRD Sport,37575,gas,V6,20.0,4,5
+Tundra,2020,Limited,45320,gas,V8,14.0,4,5
+Tundra,2020,Limited,42270,gas,V8,15.0,4,5
+Tundra,2020,SR,33575,gas,V8,15.0,4,6
+Tundra,2020,SR,33905,gas,V8,15.0,4,6
+Tundra,2020,SR,36625,gas,V8,14.0,4,6
+Tundra,2020,SR,36955,gas,V8,14.0,4,6
+Tundra,2020,SR5,38295,gas,V8,14.0,4,6
+Tundra,2020,SR5,38625,gas,V8,14.0,4,6
+Tundra,2020,SR5,35575,gas,V8,15.0,4,6
+Tundra,2020,SR5,35245,gas,V8,15.0,4,6
+Tundra,2020,TRD PRO,48655,gas,V8,14.0,4,5
+Tacoma,2019,Limited,40865,gas,V6,20.0,4,5
+Tacoma,2019,Limited,37790,gas,V6,21.0,4,5
+Tacoma,2019,SR,32115,gas,V6,20.0,4,5
+Tacoma,2019,SR,26680,gas,I4,21.0,4,5
+Tacoma,2019,SR5,31915,gas,V6,21.0,4,5
+Tacoma,2019,SR5,32415,gas,V6,21.0,4,5
+Tacoma,2019,SR5,34990,gas,V6,20.0,4,5
+Tacoma,2019,SR5,35490,gas,V6,20.0,4,5
+Tacoma,2019,SR5,28515,gas,I4,21.0,4,5
+Tacoma,2019,TRD Off Road,37375,gas,V6,20.0,4,5
+Tacoma,2019,TRD Off Road,36765,gas,V6,20.0,4,5
+Tacoma,2019,TRD Off Road,35135,gas,V6,18.0,4,5
+Tacoma,2019,TRD Off Road,33800,gas,V6,21.0,4,5
+Tacoma,2019,TRD PRO,42960,gas,V6,18.0,4,5
+Tacoma,2019,TRD PRO,45665,gas,V6,20.0,4,5
+Tacoma,2019,TRD Sport,36765,gas,V6,20.0,4,5
+Tacoma,2019,TRD Sport,35135,gas,V6,18.0,4,5
+Tacoma,2019,TRD Sport,34300,gas,V6,21.0,4,5
+Tacoma,2019,TRD Sport,33800,gas,V6,21.0,4,5
+Tacoma,2019,TRD Sport,37375,gas,V6,20.0,4,5
+Tundra,2019,Limited,43985,gas,V8,14.0,4,5
+Tundra,2019,Limited,40935,gas,V8,15.0,4,5
+Tundra,2019,SR,34720,gas,V8,16.0,4,6
+Tundra,2019,SR,31670,gas,V8,16.0,4,6
+Tundra,2019,SR,35990,gas,V8,14.0,4,6
+Tundra,2019,SR,36320,gas,V8,14.0,4,6
+Tundra,2019,SR,33270,gas,V8,15.0,4,6
+Tundra,2019,SR,32940,gas,V8,15.0,4,6
+Tundra,2019,SR5,35070,gas,V8,15.0,4,6
+Tundra,2019,SR5,33470,gas,V8,16.0,4,6
+Tundra,2019,SR5,34740,gas,V8,15.0,4,6
+Tundra,2019,SR5,38120,gas,V8,14.0,4,6
+Tundra,2019,SR5,37790,gas,V8,14.0,4,6
+Tundra,2019,SR5,36520,gas,V8,16.0,4,6
+Tundra,2019,SR5 FFV,37790,flex-fuel (FFV),V8,15.0,4,6
+Tacoma,2018,Limited,37340,gas,V6,21.0,4,5
+Tacoma,2018,Limited,40415,gas,V6,20.0,4,5
+Tacoma,2018,SR,26230,gas,I4,21.0,4,5
+Tacoma,2018,SR,31665,gas,V6,20.0,4,5
+Tacoma,2018,SR5,31965,gas,V6,21.0,4,5
+Tacoma,2018,SR5,28065,gas,I4,21.0,4,5
+Tacoma,2018,SR5,31465,gas,V6,21.0,4,5
+Tacoma,2018,SR5,35040,gas,V6,20.0,4,5
+Tacoma,2018,SR5,34540,gas,V6,20.0,4,5
+Tacoma,2018,TRD Off Road,34685,gas,V6,18.0,4,5
+Tacoma,2018,TRD Off Road,36315,gas,V6,20.0,4,5
+Tacoma,2018,TRD Off Road,36925,gas,V6,20.0,4,5
+Tacoma,2018,TRD Off Road,33350,gas,V6,21.0,4,5
+Tacoma,2018,TRD PRO,41720,gas,V6,18.0,4,5
+Tacoma,2018,TRD PRO,43720,gas,V6,20.0,4,5
+Tacoma,2018,TRD Sport,33350,gas,V6,21.0,4,5
+Tacoma,2018,TRD Sport,36315,gas,V6,20.0,4,5
+Tacoma,2018,TRD Sport,34685,gas,V6,18.0,4,5
+Tacoma,2018,TRD Sport,33850,gas,V6,21.0,4,5
+Tacoma,2018,TRD Sport,36925,gas,V6,20.0,4,5
+Tundra,2018,Limited,40585,gas,V8,15.0,4,5
+Tundra,2018,Limited,43635,gas,V8,14.0,4,5
+Tundra,2018,Limited FFV,43635,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2018,Limited FFV,40385,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2018,SR,31320,gas,V8,16.0,4,6
+Tundra,2018,SR,32590,gas,V8,15.0,4,6
+Tundra,2018,SR,32920,gas,V8,15.0,4,6
+Tundra,2018,SR,35970,gas,V8,14.0,4,6
+Tundra,2018,SR,35640,gas,V8,14.0,4,6
+Tundra,2018,SR,34370,gas,V8,16.0,4,6
+Tundra,2018,SR FFV,32390,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2018,SR FFV,35970,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2018,SR FFV,35640,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2018,SR FFV,32720,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2018,SR5,37680,gas,V8,14.0,4,6
+Tundra,2018,SR5,37350,gas,V8,14.0,4,6
+Tundra,2018,SR5,36080,gas,V8,16.0,4,6
+Tundra,2018,SR5,34630,gas,V8,15.0,4,6
+Tundra,2018,SR5,34300,gas,V8,15.0,4,6
+Tundra,2018,SR5,33030,gas,V8,16.0,4,6
+Tundra,2018,SR5 FFV,37350,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2018,SR5 FFV,37680,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2018,SR5 FFV,34430,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2018,SR5 FFV,34100,flex-fuel (FFV),V8,15.0,4,6
+Tacoma,2017,Limited,39250,gas,V6,20.0,4,5
+Tacoma,2017,Limited,36175,gas,V6,21.0,4,5
+Tacoma,2017,SR,30190,gas,V6,20.0,4,5
+Tacoma,2017,SR,25405,gas,I4,21.0,4,5
+Tacoma,2017,SR5,33720,gas,V6,20.0,4,5
+Tacoma,2017,SR5,33220,gas,V6,20.0,4,5
+Tacoma,2017,SR5,30645,gas,V6,21.0,4,5
+Tacoma,2017,SR5,30145,gas,V6,21.0,4,5
+Tacoma,2017,SR5,27550,gas,I4,21.0,4,5
+Tacoma,2017,TRD Off Road,32195,gas,V6,21.0,4,5
+Tacoma,2017,TRD Off Road,33530,gas,V6,18.0,4,5
+Tacoma,2017,TRD Off Road,35160,gas,V6,20.0,4,5
+Tacoma,2017,TRD Off Road,35770,gas,V6,20.0,4,5
+Tacoma,2017,TRD PRO,41215,gas,V6,18.0,4,5
+Tacoma,2017,TRD PRO,43215,gas,V6,20.0,4,5
+Tacoma,2017,TRD Sport,32195,gas,V6,21.0,4,5
+Tacoma,2017,TRD Sport,32695,gas,V6,21.0,4,5
+Tacoma,2017,TRD Sport,33530,gas,V6,18.0,4,5
+Tacoma,2017,TRD Sport,35160,gas,V6,20.0,4,5
+Tacoma,2017,TRD Sport,35770,gas,V6,20.0,4,5
+Tundra,2017,Limited,39380,gas,V8,15.0,4,5
+Tundra,2017,Limited,42430,gas,V8,15.0,4,5
+Tundra,2017,Limited FFV,42430,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2017,Limited FFV,39380,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2017,SR,30120,gas,V8,16.0,4,6
+Tundra,2017,SR,34770,gas,V8,15.0,4,6
+Tundra,2017,SR,34440,gas,V8,15.0,4,6
+Tundra,2017,SR,33170,gas,V8,16.0,4,6
+Tundra,2017,SR,31720,gas,V8,15.0,4,6
+Tundra,2017,SR,31390,gas,V8,15.0,4,6
+Tundra,2017,SR FFV,31390,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2017,SR FFV,31720,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2017,SR FFV,34440,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2017,SR FFV,34770,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2017,SR5,33200,gas,V8,15.0,4,6
+Tundra,2017,SR5,33530,gas,V8,15.0,4,6
+Tundra,2017,SR5,36580,gas,V8,15.0,4,6
+Tundra,2017,SR5,36250,gas,V8,15.0,4,6
+Tundra,2017,SR5,34980,gas,V8,16.0,4,6
+Tundra,2017,SR5,31930,gas,V8,16.0,4,6
+Tundra,2017,SR5 FFV,36580,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2017,SR5 FFV,36250,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2017,SR5 FFV,33530,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2017,SR5 FFV,33200,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2017,TRD PRO,43495,gas,V8,15.0,4,5
+Tundra,2017,TRD PRO FFV,43495,flex-fuel (FFV),V8,15.0,4,5
+Tacoma,2016,Limited,38180,gas,V6,20.0,4,5
+Tacoma,2016,Limited,35105,gas,V6,21.0,4,5
+Tacoma,2016,SR,24490,gas,I4,21.0,4,5
+Tacoma,2016,SR,29275,gas,V6,20.0,4,5
+Tacoma,2016,SR5,31920,gas,V6,20.0,4,5
+Tacoma,2016,SR5,31420,gas,V6,20.0,4,5
+Tacoma,2016,SR5,28845,gas,V6,21.0,4,5
+Tacoma,2016,SR5,28345,gas,V6,21.0,4,5
+Tacoma,2016,SR5,26635,gas,I4,21.0,4,5
+Tacoma,2016,TRD Off Road,31125,gas,V6,21.0,4,5
+Tacoma,2016,TRD Off Road,32460,gas,V6,18.0,4,5
+Tacoma,2016,TRD Off Road,34090,gas,V6,20.0,4,5
+Tacoma,2016,TRD Off Road,34700,gas,V6,20.0,4,5
+Tacoma,2016,TRD Sport,31125,gas,V6,21.0,4,5
+Tacoma,2016,TRD Sport,34700,gas,V6,20.0,4,5
+Tacoma,2016,TRD Sport,31625,gas,V6,21.0,4,5
+Tacoma,2016,TRD Sport,34090,gas,V6,20.0,4,5
+Tacoma,2016,TRD Sport,32460,gas,V6,19.0,4,5
+Tundra,2016,Limited,38670,gas,V8,15.0,4,5
+Tundra,2016,Limited,41720,gas,V8,15.0,4,5
+Tundra,2016,Limited FFV,38670,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2016,Limited FFV,41720,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2016,SR,34220,gas,V8,15.0,4,6
+Tundra,2016,SR,30840,gas,V8,15.0,4,6
+Tundra,2016,SR,33890,gas,V8,15.0,4,6
+Tundra,2016,SR,32190,gas,V8,16.0,4,6
+Tundra,2016,SR,29140,gas,V8,16.0,4,6
+Tundra,2016,SR,31170,gas,V8,15.0,4,6
+Tundra,2016,SR FFV,30840,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2016,SR FFV,31170,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2016,SR FFV,33890,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2016,SR FFV,34220,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2016,SR5,32980,gas,V8,15.0,4,6
+Tundra,2016,SR5,36030,gas,V8,15.0,4,6
+Tundra,2016,SR5,35700,gas,V8,15.0,4,6
+Tundra,2016,SR5,34000,gas,V8,16.0,4,6
+Tundra,2016,SR5,32650,gas,V8,15.0,4,6
+Tundra,2016,SR5,30950,gas,V8,16.0,4,6
+Tundra,2016,SR5 FFV,32650,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2016,SR5 FFV,32980,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2016,SR5 FFV,35700,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2016,SR5 FFV,36030,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2016,TRD PRO,42945,gas,V8,15.0,4,5
+Tundra,2016,TRD PRO FFV,42945,flex-fuel (FFV),V8,15.0,4,5
+Tacoma,2015,Base,23075,gas,I4,21.0,4,5
+Tacoma,2015,PreRunner,23625,gas,I4,21.0,4,5
+Tacoma,2015,PreRunner V6,25060,gas,V6,19.0,4,5
+Tacoma,2015,PreRunner V6,25560,gas,V6,19.0,4,5
+Tacoma,2015,TRD PRO,36635,gas,V6,17.0,4,5
+Tacoma,2015,TRD PRO,37615,gas,V6,18.0,4,5
+Tacoma,2015,V6,27355,gas,V6,17.0,4,5
+Tacoma,2015,V6,28235,gas,V6,18.0,4,5
+Tacoma,2015,V6,28735,gas,V6,18.0,4,5
+Tundra,2015,Limited,40685,gas,V8,15.0,4,5
+Tundra,2015,Limited,37635,gas,V8,15.0,4,5
+Tundra,2015,Limited FFV,40685,flex-fuel (FFV),V8,15.0,4,5
+Tundra,2015,SR,31560,gas,V8,16.0,4,6
+Tundra,2015,SR,33390,gas,V8,15.0,4,6
+Tundra,2015,SR,33060,gas,V8,15.0,4,6
+Tundra,2015,SR,30340,gas,V8,15.0,4,6
+Tundra,2015,SR,30010,gas,V8,15.0,4,6
+Tundra,2015,SR,28510,gas,V8,16.0,4,6
+Tundra,2015,SR FFV,33060,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2015,SR FFV,33390,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2015,SR5,30160,gas,V8,16.0,4,6
+Tundra,2015,SR5,31660,gas,V8,15.0,4,6
+Tundra,2015,SR5,33210,gas,V8,16.0,4,6
+Tundra,2015,SR5,31990,gas,V8,15.0,4,6
+Tundra,2015,SR5,34710,gas,V8,15.0,4,6
+Tundra,2015,SR5,35040,gas,V8,15.0,4,6
+Tundra,2015,SR5 FFV,35040,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2015,SR5 FFV,34710,flex-fuel (FFV),V8,15.0,4,6
+Tundra,2015,TRD PRO,41385,gas,V8,15.0,4,5
+Tundra,2015,TRD PRO FFV,41385,flex-fuel (FFV),V8,15.0,4,5

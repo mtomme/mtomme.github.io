@@ -1,0 +1,21 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Convertible,2020,Cooper,28400,gas,I3,31.0,2,4
+Convertible,2020,Cooper S,32400,gas,I4,29.0,2,4
+Convertible,2020,John Cooper Works,38400,gas,I4,28.0,2,4
+Convertible,2019,Cooper,26900,gas,I3,31.0,2,4
+Convertible,2019,Cooper S,30900,gas,I4,26.0,2,4
+Convertible,2019,John Cooper Works,36900,gas,I4,25.0,2,4
+Convertible,2018,Cooper,26700,gas,I3,32.0,2,4
+Convertible,2018,Cooper S,30400,gas,I4,26.0,2,4
+Convertible,2018,John Cooper Works,36600,gas,I4,25.0,2,4
+Convertible,2017,Cooper,25950,gas,I3,32.0,2,4
+Convertible,2017,Cooper S,29600,gas,I4,26.0,2,4
+Convertible,2017,John Cooper Works,35600,gas,I4,25.0,2,4
+Cooper,2016,Base,25950,gas,I3,31.0,2,4
+Cooper,2016,S,29600,gas,I4,27.0,2,4
+Cooper,2015,Base,25700,gas,I4,30.0,2,4
+Cooper,2015,John Cooper Works,35850,gas,I4,29.0,2,4
+Cooper,2015,S,28700,gas,I4,29.0,2,4
+Cooper Roadster,2015,Base,26100,gas,I4,30.0,2,2
+Cooper Roadster,2015,John Cooper Works,36250,gas,I4,29.0,2,2
+Cooper Roadster,2015,S,29100,gas,I4,29.0,2,2

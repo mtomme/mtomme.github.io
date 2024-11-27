@@ -1,0 +1,135 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+F-150,2020,King Ranch,52990,flex-fuel (FFV),V8,19.0,4,5
+F-150,2020,King Ranch,53290,flex-fuel (FFV),V8,19.0,4,5
+F-150,2020,King Ranch,56415,flex-fuel (FFV),V8,18.0,4,5
+F-150,2020,King Ranch,56715,flex-fuel (FFV),V8,18.0,4,5
+F-150,2020,Lariat,45610,gas,V6,22.0,4,6
+F-150,2020,Lariat,45910,gas,V6,22.0,4,6
+F-150,2020,Lariat,49035,gas,V6,20.0,4,6
+F-150,2020,Lariat,50285,flex-fuel (FFV),V8,18.0,4,6
+F-150,2020,Limited,71160,gas,V6,19.0,4,5
+F-150,2020,Limited,67735,gas,V6,19.0,4,5
+F-150,2020,Platinum,59245,flex-fuel (FFV),V8,18.0,4,5
+F-150,2020,Platinum,58945,flex-fuel (FFV),V8,18.0,4,5
+F-150,2020,Platinum,55520,flex-fuel (FFV),V8,19.0,4,5
+F-150,2020,Platinum,55820,flex-fuel (FFV),V8,19.0,4,5
+F-150,2020,Raptor,56440,gas,V6,16.0,4,5
+F-150,2020,XL,35285,gas,V6,22.0,4,6
+F-150,2020,XL,36590,gas,V6,22.0,4,6
+F-150,2020,XL,38795,gas,V6,20.0,4,6
+F-150,2020,XL,41050,flex-fuel (FFV),V8,18.0,4,6
+F-150,2020,XLT,45770,flex-fuel (FFV),V8,18.0,4,6
+F-150,2020,XLT,43515,gas,V6,20.0,4,6
+F-150,2020,XLT,41325,gas,V6,22.0,4,6
+F-150,2020,XLT,40020,gas,V6,22.0,4,6
+F-150,2019,King Ranch,52390,flex-fuel (FFV),V8,19.0,4,5
+F-150,2019,King Ranch,52690,flex-fuel (FFV),V8,19.0,4,5
+F-150,2019,King Ranch,56115,flex-fuel (FFV),V8,18.0,4,5
+F-150,2019,King Ranch,55815,flex-fuel (FFV),V8,18.0,4,5
+F-150,2019,Lariat,47985,gas,V6,21.0,4,6
+F-150,2019,Lariat,49235,flex-fuel (FFV),V8,18.0,4,6
+F-150,2019,Lariat,44860,gas,V6,22.0,4,6
+F-150,2019,Lariat,44560,gas,V6,22.0,4,6
+F-150,2019,Limited,70560,gas,V6,19.0,4,5
+F-150,2019,Limited,67135,gas,V6,21.0,4,5
+F-150,2019,Platinum,55220,flex-fuel (FFV),V8,19.0,4,5
+F-150,2019,Platinum,54920,flex-fuel (FFV),V8,19.0,4,5
+F-150,2019,Platinum,58645,flex-fuel (FFV),V8,18.0,4,5
+F-150,2019,Platinum,58345,flex-fuel (FFV),V8,18.0,4,5
+F-150,2019,Raptor,55840,gas,V6,16.0,4,5
+F-150,2019,XL,34695,gas,V6,22.0,4,6
+F-150,2019,XL,36000,gas,V6,22.0,4,6
+F-150,2019,XL,38205,gas,V6,20.0,4,6
+F-150,2019,XL,40460,flex-fuel (FFV),V8,18.0,4,6
+F-150,2019,XLT,45170,flex-fuel (FFV),V8,18.0,4,6
+F-150,2019,XLT,42915,gas,V6,20.0,4,6
+F-150,2019,XLT,40725,gas,V6,22.0,4,6
+F-150,2019,XLT,39420,gas,V6,22.0,4,6
+F-150,2018,King Ranch,52230,gas,V8,19.0,4,5
+F-150,2018,King Ranch,51930,gas,V8,19.0,4,5
+F-150,2018,King Ranch,55655,gas,V8,18.0,4,5
+F-150,2018,King Ranch,55355,gas,V8,18.0,4,5
+F-150,2018,Lariat,43875,gas,V6,22.0,4,6
+F-150,2018,Lariat,44175,gas,V6,22.0,4,6
+F-150,2018,Lariat,47300,gas,V6,21.0,4,6
+F-150,2018,Lariat,48550,gas,V8,18.0,4,6
+F-150,2018,Limited,60850,gas,V6,21.0,4,5
+F-150,2018,Limited,64275,gas,V6,19.0,4,5
+F-150,2018,Platinum,57910,gas,V8,18.0,4,5
+F-150,2018,Platinum,58210,gas,V8,18.0,4,5
+F-150,2018,Platinum,54485,gas,V8,19.0,4,5
+F-150,2018,Platinum,54785,gas,V8,19.0,4,5
+F-150,2018,Raptor,53100,gas,V6,16.0,4,5
+F-150,2018,XL,34245,gas,V6,22.0,4,6
+F-150,2018,XL,40010,gas,V8,18.0,4,6
+F-150,2018,XL,37755,gas,V6,20.0,4,6
+F-150,2018,XL,35550,gas,V6,22.0,4,6
+F-150,2018,XLT,42055,gas,V6,20.0,4,6
+F-150,2018,XLT,44310,gas,V8,18.0,4,6
+F-150,2018,XLT,38560,gas,V6,22.0,4,6
+F-150,2018,XLT,39865,gas,V6,22.0,4,6
+F-150,2017,King Ranch,54505,flex-fuel (FFV),V8,17.0,4,5
+F-150,2017,King Ranch,51380,flex-fuel (FFV),V8,18.0,4,5
+F-150,2017,King Ranch,51080,flex-fuel (FFV),V8,18.0,4,5
+F-150,2017,King Ranch,54805,flex-fuel (FFV),V8,17.0,4,5
+F-150,2017,Lariat,43225,gas,V6,22.0,4,6
+F-150,2017,Lariat,43525,gas,V6,22.0,4,6
+F-150,2017,Lariat,46645,gas,V6,20.0,4,6
+F-150,2017,Lariat,47695,flex-fuel (FFV),V8,17.0,4,6
+F-150,2017,Limited,63625,gas,V6,20.0,4,5
+F-150,2017,Limited,60200,gas,V6,21.0,4,5
+F-150,2017,Platinum,53935,flex-fuel (FFV),V8,18.0,4,5
+F-150,2017,Platinum,53635,flex-fuel (FFV),V8,18.0,4,5
+F-150,2017,Platinum,57060,flex-fuel (FFV),V8,17.0,4,5
+F-150,2017,Platinum,57355,flex-fuel (FFV),V8,17.0,4,5
+F-150,2017,Raptor,52250,gas,V6,16.0,4,5
+F-150,2017,XL,33650,flex-fuel (FFV),V6,20.0,4,6
+F-150,2017,XL,34955,gas,V6,22.0,4,6
+F-150,2017,XL,37160,flex-fuel (FFV),V6,19.0,4,6
+F-150,2017,XL,39115,flex-fuel (FFV),V8,17.0,4,6
+F-150,2017,XLT,37740,flex-fuel (FFV),V6,20.0,4,6
+F-150,2017,XLT,43225,flex-fuel (FFV),V8,17.0,4,6
+F-150,2017,XLT,41235,flex-fuel (FFV),V6,19.0,4,6
+F-150,2017,XLT,39050,gas,V6,22.0,4,6
+F-150,2016,King Ranch,53775,flex-fuel (FFV),V8,17.0,4,5
+F-150,2016,King Ranch,53475,flex-fuel (FFV),V8,17.0,4,5
+F-150,2016,King Ranch,50350,flex-fuel (FFV),V8,18.0,4,5
+F-150,2016,King Ranch,50050,flex-fuel (FFV),V8,17.0,4,5
+F-150,2016,Lariat,42725,gas,V6,22.0,4,6
+F-150,2016,Lariat,42425,gas,V6,22.0,4,6
+F-150,2016,Lariat,45845,gas,V6,20.0,4,6
+F-150,2016,Lariat,46895,flex-fuel (FFV),V8,17.0,4,6
+F-150,2016,Limited,58885,gas,V6,20.0,4,5
+F-150,2016,Limited,62310,gas,V6,19.0,4,5
+F-150,2016,Platinum,52515,flex-fuel (FFV),V8,18.0,4,5
+F-150,2016,Platinum,52815,flex-fuel (FFV),V8,18.0,4,5
+F-150,2016,Platinum,55940,flex-fuel (FFV),V8,17.0,4,5
+F-150,2016,Platinum,56235,flex-fuel (FFV),V8,17.0,4,5
+F-150,2016,XL,33055,flex-fuel (FFV),V6,20.0,4,6
+F-150,2016,XL,34165,gas,V6,22.0,4,6
+F-150,2016,XL,36565,flex-fuel (FFV),V6,19.0,4,6
+F-150,2016,XL,38325,flex-fuel (FFV),V8,17.0,4,6
+F-150,2016,XLT,37140,flex-fuel (FFV),V6,20.0,4,6
+F-150,2016,XLT,42425,flex-fuel (FFV),V8,17.0,4,6
+F-150,2016,XLT,40635,flex-fuel (FFV),V6,19.0,4,6
+F-150,2016,XLT,38250,gas,V6,22.0,4,6
+F-150,2015,King Ranch,49120,flex-fuel (FFV),V8,17.0,4,5
+F-150,2015,King Ranch,49420,flex-fuel (FFV),V8,18.0,4,5
+F-150,2015,King Ranch,52845,flex-fuel (FFV),V8,17.0,4,5
+F-150,2015,King Ranch,52545,flex-fuel (FFV),V8,17.0,4,5
+F-150,2015,Lariat,41670,gas,V6,22.0,4,6
+F-150,2015,Lariat,41970,gas,V6,22.0,4,6
+F-150,2015,Lariat,45090,gas,V6,20.0,4,6
+F-150,2015,Lariat,46140,flex-fuel (FFV),V8,17.0,4,6
+F-150,2015,Platinum,55305,flex-fuel (FFV),V8,17.0,4,5
+F-150,2015,Platinum,55010,flex-fuel (FFV),V8,17.0,4,5
+F-150,2015,Platinum,51885,flex-fuel (FFV),V8,18.0,4,5
+F-150,2015,Platinum,51585,flex-fuel (FFV),V8,18.0,4,5
+F-150,2015,XL,32545,flex-fuel (FFV),V6,20.0,4,6
+F-150,2015,XL,37815,flex-fuel (FFV),V8,17.0,4,6
+F-150,2015,XL,36055,flex-fuel (FFV),V6,19.0,4,6
+F-150,2015,XL,33655,gas,V6,22.0,4,6
+F-150,2015,XLT,40050,flex-fuel (FFV),V6,19.0,4,6
+F-150,2015,XLT,37665,gas,V6,22.0,4,6
+F-150,2015,XLT,41840,flex-fuel (FFV),V8,17.0,4,6
+F-150,2015,XLT,36555,flex-fuel (FFV),V6,20.0,4,6

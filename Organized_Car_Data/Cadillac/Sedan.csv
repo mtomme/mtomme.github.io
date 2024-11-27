@@ -1,0 +1,208 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+CT4,2020,Luxury,32995,gas,I4,27.0,4,5
+CT4,2020,Premium Luxury,37495,gas,I4,27.0,4,5
+CT4,2020,Sport,38595,gas,I4,27.0,4,5
+CT4,2020,V,44495,gas,I4,23.0,4,5
+CT5,2020,Luxury,36895,gas,I4,26.0,4,5
+CT5,2020,Premium Luxury,40695,gas,I4,26.0,4,5
+CT5,2020,Sport,41695,gas,I4,26.0,4,5
+CT5,2020,V,47695,gas,V6,21.0,4,5
+CT6,2020,Luxury,58995,gas,V6,21.0,4,5
+CT6,2020,Platinum,96495,gas,V8,17.0,4,5
+CT6,2020,Premium Luxury,74495,gas,V6,21.0,4,5
+CT6-V,2020,Base,94895,gas,V8,17.0,4,5
+CT6,2019,Luxury,55495,gas,V6,21.0,4,5
+CT6,2019,Luxury,50495,gas,I4,28.0,4,5
+CT6,2019,Platinum,95795,gas,V8,17.0,4,5
+CT6,2019,Platinum,86795,gas,V6,21.0,4,5
+CT6,2019,Premium Luxury,58095,gas,I4,28.0,4,5
+CT6,2019,Premium Luxury,62595,gas,V6,21.0,4,5
+CT6,2019,Sport,66595,gas,V6,21.0,4,5
+CT6-V,2019,Base,91795,gas,V8,17.0,4,5
+CTS,2019,Base,48995,gas,I4,24.0,4,5
+CTS,2019,Base,46995,gas,I4,25.0,4,5
+CTS,2019,Luxury,52695,gas,I4,25.0,4,5
+CTS,2019,Luxury,54695,gas,I4,24.0,4,5
+CTS,2019,Luxury,56695,gas,V6,21.0,4,5
+CTS,2019,Luxury,54695,gas,V6,23.0,4,5
+CTS,2019,Premium Luxury,62195,gas,V6,21.0,4,5
+CTS,2019,Premium Luxury,60195,gas,V6,23.0,4,5
+CTS,2019,V-Sport,61695,gas,V6,19.0,4,5
+CTS,2019,V-Sport Premium Luxury,71795,gas,V6,19.0,4,5
+CTS-V,2019,Base,86995,gas,V8,16.0,4,5
+XTS,2019,Base,46895,gas,V6,22.0,4,5
+XTS,2019,Luxury,50895,gas,V6,22.0,4,5
+XTS,2019,Luxury,52895,gas,V6,20.0,4,5
+XTS,2019,Platinum,66195,gas,V6,22.0,4,5
+XTS,2019,Platinum,68395,gas,V6,20.0,4,5
+XTS,2019,Platinum V-Sport,72995,gas,V6,18.0,4,5
+XTS,2019,Premium Luxury,57295,gas,V6,22.0,4,5
+XTS,2019,Premium Luxury,59495,gas,V6,20.0,4,5
+ATS,2018,Base,36895,gas,I4,25.0,4,5
+ATS,2018,Base,34895,gas,I4,25.0,4,5
+ATS,2018,Luxury,40695,gas,I4,25.0,4,5
+ATS,2018,Luxury,38695,gas,I4,25.0,4,5
+ATS,2018,Premium Luxury,46295,gas,V6,22.0,4,5
+ATS,2018,Premium Luxury,44295,gas,V6,24.0,4,5
+ATS,2018,Premium Performance,47295,gas,V6,24.0,4,5
+ATS-V,2018,Base,60995,gas,V6,19.0,4,5
+CT6,2018,Base,56095,gas,V6,21.0,4,5
+CT6,2018,Base,54095,gas,I4,25.0,4,5
+CT6,2018,Luxury,65195,gas,V6,21.0,4,5
+CT6,2018,Luxury,61195,gas,V6,21.0,4,5
+CT6,2018,Luxury,59195,gas,I4,25.0,4,5
+CT6,2018,Platinum,84295,gas,V6,21.0,4,5
+CT6,2018,Platinum,88295,gas,V6,21.0,4,5
+CT6,2018,PLUG-IN,75095,plug-in hybrid,I4,25.0,4,5
+CT6,2018,Premium Luxury,65295,gas,V6,21.0,4,5
+CT6,2018,Premium Luxury,69295,gas,V6,21.0,4,5
+CTS,2018,Base,48295,gas,I4,24.0,4,5
+CTS,2018,Base,46295,gas,I4,25.0,4,5
+CTS,2018,Luxury,55995,gas,V6,22.0,4,5
+CTS,2018,Luxury,53995,gas,V6,24.0,4,5
+CTS,2018,Luxury,53995,gas,I4,24.0,4,5
+CTS,2018,Luxury,51995,gas,I4,25.0,4,5
+CTS,2018,Premium Luxury,61495,gas,V6,22.0,4,5
+CTS,2018,Premium Luxury,59495,gas,V6,24.0,4,5
+CTS,2018,V-Sport,60995,gas,V6,19.0,4,5
+CTS,2018,V-Sport Premium Luxury,71095,gas,V6,19.0,4,5
+CTS-V,2018,Base,86295,gas,V8,17.0,4,5
+XTS,2018,Base,46395,gas,V6,22.0,4,5
+XTS,2018,Luxury,52395,gas,V6,20.0,4,5
+XTS,2018,Luxury,50395,gas,V6,22.0,4,5
+XTS,2018,Platinum,67895,gas,V6,20.0,4,5
+XTS,2018,Platinum,65695,gas,V6,22.0,4,5
+XTS,2018,Platinum V-Sport,72495,gas,V6,18.0,4,5
+XTS,2018,Premium Luxury,58995,gas,V6,20.0,4,5
+XTS,2018,Premium Luxury,56795,gas,V6,22.0,4,5
+ATS,2017,Base,36595,gas,I4,25.0,4,5
+ATS,2017,Base,34595,gas,I4,25.0,4,5
+ATS,2017,Luxury,40395,gas,I4,25.0,4,5
+ATS,2017,Luxury,38395,gas,I4,25.0,4,5
+ATS,2017,Premium Luxury,45995,gas,V6,22.0,4,5
+ATS,2017,Premium Luxury,43995,gas,V6,24.0,4,5
+ATS,2017,Premium Performance,46995,gas,V6,24.0,4,5
+ATS-V,2017,Base,60695,gas,V6,19.0,4,5
+CT6,2017,Base,55795,gas,V6,21.0,4,5
+CT6,2017,Base,53795,gas,I4,25.0,4,5
+CT6,2017,Luxury,64695,gas,V6,21.0,4,5
+CT6,2017,Luxury,60695,gas,V6,21.0,4,5
+CT6,2017,Luxury,58695,gas,I4,25.0,4,5
+CT6,2017,Platinum,87795,gas,V6,21.0,4,5
+CT6,2017,Platinum,83795,gas,V6,21.0,4,5
+CT6,2017,PLUG-IN,75095,plug-in hybrid,I4,26.0,4,5
+CT6,2017,Premium Luxury,67895,gas,V6,21.0,4,5
+CT6,2017,Premium Luxury,63895,gas,V6,21.0,4,5
+CTS,2017,Base,47995,gas,I4,24.0,4,5
+CTS,2017,Base,45995,gas,I4,25.0,4,5
+CTS,2017,Luxury,55695,gas,V6,22.0,4,5
+CTS,2017,Luxury,53695,gas,V6,24.0,4,5
+CTS,2017,Luxury,53695,gas,I4,24.0,4,5
+CTS,2017,Luxury,51695,gas,I4,25.0,4,5
+CTS,2017,Premium Luxury,61195,gas,V6,22.0,4,5
+CTS,2017,Premium Luxury,59195,gas,V6,24.0,4,5
+CTS,2017,V-Sport,60695,gas,V6,18.0,4,5
+CTS,2017,V-Sport Premium Luxury,70795,gas,V6,18.0,4,5
+CTS-V,2017,Base,85995,gas,V8,17.0,4,5
+XTS,2017,Base,45595,gas,V6,22.0,4,5
+XTS,2017,Luxury,51595,gas,V6,20.0,4,5
+XTS,2017,Luxury,49595,gas,V6,22.0,4,5
+XTS,2017,Platinum,64895,gas,V6,22.0,4,5
+XTS,2017,Platinum,67095,gas,V6,20.0,4,5
+XTS,2017,Platinum V-Sport,72695,gas,V6,18.0,4,5
+XTS,2017,Premium Luxury,58295,gas,V6,20.0,4,5
+XTS,2017,Premium Luxury,56095,gas,V6,22.0,4,5
+XTS,2017,Premium Luxury V-Sport,64095,gas,V6,18.0,4,5
+ATS,2016,Luxury,37340,gas,I4,26.0,4,5
+ATS,2016,Luxury,39340,gas,I4,26.0,4,5
+ATS,2016,Luxury,41340,gas,I4,25.0,4,5
+ATS,2016,Luxury,41340,gas,V6,24.0,4,5
+ATS,2016,Luxury,43340,gas,V6,22.0,4,5
+ATS,2016,Performance,47155,gas,V6,22.0,4,5
+ATS,2016,Performance,45155,gas,V6,24.0,4,5
+ATS,2016,Performance,45155,gas,I4,25.0,4,5
+ATS,2016,Performance,43155,gas,I4,26.0,4,5
+ATS,2016,Premium,48110,gas,V6,24.0,4,5
+ATS,2016,Premium,49210,gas,V6,22.0,4,5
+ATS,2016,Premium,46110,gas,I4,26.0,4,5
+ATS,2016,Premium,47210,gas,I4,25.0,4,5
+ATS,2016,Standard,35245,gas,I4,26.0,4,5
+ATS,2016,Standard,37245,gas,I4,25.0,4,5
+ATS,2016,Standard,33215,gas,I4,26.0,4,5
+ATS-V,2016,Base,60465,gas,V6,19.0,4,5
+CT6,2016,Base,53495,gas,I4,25.0,4,5
+CT6,2016,Base,55495,gas,V6,22.0,4,5
+CT6,2016,Luxury,58395,gas,I4,25.0,4,5
+CT6,2016,Luxury,64395,gas,V6,21.0,4,5
+CT6,2016,Luxury,60395,gas,V6,22.0,4,5
+CT6,2016,Platinum,83465,gas,V6,22.0,4,5
+CT6,2016,Platinum,87465,gas,V6,21.0,4,5
+CT6,2016,Premium Luxury,63570,gas,V6,22.0,4,5
+CT6,2016,Premium Luxury,67570,gas,V6,21.0,4,5
+CTS,2016,Luxury,53285,gas,I4,24.0,4,5
+CTS,2016,Luxury,55285,gas,V6,22.0,4,5
+CTS,2016,Luxury,53285,gas,V6,24.0,4,5
+CTS,2016,Luxury,51285,gas,I4,25.0,4,5
+CTS,2016,Performance,58285,gas,I4,24.0,4,5
+CTS,2016,Performance,56285,gas,I4,25.0,4,5
+CTS,2016,Performance,58285,gas,V6,24.0,4,5
+CTS,2016,Performance,60285,gas,V6,22.0,4,5
+CTS,2016,Premium,60685,gas,I4,25.0,4,5
+CTS,2016,Premium,62685,gas,V6,24.0,4,5
+CTS,2016,Premium,62685,gas,I4,24.0,4,5
+CTS,2016,Premium,64685,gas,V6,22.0,4,5
+CTS,2016,Standard,45560,gas,I4,25.0,4,5
+CTS,2016,Standard,47560,gas,I4,24.0,4,5
+CTS,2016,V-Sport,59955,gas,V6,19.0,4,5
+CTS,2016,V-Sport Premium,69955,gas,V6,19.0,4,5
+CTS-V,2016,Base,83995,gas,V8,17.0,4,5
+XTS,2016,Base,45295,gas,V6,22.0,4,5
+XTS,2016,Luxury,51250,gas,V6,20.0,4,5
+XTS,2016,Luxury,49250,gas,V6,22.0,4,5
+XTS,2016,Platinum,66780,gas,V6,20.0,4,5
+XTS,2016,Platinum,64550,gas,V6,22.0,4,5
+XTS,2016,Premium,57935,gas,V6,20.0,4,5
+XTS,2016,Premium,55705,gas,V6,22.0,4,5
+XTS,2016,Vsport Platinum,72320,gas,V6,18.0,4,5
+XTS,2016,Vsport Premium,63770,gas,V6,18.0,4,5
+ATS,2015,Luxury,39340,gas,I4,24.0,4,5
+ATS,2015,Luxury,41340,gas,I4,23.0,4,5
+ATS,2015,Luxury,37340,gas,I4,25.0,4,5
+ATS,2015,Luxury,41340,flex-fuel (FFV),V6,22.0,4,5
+ATS,2015,Luxury,43340,flex-fuel (FFV),V6,21.0,4,5
+ATS,2015,Performance,42660,gas,I4,24.0,4,5
+ATS,2015,Performance,44660,gas,I4,23.0,4,5
+ATS,2015,Performance,44660,flex-fuel (FFV),V6,22.0,4,5
+ATS,2015,Performance,46660,flex-fuel (FFV),V6,21.0,4,5
+ATS,2015,Premium,48715,flex-fuel (FFV),V6,21.0,4,5
+ATS,2015,Premium,47615,flex-fuel (FFV),V6,22.0,4,5
+ATS,2015,Premium,46715,gas,I4,23.0,4,5
+ATS,2015,Premium,45615,gas,I4,24.0,4,5
+ATS,2015,Standard,33215,gas,I4,25.0,4,5
+ATS,2015,Standard,35245,gas,I4,24.0,4,5
+ATS,2015,Standard,37245,gas,I4,23.0,4,5
+CTS,2015,Luxury,51270,gas,I4,24.0,4,5
+CTS,2015,Luxury,52970,flex-fuel (FFV),V6,22.0,4,5
+CTS,2015,Luxury,53270,gas,I4,22.0,4,5
+CTS,2015,Luxury,54970,flex-fuel (FFV),V6,21.0,4,5
+CTS,2015,Performance,59370,flex-fuel (FFV),V6,21.0,4,5
+CTS,2015,Performance,57670,gas,I4,22.0,4,5
+CTS,2015,Performance,57370,flex-fuel (FFV),V6,22.0,4,5
+CTS,2015,Performance,55670,gas,I4,24.0,4,5
+CTS,2015,Premium,63770,flex-fuel (FFV),V6,21.0,4,5
+CTS,2015,Premium,62070,gas,I4,22.0,4,5
+CTS,2015,Premium,61770,flex-fuel (FFV),V6,22.0,4,5
+CTS,2015,Premium,60070,gas,I4,24.0,4,5
+CTS,2015,Standard,45345,gas,I4,24.0,4,5
+CTS,2015,Standard,47345,gas,I4,22.0,4,5
+CTS,2015,Vsport,59340,gas,V6,18.0,4,5
+CTS,2015,Vsport Premium,69340,gas,V6,18.0,4,5
+XTS,2015,Base,44660,gas,V6,21.0,4,5
+XTS,2015,Luxury,49000,gas,V6,21.0,4,5
+XTS,2015,Luxury,51000,gas,V6,20.0,4,5
+XTS,2015,Platinum,64245,gas,V6,20.0,4,5
+XTS,2015,Platinum,62015,gas,V6,21.0,4,5
+XTS,2015,Premium,56900,gas,V6,20.0,4,5
+XTS,2015,Premium,54670,gas,V6,21.0,4,5
+XTS,2015,Vsport Platinum,69785,gas,V6,19.0,4,5
+XTS,2015,Vsport Premium,62735,gas,V6,19.0,4,5

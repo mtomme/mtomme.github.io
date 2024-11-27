@@ -1,0 +1,303 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+4Runner,2020,Limited,44885,gas,V6,18.0,5,5
+4Runner,2020,Limited,46920,gas,V6,18.0,5,5
+4Runner,2020,Nightshade Edition,48660,gas,V6,18.0,5,5
+4Runner,2020,Nightshade Edition,46625,gas,V6,18.0,5,5
+4Runner,2020,SR5,37895,gas,V6,18.0,5,5
+4Runner,2020,SR5,36020,gas,V6,18.0,5,5
+4Runner,2020,SR5 Premium,41090,gas,V6,18.0,5,5
+4Runner,2020,SR5 Premium,39215,gas,V6,18.0,5,5
+4Runner,2020,TRD OFF-ROAD,39740,gas,V6,18.0,5,5
+4Runner,2020,TRD OFF-ROAD Premium,42470,gas,V6,18.0,5,5
+4Runner,2020,TRD PRO,49765,gas,V6,18.0,5,5
+4Runner,2020,Venture Special Edition,44285,gas,V6,18.0,5,5
+C-HR,2020,LE,21295,gas,I4,29.0,5,5
+C-HR,2020,Limited,26350,gas,I4,29.0,5,5
+C-HR,2020,XLE,23330,gas,I4,29.0,5,5
+Highlander,2020,L,36200,gas,V6,23.0,5,8
+Highlander,2020,L,34600,gas,V6,24.0,5,8
+Highlander,2020,LE,38400,gas,V6,23.0,5,8
+Highlander,2020,LE,36800,gas,V6,24.0,5,8
+Highlander,2020,Limited,45600,gas,V6,23.0,5,7
+Highlander,2020,Limited,43650,gas,V6,24.0,5,7
+Highlander,2020,Platinum,48800,gas,V6,23.0,5,7
+Highlander,2020,Platinum,46850,gas,V6,24.0,5,7
+Highlander,2020,XLE,41200,gas,V6,23.0,5,7
+Highlander,2020,XLE,39600,gas,V6,24.0,5,7
+Highlander Hybrid,2020,LE,39800,hybrid,I4,35.0,5,8
+Highlander Hybrid,2020,LE,38200,hybrid,I4,36.0,5,8
+Highlander Hybrid,2020,Limited,47000,hybrid,I4,35.0,5,7
+Highlander Hybrid,2020,Limited,45050,hybrid,I4,36.0,5,7
+Highlander Hybrid,2020,Platinum,50200,hybrid,I4,35.0,5,7
+Highlander Hybrid,2020,Platinum,48250,hybrid,I4,36.0,5,7
+Highlander Hybrid,2020,XLE,42600,hybrid,I4,35.0,5,7
+Highlander Hybrid,2020,XLE,41000,hybrid,I4,36.0,5,7
+Land Cruiser,2020,Base,85415,gas,V8,14.0,5,8
+Land Cruiser,2020,Heritage Edition,87745,gas,V8,14.0,5,5
+RAV4,2020,Adventure,33055,gas,I4,28.0,5,5
+RAV4,2020,Base,25950,gas,I4,30.0,5,5
+RAV4,2020,LE,27350,gas,I4,30.0,5,5
+RAV4,2020,Limited,35880,gas,I4,28.0,5,5
+RAV4,2020,Limited,34480,gas,I4,30.0,5,5
+RAV4,2020,TRD Off-Road,35280,gas,I4,27.0,5,5
+RAV4,2020,XLE,28645,gas,I4,29.0,5,5
+RAV4,2020,XLE,27245,gas,I4,30.0,5,5
+RAV4,2020,XLE Premium,31350,gas,I4,29.0,5,5
+RAV4,2020,XLE Premium,29950,gas,I4,30.0,5,5
+RAV4 Hybrid,2020,LE,28350,hybrid,I4,40.0,5,5
+RAV4 Hybrid,2020,LE,28350,hybrid,I4,40.0,5,5
+RAV4 Hybrid,2020,Limited,36880,hybrid,I4,40.0,5,5
+RAV4 Hybrid,2020,Limited,36880,hybrid,I4,40.0,5,5
+RAV4 Hybrid,2020,XLE,29645,hybrid,I4,40.0,5,5
+RAV4 Hybrid,2020,XLE,29645,hybrid,I4,40.0,5,5
+RAV4 Hybrid,2020,XSE,34300,hybrid,I4,40.0,5,5
+RAV4 Hybrid,2020,XSE,34300,hybrid,I4,40.0,5,5
+Sequoia,2020,Limited,62215,gas,V8,14.0,5,8
+Sequoia,2020,Limited,58990,gas,V8,15.0,5,8
+Sequoia,2020,Platinum,69245,gas,V8,14.0,5,7
+Sequoia,2020,Platinum,66020,gas,V8,15.0,5,7
+Sequoia,2020,SR5,53205,gas,V8,14.0,5,8
+Sequoia,2020,SR5,49980,gas,V8,15.0,5,8
+Sequoia,2020,TRD PRO,64105,gas,V8,14.0,5,7
+Sequoia,2020,TRD Sport,52695,gas,V8,15.0,5,7
+Sequoia,2020,TRD Sport,55920,gas,V8,14.0,5,7
+4Runner,2019,Limited,45660,gas,V6,18.0,5,5
+4Runner,2019,Limited,43625,gas,V6,18.0,5,5
+4Runner,2019,Limited Nightshade Edition,47400,gas,V6,18.0,5,5
+4Runner,2019,Limited Nightshade Edition,45365,gas,V6,18.0,5,5
+4Runner,2019,SR5,37185,gas,V6,18.0,5,5
+4Runner,2019,SR5,35310,gas,V6,18.0,5,5
+4Runner,2019,SR5 Premium,39015,gas,V6,18.0,5,5
+4Runner,2019,SR5 Premium,37140,gas,V6,18.0,5,5
+4Runner,2019,TRD OFF-ROAD,38485,gas,V6,18.0,5,5
+4Runner,2019,TRD OFF-ROAD Premium,40395,gas,V6,18.0,5,5
+4Runner,2019,TRD PRO,46815,gas,V6,18.0,5,5
+C-HR,2019,LE,21145,gas,I4,29.0,5,5
+C-HR,2019,Limited,26200,gas,I4,29.0,5,5
+C-HR,2019,XLE,23180,gas,I4,29.0,5,5
+Highlander,2019,LE,35340,gas,V6,22.0,5,8
+Highlander,2019,LE,33880,gas,V6,23.0,5,8
+Highlander,2019,LE,31830,gas,I4,22.0,5,8
+Highlander,2019,LE Plus,38220,gas,V6,23.0,5,8
+Highlander,2019,LE Plus,36760,gas,V6,23.0,5,8
+Highlander,2019,Limited,44390,gas,V6,22.0,5,7
+Highlander,2019,Limited,42930,gas,V6,23.0,5,7
+Highlander,2019,Limited Platinum,47510,gas,V6,22.0,5,7
+Highlander,2019,Limited Platinum,46050,gas,V6,23.0,5,7
+Highlander,2019,SE,40940,gas,V6,23.0,5,7
+Highlander,2019,SE,42400,gas,V6,22.0,5,7
+Highlander,2019,XLE,41180,gas,V6,22.0,5,7
+Highlander,2019,XLE,39720,gas,V6,23.0,5,7
+Highlander Hybrid,2019,LE,37520,hybrid,V6,29.0,5,8
+Highlander Hybrid,2019,Limited,46060,hybrid,V6,28.0,5,7
+Highlander Hybrid,2019,Limited Platinum,49180,hybrid,V6,28.0,5,7
+Highlander Hybrid,2019,XLE,42580,hybrid,V6,28.0,5,8
+Land Cruiser,2019,Base,85165,gas,V8,15.0,5,8
+RAV4,2019,Adventure,33050,gas,I4,28.0,5,5
+RAV4,2019,LE,27050,gas,I4,30.0,5,5
+RAV4,2019,LE,25650,gas,I4,30.0,5,5
+RAV4,2019,Limited,33650,gas,I4,30.0,5,5
+RAV4,2019,Limited,35050,gas,I4,28.0,5,5
+RAV4,2019,XLE,27450,gas,I4,30.0,5,5
+RAV4,2019,XLE,28850,gas,I4,28.0,5,5
+RAV4,2019,XLE Premium,29650,gas,I4,30.0,5,5
+RAV4,2019,XLE Premium,31050,gas,I4,28.0,5,5
+RAV4 Hybrid,2019,LE,27850,hybrid,I4,39.0,5,5
+RAV4 Hybrid,2019,Limited,35850,hybrid,I4,39.0,5,5
+RAV4 Hybrid,2019,XLE,29650,hybrid,I4,39.0,5,5
+RAV4 Hybrid,2019,XSE,33850,hybrid,I4,39.0,5,5
+Sequoia,2019,Limited,60770,gas,V8,14.0,5,8
+Sequoia,2019,Limited,57545,gas,V8,15.0,5,8
+Sequoia,2019,Platinum,64760,gas,V8,15.0,5,7
+Sequoia,2019,Platinum,67985,gas,V8,14.0,5,7
+Sequoia,2019,SR5,49050,gas,V8,15.0,5,8
+Sequoia,2019,SR5,52275,gas,V8,14.0,5,8
+Sequoia,2019,TRD Sport,51765,gas,V8,15.0,5,7
+Sequoia,2019,TRD Sport,54990,gas,V8,14.0,5,7
+4Runner,2018,Limited,45160,gas,V6,18.0,5,5
+4Runner,2018,Limited,43125,gas,V6,18.0,5,5
+4Runner,2018,SR5,36685,gas,V6,18.0,5,5
+4Runner,2018,SR5,34810,gas,V6,18.0,5,5
+4Runner,2018,SR5 Premium,38515,gas,V6,18.0,5,5
+4Runner,2018,SR5 Premium,36640,gas,V6,18.0,5,5
+4Runner,2018,TRD OFF-ROAD,37985,gas,V6,18.0,5,5
+4Runner,2018,TRD OFF-ROAD Premium,39895,gas,V6,18.0,5,5
+4Runner,2018,TRD PRO,43075,gas,V6,18.0,5,5
+C-HR,2018,XLE,22500,gas,I4,29.0,5,5
+C-HR,2018,XLE Premium,24350,gas,I4,29.0,5,5
+Highlander,2018,LE,31230,gas,I4,22.0,5,8
+Highlander,2018,LE,33280,gas,V6,23.0,5,8
+Highlander,2018,LE,34740,gas,V6,22.0,5,8
+Highlander,2018,LE Plus,35660,gas,V6,23.0,5,8
+Highlander,2018,LE Plus,37120,gas,V6,23.0,5,8
+Highlander,2018,Limited,43740,gas,V6,22.0,5,7
+Highlander,2018,Limited,42280,gas,V6,23.0,5,7
+Highlander,2018,Limited Platinum,45400,gas,V6,23.0,5,7
+Highlander,2018,Limited Platinum,46860,gas,V6,22.0,5,7
+Highlander,2018,SE,40290,gas,V6,23.0,5,7
+Highlander,2018,SE,41750,gas,V6,22.0,5,7
+Highlander,2018,XLE,40580,gas,V6,22.0,5,7
+Highlander,2018,XLE,39120,gas,V6,23.0,5,7
+Highlander Hybrid,2018,LE,36870,hybrid,V6,29.0,5,8
+Highlander Hybrid,2018,Limited,45360,hybrid,V6,28.0,5,7
+Highlander Hybrid,2018,Limited Platinum,48480,hybrid,V6,28.0,5,7
+Highlander Hybrid,2018,XLE,41930,hybrid,V6,28.0,5,8
+Land Cruiser,2018,Base,84565,gas,V8,15.0,5,8
+RAV4,2018,Adventure,28650,gas,I4,25.0,5,5
+RAV4,2018,Adventure,27950,gas,I4,26.0,5,5
+RAV4,2018,LE,26060,gas,I4,25.0,5,5
+RAV4,2018,LE,24660,gas,I4,26.0,5,5
+RAV4,2018,Limited,31155,gas,I4,25.0,5,5
+RAV4,2018,Limited,32555,gas,I4,24.0,5,5
+RAV4,2018,Platinum,36400,gas,I4,24.0,5,5
+RAV4,2018,Platinum,35000,gas,I4,25.0,5,5
+RAV4,2018,SE,30440,gas,I4,24.0,5,5
+RAV4,2018,SE,29040,gas,I4,25.0,5,5
+RAV4,2018,XLE,25750,gas,I4,26.0,5,5
+RAV4,2018,XLE,27150,gas,I4,25.0,5,5
+RAV4 Hybrid,2018,LE,27385,hybrid,I4,32.0,5,5
+RAV4 Hybrid,2018,LE Plus Fleet,27910,hybrid,I4,32.0,5,5
+RAV4 Hybrid,2018,Limited,34280,hybrid,I4,32.0,5,5
+RAV4 Hybrid,2018,SE,32435,hybrid,I4,32.0,5,5
+RAV4 Hybrid,2018,XLE,29280,hybrid,I4,32.0,5,5
+Sequoia,2018,Limited,60320,gas,V8,14.0,5,8
+Sequoia,2018,Limited,57095,gas,V8,15.0,5,8
+Sequoia,2018,Limited FFV,60020,flex-fuel (FFV),V8,14.0,5,8
+Sequoia,2018,Platinum,67535,gas,V8,14.0,5,7
+Sequoia,2018,Platinum,64310,gas,V8,15.0,5,7
+Sequoia,2018,Platinum FFV,67235,flex-fuel (FFV),V8,14.0,5,7
+Sequoia,2018,SR5,51825,gas,V8,14.0,5,8
+Sequoia,2018,SR5,48600,gas,V8,15.0,5,8
+Sequoia,2018,SR5 FFV,51525,flex-fuel (FFV),V8,14.0,5,8
+Sequoia,2018,TRD Sport,51315,gas,V8,15.0,5,7
+Sequoia,2018,TRD Sport,54540,gas,V8,14.0,5,7
+Sequoia,2018,TRD Sport FFV,54240,flex-fuel (FFV),V8,14.0,5,7
+4Runner,2017,Limited,44560,gas,V6,18.0,5,5
+4Runner,2017,Limited,42525,gas,V6,18.0,5,5
+4Runner,2017,SR5,34210,gas,V6,18.0,5,5
+4Runner,2017,SR5,36085,gas,V6,18.0,5,5
+4Runner,2017,SR5 Premium,36040,gas,V6,18.0,5,5
+4Runner,2017,SR5 Premium,37915,gas,V6,18.0,5,5
+4Runner,2017,TRD OFF-ROAD,37335,gas,V6,18.0,5,5
+4Runner,2017,TRD OFF-ROAD Premium,39295,gas,V6,18.0,5,5
+4Runner,2017,TRD PRO,42400,gas,V6,18.0,5,5
+Highlander,2017,LE,34140,gas,V6,23.0,5,8
+Highlander,2017,LE,30630,gas,I4,22.0,5,8
+Highlander,2017,LE,32680,gas,V6,23.0,5,8
+Highlander,2017,LE Plus,36520,gas,V6,22.0,5,8
+Highlander,2017,LE Plus,35060,gas,V6,23.0,5,8
+Highlander,2017,Limited,41680,gas,V6,23.0,5,7
+Highlander,2017,Limited,43140,gas,V6,22.0,5,7
+Highlander,2017,Limited Platinum,44800,gas,V6,23.0,5,7
+Highlander,2017,Limited Platinum,46260,gas,V6,22.0,5,7
+Highlander,2017,SE,39690,gas,V6,23.0,5,7
+Highlander,2017,SE,41150,gas,V6,22.0,5,7
+Highlander,2017,XLE,38520,gas,V6,23.0,5,7
+Highlander,2017,XLE,39980,gas,V6,22.0,5,7
+Highlander Hybrid,2017,LE,36270,hybrid,V6,29.0,5,8
+Highlander Hybrid,2017,Limited,44760,hybrid,V6,28.0,5,7
+Highlander Hybrid,2017,Limited Platinum,47880,hybrid,V6,28.0,5,7
+Highlander Hybrid,2017,XLE,41330,hybrid,V6,28.0,5,8
+Land Cruiser,2017,Base,84775,gas,V8,15.0,5,8
+RAV4,2017,LE,25810,gas,I4,25.0,5,5
+RAV4,2017,LE,24410,gas,I4,26.0,5,5
+RAV4,2017,Limited,30905,gas,I4,25.0,5,5
+RAV4,2017,Limited,32305,gas,I4,24.0,5,5
+RAV4,2017,Platinum,34750,gas,I4,25.0,5,5
+RAV4,2017,Platinum,36150,gas,I4,24.0,5,5
+RAV4,2017,SE,28790,gas,I4,26.0,5,5
+RAV4,2017,SE,30190,gas,I4,25.0,5,5
+RAV4,2017,XLE,26900,gas,I4,25.0,5,5
+RAV4,2017,XLE,25500,gas,I4,26.0,5,5
+RAV4 Hybrid,2017,Limited,34030,hybrid,I4,32.0,5,5
+RAV4 Hybrid,2017,SE,32185,hybrid,I4,32.0,5,5
+RAV4 Hybrid,2017,XLE,29030,hybrid,I4,32.0,5,5
+Sequoia,2017,Limited,57575,gas,V8,14.0,5,8
+Sequoia,2017,Limited,54350,gas,V8,15.0,5,8
+Sequoia,2017,Limited FFV,57575,flex-fuel (FFV),V8,14.0,5,8
+Sequoia,2017,Platinum,62090,gas,V8,15.0,5,7
+Sequoia,2017,Platinum,65315,gas,V8,14.0,5,7
+Sequoia,2017,Platinum FFV,65315,flex-fuel (FFV),V8,14.0,5,7
+Sequoia,2017,SR5,48785,gas,V8,14.0,5,8
+Sequoia,2017,SR5,45560,gas,V8,15.0,5,8
+Sequoia,2017,SR5 FFV,48785,flex-fuel (FFV),V8,14.0,5,8
+4Runner,2016,Limited,44360,gas,V6,18.0,5,5
+4Runner,2016,Limited,42325,gas,V6,19.0,5,5
+4Runner,2016,SR5,35885,gas,V6,18.0,5,5
+4Runner,2016,SR5,34010,gas,V6,19.0,5,5
+4Runner,2016,SR5 Premium,38565,gas,V6,18.0,5,5
+4Runner,2016,SR5 Premium,36690,gas,V6,19.0,5,5
+4Runner,2016,Trail,36915,gas,V6,18.0,5,5
+4Runner,2016,Trail Premium,39595,gas,V6,18.0,5,5
+4Runner,2016,TRD PRO,41850,gas,V6,18.0,5,5
+Highlander,2016,LE,30490,gas,I4,22.0,5,8
+Highlander,2016,LE,32015,gas,V6,21.0,5,8
+Highlander,2016,LE,33475,gas,V6,20.0,5,8
+Highlander,2016,LE Plus,34395,gas,V6,21.0,5,8
+Highlander,2016,LE Plus,35855,gas,V6,20.0,5,8
+Highlander,2016,Limited,42375,gas,V6,20.0,5,7
+Highlander,2016,Limited,40915,gas,V6,21.0,5,7
+Highlander,2016,Limited Platinum,44990,gas,V6,20.0,5,7
+Highlander,2016,Limited Platinum,43530,gas,V6,21.0,5,7
+Highlander,2016,XLE,37315,gas,V6,21.0,5,8
+Highlander,2016,XLE,38775,gas,V6,20.0,5,8
+Highlander Hybrid,2016,Limited,47870,hybrid,V6,28.0,5,7
+Highlander Hybrid,2016,Limited Platinum,50485,hybrid,V6,28.0,5,7
+Land Cruiser,2016,Base,83825,gas,V8,15.0,5,8
+RAV4,2016,LE,25750,gas,I4,25.0,5,5
+RAV4,2016,LE,24350,gas,I4,26.0,5,5
+RAV4,2016,Limited,32910,gas,I4,25.0,5,5
+RAV4,2016,Limited,31510,gas,I4,26.0,5,5
+RAV4,2016,SE,30665,gas,I4,25.0,5,5
+RAV4,2016,SE,29265,gas,I4,26.0,5,5
+RAV4,2016,XLE,27670,gas,I4,25.0,5,5
+RAV4,2016,XLE,26270,gas,I4,26.0,5,5
+RAV4 Hybrid,2016,Limited,33610,hybrid,I4,33.0,5,5
+RAV4 Hybrid,2016,XLE,28370,hybrid,I4,33.0,5,5
+Sequoia,2016,Limited,57340,gas,V8,14.0,5,8
+Sequoia,2016,Limited,54115,gas,V8,15.0,5,8
+Sequoia,2016,Limited FFV,57340,flex-fuel (FFV),V8,14.0,5,8
+Sequoia,2016,Platinum,61855,gas,V8,15.0,5,7
+Sequoia,2016,Platinum,65080,gas,V8,14.0,5,7
+Sequoia,2016,Platinum FFV,65080,flex-fuel (FFV),V8,14.0,5,7
+Sequoia,2016,SR5,45325,gas,V8,15.0,5,8
+Sequoia,2016,SR5,48550,gas,V8,14.0,5,8
+Sequoia,2016,SR5 FFV,48550,flex-fuel (FFV),V8,14.0,5,8
+4Runner,2015,Limited,43620,gas,V6,18.0,5,5
+4Runner,2015,Limited,41585,gas,V6,19.0,5,5
+4Runner,2015,SR5,35085,gas,V6,18.0,5,5
+4Runner,2015,SR5,33210,gas,V6,19.0,5,5
+4Runner,2015,SR5 Premium,35950,gas,V6,19.0,5,5
+4Runner,2015,SR5 Premium,37825,gas,V6,18.0,5,5
+4Runner,2015,Trail,36115,gas,V6,18.0,5,5
+4Runner,2015,Trail Premium,38855,gas,V6,18.0,5,5
+4Runner,2015,TRD PRO,41310,gas,V6,18.0,5,5
+Highlander,2015,LE,29765,gas,I4,22.0,5,8
+Highlander,2015,LE,31070,gas,V6,21.0,5,8
+Highlander,2015,LE,32530,gas,V6,20.0,5,8
+Highlander,2015,LE Plus,33290,gas,V6,21.0,5,8
+Highlander,2015,LE Plus,34750,gas,V6,20.0,5,8
+Highlander,2015,Limited,40190,gas,V6,21.0,5,7
+Highlander,2015,Limited,41650,gas,V6,20.0,5,7
+Highlander,2015,Limited Platinum,42680,gas,V6,21.0,5,7
+Highlander,2015,Limited Platinum,44140,gas,V6,20.0,5,7
+Highlander,2015,XLE,38050,gas,V6,20.0,5,8
+Highlander,2015,XLE,36590,gas,V6,21.0,5,8
+Highlander Hybrid,2015,Limited,47850,hybrid,V6,28.0,5,7
+Highlander Hybrid,2015,Limited Platinum,50340,hybrid,V6,28.0,5,7
+Land Cruiser,2015,Base,80155,gas,V8,15.0,5,8
+RAV4,2015,LE,23680,gas,I4,26.0,5,5
+RAV4,2015,LE,25080,gas,I4,25.0,5,5
+RAV4,2015,Limited,29850,gas,I4,25.0,5,5
+RAV4,2015,Limited,28450,gas,I4,26.0,5,5
+RAV4,2015,XLE,25240,gas,I4,26.0,5,5
+RAV4,2015,XLE,26640,gas,I4,25.0,5,5
+Sequoia,2015,Limited,56580,gas,V8,15.0,5,8
+Sequoia,2015,Limited,53355,gas,V8,15.0,5,8
+Sequoia,2015,Limited FFV,56580,flex-fuel (FFV),V8,15.0,5,8
+Sequoia,2015,Platinum,64320,gas,V8,15.0,5,7
+Sequoia,2015,Platinum,61095,gas,V8,15.0,5,7
+Sequoia,2015,Platinum FFV,64320,flex-fuel (FFV),V8,15.0,5,7
+Sequoia,2015,SR5,47620,gas,V8,15.0,5,8
+Sequoia,2015,SR5,44395,gas,V8,15.0,5,8
+Sequoia,2015,SR5 FFV,47620,flex-fuel (FFV),V8,15.0,5,8

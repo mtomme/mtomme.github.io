@@ -1,0 +1,266 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+Defender,2020,110 P300,49900,gas,I4,18.0,5,5
+Defender,2020,110 P300 S,53350,gas,I4,18.0,5,5
+Defender,2020,110 P400 First Edition,68650,mild hybrid,I6,19.0,5,7
+Defender,2020,110 P400 HSE,68350,mild hybrid,I6,19.0,5,5
+Defender,2020,110 P400 SE,62250,mild hybrid,I6,19.0,5,5
+Defender,2020,110 P400 X,80900,mild hybrid,I6,19.0,5,5
+Defender,2020,90 P400 First Edition,65100,mild hybrid,I6,19.0,3,6
+Discovery,2020,HSE,59700,gas,V6,18.0,5,5
+Discovery,2020,HSE Luxury,67200,gas,V6,18.0,5,7
+Discovery,2020,HSE Luxury Td6,69200,diesel,V6,23.0,5,7
+Discovery,2020,HSE Td6,61700,diesel,V6,23.0,5,5
+Discovery,2020,Landmark Edition,58500,gas,V6,18.0,5,7
+Discovery,2020,SE,52300,gas,V6,18.0,5,5
+Discovery,2020,SE Td6,54300,diesel,V6,23.0,5,5
+Discovery Sport,2020,P250,37800,gas,I4,21.0,5,5
+Discovery Sport,2020,P250 R-Dynamic S,43100,gas,I4,21.0,5,5
+Discovery Sport,2020,P250 R-Dynamic SE,46150,gas,I4,21.0,5,5
+Discovery Sport,2020,P250 S,41500,gas,I4,21.0,5,5
+Discovery Sport,2020,P250 SE,44600,gas,I4,21.0,5,5
+Discovery Sport,2020,P290 R-Dynamic HSE,52800,mild hybrid,I4,21.0,5,5
+Range Rover,2020,P360,90900,mild hybrid,I6,21.0,5,5
+Range Rover,2020,P400 HSE,96150,mild hybrid,I6,21.0,5,5
+Range Rover,2020,P400e Autobiography,130300,plug-in hybrid,I4,19.0,5,5
+Range Rover,2020,P400e HSE,95950,plug-in hybrid,I4,19.0,5,5
+Range Rover,2020,P525 Autobiography,143800,gas,V8,18.0,5,5
+Range Rover,2020,P525 Autobiography LWB,150300,gas,V8,18.0,5,5
+Range Rover,2020,P525 HSE,105950,gas,V8,18.0,5,5
+Range Rover,2020,P525 HSE LWB,109950,gas,V8,18.0,5,5
+Range Rover,2020,SVAutobiography Dynamic,178500,gas,V8,16.0,5,5
+Range Rover,2020,SVAutobiography LWB,209500,gas,V8,15.0,5,4
+Range Rover,2020,TDv6,91700,diesel,V6,24.0,5,5
+Range Rover,2020,TDv6 HSE,96950,diesel,V6,24.0,5,5
+Range Rover Evoque,2020,First Edition,56850,gas,I4,23.0,5,5
+Range Rover Evoque,2020,R-Dynamic HSE,55800,mild hybrid,I4,23.0,5,5
+Range Rover Evoque,2020,R-Dynamic S,46600,mild hybrid,I4,23.0,5,5
+Range Rover Evoque,2020,R-Dynamic SE,51150,mild hybrid,I4,23.0,5,5
+Range Rover Evoque,2020,S,42650,gas,I4,23.0,5,5
+Range Rover Evoque,2020,SE,47200,gas,I4,23.0,5,5
+Range Rover Sport,2020,P360 HSE,74250,mild hybrid,I6,21.0,5,5
+Range Rover Sport,2020,P360 SE,68650,mild hybrid,I6,21.0,5,5
+Range Rover Sport,2020,P400 HST,82950,mild hybrid,I6,21.0,5,5
+Range Rover Sport,2020,P400e Autobiography,88990,plug-in hybrid,I4,19.0,5,5
+Range Rover Sport,2020,P400e HSE,79000,plug-in hybrid,I4,19.0,5,5
+Range Rover Sport,2020,P525 Autobiography,97500,gas,V8,19.0,5,5
+Range Rover Sport,2020,P525 HSE Dynamic,86500,gas,V8,19.0,5,5
+Range Rover Sport,2020,SVR,114500,gas,V8,16.0,5,5
+Range Rover Sport,2020,TDv6 HSE,75000,diesel,V6,24.0,5,5
+Range Rover Sport,2020,TDv6 SE,69500,diesel,V6,24.0,5,5
+Range Rover Velar,2020,P250 R-Dynamic S,58500,gas,I4,23.0,5,5
+Range Rover Velar,2020,P250 S,56300,gas,I4,23.0,5,5
+Range Rover Velar,2020,P340 R-Dynamic S,64400,gas,V6,20.0,5,5
+Range Rover Velar,2020,P340 S,62200,gas,V6,20.0,5,5
+Range Rover Velar,2020,P380 R-Dynamic HSE,75300,gas,V6,20.0,5,5
+Range Rover Velar,2020,SVAutobiography Dynamic Edition,90790,gas,V8,17.0,5,5
+Discovery,2019,HSE,59100,gas,V6,18.0,5,5
+Discovery,2019,HSE Luxury,66500,gas,V6,18.0,5,7
+Discovery,2019,HSE Luxury Td6,68500,diesel,V6,23.0,5,7
+Discovery,2019,HSE Td6,61100,diesel,V6,23.0,5,5
+Discovery,2019,SE,52300,gas,V6,18.0,5,5
+Discovery,2019,SE Td6,54300,diesel,V6,23.0,5,5
+Discovery Sport,2019,HSE,42395,gas,I4,22.0,5,5
+Discovery Sport,2019,HSE Dynamic,49395,gas,I4,22.0,5,5
+Discovery Sport,2019,HSE Luxury,46795,gas,I4,22.0,5,5
+Discovery Sport,2019,HSE Luxury Dynamic,52895,gas,I4,22.0,5,5
+Discovery Sport,2019,Landmark,44795,gas,I4,22.0,5,5
+Discovery Sport,2019,SE,37795,gas,I4,22.0,5,5
+Range Rover,2019,Autobiography,142295,gas,V8,18.0,5,5
+Range Rover,2019,Autobiography LWB,148595,gas,V8,18.0,5,5
+Range Rover,2019,Base,89160,gas,V6,19.0,5,5
+Range Rover,2019,HSE,94350,gas,V6,19.0,5,5
+Range Rover,2019,HSE Td6,96350,diesel,V6,24.0,5,5
+Range Rover,2019,Supercharged,105150,gas,V8,18.0,5,5
+Range Rover,2019,Supercharged LWB,109195,gas,V8,18.0,5,5
+Range Rover,2019,SVAutobiography Dynamic,177500,gas,V8,16.0,5,5
+Range Rover,2019,SVAutobiography LWB,208200,gas,V8,15.0,5,4
+Range Rover,2019,Td6,91160,diesel,V6,24.0,5,5
+Range Rover Evoque,2019,Autobiography 237 HP,62600,gas,I4,25.0,5,5
+Range Rover Evoque,2019,Autobiography 286 HP,65600,gas,I4,24.0,5,5
+Range Rover Evoque,2019,HSE,51100,gas,I4,25.0,5,5
+Range Rover Evoque,2019,HSE Dynamic,57800,gas,I4,24.0,3,4
+Range Rover Evoque,2019,HSE Dynamic 237 HP,54300,gas,I4,25.0,5,5
+Range Rover Evoque,2019,HSE Dynamic 286 HP,57300,gas,I4,24.0,5,5
+Range Rover Evoque,2019,Landmark Edition,48400,gas,I4,25.0,5,5
+Range Rover Evoque,2019,SE,41800,gas,I4,25.0,5,5
+Range Rover Evoque,2019,SE Dynamic,52100,gas,I4,24.0,3,4
+Range Rover Evoque,2019,SE Premium,45900,gas,I4,25.0,5,5
+Range Rover Sport,2019,Autobiography,96950,gas,V8,19.0,5,5
+Range Rover Sport,2019,HSE,72650,gas,V6,19.0,5,5
+Range Rover Sport,2019,HSE Dynamic,82450,gas,V6,19.0,5,5
+Range Rover Sport,2019,HSE td6,74650,diesel,V6,24.0,5,5
+Range Rover Sport,2019,P360 HSE,73990,mild hybrid,I6,21.0,5,5
+Range Rover Sport,2019,P360 SE,68500,mild hybrid,I6,21.0,5,5
+Range Rover Sport,2019,P400 HST,82950,mild hybrid,I6,19.0,5,5
+Range Rover Sport,2019,SE,67050,gas,V6,19.0,5,5
+Range Rover Sport,2019,SE Td6,69050,diesel,V6,24.0,5,5
+Range Rover Sport,2019,Supercharged Dynamic,85850,gas,V8,19.0,5,5
+Range Rover Sport,2019,SVR,113900,gas,V8,16.0,5,5
+Range Rover Velar,2019,Base,49600,gas,I4,23.0,5,5
+Range Rover Velar,2019,R-Dynamic HSE,74000,gas,V6,20.0,5,5
+Range Rover Velar,2019,R-Dynamic SE,67600,gas,V6,20.0,5,5
+Range Rover Velar,2019,R-Dynamic SE,58700,gas,I4,23.0,5,5
+Range Rover Velar,2019,R-Dynamic SE,65200,gas,V6,20.0,5,5
+Range Rover Velar,2019,S,55900,diesel,I4,28.0,5,5
+Range Rover Velar,2019,S,60900,gas,V6,20.0,5,5
+Range Rover Velar,2019,S,63300,gas,V6,20.0,5,5
+Range Rover Velar,2019,S,54400,gas,I4,23.0,5,5
+Discovery,2018,HSE,58490,gas,V6,18.0,5,5
+Discovery,2018,HSE Luxury,65490,gas,V6,18.0,5,7
+Discovery,2018,HSE Luxury Td6,67490,diesel,V6,23.0,5,7
+Discovery,2018,HSE Td6,60490,diesel,V6,23.0,5,5
+Discovery,2018,SE,52090,gas,V6,18.0,5,5
+Discovery,2018,SE Td6,54090,diesel,V6,23.0,5,5
+Discovery Sport,2018,HSE 237 HP,42395,gas,I4,22.0,5,5
+Discovery Sport,2018,HSE 286 HP,49395,gas,I4,22.0,5,5
+Discovery Sport,2018,HSE LUX 237 HP,46795,gas,I4,22.0,5,5
+Discovery Sport,2018,HSE LUX 286 HP,52895,gas,I4,22.0,5,5
+Discovery Sport,2018,SE,37795,gas,I4,22.0,5,5
+Range Rover,2018,Autobiography,141995,gas,V8,18.0,5,5
+Range Rover,2018,Autobiography LWB,148295,gas,V8,18.0,5,5
+Range Rover,2018,Base,87350,gas,V6,19.0,5,5
+Range Rover,2018,HSE,94050,gas,V6,19.0,5,5
+Range Rover,2018,HSE Td6,96050,diesel,V6,24.0,5,5
+Range Rover,2018,Supercharged,104850,gas,V8,18.0,5,5
+Range Rover,2018,Supercharged LWB,108895,gas,V8,18.0,5,5
+Range Rover,2018,SVAutobiography Dynamic,177200,gas,V8,16.0,5,5
+Range Rover,2018,SVAutobiography LWB,207900,gas,V8,15.0,5,4
+Range Rover,2018,Td6,89350,diesel,V6,24.0,5,5
+Range Rover Evoque,2018,Autobiography 237 HP,62600,gas,I4,25.0,5,5
+Range Rover Evoque,2018,Autobiography 286 HP,65600,gas,I4,24.0,5,5
+Range Rover Evoque,2018,HSE,51100,gas,I4,25.0,5,5
+Range Rover Evoque,2018,HSE Dynamic,57800,gas,I4,25.0,3,4
+Range Rover Evoque,2018,HSE Dynamic 237 HP,54300,gas,I4,25.0,5,5
+Range Rover Evoque,2018,HSE Dynamic 286 HP,57300,gas,I4,24.0,5,5
+Range Rover Evoque,2018,Landmark Edition,48400,gas,I4,25.0,5,5
+Range Rover Evoque,2018,SE,41800,gas,I4,25.0,5,5
+Range Rover Evoque,2018,SE Dynamic,52100,gas,I4,25.0,3,4
+Range Rover Evoque,2018,SE Premium,45900,gas,I4,25.0,5,5
+Range Rover Sport,2018,Autobiography Dynamic,96650,gas,V8,19.0,5,5
+Range Rover Sport,2018,HSE,72350,gas,V6,19.0,5,5
+Range Rover Sport,2018,HSE Dynamic,82150,gas,V6,19.0,5,5
+Range Rover Sport,2018,HSE td6,74350,diesel,V6,24.0,5,5
+Range Rover Sport,2018,SE,66750,gas,V6,19.0,5,5
+Range Rover Sport,2018,SE Td6,68750,diesel,V6,24.0,5,5
+Range Rover Sport,2018,Supercharged,82050,gas,V8,19.0,5,5
+Range Rover Sport,2018,Supercharged Dynamic,85550,gas,V8,19.0,5,5
+Range Rover Sport,2018,SVR,113600,gas,V8,16.0,5,5
+Range Rover Velar,2018,Base,49900,gas,I4,23.0,5,5
+Range Rover Velar,2018,First Edition,89300,gas,V6,20.0,5,5
+Range Rover Velar,2018,R-Dynamic HSE,77100,gas,V6,20.0,5,5
+Range Rover Velar,2018,R-Dynamic HSE,69100,diesel,I4,28.0,5,5
+Range Rover Velar,2018,R-Dynamic HSE,67600,gas,I4,23.0,5,5
+Range Rover Velar,2018,R-Dynamic SE,61600,diesel,I4,28.0,5,5
+Range Rover Velar,2018,R-Dynamic SE,69600,gas,V6,20.0,5,5
+Range Rover Velar,2018,R-Dynamic SE,60100,gas,I4,23.0,5,5
+Range Rover Velar,2018,S,56200,diesel,I4,28.0,5,5
+Range Rover Velar,2018,S,54700,gas,I4,23.0,5,5
+Range Rover Velar,2018,S,64200,gas,V6,20.0,5,5
+Discovery,2017,First Edition,73950,gas,V6,,5,7
+Discovery,2017,HSE,56950,gas,V6,,5,5
+Discovery,2017,HSE Luxury,63950,gas,V6,,5,7
+Discovery,2017,HSE Luxury Td6,65950,diesel,V6,,5,7
+Discovery,2017,HSE Td6,58950,diesel,V6,,5,5
+Discovery,2017,SE,49990,gas,V6,,5,5
+Discovery Sport,2017,HSE,42195,gas,I4,22.0,5,5
+Discovery Sport,2017,HSE LUX,46595,gas,I4,22.0,5,5
+Discovery Sport,2017,SE,37695,gas,I4,22.0,5,5
+Range Rover,2017,Autobiography,140995,gas,V8,16.0,5,5
+Range Rover,2017,Autobiography LWB,145995,gas,V8,16.0,5,5
+Range Rover,2017,Base,85650,gas,V6,19.0,5,5
+Range Rover,2017,HSE,92650,gas,V6,19.0,5,5
+Range Rover,2017,HSE Td6,94650,diesel,V6,25.0,5,5
+Range Rover,2017,Supercharged,103895,gas,V8,16.0,5,5
+Range Rover,2017,Supercharged LWB,108895,gas,V8,16.0,5,5
+Range Rover,2017,SVAutobiography Dynamic,170995,gas,V8,16.0,5,5
+Range Rover,2017,SVAutobiography LWB,199950,gas,V8,16.0,5,5
+Range Rover,2017,Td6,87650,diesel,V6,25.0,5,5
+Range Rover Evoque,2017,Autobiography,62500,gas,I4,24.0,5,5
+Range Rover Evoque,2017,HSE,51000,gas,I4,24.0,5,5
+Range Rover Evoque,2017,HSE Dynamic,54200,gas,I4,24.0,5,5
+Range Rover Evoque,2017,HSE Dynamic,57700,gas,I4,23.0,3,4
+Range Rover Evoque,2017,SE,41800,gas,I4,24.0,5,5
+Range Rover Evoque,2017,SE Dynamic,51100,gas,I4,23.0,3,4
+Range Rover Evoque,2017,SE Premium,45700,gas,I4,24.0,3,5
+Range Rover Evoque,2017,SE Premium,45800,gas,I4,24.0,5,5
+Range Rover Sport,2017,Autobiography,94450,gas,V8,16.0,5,5
+Range Rover Sport,2017,HSE,70650,gas,V6,19.0,5,5
+Range Rover Sport,2017,HSE Dynamic,80150,gas,V6,,5,5
+Range Rover Sport,2017,HSE Td6,72650,diesel,V6,25.0,5,5
+Range Rover Sport,2017,SE,65650,gas,V6,19.0,5,5
+Range Rover Sport,2017,SE Td6,67650,diesel,V6,25.0,5,5
+Range Rover Sport,2017,Supercharged,80650,gas,V8,16.0,5,5
+Range Rover Sport,2017,Supercharged Dynamic,83730,gas,V8,16.0,5,5
+Range Rover Sport,2017,SVR,111350,gas,V8,16.0,5,5
+Discovery Sport,2016,HSE,41955,gas,I4,22.0,5,5
+Discovery Sport,2016,HSE LUX,45955,gas,I4,22.0,5,5
+Discovery Sport,2016,SE,37455,gas,I4,22.0,5,5
+LR4,2016,Base,50400,gas,V6,16.0,5,5
+LR4,2016,HSE,55300,gas,V6,16.0,5,7
+LR4,2016,HSE LUX,60600,gas,V6,16.0,5,7
+Range Rover,2016,Autobiography,139995,gas,V8,16.0,5,5
+Range Rover,2016,Autobiography LWB,144995,gas,V8,16.0,5,5
+Range Rover,2016,Base,84950,gas,V6,19.0,5,5
+Range Rover,2016,Base Td6,86450,diesel,V6,25.0,5,5
+Range Rover,2016,HSE,91950,gas,V6,19.0,5,5
+Range Rover,2016,HSE Td6,93450,diesel,V6,25.0,5,5
+Range Rover,2016,Supercharged,103195,gas,V8,16.0,5,5
+Range Rover,2016,Supercharged LWB,108195,gas,V8,16.0,5,5
+Range Rover,2016,SVAutobiography LWB,199495,gas,V8,16.0,5,5
+Range Rover Evoque,2016,Autobiography,60775,gas,I4,24.0,5,5
+Range Rover Evoque,2016,HSE,53775,gas,I4,24.0,5,5
+Range Rover Evoque,2016,HSE,50475,gas,I4,24.0,5,5
+Range Rover Evoque,2016,HSE Dynamic,53775,gas,I4,24.0,3,5
+Range Rover Evoque,2016,SE,45675,gas,I4,24.0,5,5
+Range Rover Evoque,2016,SE,41475,gas,I4,24.0,5,5
+Range Rover Evoque,2016,SE Premium,46675,gas,I4,24.0,3,5
+Range Rover Sport,2016,Autobiography,93295,gas,V8,16.0,5,5
+Range Rover Sport,2016,HSE,69950,gas,V6,19.0,5,5
+Range Rover Sport,2016,HSE Td6,71450,diesel,V6,25.0,5,5
+Range Rover Sport,2016,HST Limited Edition,79995,gas,V6,,5,5
+Range Rover Sport,2016,SE,64950,gas,V6,19.0,5,5
+Range Rover Sport,2016,SE Td6,66450,diesel,V6,25.0,5,5
+Range Rover Sport,2016,Supercharged,79950,gas,V8,16.0,5,5
+Range Rover Sport,2016,Supercharged Dynamic,82695,gas,V8,16.0,5,5
+Range Rover Sport,2016,Supercharged Dynamic Limited Edition,93075,gas,V8,16.0,5,5
+Range Rover Sport,2016,SVR,111350,gas,V8,16.0,5,5
+Discovery Sport,2015,HSE,41570,gas,I4,22.0,5,5
+Discovery Sport,2015,HSE LUX,45570,gas,I4,22.0,5,5
+Discovery Sport,2015,SE,37070,gas,I4,22.0,5,5
+LR2,2015,Base,36600,gas,I4,20.0,5,5
+LR2,2015,HSE,39100,gas,I4,20.0,5,5
+LR2,2015,HSE LUX,41700,gas,I4,20.0,5,5
+LR4,2015,Base,50400,gas,V6,16.0,5,5
+LR4,2015,HSE,55300,gas,V6,16.0,5,7
+LR4,2015,HSE LUX,60600,gas,V6,16.0,5,7
+Range Rover,2015,Autobiography,137995,flex-fuel (FFV),V8,15.0,5,5
+Range Rover,2015,Autobiography Black LWB,186495,flex-fuel (FFV),V8,15.0,5,5
+Range Rover,2015,Autobiography LWB,142995,flex-fuel (FFV),V8,15.0,5,5
+Range Rover,2015,Base,83495,flex-fuel (FFV),V6,19.0,5,5
+Range Rover,2015,HSE,89995,flex-fuel (FFV),V6,19.0,5,5
+Range Rover,2015,HSE Limited,98995,flex-fuel (FFV),V6,19.0,5,5
+Range Rover,2015,HSE LWB,95195,flex-fuel (FFV),V6,19.0,5,5
+Range Rover,2015,Supercharged,101995,flex-fuel (FFV),V8,15.0,5,5
+Range Rover,2015,Supercharged Limited,118845,flex-fuel (FFV),V8,15.0,5,5
+Range Rover,2015,Supercharged Limited LWB,123845,flex-fuel (FFV),V8,15.0,5,5
+Range Rover,2015,Supercharged LWB,106995,flex-fuel (FFV),V8,15.0,5,5
+Range Rover Evoque,2015,Autobiography,60000,gas,I4,24.0,5,5
+Range Rover Evoque,2015,Dynamic,57600,gas,I4,24.0,3,5
+Range Rover Evoque,2015,Dynamic,56600,gas,I4,24.0,5,5
+Range Rover Evoque,2015,Prestige,55700,gas,I4,24.0,5,5
+Range Rover Evoque,2015,Pure,41100,gas,I4,24.0,5,5
+Range Rover Evoque,2015,Pure Plus,44100,gas,I4,24.0,5,5
+Range Rover Evoque,2015,Pure Plus,45100,gas,I4,24.0,3,5
+Range Rover Evoque,2015,Pure Plus Corris Grey Special Value Edition,48300,gas,I4,24.0,5,5
+Range Rover Evoque,2015,Pure Plus Firenze Red Special Value Edition,48300,gas,I4,24.0,5,5
+Range Rover Evoque,2015,Pure Plus Fuji White Special Value Edition,48300,gas,I4,24.0,5,5
+Range Rover Evoque,2015,Pure Plus Santorini Black Special Value Edition,48300,gas,I4,24.0,5,5
+Range Rover Evoque,2015,Pure Premium,48900,gas,I4,24.0,5,5
+Range Rover Evoque,2015,Pure Premium,49900,gas,I4,24.0,3,5
+Range Rover Sport,2015,Autobiography,92495,flex-fuel (FFV),V8,16.0,5,5
+Range Rover Sport,2015,HSE,68295,flex-fuel (FFV),V6,19.0,5,5
+Range Rover Sport,2015,HSE Limited Edition,76875,flex-fuel (FFV),V6,19.0,5,5
+Range Rover Sport,2015,SE,63350,flex-fuel (FFV),V6,19.0,5,5
+Range Rover Sport,2015,Supercharged,79995,flex-fuel (FFV),V8,16.0,5,5
+Range Rover Sport,2015,Supercharged Limited Edition,92495,flex-fuel (FFV),V8,16.0,5,5
+Range Rover Sport,2015,SVR,110475,flex-fuel (FFV),V8,16.0,5,5

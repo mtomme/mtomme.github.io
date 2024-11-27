@@ -1,0 +1,79 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+S60,2020,T5 Inscription,42900,gas,I4,27.0,4,5
+S60,2020,T5 Momentum,36050,gas,I4,27.0,4,5
+S60,2020,T5 R-Design,42900,gas,I4,27.0,4,5
+S60,2020,T6 Inscription,47400,gas,I4,25.0,4,5
+S60,2020,T6 Momentum,40550,gas,I4,25.0,4,5
+S60,2020,T6 R-Design,47400,gas,I4,25.0,4,5
+S60,2020,T8 Inscription Twin Engine Plug-In Hybrid,55400,plug-in hybrid,I4,30.0,4,5
+S60,2020,T8 Polestar Engineered,64800,plug-in hybrid,I4,30.0,4,5
+S60,2020,T8 R-Design Twin Engine Plug-In Hybrid,55400,plug-in hybrid,I4,30.0,4,5
+S90,2020,T6 Inscription,53650,gas,I4,25.0,4,5
+S90,2020,T6 Momentum,50550,gas,I4,25.0,4,5
+S90,2020,T6 R-Design,53650,gas,I4,25.0,4,5
+S90,2020,T8 Inscription Twin Engine Plug-In Hybrid,63200,plug-in hybrid,I4,30.0,4,5
+S90,2020,T8 R-Design Twin Engine Plug-In Hybrid,63200,plug-in hybrid,I4,30.0,4,5
+S60,2019,T5 Inscription,42900,gas,I4,28.0,4,5
+S60,2019,T5 Momentum,35800,gas,I4,28.0,4,5
+S60,2019,T5 R-Design,41900,gas,I4,28.0,4,5
+S60,2019,T6 Inscription,47400,gas,I4,25.0,4,5
+S60,2019,T6 Momentum,40300,gas,I4,25.0,4,5
+S60,2019,T6 R-Design,46400,gas,I4,25.0,4,5
+S60,2019,T8 Inscription Twin Engine Plug-In Hybrid,55400,plug-in hybrid,I4,31.0,4,5
+S60,2019,T8 R-Design Twin Engine Plug-In Hybrid,54400,plug-in hybrid,I4,31.0,4,5
+S90,2019,T5 Momentum,47350,gas,I4,27.0,4,5
+S90,2019,T6 Inscription,59450,gas,I4,25.0,4,5
+S90,2019,T6 Momentum,54350,gas,I4,25.0,4,5
+S90,2019,T8 Inscription Twin Engine Plug-In Hybrid,69000,plug-in hybrid,I4,29.0,4,5
+S90,2019,T8 Momentum Twin Engine Plug-In Hybrid,63900,plug-in hybrid,I4,29.0,4,5
+S60,2018,Polestar,60000,gas,I4,22.0,4,5
+S60,2018,T5 Dynamic,34100,gas,I4,29.0,4,5
+S60,2018,T5 Inscription,36950,gas,I4,29.0,4,5
+S60,2018,T5 Inscription Platinum,41150,gas,I4,29.0,4,5
+S60,2018,T6 R-Design Platinum,47550,gas,I4,26.0,4,5
+S60 Cross Country,2018,T5 Platinum,44350,gas,I4,25.0,4,5
+S90,2018,T5 Momentum,48100,gas,I4,27.0,4,5
+S90,2018,T6 Inscription,58600,gas,I4,25.0,4,5
+S90,2018,T6 Momentum,54100,gas,I4,25.0,4,5
+S90,2018,T8 Inscription Twin Engine Plug-In Hybrid,68150,plug-in hybrid,I4,29.0,4,5
+S90,2018,T8 Momentum Twin Engine Plug-In Hybrid,63650,plug-in hybrid,I4,29.0,4,5
+S60,2017,T5 Dynamic,33950,gas,I4,29.0,4,5
+S60,2017,T5 Inscription,36800,gas,I4,29.0,4,5
+S60,2017,T5 Inscription Platinum,41000,gas,I4,29.0,4,5
+S60,2017,T6 Polestar,60000,gas,I4,23.0,4,5
+S60,2017,T6 R-Design Platinum,47400,gas,I4,26.0,4,5
+S60 Cross Country,2017,T5 Platinum,44200,gas,I4,25.0,4,5
+S90,2017,T5 Inscription,50450,gas,I4,27.0,4,5
+S90,2017,T5 Momentum,46950,gas,I4,27.0,4,5
+S90,2017,T6 Inscription,56250,gas,I4,25.0,4,5
+S90,2017,T6 Momentum,52950,gas,I4,25.0,4,5
+S60,2016,T5,35650,gas,I5,23.0,4,5
+S60,2016,T5 Cross Country Platinum,43700,gas,I5,23.0,4,5
+S60,2016,T5 Drive-E,34150,gas,I4,30.0,4,5
+S60,2016,T5 Drive-E Inscription Platinum,41900,gas,I4,29.0,4,5
+S60,2016,T5 Drive-E Inscription Premier,38900,gas,I4,29.0,4,5
+S60,2016,T5 Drive-E Premier,36800,gas,I4,30.0,4,5
+S60,2016,T5 Inscription Platinum,43400,gas,I5,23.0,4,5
+S60,2016,T5 Inscription Premier,40400,gas,I5,23.0,4,5
+S60,2016,T5 Premier,38300,gas,I5,23.0,4,5
+S60,2016,T6 Drive-E,39450,gas,I4,27.0,4,5
+S60,2016,T6 Drive-E Platinum,43300,gas,I4,27.0,4,5
+S60,2016,T6 Drive-E R-Design,44400,gas,I4,25.0,4,5
+S60,2016,T6 Drive-E R-Design Platinum,47900,gas,I4,25.0,4,5
+S60,2016,T6 Polestar,59700,gas,I6,21.0,4,5
+S60,2016,T6 R-Design,44200,gas,I6,21.0,4,5
+S60,2016,T6 R-Design Platinum,47700,gas,I6,21.0,4,5
+S80,2016,T5 Drive-E,43450,gas,I4,29.0,4,5
+S80,2016,T5 Drive-E Platinum,48375,gas,I4,29.0,4,5
+S60,2015,T5,35450,gas,I5,23.0,4,5
+S60,2015,T5,34800,gas,I5,23.0,4,5
+S60,2015,T5 Drive-E,33300,gas,I4,29.0,4,5
+S60,2015,T5 Drive-E,33950,gas,I4,29.0,4,5
+S60,2015,T6 Drive-E,39250,gas,I4,28.0,4,5
+S60,2015,T6 Drive-E,38150,gas,I4,28.0,4,5
+S60,2015,T6 R-Design,42700,gas,I6,22.0,4,5
+S60,2015,T6 R-Design,43800,gas,I6,22.0,4,5
+S80,2015,T5 Drive-E,40500,gas,I4,30.0,4,5
+S80,2015,T5 Drive-E,41700,gas,I4,30.0,4,5
+S80,2015,T6,45100,gas,I6,22.0,4,5
+S80,2015,T6,43950,gas,I6,22.0,4,5

@@ -1,0 +1,115 @@
+Model Name,Trim Year,Trim Name,Trim Msrp,Engine Type,Engine Cylinders,Mileage Combined Mpg,Body Doors,Body Seats
+ILX,2020,Base,25900,gas,I4,28.0,4,5
+ILX,2020,Premium and A-SPEC Packages,29750,gas,I4,28.0,4,5
+ILX,2020,Premium Package,27750,gas,I4,28.0,4,5
+ILX,2020,Technology and A-SPEC Packages,31650,gas,I4,28.0,4,5
+ILX,2020,Technology Package,29650,gas,I4,28.0,4,5
+RLX,2020,P-AWS,54900,gas,V6,23.0,4,5
+RLX,2020,Sport Hybrid SH-AWD,61900,hybrid,V6,28.0,4,5
+TLX,2020,A-Spec,39400,gas,I4,26.0,4,5
+TLX,2020,A-Spec,42800,gas,V6,23.0,4,5
+TLX,2020,A-Spec,42800,gas,V6,23.0,4,5
+TLX,2020,A-Spec,39400,gas,I4,26.0,4,5
+TLX,2020,Base,33000,gas,I4,27.0,4,5
+TLX,2020,Base,40100,gas,V6,24.0,4,5
+TLX,2020,Base,36700,gas,I4,27.0,4,5
+TLX,2020,Base,36200,gas,V6,24.0,4,5
+TLX,2020,SH-AWD,38200,gas,V6,23.0,4,5
+TLX,2020,SH-AWD,42100,gas,V6,23.0,4,5
+TLX,2020,SH-AWD,45950,gas,V6,23.0,4,5
+TLX,2020,SH-AWD A-Spec,44800,gas,V6,23.0,4,5
+TLX,2020,SH-AWD A-Spec,44800,gas,V6,23.0,4,5
+TLX,2020,SH-AWD PMC Edition,48950,gas,V6,23.0,4,5
+ILX,2019,Base,25900,gas,I4,28.0,4,5
+ILX,2019,Premium and A-SPEC Packages,29650,gas,I4,28.0,4,5
+ILX,2019,Premium Package,27650,gas,I4,28.0,4,5
+ILX,2019,Technology and A-SPEC Packages,31550,gas,I4,28.0,4,5
+ILX,2019,Technology Package,29550,gas,I4,28.0,4,5
+RLX,2019,P-AWS,54900,gas,V6,23.0,4,5
+RLX,2019,Sport Hybrid SH-AWD,61900,hybrid,V6,28.0,4,5
+TLX,2019,A-Spec,39400,gas,I4,26.0,4,5
+TLX,2019,A-Spec,42800,gas,V6,23.0,4,5
+TLX,2019,A-Spec Red,42800,gas,V6,23.0,4,5
+TLX,2019,A-Spec Red,39400,gas,I4,26.0,4,5
+TLX,2019,Advance Package,43950,gas,V6,24.0,4,5
+TLX,2019,Base,33000,gas,I4,27.0,4,5
+TLX,2019,Base,36200,gas,V6,24.0,4,5
+TLX,2019,SH-AWD,38200,gas,V6,23.0,4,5
+TLX,2019,SH-AWD,45950,gas,V6,23.0,4,5
+TLX,2019,SH-AWD,42100,gas,V6,23.0,4,5
+TLX,2019,SH-AWD A-Spec,44800,gas,V6,23.0,4,5
+TLX,2019,SH-AWD A-Spec Red,44800,gas,V6,23.0,4,5
+TLX,2019,Technology Package,40100,gas,V6,24.0,4,5
+TLX,2019,Technology Package,36700,gas,I4,27.0,4,5
+ILX,2018,AcuraWatch Plus Package,29400,gas,I4,29.0,4,5
+ILX,2018,Base,28100,gas,I4,29.0,4,5
+ILX,2018,Premium and A-SPEC Packages,32100,gas,I4,29.0,4,5
+ILX,2018,Premium Package,30100,gas,I4,29.0,4,5
+ILX,2018,Special Edition,28900,gas,I4,29.0,4,5
+ILX,2018,Technology Plus and A-SPEC Packages,35100,gas,I4,29.0,4,5
+ILX,2018,Technology Plus Package,33100,gas,I4,29.0,4,5
+RLX,2018,P-AWS,54900,gas,V6,23.0,4,5
+RLX,2018,Sport Hybrid SH-AWD,61900,hybrid,V6,28.0,4,5
+TLX,2018,A-Spec,42800,gas,V6,23.0,4,5
+TLX,2018,A-Spec Red,42800,gas,V6,23.0,4,5
+TLX,2018,Advance Package,43750,gas,V6,24.0,4,5
+TLX,2018,Base,36200,gas,V6,24.0,4,5
+TLX,2018,Base,33000,gas,I4,27.0,4,5
+TLX,2018,SH-AWD,38200,gas,V6,24.0,4,5
+TLX,2018,SH-AWD,41900,gas,V6,24.0,4,5
+TLX,2018,SH-AWD,45750,gas,V6,24.0,4,5
+TLX,2018,SH-AWD A-Spec,44800,gas,V6,23.0,4,5
+TLX,2018,SH-AWD A-Spec Red,44800,gas,V6,23.0,4,5
+TLX,2018,Technology Package,36700,gas,I4,27.0,4,5
+TLX,2018,Technology Package,39900,gas,V6,24.0,4,5
+ILX,2017,AcuraWatch Plus Package,29290,gas,I4,29.0,4,5
+ILX,2017,Base,27990,gas,I4,29.0,4,5
+ILX,2017,Premium and A-SPEC Packages,31980,gas,I4,29.0,4,5
+ILX,2017,Premium Package,29990,gas,I4,29.0,4,5
+ILX,2017,Technology Plus and A-SPEC Packages,34980,gas,I4,29.0,4,5
+ILX,2017,Technology Plus Package,32990,gas,I4,29.0,4,5
+RLX,2017,Advance Package,60450,gas,V6,23.0,4,5
+RLX,2017,Sport Hybrid SH-AWD,65950,hybrid,V6,29.0,4,5
+RLX,2017,Sport Hybrid SH-AWD,59950,hybrid,V6,29.0,4,5
+RLX,2017,Technology Package,54450,gas,V6,23.0,4,5
+TLX,2017,Advance Package,42700,gas,V6,25.0,4,5
+TLX,2017,Base,35450,gas,V6,25.0,4,5
+TLX,2017,Base,32000,gas,I4,28.0,4,5
+TLX,2017,SH-AWD,44900,gas,V6,25.0,4,5
+TLX,2017,SH-AWD,41700,gas,V6,25.0,4,5
+TLX,2017,Technology Package,39500,gas,V6,25.0,4,5
+TLX,2017,Technology Package,36050,gas,I4,28.0,4,5
+ILX,2016,AcuraWatch Plus Package,29200,gas,I4,29.0,4,5
+ILX,2016,Base,27900,gas,I4,29.0,4,5
+ILX,2016,Premium and A-SPEC Packages,31890,gas,I4,29.0,4,5
+ILX,2016,Premium Package,29900,gas,I4,29.0,4,5
+ILX,2016,Technology Plus and A-SPEC Packages,34890,gas,I4,29.0,4,5
+ILX,2016,Technology Plus Package,32900,gas,I4,29.0,4,5
+RLX,2016,Advance Package,60450,gas,V6,24.0,4,5
+RLX,2016,Navigation,50950,gas,V6,24.0,4,5
+RLX,2016,Sport Hybrid SH-AWD,65950,hybrid,V6,30.0,4,5
+RLX,2016,Sport Hybrid SH-AWD,59950,hybrid,V6,30.0,4,5
+RLX,2016,Technology Package,54450,gas,V6,24.0,4,5
+TLX,2016,Advance Package,42600,gas,V6,25.0,4,5
+TLX,2016,Base,31695,gas,I4,28.0,4,5
+TLX,2016,Base,35320,gas,V6,25.0,4,5
+TLX,2016,SH-AWD,44800,gas,V6,25.0,4,5
+TLX,2016,SH-AWD,41575,gas,V6,25.0,4,5
+TLX,2016,Technology Package,39375,gas,V6,25.0,4,5
+TLX,2016,Technology Package,35750,gas,I4,28.0,4,5
+ILX,2015,Base,27050,gas,I4,28.0,4,5
+ILX,2015,Premium Package,29350,gas,I4,25.0,4,5
+ILX,2015,Premium Package,29350,gas,I4,28.0,4,5
+ILX,2015,Technology Package,31750,gas,I4,28.0,4,5
+RLX,2015,Advance Package,60450,gas,V6,24.0,4,5
+RLX,2015,Base,48450,gas,V6,24.0,4,5
+RLX,2015,Krell Audio Package,56950,gas,V6,24.0,4,5
+RLX,2015,Navigation,50950,gas,V6,24.0,4,5
+RLX,2015,Technology Package,54450,gas,V6,24.0,4,5
+TLX,2015,Advance Package,42600,gas,V6,25.0,4,5
+TLX,2015,Base,31445,gas,I4,28.0,4,5
+TLX,2015,Base,35320,gas,V6,25.0,4,5
+TLX,2015,SH-AWD,44800,gas,V6,25.0,4,5
+TLX,2015,SH-AWD,41575,gas,V6,25.0,4,5
+TLX,2015,Technology Package,39375,gas,V6,25.0,4,5
+TLX,2015,Technology Package,35500,gas,I4,28.0,4,5
