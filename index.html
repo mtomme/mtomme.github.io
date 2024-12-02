@@ -176,5 +176,20 @@
     <div id="results" class="results"></div>
 </section>
 
+<!-- New Section for Search Form -->
+<div class="section-divider"></div>
+<h2>Search the Car Database</h2>
+<p>Provide your search query and select a file to search:</p>
+
+<form id="searchForm" action="/search" method="POST">
+    <label for="user_query">Search Query:</label>
+    <input type="text" id="user_query" name="user_query" placeholder="Enter your car search query" required>
+
+    <label for="file_id">Select File:</label>
+    <input type="text" id="file_id" name="file_id" placeholder="e.g., ChevyCoupe" required>
+
+    <button type="submit">Search</button>
+</form>
+
 </body>
 </html>
