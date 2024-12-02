@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pandas as pd
-import openai
+from openai import OpenAI
 import os
 
 # Initialize Flask app
@@ -11,7 +11,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Set OpenAI API key from environment variable
-openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
 
 # List of available CSV file paths in the repository
 AVAILABLE_CSV_FILES = {
@@ -52,6 +52,8 @@ def search_csv():
         pd.set_option('display.max_columns', None)
         csv = pd.read_csv(file_path, encoding='utf-8')
 
+        print("CSV Read, sending prompt to ChatGPT...")
+
         # Construct the OpenAI prompt
         prompt = f"""
         You are an assistant that helps search through a car database.
@@ -63,7 +65,7 @@ def search_csv():
         """
 
         # Get response from ChatGPT
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-4o",
             messages=[
                 {"role": "system", "content": "You are an assistant that searches a CSV of cars."},
@@ -72,7 +74,7 @@ def search_csv():
         )
 
         # Extract response content
-        result = response.choices[0].message["content"]
+        result = response.choices[0].message.content
 
         print(result)
 
