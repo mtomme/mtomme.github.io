@@ -1,10 +1,15 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import pandas as pd
 import openai
 import os
 
 # Initialize Flask app
 app = Flask(__name__)
+
+#enable CORS
+CORS(app, origins=["https://mtomme.github.io/"])
+
 
 # Set OpenAI API key from environment variable
 openai.api_key = os.getenv("OPENAI_API_KEY")

@@ -181,7 +181,7 @@
 <h2>Search the Car Database</h2>
 <p>Provide your search query and select a file to search:</p>
 
-<form id="searchForm" action="/search" method="POST">
+<form id="searchForm" action="javascript:void(0);" method="POST">
     <label for="user_query">Search Query:</label>
     <input type="text" id="user_query" name="user_query" placeholder="Enter your car search query" required>
 
@@ -190,6 +190,42 @@
 
     <button type="submit">Search</button>
 </form>
+
+<!-- Result Area -->
+<div id="searchResults"></div>
+
+<script>
+    document.getElementById("searchForm").addEventListener("submit", function(event) {
+        event.preventDefault(); // Prevent the default form submission
+
+        const userQuery = document.getElementById("user_query").value;
+        const fileId = document.getElementById("file_id").value;
+
+        const backendUrl = "https://perfectcarfinder.onrender.com/search"; // Replace with your actual Render URL
+
+        // Create a form data object to send
+        const formData = new FormData();
+        formData.append("user_query", userQuery);
+        formData.append("file_id", fileId);
+
+        // Make the POST request to your backend
+        fetch(backendUrl, {
+            method: "POST",
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.result) {
+                document.getElementById("searchResults").innerHTML = `<pre>${data.result}</pre>`;
+            } else {
+                document.getElementById("searchResults").innerHTML = `<p>No results found.</p>`;
+            }
+        })
+        .catch(error => {
+            document.getElementById("searchResults").innerHTML = `<p>Error: ${error.message}</p>`;
+        });
+    });
+</script>
 
 </body>
 </html>
