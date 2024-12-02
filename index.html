@@ -196,35 +196,39 @@
 
 <script>
     document.getElementById("searchForm").addEventListener("submit", function(event) {
-        event.preventDefault(); // Prevent the default form submission
+    event.preventDefault(); // Prevent the default form submission
 
-        const userQuery = document.getElementById("user_query").value;
-        const fileId = document.getElementById("file_id").value;
+    const userQuery = document.getElementById("user_query").value;
+    const fileId = document.getElementById("file_id").value;
 
-        const backendUrl = "https://perfectcarfinder.onrender.com/search"; // Replace with your actual Render URL
+    const backendUrl = "https://perfectcarfinder.onrender.com/search";
 
-        // Create a form data object to send
-        const formData = new FormData();
-        formData.append("user_query", userQuery);
-        formData.append("file_id", fileId);
+    // Create a JSON object
+    const data = {
+        user_query: userQuery,
+        file_id: fileId
+    };
 
-        // Make the POST request to your backend
-        fetch(backendUrl, {
-            method: "POST",
-            body: formData
-        })
-        .then(response => response.json())
-        .then(data => {
-            if (data.result) {
-                document.getElementById("searchResults").innerHTML = `<pre>${data.result}</pre>`;
-            } else {
-                document.getElementById("searchResults").innerHTML = `<p>No results found.</p>`;
-            }
-        })
-        .catch(error => {
-            document.getElementById("searchResults").innerHTML = `<p>Error: ${error.message}</p>`;
-        });
+    // Make the POST request to your backend
+    fetch(backendUrl, {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"  // Send as JSON
+        },
+        body: JSON.stringify(data)  // Stringify the data
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.result) {
+            document.getElementById("searchResults").innerHTML = `<pre>${data.result}</pre>`;
+        } else {
+            document.getElementById("searchResults").innerHTML = `<p>No results found.</p>`;
+        }
+    })
+    .catch(error => {
+        document.getElementById("searchResults").innerHTML = `<p>Error: ${error.message}</p>`;
     });
+});
 </script>
 
 </body>

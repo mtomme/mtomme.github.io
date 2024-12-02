@@ -8,8 +8,7 @@ import os
 app = Flask(__name__)
 
 #enable CORS
-CORS(app, origins=["https://mtomme.github.io/"])
-
+CORS(app)
 
 # Set OpenAI API key from environment variable
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -25,18 +24,19 @@ def search_csv():
     Endpoint to process a user query and search a selected CSV file.
     """
     try:
-        # Get the user query from the form data
-        user_query = request.form.get("user_query")
+        # Get the user query and file ID from the JSON body
+        data = request.get_json()
+        user_query = data.get("user_query")
+        file_id = data.get("file_id")
+
+        # Check if the user query or file ID are missing
         if not user_query:
             return jsonify({"error": "User query is required"}), 400
-
-        # Get the selected file identifier from the request
-        selected_file_id = request.form.get("file_id")
-        if not selected_file_id:
+        if not file_id:
             return jsonify({"error": "File identifier is required"}), 400
 
         # Check if the selected file exists in the available files
-        file_path = AVAILABLE_CSV_FILES.get(selected_file_id)
+        file_path = AVAILABLE_CSV_FILES.get(file_id)
         if not file_path:
             return jsonify({"error": "Invalid file identifier or file not found"}), 404
 
