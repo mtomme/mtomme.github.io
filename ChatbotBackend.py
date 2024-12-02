@@ -44,6 +44,10 @@ def search_csv():
         if not os.path.exists(file_path):
             return jsonify({"error": f"File not found at path: {file_path}"}), 404
 
+        #print for debugging
+        print(f"User query: {user_query}")
+        print(f"File ID: {file_id}")
+
         # Read the CSV into a Pandas DataFrame
         pd.set_option('display.max_columns', None)
         csv = pd.read_csv(file_path, encoding='utf-8')
@@ -69,6 +73,8 @@ def search_csv():
 
         # Extract response content
         result = response.choices[0].message["content"]
+
+        print(result)
 
         # Return the result as JSON
         return jsonify({"result": result})
