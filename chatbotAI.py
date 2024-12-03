@@ -34,8 +34,8 @@ class ChatbotAI:
 
 #tester
 if __name__ == "__main__":
-    test_csv = "Organized_Car_Data/Chevrolet/Coupe.csv"
+    test_csv = "Organized_Car_Data/Acura/Coupe.csv"
     chatbot =  ChatbotAI()
-    query = "Under 30000"
+    query = "Acura Coupe"
     test_response = chatbot.get_chatgpt_response(csv_filepath="Organized_Car_Data/Chevrolet/Coupe.csv", user_query=query)
     print(test_response)
