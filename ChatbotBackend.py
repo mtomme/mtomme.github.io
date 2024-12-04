@@ -30,19 +30,19 @@ def select_csv():
         file_id = data.get("file_id")
 
         if not file_id:
-            return jsonify({"error": "File identifier is required"}), 400
+            return jsonify({"success": False, "error": "File identifier is required"}), 400
 
         # Check if the selected file exists in the available files
         file_path = AVAILABLE_CSV_FILES.get(file_id)
         if not file_path:
-            return jsonify({"error": "Invalid file identifier or file not found"}), 404
+            return jsonify({"success": False, "error": "Invalid file identifier or file not found"}), 404
 
         # Save the selected file in the session
         session["selected_file"] = file_id
-        return jsonify({"message": f"File '{file_id}' selected successfully!"})
+        return jsonify({"success": True, "message": f"File '{file_id}' selected successfully!"})
 
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return jsonify({"success": False, "error": str(e)}), 500
 
 @app.route("/search", methods=["POST"])
 def search_csv():
