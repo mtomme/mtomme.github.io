@@ -39,9 +39,6 @@ if __name__ == "__main__":
     query = "Under 30000"
     test_response = chatbot.get_chatgpt_response(csv_filepath="Organized_Car_Data/Chevrolet/Coupe.csv", user_query=query)
     print(test_response)
-elif query = "AcuraCoupe":
-    response = getchatgpt_response(Organized_Car_Data/Acura/Coupe.csv, query)
-    print(response)
     
 
 
