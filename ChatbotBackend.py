@@ -94,7 +94,6 @@ def search_csv():
         # Extract response content
         result = response.choices[0].message.content
         app.logger.info(f"OpenAI result: {result}")
-        print(result)
 
         return jsonify({"result": result})
 
