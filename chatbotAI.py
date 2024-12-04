@@ -42,7 +42,7 @@ if __name__ == "__main__":
 else
     query = "Acura"
     df = pd.read_csv("Organized_Car_Data/Acura/Coupe.csv")
-    response = chatbot.getchatgpt_response(df, query)
+    response = getchatgpt_response(df, query)
     print(response)
     
 
