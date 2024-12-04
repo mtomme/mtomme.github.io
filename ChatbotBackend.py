@@ -61,6 +61,7 @@ def search_csv():
         file_id = session.get("selected_file")
         if not file_id:
             return jsonify({"error": "No file selected. Please select a file first."}), 400
+        print(f"Selected File: {file_id}")
 
         # Check if the selected file exists in the available files
         file_path = AVAILABLE_CSV_FILES.get(file_id)
@@ -92,6 +93,7 @@ def search_csv():
 
         # Extract response content
         result = response.choices[0].message.content
+        app.logger.info(f"OpenAI result: {result}")
         print(result)
 
         return jsonify({"result": result})
