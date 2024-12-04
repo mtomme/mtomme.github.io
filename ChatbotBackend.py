@@ -49,6 +49,7 @@ def search_csv():
     """
     Endpoint to process a user query and search the selected CSV file.
     """
+    print("Search endpoint hit")
     try:
         # Get the user query from the JSON body
         data = request.get_json()
@@ -93,7 +94,7 @@ def search_csv():
 
         # Extract response content
         result = response.choices[0].message.content
-        app.logger.info(f"OpenAI result: {result}")
+        print(result)
 
         return jsonify({"result": result})
 
