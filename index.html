@@ -220,7 +220,8 @@
             headers: {
                 "Content-Type": "application/json"
             },
-            body: JSON.stringify({ file_id: fileId }) // Send file ID as JSON
+            body: JSON.stringify({ file_id: fileId }),
+            credentials: "include"
         })
         .then(response => response.json())
         .then(data => {
@@ -249,7 +250,8 @@
             headers: {
                 "Content-Type": "application/json"
             },
-            body: JSON.stringify({ user_query: userQuery }) // Send user query as JSON
+            body: JSON.stringify({ user_query: userQuery }),
+            credentials: "include"
         })
         .then(response => response.json())
         .then(data => {

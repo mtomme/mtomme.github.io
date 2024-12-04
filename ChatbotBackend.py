@@ -8,9 +8,11 @@ import secrets
 # Initialize Flask app
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY", "c013e4b0fef5a665333ae1675e4198ec")
+app.config['SESSION_COOKIE_SAMESITE'] = 'None'
+app.config['SESSION_COOKIE_SECURE'] = True
 
 #enable CORS
-CORS(app)
+CORS(app, supports_credentials=True)
 
 # Set OpenAI API key from environment variable
 client = OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
