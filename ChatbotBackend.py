@@ -16,6 +16,7 @@ client = OpenAI(api_key = os.getenv("OPENAI_API_KEY"))
 # List of available CSV file paths in the repository
 AVAILABLE_CSV_FILES = {
     "ChevyCoupe": "Organized_Car_Data/Chevrolet/Coupe.csv" # Add more file paths as needed
+    "AcuraCoupe": "Organized_Car_Data/Acura/Coupe.csv"
 }
 
 @app.route("/search", methods=["POST"])
