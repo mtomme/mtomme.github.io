@@ -7,7 +7,7 @@ import secrets
 
 # Initialize Flask app
 app = Flask(__name__)
-app.secret_key = os.getenv("FLASK_SECRET_KEY")
+app.secret_key = os.getenv("FLASK_SECRET_KEY", "c013e4b0fef5a665333ae1675e4198ec")
 
 #enable CORS
 CORS(app)
@@ -39,6 +39,7 @@ def select_csv():
 
         # Save the selected file in the session
         session["selected_file"] = file_id
+        print(f"Session Data: {session}")
         return jsonify({"success": True, "message": f"File '{file_id}' selected successfully!"})
 
     except Exception as e:
@@ -59,6 +60,7 @@ def search_csv():
             return jsonify({"error": "User query is required"}), 400
 
         # Get the selected file from the session
+        print(f"Session Data: {session}")
         file_id = session.get("selected_file")
         if not file_id:
             return jsonify({"error": "No file selected. Please select a file first."}), 400
