@@ -41,7 +41,7 @@ if __name__ == "__main__":
     print(test_response)
 else
     query = "Acura"
-    df = pd.read_csv("Organized_Car_Data/Acura/Coupe.csv")
+    df = pd.read_csv("Organized_Car_Data/Chevrolet/Coupe.csv")
     response = getchatgpt_response(df, query)
     print(response)
     
