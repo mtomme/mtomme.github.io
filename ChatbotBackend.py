@@ -1,11 +1,13 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, session
 from flask_cors import CORS
 import pandas as pd
 from openai import OpenAI
 import os
+import secrets
 
 # Initialize Flask app
 app = Flask(__name__)
+app.secret_key = os.getenv("FLASK_SECRET_KEY")
 
 #enable CORS
 CORS(app)
@@ -18,20 +20,15 @@ AVAILABLE_CSV_FILES = {
     "ChevyCoupe": "Organized_Car_Data/Chevrolet/Coupe.csv" # Add more file paths as needed
 }
 
-@app.route("/search", methods=["POST"])
-def search_csv():
+@app.route("/select_csv", methods=["POST"])
+def select_csv():
     """
-    Endpoint to process a user query and search a selected CSV file.
+    Endpoint to set the selected CSV file in the user session.
     """
     try:
-        # Get the user query and file ID from the JSON body
         data = request.get_json()
-        user_query = data.get("user_query")
         file_id = data.get("file_id")
 
-        # Check if the user query or file ID are missing
-        if not user_query:
-            return jsonify({"error": "User query is required"}), 400
         if not file_id:
             return jsonify({"error": "File identifier is required"}), 400
 
@@ -40,19 +37,39 @@ def search_csv():
         if not file_path:
             return jsonify({"error": "Invalid file identifier or file not found"}), 404
 
-        # Check if the file exists at the given path
-        if not os.path.exists(file_path):
-            return jsonify({"error": f"File not found at path: {file_path}"}), 404
+        # Save the selected file in the session
+        session["selected_file"] = file_id
+        return jsonify({"message": f"File '{file_id}' selected successfully!"})
 
-        #print for debugging
-        print(f"User query: {user_query}")
-        print(f"File ID: {file_id}")
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route("/search", methods=["POST"])
+def search_csv():
+    """
+    Endpoint to process a user query and search the selected CSV file.
+    """
+    try:
+        # Get the user query from the JSON body
+        data = request.get_json()
+        user_query = data.get("user_query")
+
+        if not user_query:
+            return jsonify({"error": "User query is required"}), 400
+
+        # Get the selected file from the session
+        file_id = session.get("selected_file")
+        if not file_id:
+            return jsonify({"error": "No file selected. Please select a file first."}), 400
+
+        # Check if the selected file exists in the available files
+        file_path = AVAILABLE_CSV_FILES.get(file_id)
+        if not file_path or not os.path.exists(file_path):
+            return jsonify({"error": "Selected file not found."}), 404
 
         # Read the CSV into a Pandas DataFrame
         pd.set_option('display.max_columns', None)
         csv = pd.read_csv(file_path, encoding='utf-8')
-
-        print("CSV Read, sending prompt to ChatGPT...")
 
         # Construct the OpenAI prompt
         prompt = f"""
@@ -75,10 +92,8 @@ def search_csv():
 
         # Extract response content
         result = response.choices[0].message.content
-
         print(result)
 
-        # Return the result as JSON
         return jsonify({"result": result})
 
     except Exception as e:

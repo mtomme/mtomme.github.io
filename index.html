@@ -176,59 +176,93 @@
     <div id="results" class="results"></div>
 </section>
 
+<!-- New Section for Selecting the File -->
+<div class="section-divider"></div>
+<h2>Select a Car Database File</h2>
+<p>Select a file to search:</p>
+
+<form id="fileForm" action="javascript:void(0);" method="POST">
+    <label for="file_id">File ID:</label>
+    <input type="text" id="file_id" name="file_id" placeholder="e.g., ChevyCoupe" required>
+    <button type="submit">Select File</button>
+</form>
+
+<div id="fileSelectionStatus"></div>
+
 <!-- New Section for Search Form -->
 <div class="section-divider"></div>
 <h2>Search the Car Database</h2>
-<p>Provide your search query and select a file to search:</p>
+<p>Provide your search query:</p>
 
 <form id="searchForm" action="javascript:void(0);" method="POST">
     <label for="user_query">Search Query:</label>
     <input type="text" id="user_query" name="user_query" placeholder="Enter your car search query" required>
-
-    <label for="file_id">Select File:</label>
-    <input type="text" id="file_id" name="file_id" placeholder="e.g., ChevyCoupe" required>
-
-    <button type="submit">Search</button>
+    <button type="submit" disabled id="searchButton">Search</button>
 </form>
 
 <!-- Result Area -->
 <div id="searchResults"></div>
 
 <script>
-    document.getElementById("searchForm").addEventListener("submit", function(event) {
-    event.preventDefault(); // Prevent the default form submission
+    // URL to the backend
+    const backendBaseUrl = "https://perfectcarfinder.onrender.com";
 
-    const userQuery = document.getElementById("user_query").value;
-    const fileId = document.getElementById("file_id").value;
+    // Handle File Selection
+    document.getElementById("fileForm").addEventListener("submit", function(event) {
+        event.preventDefault(); // Prevent default form submission
 
-    const backendUrl = "https://perfectcarfinder.onrender.com/search";
+        const fileId = document.getElementById("file_id").value;
+        const fileUrl = `${backendBaseUrl}/select_csv`;
 
-    // Create a JSON object
-    const data = {
-        user_query: userQuery,
-        file_id: fileId
-    };
-
-    // Make the POST request to your backend
-    fetch(backendUrl, {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json"  // Send as JSON
-        },
-        body: JSON.stringify(data)  // Stringify the data
-    })
-    .then(response => response.json())
-    .then(data => {
-        if (data.result) {
-            document.getElementById("searchResults").innerHTML = `<pre>${data.result}</pre>`;
-        } else {
-            document.getElementById("searchResults").innerHTML = `<p>No results found.</p>`;
-        }
-    })
-    .catch(error => {
-        document.getElementById("searchResults").innerHTML = `<p>Error: ${error.message}</p>`;
+        // Send the file ID to the backend
+        fetch(fileUrl, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ file_id: fileId }) // Send file ID as JSON
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                document.getElementById("fileSelectionStatus").innerHTML = `<p>File selected successfully: ${fileId}</p>`;
+                document.getElementById("searchButton").disabled = false; // Enable the search button
+            } else {
+                document.getElementById("fileSelectionStatus").innerHTML = `<p>Error: ${data.error}</p>`;
+            }
+        })
+        .catch(error => {
+            document.getElementById("fileSelectionStatus").innerHTML = `<p>Error: ${error.message}</p>`;
+        });
     });
-});
+
+    // Handle User Query Submission
+    document.getElementById("searchForm").addEventListener("submit", function(event) {
+        event.preventDefault(); // Prevent default form submission
+
+        const userQuery = document.getElementById("user_query").value;
+        const searchUrl = `${backendBaseUrl}/search`;
+
+        // Send the user query to the backend
+        fetch(searchUrl, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ user_query: userQuery }) // Send user query as JSON
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.result) {
+                document.getElementById("searchResults").innerHTML = `<pre>${data.result}</pre>`;
+            } else {
+                document.getElementById("searchResults").innerHTML = `<p>No results found.</p>`;
+            }
+        })
+        .catch(error => {
+            document.getElementById("searchResults").innerHTML = `<p>Error: ${error.message}</p>`;
+        });
+    });
 </script>
 
 </body>
