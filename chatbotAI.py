@@ -40,3 +40,5 @@ if __name__ == "__main__":
     test_response = chatbot.get_chatgpt_response(csv_filepath="Organized_Car_Data/Chevrolet/Coupe.csv", user_query=query)
     print(test_response)
 
+print(chatbot.get_chatgpt_response("Organized_Car_Data/Acura/Coupe.csv", "Acura"))
+
