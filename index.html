@@ -135,7 +135,68 @@
 <p>Stay tuned for updates as we continue to improve the AI experience.</p>
 
 
+<h2>Select Car Make</h2>
+<p>Choose a car make from the list below:</p>
+<form id="makeForm" action="javascript:void(0);" method="POST">
+    <select id="carMake" name="carMake" required>
+        <option value="" disabled selected>Select a Make</option>
+        <!-- Options will be populated dynamically -->
+    </select>
+    <button type="submit">Filter by Make</button>
+</form>
+<div id="makeSelectionStatus"></div>
+<script>
+    // Fetch car makes from the backend
+    const makesUrl = `${backendBaseUrl}/get_makes`;
 
+    fetch(makesUrl)
+        .then(response => response.json())
+        .then(data => {
+            const makeDropdown = document.getElementById("carMake");
+            if (data.success) {
+                data.makes.forEach(make => {
+                    const option = document.createElement("option");
+                    option.value = make;
+                    option.textContent = make;
+                    makeDropdown.appendChild(option);
+                });
+            } else {
+                console.error(data.error);
+            }
+        })
+        .catch(error => {
+            console.error("Error fetching makes:", error);
+        });
+
+    // Handle Make Selection
+    document.getElementById("makeForm").addEventListener("submit", function(event) {
+        event.preventDefault(); // Prevent default form submission
+
+        const selectedMake = document.getElementById("carMake").value;
+        const makeUrl = `${backendBaseUrl}/filter_by_make`;
+
+        // Send the selected make to the backend
+        fetch(makeUrl, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ make: selectedMake }),
+            credentials: "include"
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                document.getElementById("makeSelectionStatus").innerHTML = `<p>Make selected successfully: ${selectedMake}</p>`;
+            } else {
+                document.getElementById("makeSelectionStatus").innerHTML = `<p>Error: ${data.error}</p>`;
+            }
+        })
+        .catch(error => {
+            console.error("Error selecting make:", error);
+        });
+    });
+</script>
     
 
 <!-- New Section for Selecting the File -->
