@@ -145,11 +145,34 @@
     <button type="submit">Filter by Make</button>
 </form>
 <div id="makeSelectionStatus"></div>
-<script>
-    // Fetch car makes from the backend
-    const makesUrl = `${backendBaseUrl}/get_makes`;
 
-    fetch(makesUrl)
+<!-- Sections hidden initially -->
+<div id="questionSections" style="display: none;">
+    <div class="section-divider"></div>
+    <h2>Select a Car Database File</h2>
+    <form id="fileForm" action="javascript:void(0);" method="POST">
+        <label for="file_id">File ID:</label>
+        <input type="text" id="file_id" name="file_id" placeholder="e.g., ChevroletCoupe" required>
+        <button type="submit">Select File</button>
+    </form>
+    <div id="fileSelectionStatus"></div>
+
+    <div class="section-divider"></div>
+    <h2>Search the Car Database</h2>
+    <form id="searchForm" action="javascript:void(0);" method="POST">
+        <label for="user_query">Search Query:</label>
+        <input type="text" id="user_query" name="user_query" placeholder="Enter your car search query" required>
+        <button type="submit" disabled id="searchButton">Search</button>
+    </form>
+    <div id="searchResults"></div>
+</div>
+
+<script>
+    const backendBaseUrl = "https://perfectcarfinder.onrender.com";
+    const questionSections = document.getElementById("questionSections");
+
+    // Fetch car makes from the backend
+    fetch(`${backendBaseUrl}/get_makes`)
         .then(response => response.json())
         .then(data => {
             const makeDropdown = document.getElementById("carMake");
@@ -160,97 +183,45 @@
                     option.textContent = make;
                     makeDropdown.appendChild(option);
                 });
-            } else {
-                console.error(data.error);
             }
         })
-        .catch(error => {
-            console.error("Error fetching makes:", error);
-        });
+        .catch(error => console.error("Error fetching makes:", error));
 
     // Handle Make Selection
     document.getElementById("makeForm").addEventListener("submit", function(event) {
-        event.preventDefault(); // Prevent default form submission
-
+        event.preventDefault();
         const selectedMake = document.getElementById("carMake").value;
-        const makeUrl = `${backendBaseUrl}/filter_by_make`;
-
-        // Send the selected make to the backend
-        fetch(makeUrl, {
+        fetch(`${backendBaseUrl}/filter_by_make`, {
             method: "POST",
-            headers: {
-                "Content-Type": "application/json"
-            },
+            headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ make: selectedMake }),
             credentials: "include"
         })
         .then(response => response.json())
         .then(data => {
             if (data.success) {
-                document.getElementById("makeSelectionStatus").innerHTML = `<p>Make selected successfully: ${selectedMake}</p>`;
-            } else {
-                document.getElementById("makeSelectionStatus").innerHTML = `<p>Error: ${data.error}</p>`;
+                document.getElementById("makeSelectionStatus").innerHTML = `<p>Make selected: ${selectedMake}</p>`;
+                questionSections.style.display = "block"; // Show hidden sections
             }
         })
-        .catch(error => {
-            console.error("Error selecting make:", error);
-        });
+        .catch(error => console.error("Error selecting make:", error));
     });
-</script>
-    
-
-<!-- New Section for Selecting the File -->
-<div class="section-divider"></div>
-<h2>Select a Car Database File</h2>
-<p>Select a file to search:</p>
-
-<form id="fileForm" action="javascript:void(0);" method="POST">
-    <label for="file_id">File ID:</label>
-    <input type="text" id="file_id" name="file_id" placeholder="e.g., ChevroletCoupe" required>
-    <button type="submit">Select File</button>
-</form>
-
-<div id="fileSelectionStatus"></div>
-
-<!-- New Section for Search Form -->
-<div class="section-divider"></div>
-<h2>Search the Car Database</h2>
-<p>Provide your search query:</p>
-
-<form id="searchForm" action="javascript:void(0);" method="POST">
-    <label for="user_query">Search Query:</label>
-    <input type="text" id="user_query" name="user_query" placeholder="Enter your car search query" required>
-    <button type="submit" disabled id="searchButton">Search</button>
-</form>
-
-<!-- Result Area -->
-<div id="searchResults"></div>
-
-<script>
-    // URL to the backend
-    const backendBaseUrl = "https://perfectcarfinder.onrender.com";
 
     // Handle File Selection
     document.getElementById("fileForm").addEventListener("submit", function(event) {
-        event.preventDefault(); // Prevent default form submission
-
+        event.preventDefault();
         const fileId = document.getElementById("file_id").value;
-        const fileUrl = `${backendBaseUrl}/select_csv`;
-
-        // Send the file ID to the backend
-        fetch(fileUrl, {
+        fetch(`${backendBaseUrl}/select_csv`, {
             method: "POST",
-            headers: {
-                "Content-Type": "application/json"
-            },
+            headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ file_id: fileId }),
             credentials: "include"
         })
         .then(response => response.json())
         .then(data => {
             if (data.success) {
-                document.getElementById("fileSelectionStatus").innerHTML = `<p>File selected successfully: ${fileId}</p>`;
-                document.getElementById("searchButton").disabled = false; // Enable the search button
+                document.getElementById("fileSelectionStatus").innerHTML = `<p>File selected: ${fileId}</p>`;
+                document.getElementById("searchButton").disabled = false; // Enable search
             } else {
                 document.getElementById("fileSelectionStatus").innerHTML = `<p>Error: ${data.error}</p>`;
             }
@@ -262,17 +233,11 @@
 
     // Handle User Query Submission
     document.getElementById("searchForm").addEventListener("submit", function(event) {
-        event.preventDefault(); // Prevent default form submission
-
+        event.preventDefault();
         const userQuery = document.getElementById("user_query").value;
-        const searchUrl = `${backendBaseUrl}/search`;
-
-        // Send the user query to the backend
-        fetch(searchUrl, {
+        fetch(`${backendBaseUrl}/search`, {
             method: "POST",
-            headers: {
-                "Content-Type": "application/json"
-            },
+            headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ user_query: userQuery }),
             credentials: "include"
         })
@@ -289,6 +254,7 @@
         });
     });
 </script>
+
 
 </body>
 </html>
