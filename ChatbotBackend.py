@@ -4,6 +4,7 @@ import pandas as pd
 from openai import OpenAI
 import os
 import secrets
+from currentCode import currentCode
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -345,3 +346,4 @@ def filter_by_make():
 # Run the Flask app
 if __name__ == "__main__":
     app.run(debug=True)
+    currentCode.CarSelector()
