@@ -308,6 +308,40 @@ def search_csv():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+@app.route("/get_makes", methods=["GET"])
+def get_makes():
+    """
+    Endpoint to get a list of car makes.
+    """
+    try:
+        makes = list(set(key.split("/")[1] for key in AVAILABLE_CSV_FILES.values()))
+        return jsonify({"success": True, "makes": sorted(makes)})
+    except Exception as e:
+        return jsonify({"success": False, "error": str(e)}), 500
+
+@app.route("/filter_by_make", methods=["POST"])
+def filter_by_make():
+    """
+    Endpoint to filter files by car make.
+    """
+    try:
+        data = request.get_json()
+        make = data.get("make")
+
+        if not make:
+            return jsonify({"success": False, "error": "Make is required"}), 400
+
+        # Filter files by make
+        filtered_files = {
+            key: value for key, value in AVAILABLE_CSV_FILES.items() if make in value
+        }
+        session["filtered_files"] = filtered_files
+
+        return jsonify({"success": True, "message": f"Filtered by make '{make}' successfully!"})
+    except Exception as e:
+        return jsonify({"success": False, "error": str(e)}), 500
+
+
 # Run the Flask app
 if __name__ == "__main__":
     app.run(debug=True)
