@@ -153,7 +153,7 @@
             <option value="" disabled selected>Select a Body Type</option>
             <!-- Options will be populated dynamically -->
         </select>
-        <button type="submit">Submit</button>
+        <button type="submit">Filter by Body Type</button>
     </form>
     <div id="bodyTypeSelectionStatus"></div>
 </div>
@@ -241,6 +241,7 @@
         event.preventDefault();
         const selectedMake = document.getElementById("carMake").value;
         const selectedBodyType = document.getElementById("bodyType").value;
+
         fetch(`${backendBaseUrl}/select_csv`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
@@ -249,6 +250,7 @@
         })
         .then(response => response.json())
         .then(data => {
+            console.log(data); // Log the response to check its structure
             if (data.success) {
                 document.getElementById("bodyTypeSelectionStatus").innerHTML = `<p>Body Type selected: ${selectedBodyType}</p>`;
                 querySection.style.display = "block"; // Show Query Section
@@ -256,7 +258,10 @@
                 document.getElementById("bodyTypeSelectionStatus").innerHTML = `<p>Error: ${data.error}</p>`;
             }
         })
-        .catch(error => console.error("Error submitting body type:", error));
+        .catch(error => {
+            console.error("Error submitting body type:", error);
+            document.getElementById("bodyTypeSelectionStatus").innerHTML = `<p>Error: ${error.message}</p>`;
+        });
     });
 
     // Handle User Query Submission

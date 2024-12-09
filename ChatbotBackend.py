@@ -227,14 +227,16 @@ AVAILABLE_CSV_FILES = {
 
 @app.route('/select_csv', methods=['POST'])
 def select_csv():
+    """
+    Endpoint to set the selected CSV file in the user session.
+    """
     try:
-        # Parse the request JSON
         data = request.get_json()
         make = data.get("make")
         body_type = data.get("body_type")
 
         if not make or not body_type:
-            return jsonify({"error": "Make and body type are required"}), 400
+            return jsonify({"success": False, "error": "Make and body type are required"}), 400
 
         # Create the key for the dictionary lookup
         key = f"{make}{body_type}"
@@ -242,12 +244,13 @@ def select_csv():
         # Check if the key exists in the dictionary
         if key in AVAILABLE_CSV_FILES:
             csv_path = AVAILABLE_CSV_FILES[key]
-            return jsonify({"csv_path": csv_path})
+            session["selected_file"] = key
+            return jsonify({"success": True, "csv_path": csv_path}), 200
         else:
-            return jsonify({"error": "CSV file not found for the provided make and body type"}), 404
+            return jsonify({"success": False, "error": "CSV file not found for the provided make and body type"}), 404
 
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return jsonify({"success": False, "error": str(e)}), 500
 
 @app.route("/search", methods=["POST"])
 def search_csv():
