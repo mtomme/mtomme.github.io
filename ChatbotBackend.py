@@ -359,7 +359,7 @@ def get_body_types_by_make():
     make = request.args.get('make')
 
     if not make:
-        return jsonify({"error": "Make is required"}), 400
+        return jsonify({"success": False, "error": "Make is required"}), 400
 
     # Extract body types for the specified make
     body_types = [
@@ -369,9 +369,10 @@ def get_body_types_by_make():
     ]
 
     if not body_types:
-        return jsonify({"error": f"No body types found for make: {make}"}), 404
+        return jsonify({"success": False, "error": f"No body types found for make: {make}"}), 404
 
-    return jsonify({"make": make, "body_types": body_types}), 200
+    return jsonify({"success": True, "body_types": body_types}), 200
+
 
 # Run the Flask app
 if __name__ == "__main__":

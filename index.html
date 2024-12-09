@@ -214,23 +214,23 @@
 
     // Fetch and populate body types
     function populateBodyTypes(make) {
-        fetch(`${backendBaseUrl}/get_body_types`, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ make: make }),
+        fetch(`${backendBaseUrl}/get_body_types?make=${encodeURIComponent(make)}`, {
+            method: "GET",
             credentials: "include"
         })
         .then(response => response.json())
         .then(data => {
             const bodyTypeDropdown = document.getElementById("bodyType");
             bodyTypeDropdown.innerHTML = `<option value="" disabled selected>Select a Body Type</option>`; // Reset dropdown
-            if (data.success) {
+            if (data.body_types) {
                 data.body_types.forEach(type => {
                     const option = document.createElement("option");
                     option.value = type;
                     option.textContent = type;
                     bodyTypeDropdown.appendChild(option);
                 });
+            } else {
+                console.error("Error fetching body types:", data.error);
             }
         })
         .catch(error => console.error("Error fetching body types:", error));
