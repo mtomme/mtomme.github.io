@@ -207,6 +207,25 @@
         .catch(error => console.error("Error selecting make:", error));
     });
 
+
+
+<div id="questionSections" style="display: none;">
+    <div id="dynamicQuestions" style="display: none;">
+        <h2>Explore Your Perfect Car!</h2>
+        <p id="promptText"></p>
+        <form id="dynamicForm" action="javascript:void(0);">
+            <div id="inputSection"></div>
+            <button type="submit">Next</button>
+        </form>
+        <div id="confirmationSection" style="display: none;">
+            <p id="confirmationText"></p>
+            <button id="confirmButton">Confirm</button>
+        </div>
+    </div>
+</div>
+    
+
+
     // Handle File Selection
     document.getElementById("fileForm").addEventListener("submit", function(event) {
         event.preventDefault();
