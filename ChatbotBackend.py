@@ -287,7 +287,18 @@ def search_csv():
         {csv}
 
         User Query: {user_query}
-        Based on the above data, provide the most relevant rows or answers.
+        Based on the above data, provide the most relevant rows or answers in the following format:
+        - Model Name: [Model Name]
+        - Trim Year: [Trim Year]
+        - Trim Name: [Trim Name]
+        - Trim MSRP: [Trim MSRP]
+        - Engine Type: [Engine Type]
+        - Engine Cylinders: [Engine Cylinders]
+        - Mileage Combined Mpg: [Mileage Combined Mpg]
+        - Body Doors: [Body Doors]
+        - Body Seats: [Body Seats]
+        
+        Please avoid using any Markdown formatting like bold or italics.
         """
 
         # Get response from ChatGPT
