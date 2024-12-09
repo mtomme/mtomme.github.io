@@ -225,30 +225,29 @@ AVAILABLE_CSV_FILES = {
     "VolvoWagon": "Organized_Car_Data/Volvo/Wagon.csv"
 }
 
-@app.route("/select_csv", methods=["POST"])
+@app.route('/select_csv', methods=['POST'])
 def select_csv():
-    """
-    Endpoint to set the selected CSV file in the user session.
-    """
     try:
+        # Parse the request JSON
         data = request.get_json()
-        file_id = data.get("file_id")
+        make = data.get("make")
+        body_type = data.get("body_type")
 
-        if not file_id:
-            return jsonify({"success": False, "error": "File identifier is required"}), 400
+        if not make or not body_type:
+            return jsonify({"error": "Make and body type are required"}), 400
 
-        # Check if the selected file exists in the available files
-        file_path = AVAILABLE_CSV_FILES.get(file_id)
-        if not file_path:
-            return jsonify({"success": False, "error": "Invalid file identifier or file not found"}), 404
+        # Create the key for the dictionary lookup
+        key = f"{make}{body_type}"
 
-        # Save the selected file in the session
-        session["selected_file"] = file_id
-        print(f"Session Data: {session}")
-        return jsonify({"success": True, "message": f"File '{file_id}' selected successfully!"})
+        # Check if the key exists in the dictionary
+        if key in AVAILABLE_CSV_FILES:
+            csv_path = AVAILABLE_CSV_FILES[key]
+            return jsonify({"csv_path": csv_path})
+        else:
+            return jsonify({"error": "CSV file not found for the provided make and body type"}), 404
 
     except Exception as e:
-        return jsonify({"success": False, "error": str(e)}), 500
+        return jsonify({"error": str(e)}), 500
 
 @app.route("/search", methods=["POST"])
 def search_csv():
@@ -352,6 +351,27 @@ def filter_by_make():
     except Exception as e:
         return jsonify({"success": False, "error": str(e)}), 500
 
+@app.route('/get_body_types', methods=['GET'])
+def get_body_types_by_make():
+    """
+    Retrieve a list of body types for a given car make.
+    """
+    make = request.args.get('make')
+
+    if not make:
+        return jsonify({"error": "Make is required"}), 400
+
+    # Extract body types for the specified make
+    body_types = [
+        key.replace(make, "").strip()  # Extract the body type from the dictionary key
+        for key in AVAILABLE_CSV_FILES.keys()
+        if key.startswith(make)
+    ]
+
+    if not body_types:
+        return jsonify({"error": f"No body types found for make: {make}"}), 404
+
+    return jsonify({"make": make, "body_types": body_types}), 200
 
 # Run the Flask app
 if __name__ == "__main__":

@@ -134,7 +134,6 @@
 <h2>Powered by CarAPI & AI</h2>
 <p>Stay tuned for updates as we continue to improve the AI experience.</p>
 
-
 <h2>Select Car Make</h2>
 <p>Choose a car make from the list below:</p>
 <form id="makeForm" action="javascript:void(0);" method="POST">
@@ -146,170 +145,141 @@
 </form>
 <div id="makeSelectionStatus"></div>
 
-<!-- Sections hidden initially -->
-<div id="questionSections" style="display: none;">
-    <h2>Explore Your Perfect Car!</h2>
-    <p id="promptText"></p>
-    <form id="dynamicForm" action="javascript:void(0);">
-        <div id="inputSection"></div>
-        <button type="submit">Next</button>
+<!-- Body Type Dropdown -->
+<div id="bodyTypeSection" style="display: none;">
+    <h2>Select Body Type</h2>
+    <form id="bodyTypeForm" action="javascript:void(0);" method="POST">
+        <select id="bodyType" name="bodyType" required>
+            <option value="" disabled selected>Select a Body Type</option>
+            <!-- Options will be populated dynamically -->
+        </select>
+        <button type="submit">Submit</button>
     </form>
-    <div id="confirmationSection" style="display: none;">
-        <p id="confirmationText"></p>
-        <button id="confirmButton">Confirm</button>
-    </div>
-    <div class="section-divider"></div>
-    <h2>Select a Car Database File</h2>
-    <form id="fileForm" action="javascript:void(0);" method="POST">
-        <label for="file_id">File ID:</label>
-        <input type="text" id="file_id" name="file_id" placeholder="e.g., ChevroletCoupe" required>
-        <button type="submit">Select File</button>
-    </form>
-    <div id="fileSelectionStatus"></div>
+    <div id="bodyTypeSelectionStatus"></div>
+</div>
 
+<!-- Search Form -->
+<div id="querySection" style="display: none;">
     <div class="section-divider"></div>
     <h2>Search the Car Database</h2>
     <form id="searchForm" action="javascript:void(0);" method="POST">
         <label for="user_query">Search Query:</label>
         <input type="text" id="user_query" name="user_query" placeholder="Enter your car search query" required>
-        <button type="submit" disabled id="searchButton">Search</button>
+        <button type="submit">Search</button>
     </form>
     <div id="searchResults"></div>
 </div>
 
 <script>
     const backendBaseUrl = "https://perfectcarfinder.onrender.com";
-    const questionSections = document.getElementById("questionSections");
-    const dynamicQuestions = document.getElementById("dynamicQuestions");
-    const promptText = document.getElementById("promptText");
-    const inputSection = document.getElementById("inputSection");
-    const confirmationSection = document.getElementById("confirmationSection");
-    const confirmationText = document.getElementById("confirmationText");
+    const bodyTypeSection = document.getElementById("bodyTypeSection");
+    const querySection = document.getElementById("querySection");
 
-    // Start the question flow after make selection
-    function startDynamicFlow(make) {
-        fetch(`${backendBaseUrl}/get_make_files`, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ make })
-        })
+    // Fetch car makes from the backend
+    fetch(`${backendBaseUrl}/get_makes`)
         .then(response => response.json())
         .then(data => {
+            const makeDropdown = document.getElementById("carMake");
             if (data.success) {
-                startQuestions(make, data.files);
-            } else {
-                console.error("Error fetching files for make:", data.error);
+                data.makes.forEach(make => {
+                    const option = document.createElement("option");
+                    option.value = make;
+                    option.textContent = make;
+                    makeDropdown.appendChild(option);
+                });
             }
-        });
-    }
-
-    // Begin the dynamic question flow
-    function startQuestions(make, files) {
-        dynamicQuestions.style.display = "block";
-        askModelType(make, files);
-    }
-
-    // Extract model types dynamically from available files
-    function askModelType(make, files) {
-        const modelTypes = Array.from(new Set(Object.keys(files).map(key => key.replace(make, "").replace(/([A-Z])/g, " $1").trim())));
-        promptText.textContent = `Great choice! ${make} offers these exciting options:`;
-        inputSection.innerHTML = `
-            <select id="modelType" required>
-                <option value="" disabled selected>Choose a model type</option>
-                ${modelTypes.map(type => `<option value="${type}">${type}</option>`).join("")}
-            </select>`;
-
-        document.getElementById("dynamicForm").onsubmit = function () {
-            const modelType = document.getElementById("modelType").value;
-            fetchModels(make, modelType, files);
-        };
-    }
-
-    // Fetch specific trims for the selected model type
-    function fetchModels(make, modelType, files) {
-        const fileKey = `${make}${modelType.replace(/ /g, "")}`;
-        const filePath = files[fileKey];
-
-        if (!filePath) {
-            promptText.textContent = "Oops! We couldn't find data for this model type. Please try another.";
-            return;
-        }
-
-        fetch(`${backendBaseUrl}/get_trims`, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ filePath })
         })
-        .then(response => response.json())
-        .then(data => {
-            if (data.success) {
-                const trims = data.trims;
-                promptText.textContent = `Here are some popular trims for ${modelType} by ${make}. Pick your favorite!`;
-                inputSection.innerHTML = `
-                    <select id="specificTrim" required>
-                        <option value="" disabled selected>Choose a trim</option>
-                        ${trims.map(trim => `<option value="${trim}">${trim}</option>`).join("")}
-                    </select>`;
+        .catch(error => console.error("Error fetching makes:", error));
 
-                document.getElementById("dynamicForm").onsubmit = function () {
-                    const specificTrim = document.getElementById("specificTrim").value;
-                    askYearAndConfirm(make, modelType, specificTrim);
-                };
-            } else {
-                promptText.textContent = "Oops! We couldn't fetch trims right now. Try again later.";
-            }
-        });
-    }
-
-    // Ask for year and confirm details
-    function askYearAndConfirm(make, modelType, specificTrim) {
-        promptText.textContent = `You're almost there! Tell us the year for your ${specificTrim} ${modelType} by ${make}:`;
-        inputSection.innerHTML = `
-            <label for="year">Year:</label>
-            <input type="number" id="year" placeholder="e.g., 2022" required>`;
-
-        document.getElementById("dynamicForm").onsubmit = function () {
-            const year = document.getElementById("year").value;
-            confirmSelection(make, modelType, specificTrim, year);
-        };
-    }
-
-    // Confirm the selection
-    function confirmSelection(make, modelType, specificTrim, year) {
-        promptText.textContent = "Confirm your choice below:";
-        inputSection.style.display = "none";
-        confirmationSection.style.display = "block";
-        confirmationText.textContent = `You selected the ${year} ${make} ${modelType} with the ${specificTrim} trim. Is that correct?`;
-
-        document.getElementById("confirmButton").onclick = function () {
-            submitSelection(make, modelType, specificTrim, year);
-        };
-    }
-
-    // Submit the selection to the backend
-    function submitSelection(make, modelType, specificTrim, year) {
-        fetch(`${backendBaseUrl}/submit_selection`, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ make, modelType, specificTrim, year })
-        })
-        .then(response => response.json())
-        .then(data => {
-            if (data.success) {
-                alert("Your selection has been saved! Enjoy your new car journey!");
-                dynamicQuestions.style.display = "none";
-            } else {
-                alert("Something went wrong. Please try again.");
-            }
-        });
-    }
-
-    // Start flow after make selection
-    document.getElementById("makeForm").addEventListener("submit", function (event) {
+    // Handle Make Selection
+    document.getElementById("makeForm").addEventListener("submit", function(event) {
         event.preventDefault();
-        const make = document.getElementById("carMake").value;
-        questionSections.style.display = "block";
-        startDynamicFlow(make);
+        const selectedMake = document.getElementById("carMake").value;
+        fetch(`${backendBaseUrl}/filter_by_make`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ make: selectedMake }),
+            credentials: "include"
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                document.getElementById("makeSelectionStatus").innerHTML = `<p>Make selected: ${selectedMake}</p>`;
+                bodyTypeSection.style.display = "block"; // Show Body Type Section
+                populateBodyTypes(selectedMake);
+            }
+        })
+        .catch(error => console.error("Error selecting make:", error));
+    });
+
+    // Fetch and populate body types
+    function populateBodyTypes(make) {
+        fetch(`${backendBaseUrl}/get_body_types`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ make: make }),
+            credentials: "include"
+        })
+        .then(response => response.json())
+        .then(data => {
+            const bodyTypeDropdown = document.getElementById("bodyType");
+            bodyTypeDropdown.innerHTML = `<option value="" disabled selected>Select a Body Type</option>`; // Reset dropdown
+            if (data.success) {
+                data.body_types.forEach(type => {
+                    const option = document.createElement("option");
+                    option.value = type;
+                    option.textContent = type;
+                    bodyTypeDropdown.appendChild(option);
+                });
+            }
+        })
+        .catch(error => console.error("Error fetching body types:", error));
+    }
+
+    // Handle Body Type Submission
+    document.getElementById("bodyTypeForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+        const selectedMake = document.getElementById("carMake").value;
+        const selectedBodyType = document.getElementById("bodyType").value;
+        fetch(`${backendBaseUrl}/select_csv`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ make: selectedMake, body_type: selectedBodyType }),
+            credentials: "include"
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                document.getElementById("bodyTypeSelectionStatus").innerHTML = `<p>Body Type selected: ${selectedBodyType}</p>`;
+                querySection.style.display = "block"; // Show Query Section
+            } else {
+                document.getElementById("bodyTypeSelectionStatus").innerHTML = `<p>Error: ${data.error}</p>`;
+            }
+        })
+        .catch(error => console.error("Error submitting body type:", error));
+    });
+
+    // Handle User Query Submission
+    document.getElementById("searchForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+        const userQuery = document.getElementById("user_query").value;
+        fetch(`${backendBaseUrl}/search`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ user_query: userQuery }),
+            credentials: "include"
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.result) {
+                document.getElementById("searchResults").innerHTML = `<pre>${data.result}</pre>`;
+            } else {
+                document.getElementById("searchResults").innerHTML = `<p>No results found.</p>`;
+            }
+        })
+        .catch(error => {
+            document.getElementById("searchResults").innerHTML = `<p>Error: ${error.message}</p>`;
+        });
     });
 </script>
 
