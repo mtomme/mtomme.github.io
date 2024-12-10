@@ -245,6 +245,8 @@ def select_csv():
         if key in AVAILABLE_CSV_FILES:
             csv_path = AVAILABLE_CSV_FILES[key]
             session["selected_file"] = key
+            # Clear session history
+            session["message_history"] = []
             return jsonify({"success": True, "csv_path": csv_path}), 200
         else:
             return jsonify({"success": False, "error": "CSV file not found for the provided make and body type"}), 404
