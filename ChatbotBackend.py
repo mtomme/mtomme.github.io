@@ -252,22 +252,30 @@ def select_csv():
     except Exception as e:
         return jsonify({"success": False, "error": str(e)}), 500
 
-@app.route("/search", methods=["POST"])
-def search_csv():
+
+@app.route("/chatbot", methods=["POST"])
+def chatbot():
     """
-    Endpoint to process a user query and search the selected CSV file.
+    Endpoint to handle the chatbot interaction, keeping message history.
     """
-    print("Search endpoint hit")
     try:
         # Get the user query from the JSON body
         data = request.get_json()
-        user_query = data.get("user_query")
+        user_query = data.get("query")
 
         if not user_query:
-            return jsonify({"error": "User query is required"}), 400
+            return jsonify({"error": "Query is required"}), 400
+
+        # Initialize message history if it doesn't exist
+        if "message_history" not in session:
+            session["message_history"] = [
+                {"role": "system", "content": "You are an assistant that helps search through a car database."}
+            ]
+
+        # Append the user's query to the message history
+        session["message_history"].append({"role": "user", "content": user_query})
 
         # Get the selected file from the session
-        print(f"Session Data: {session}")
         file_id = session.get("selected_file")
         if not file_id:
             return jsonify({"error": "No file selected. Please select a file first."}), 400
@@ -282,41 +290,60 @@ def search_csv():
         pd.set_option('display.max_columns', None)
         csv = pd.read_csv(file_path, encoding='utf-8')
 
-        # Construct the OpenAI prompt
+        # Construct the OpenAI prompt based on the CSV data and user query
         prompt = f"""
-        You are an assistant that helps search through a car database.
-        Here is the database:
-        {csv}
+            You are an assistant that helps users search through a car database in a friendly and conversational way. 
 
-        User Query: {user_query}
-        Based on the above data, provide the most relevant rows or answers in the following format:
-        - Model Name: [Model Name]
-        - Trim Year: [Trim Year]
-        - Trim Name: [Trim Name]
-        - Trim MSRP: [Trim MSRP]
-        - Engine Type: [Engine Type]
-        - Engine Cylinders: [Engine Cylinders]
-        - Mileage Combined Mpg: [Mileage Combined Mpg]
-        - Body Doors: [Body Doors]
-        - Body Seats: [Body Seats]
-        
-        Please avoid using any Markdown formatting like bold or italics.
+            Here is the car database (only relevant rows to the user's query will be used):
+
+            {csv}
+
+            User Query: {user_query}
+
+            Your job is to:
+            1. Provide a friendly greeting and acknowledge the user's query.
+            2. Explain the search results in an easy-to-understand way, avoiding jargon.
+            3. If the search results are broad or not specific enough, suggest ways the user could refine their query.
+            4. Always be polite, helpful, and encourage further interaction. 
+
+            Example of a friendly, helpful response format:
+            - "Hi there! Here's what I found based on your query: [Results]"
+            - "Based on what you're looking for, I found these options for you:"
+            - If there are multiple results: "I found a few options for you, let me know if you need more details on any of them!"
+            - If the results are not specific: "It looks like your search is a bit broad. You could try adding more details, like the model year or specific features you're looking for."
+
+            When showing the search results, display them in the following format:
+            - Model Name: [Model Name]
+            - Trim Year: [Trim Year]
+            - Trim Name: [Trim Name]
+            - Trim MSRP: [Trim MSRP]
+            - Engine Type: [Engine Type]
+            - Engine Cylinders: [Engine Cylinders]
+            - Mileage Combined Mpg: [Mileage Combined Mpg]
+            - Body Doors: [Body Doors]
+            - Body Seats: [Body Seats]
+
+            Please avoid using Markdown formatting like bold or italics.
         """
 
-        # Get response from ChatGPT
+        # Add the prompt to the message history
+        session["message_history"].append({"role": "system", "content": prompt})
+
+        # Get response from ChatGPT using the message history
         response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": "You are an assistant that searches a CSV of cars."},
-                {"role": "user", "content": prompt}
-            ]
+            model="gpt-4",
+            messages=session["message_history"]
         )
 
-        # Extract response content
+        # Extract the response content
         result = response.choices[0].message.content
         print(result)
 
-        return jsonify({"result": result})
+        # Append the assistant's response to the message history
+        session["message_history"].append({"role": "assistant", "content": result})
+
+        # Return the response
+        return jsonify({"response": result})
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500

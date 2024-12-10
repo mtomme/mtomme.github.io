@@ -158,22 +158,25 @@
     <div id="bodyTypeSelectionStatus"></div>
 </div>
 
-<!-- Search Form -->
-<div id="querySection" style="display: none;">
-    <div class="section-divider"></div>
-    <h2>Search the Car Database</h2>
-    <form id="searchForm" action="javascript:void(0);" method="POST">
-        <label for="user_query">Search Query:</label>
-        <input type="text" id="user_query" name="user_query" placeholder="Enter your car search query" required>
-        <button type="submit">Search</button>
-    </form>
-    <div id="searchResults"></div>
+<!-- Chatbot Section -->
+<div id="chatbotSection">
+    <h2>Chat with the Assistant</h2>
+    <div id="chatBox" style="border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: auto;">
+        <div id="chatMessages">
+            <!-- Messages will be added here -->
+        </div>
+    </div>
+    <input type="text" id="userInput" placeholder="Type your car search query..." style="width: 100%;" />
+    <button id="sendButton">Send</button>
 </div>
 
 <script>
     const backendBaseUrl = "https://perfectcarfinder.onrender.com";
     const bodyTypeSection = document.getElementById("bodyTypeSection");
-    const querySection = document.getElementById("querySection");
+    const chatbotSection = document.getElementById("chatbotSection");
+    const chatMessages = document.getElementById("chatMessages");
+    const userInput = document.getElementById("userInput");
+    const sendButton = document.getElementById("sendButton");
 
     // Fetch car makes from the backend
     fetch(`${backendBaseUrl}/get_makes`)
@@ -264,27 +267,64 @@
         });
     });
 
-    // Handle User Query Submission
-    document.getElementById("searchForm").addEventListener("submit", function(event) {
-        event.preventDefault();
-        const userQuery = document.getElementById("user_query").value;
-        fetch(`${backendBaseUrl}/search`, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ user_query: userQuery }),
-            credentials: "include"
-        })
-        .then(response => response.json())
-        .then(data => {
-            if (data.result) {
-                document.getElementById("searchResults").innerHTML = `<pre>${data.result}</pre>`;
-            } else {
-                document.getElementById("searchResults").innerHTML = `<p>No results found.</p>`;
-            }
-        })
-        .catch(error => {
-            document.getElementById("searchResults").innerHTML = `<p>Error: ${error.message}</p>`;
-        });
+// Display initial message from the chatbot
+    function displayMessage(message, isUser) {
+        const messageElement = document.createElement("div");
+        messageElement.textContent = message;
+        if (isUser) {
+            messageElement.style.textAlign = "right";
+        }
+        chatMessages.appendChild(messageElement);
+        chatMessages.scrollTop = chatMessages.scrollHeight; // Scroll to the bottom
+    }
+
+    // Send an initial message when the page loads
+    window.onload = function() {
+        // Check if the make and body type are selected (if available)
+        const selectedMake = document.getElementById("carMake").value;
+        const selectedBodyType = document.getElementById("bodyType") ? document.getElementById("bodyType").value : '';
+
+        if (selectedMake && selectedBodyType) {
+            // If both make and body type are selected, personalize the message
+            const friendlyMessage = `You are searching for ${selectedBodyType} cars by ${selectedMake}. How can I help you further?`;
+            displayMessage(friendlyMessage, false);
+        }
+    };
+
+    // Handle sending a message
+    sendButton.addEventListener("click", function() {
+        const query = userInput.value.trim();
+        if (query) {
+            displayMessage(query, true); // Display the user's message
+            userInput.value = ""; // Clear the input
+
+            // Send the query to the backend via the OpenAI API
+            fetch(`${backendBaseUrl}/chatbot`, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ query: query }),
+                credentials: "include"
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Adjusted response handling
+                if (data.response) {
+                    displayMessage(data.response, false); // Display chatbot's response
+                } else {
+                    displayMessage("Sorry, I couldn't understand that. Please try again.", false);
+                }
+            })
+            .catch(error => {
+                displayMessage("Error: " + error.message, false);
+            });
+        }
+    });
+
+    // Allow sending messages with 'Enter' key
+    userInput.addEventListener("keypress", function(event) {
+        if (event.key === "Enter") {
+            sendButton.click();
+        }
     });
 </script>
 
