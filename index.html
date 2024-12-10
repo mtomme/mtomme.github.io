@@ -159,7 +159,7 @@
 </div>
 
 <!-- Chatbot Section -->
-<div id="chatbotSection">
+<div id="chatbotSection" style="display: none;">
     <h2>Chat with the Assistant</h2>
     <div id="chatBox" style="border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: auto;">
         <div id="chatMessages">
@@ -256,7 +256,8 @@
             console.log(data); // Log the response to check its structure
             if (data.success) {
                 document.getElementById("bodyTypeSelectionStatus").innerHTML = `<p>Body Type selected: ${selectedBodyType}</p>`;
-                querySection.style.display = "block"; // Show Query Section
+                chatbotSection.style.display = "block"; // Show Chatbot Section
+                displayMessage("Hello! How can I assist you with finding a car?", false); // Initial chat message
             } else {
                 document.getElementById("bodyTypeSelectionStatus").innerHTML = `<p>Error: ${data.error}</p>`;
             }
@@ -267,7 +268,7 @@
         });
     });
 
-// Display initial message from the chatbot
+    // Display initial message from the chatbot
     function displayMessage(message, isUser) {
         const messageElement = document.createElement("div");
         messageElement.textContent = message;
@@ -277,19 +278,6 @@
         chatMessages.appendChild(messageElement);
         chatMessages.scrollTop = chatMessages.scrollHeight; // Scroll to the bottom
     }
-
-    // Send an initial message when the page loads
-    window.onload = function() {
-        // Check if the make and body type are selected (if available)
-        const selectedMake = document.getElementById("carMake").value;
-        const selectedBodyType = document.getElementById("bodyType") ? document.getElementById("bodyType").value : '';
-
-        if (selectedMake && selectedBodyType) {
-            // If both make and body type are selected, personalize the message
-            const friendlyMessage = `You are searching for ${selectedBodyType} cars by ${selectedMake}. How can I help you further?`;
-            displayMessage(friendlyMessage, false);
-        }
-    };
 
     // Handle sending a message
     sendButton.addEventListener("click", function() {
@@ -307,7 +295,6 @@
             })
             .then(response => response.json())
             .then(data => {
-                // Adjusted response handling
                 if (data.response) {
                     displayMessage(data.response, false); // Display chatbot's response
                 } else {
