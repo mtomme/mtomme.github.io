@@ -271,7 +271,7 @@
     // Display initial message from the chatbot
     function displayMessage(message, isUser) {
         const messageElement = document.createElement("div");
-        messageElement.textContent = message;
+        messageElement.innerHTML = message;  // Use innerHTML to allow template literals to be parsed
         if (isUser) {
             messageElement.style.textAlign = "right";
         }
