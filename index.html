@@ -257,7 +257,7 @@
             if (data.success) {
                 document.getElementById("bodyTypeSelectionStatus").innerHTML = `<p>Body Type selected: ${selectedBodyType}</p>`;
                 chatbotSection.style.display = "block"; // Show Chatbot Section
-                displayMessage("Hello! You are searching for ${selectedBodyType} cars by ${selectedMake}. How can I help you further?", false); // Initial chat message
+                displayMessage(`Hello! You are searching for ${selectedBodyType} cars by ${selectedMake}. How can I help you further?`, false); // Initial chat message
             } else {
                 document.getElementById("bodyTypeSelectionStatus").innerHTML = `<p>Error: ${data.error}</p>`;
             }
