@@ -166,7 +166,7 @@
             <!-- Messages will be added here -->
         </div>
     </div>
-    <input type="text" id="userInput" placeholder="Type your car search query..." style="width: 100%; height: 75px; font-size: 24px;" />
+    <input type="text" id="userInput" placeholder="Type your car search query..." style="width: 100%; height: 50px; font-size: 18px;" />
     <button id="sendButton">Send</button>
 </div>
 
@@ -274,17 +274,21 @@
         message = message.replace(/\n/g, "<br>");
 
         const messageElement = document.createElement("div");
-        messageElement.innerHTML = message;  // Use innerHTML to allow template literals to be parsed
+        messageElement.innerHTML = message;  // Use innerHTML to allow <br> to be parsed
+
+        // Optional: Align the user's messages to the right
         if (isUser) {
             messageElement.style.textAlign = "right";
         }
+
+        // Add an extra line break for spacing (inside the message div)
+        messageElement.innerHTML += "<br>";
+
+        // Append the message element to the chat container
         chatMessages.appendChild(messageElement);
 
-        // Add an extra line break for spacing
-        const lineBreak = document.createElement("br");
-        chatMessages.appendChild(lineBreak);
-
-        chatMessages.scrollTop = chatMessages.scrollHeight; // Scroll to the bottom
+        // Scroll to the bottom of the chat box after the message is fully appended
+        chatMessages.scrollTop = chatMessages.scrollHeight;
     }
 
     // Handle sending a message
