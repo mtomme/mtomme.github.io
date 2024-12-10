@@ -325,7 +325,7 @@ def chatbot():
 
             Please avoid using Markdown formatting like bold or italics.
             
-            Please return the response in a format that can be displayed properly on a website using HTML and CSS.
+            Please return the response in a format that can be displayed properly on a website using HTML. 
         """
 
         # Add the prompt to the message history
