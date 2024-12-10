@@ -58,6 +58,9 @@
         .team-member p {
             color: #ffffff;
         }
+        .message {
+            margin-bottom: 15px;
+        }
         #quiz {
             display: none;
             margin-top: 20px;
@@ -231,8 +234,8 @@
             messageElement.style.textAlign = "right";
         }
 
-        // Add an extra line break for spacing (inside the message div)
-        messageElement.innerHTML += "<br>";
+        // Add css spacing
+        messageElement.classList.add('chat-message');
 
         // Append the message element to the chat container
         chatMessages.appendChild(messageElement);
